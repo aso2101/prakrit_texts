@@ -43,15 +43,15 @@ The abbreviations mostly follow those of the *Comprehensive and Critical Diction
 - **Vara.x.y.**: *Prākr̥taprakāśa* of Vararuci, *chapter*.*sūtra* (`//div[@type='chapter][@n='x']/ab[@n='y']`)
 
 - Śvētāmbara Jaina Āgamas (based on the files of Muni Deepratnasagar):
-    - 06. **Nāyā**: *Nāyādhammakahāō*: numbering based on format
-        - **Nāyā.x** (section numbering): *section* (`//div[@type='section'][@n='x']`)
-        - **Nāyā.1.x.y** (first *śrutaskandha*): *śrutaskanda*.*adhyayana*.*section* (`//div[@type='śrutaskandha'][@n='1']/div[@type='adhyayana'][@n='x']/div@[type='section][@n='z']`)
-        - **Nāyā.2.x.y.z** (second *śrutaskandha*): *śrutaskanda*.*varga*.*adhyayana*.*section* (`//div[@type='śrutaskandha'][@n='2']/div[@type='varga'][@n='x']/div[@type='adhyayana'][@n='y']/div[@type='section][@n='z']`)
-    - 35. **Br̥hKapp**: *Br̥hatkalpa*: numbering based on format
-        - **Br̥hKapp.x**: *section* (`//div[@type='section'][@n='x']`)
-	- **Br̥hKapp.x.y**: *chapter*.*section* (`//div[@type='uddēśa'][@n='x']/div[@type='section'][@n='y']`)
-    - 44. **Nandī.x**: *Nandīsūtra*, *section* (`//div[@type='section'][@n='x']`)
-    - 45. **AṇuŌg.x**: *Anuyōgadvārasūtra*, *section* (`//div[@type='section'][@n='x']`)
+  - 06. **Nāyā**: *Nāyādhammakahāō*: numbering based on format
+    - **Nāyā.x** (section numbering): *section* (`//div[@type='section'][@n='x']`)
+    - **Nāyā.1.x.y** (first *śrutaskandha*): *śrutaskanda*.*adhyayana*.*section* (`//div[@type='śrutaskandha'][@n='1']/div[@type='adhyayana'][@n='x']/div@[type='section][@n='z']`)
+    - **Nāyā.2.x.y.z** (second *śrutaskandha*): *śrutaskanda*.*varga*.*adhyayana*.*section* (`//div[@type='śrutaskandha'][@n='2']/div[@type='varga'][@n='x']/div[@type='adhyayana'][@n='y']/div[@type='section][@n='z']`)
+  - 35. **Br̥hKapp**: *Br̥hatkalpa*: numbering based on format
+    - **Br̥hKapp.x**: *section* (`//div[@type='section'][@n='x']`)
+    - **Br̥hKapp.x.y**: *chapter*.*section* (`//div[@type='uddēśa'][@n='x']/div[@type='section'][@n='y']`)
+  - 44. **Nandī.x**: *Nandīsūtra*, *section* (`//div[@type='section'][@n='x']`)
+  - 45. **AṇuŌg.x**: *Anuyōgadvārasūtra*, *section* (`//div[@type='section'][@n='x']`)
 
 ### Coming soon
 
