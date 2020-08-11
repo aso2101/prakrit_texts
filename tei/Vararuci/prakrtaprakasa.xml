@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0" n="">
+  <teiHeader xml:lang="eng">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Prākr̥taprakāśaḥ</title>
+        <author>Vararuciḥ</author>
+	<principal>
+	  <persName ref="http://viaf.org/viaf/372149294434280521495">
+	    <forename>Andrew</forename>
+	    <surname>Ollett</surname>
+	  </persName>
+	</principal>
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>Prakrit Digital Texts Project</authority>
+        <availability status="restricted">
+          <p>Distributed under a <ref target="https://creativecommons.org/licenses/by-sa/4.0/" type="url">Creative Commons Attribution-ShareAlike 4.0</ref> license.</p>
+	  <!-- further information here? !-->
+        </availability>
+        <date>2020</date>
+      </publicationStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Vararuciviracitaḥ Prākr̥taprakāśaḥ</title>
+          <editor>
+	    <persName ref="http://viaf.org/viaf/113276667">
+	      <forename>Baladēva</forename>
+	      <surname>Upādhyāya</surname>
+	    </persName>
+	  </editor>
+          <publisher>Sampūrṇānanda-Saṁskr̥ta-Viśvavidyālayaḥ</publisher>
+          <pubPlace>Vārāṇasī</pubPlace>
+          <date>1996</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+	<language ident="eng">English</language>
+	<language ident="pra-Latn">Prakrit in Roman transliteration (ISO-15919)</language>
+	<language ident="san-Latn">Sanskrit in Roman transliteration (ISO-15919)</language>
+      </langUsage>
+      <textClass>
+	<keywords>
+	  <term><!--each keyword in a <term/> element --></term>
+	</keywords>
+      </textClass>
+    </profileDesc>
+
+
+    <encodingDesc>
+      <editorialDecl>
+        <p><!-- romanization !-->
+          <!-- orthography !-->
+        <!-- encoding !--></p>
+      </editorialDecl>
+    </encodingDesc>
+
+    <revisionDesc>
+      <change when="2020-08-09" who="Andrew Ollett">
+	<list>
+	  <item>Initial version.</item>
+	</list>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="san-Latn">
+    <body>
+      <div type="chapter" n="1">
+	<head>prathamaḥ paricchēdaḥ</head>
+	<head>ajvidhiḥ</head>
+	<ab n="1" xml:id="PraPrā.1.1">ādēr ataḥ</ab>
+	<ab n="2" xml:id="PraPrā.1.2">ā samr̥ddhyādiṣu vā</ab>
+	<ab n="3" xml:id="PraPrā.1.3">idīṣatpakvasvapnavētasavyajanamr̥daṅgāṅgārēṣu ca</ab>
+	<ab n="5" xml:id="PraPrā.1.5">lōpō ’raṇyē</ab>
+	<ab n="5" xml:id="PraPrā.1.5">ē ca śayyādiṣu</ab>
+	<ab n="6" xml:id="PraPrā.1.6">ō badarē dēna</ab>
+	<ab n="7" xml:id="PraPrā.1.7">mayūramayūkhayōr yvā vā</ab>
+	<ab n="8" xml:id="PraPrā.1.8">caturthīcaturdaśyōs tunā</ab>
+	<ab n="9" xml:id="PraPrā.1.9">adātō yathādiṣu vā</ab>
+	<ab n="10" xml:id="PraPrā.1.10">it sadā</ab>
+	<ab n="11" xml:id="PraPrā.1.11">it ēt piṇḍasamēṣu</ab>
+	<ab n="12" xml:id="PraPrā.1.12">at pathiharidrāpr̥thivūṣu</ab>
+	<ab n="13" xml:id="PraPrā.1.13">itēs taḥ padādēḥ</ab>
+	<ab n="14" xml:id="PraPrā.1.14">ud ikṣu-vr̥ścikayōḥ</ab>
+	<ab n="15" xml:id="PraPrā.1.15">ō ca dvidhākr̥ñaḥ</ab>
+	<ab n="16" xml:id="PraPrā.1.16">īt siṁha-jihvayōḥ</ab>
+	<ab n="17" xml:id="PraPrā.1.17">ūd-uta upasargē visarjanīna</ab>
+	<ab n="18" xml:id="PraPrā.1.18">īd itaḥ</ab>
+	<ab n="19" xml:id="PraPrā.1.19">id ītaḥ pānīyādiṣu</ab>
+	<ab n="20" xml:id="PraPrā.1.20">ēn nīḍā-pīḍa-kīdr̥g-īdr̥śēṣu</ab>
+	<ab n="21" xml:id="PraPrā.1.21">uta ōt tuṇḍasamēṣu</ab>
+	<ab n="22" xml:id="PraPrā.1.22">ulūkhalē lvā vā</ab>
+	<ab n="23" xml:id="PraPrā.1.23">unmukuṭādiṣu</ab>
+	<ab n="24" xml:id="PraPrā.1.24">ut puruṣē rōḥ</ab>
+	<ab n="25" xml:id="PraPrā.1.25">ud ūtō madhūkādiṣu</ab>
+	<ab n="26" xml:id="PraPrā.1.26">ud dukūlē vā lasya dvitvaṁ</ab>
+	<ab n="27" xml:id="PraPrā.1.27">ēn nūpurē</ab>
+	<ab n="28" xml:id="PraPrā.1.28">ōta ud vā prakōṣṭē kasya va</ab>
+	<ab n="29" xml:id="PraPrā.1.29">r̥tō ’t</ab>
+	<ab n="30" xml:id="PraPrā.1.30">id r̥ṣyādiṣu</ab>
+	<ab n="31" xml:id="PraPrā.1.31">ud r̥tvādiṣu</ab>
+	<ab n="32" xml:id="PraPrā.1.32">yuktasyāpi riḥ</ab>
+	<ab n="33" xml:id="PraPrā.1.33">vr̥kṣē vēna rur vā</ab>
+	<ab n="34" xml:id="PraPrā.1.34">ḷta ilaḥ</ab>
+	<ab n="35" xml:id="PraPrā.1.35">ēta id vā vēdanādēvarayōhḥ</ab>
+	<ab n="36" xml:id="PraPrā.1.36">aita ēt</ab>
+	<ab n="37" xml:id="PraPrā.1.37">daityādiṣu aït</ab>
+	<ab n="38" xml:id="PraPrā.1.38">daivē vā</ab>
+	<ab n="39" xml:id="PraPrā.1.39">it saindhavē</ab>
+	<ab n="40" xml:id="PraPrā.1.40">īt dhairyē</ab>
+	<ab n="41" xml:id="PraPrā.1.41">auta ōt</ab>
+	<ab n="42" xml:id="PraPrā.1.42">paurādiṣu aüt</ab>
+	<ab n="43" xml:id="PraPrā.1.43">āc ca gauravē</ab>
+	<ab n="44" xml:id="PraPrā.1.44">ut saundaryādiṣu</ab>
+	<trailer>iti śrīvasantarājaviracitāyāṁ prākr̥tasañjīvanyāṁ prathamō ’jvidhi-paricchēdaḥ</trailer>
+      </div>
+      <div type="chapter" n="2">
+	<head>dvitīyaḥ paricchēdaḥ</head>
+	<head>athāyuktavidhir ucyatē</head>
+	<ab n="1" xml:id="PraPrā.2.1">ayuktasyānādau</ab>
+	<ab n="2" xml:id="PraPrā.2.2">kagacajatadapayavāṁ prāyō lōpaḥ</ab>
+	<ab n="3" xml:id="PraPrā.2.3">yumanāyāṁ masya</ab>
+	<ab n="4" xml:id="PraPrā.2.4">sphaṭika-nikaṣa-cikura-sīkarēṣu kō haḥ</ab>
+	<ab n="5" xml:id="PraPrā.2.5">candrikāyāṁ maḥ</ab>
+	<ab n="6" xml:id="PraPrā.2.6">r̥tvādiṣu tō daḥ</ab>
+	<ab n="7" xml:id="PraPrā.2.7">prati-vētasa-patākāsu ḍa</ab>
+	<ab n="8" xml:id="PraPrā.2.8">vasati-bharatayōr haḥ</ab>
+	<ab n="9" xml:id="PraPrā.2.9">garbhitē ṇaḥ</ab>
+	<ab n="10" xml:id="PraPrā.2.10">airāvatē vā</ab>
+	<ab n="11" xml:id="PraPrā.2.11">pradīpa-kadamba-dōhadēṣu dō laḥ</ab>  
+	<ab n="12" xml:id="PraPrā.2.12">gadgadē raḥ</ab>
+	<ab n="13" xml:id="PraPrā.2.13">saṁkhyāyāś ca</ab>
+	<ab n="14" xml:id="PraPrā.2.14">pō vaḥ</ab>
+	<ab n="15" xml:id="PraPrā.2.15">āpīḍē maḥ</ab>
+	<ab n="16" xml:id="PraPrā.2.16">uttarīyānīyayōr yōjjanē vā</ab>
+	<ab n="17" xml:id="PraPrā.2.17">chāyāyāṁ haḥ</ab>
+	<ab n="18" xml:id="PraPrā.2.18">ṭō daḥ</ab>
+	<ab n="19" xml:id="PraPrā.2.19">saṭā-śakaṭa-kaitabhēṣu</ab>
+	<ab n="20" xml:id="PraPrā.2.20">sphaṭikē laḥ</ab>
+	<ab n="21" xml:id="PraPrā.2.21">ḍasya ca</ab>
+	<ab n="22" xml:id="PraPrā.2.22">ṭhō ḍhaḥ</ab>
+	<ab n="23" xml:id="PraPrā.2.23">aṁkōṭhē llaḥ</ab>
+	<ab n="24" xml:id="PraPrā.2.24">kha-gha-tha-dha-pha-bhāṁ haḥ</ab>
+	<ab n="25" xml:id="PraPrā.2.25">prathama-śithila-niṣadhēṣu ḍhaḥ</ab>
+	<ab n="26" xml:id="PraPrā.2.26">kaiṭabhē vaḥ</ab>
+	<ab n="27" xml:id="PraPrā.2.27">haridrādīnāṁ rō laḥ</ab>
+	<ab n="28" xml:id="PraPrā.2.28">ādēr yō jaḥ</ab>
+	<ab n="29" xml:id="PraPrā.2.29">yaṣṭyāṁ laḥ</ab>
+	<ab n="30" xml:id="PraPrā.2.30">kirātē caḥ</ab>
+	<ab n="31" xml:id="PraPrā.2.31">kubjē khaḥ</ab>
+	<ab n="32" xml:id="PraPrā.2.32">dōlā-daṇḍa-daśanēṣu ḍaḥ</ab>
+	<ab n="33" xml:id="PraPrā.2.33">paruṣa-parigha-parikhāsu phaḥ</ab>
+	<ab n="34" xml:id="PraPrā.2.34">bisinyāṁ bhaḥ</ab>
+	<ab n="35" xml:id="PraPrā.2.35">manmathē vaḥ</ab>
+	<ab n="36" xml:id="PraPrā.2.36">lāhala-lāṅgala-lāṅgūlēṣu vā ṇaḥ</ab>
+	<ab n="37" xml:id="PraPrā.2.37">ṣaṭ-śāva-saptaparṇēṣu chaḥ </ab>
+	<ab n="38" xml:id="PraPrā.2.38">nō ṇaḥ</ab>
+	<ab n="39" xml:id="PraPrā.2.39">śaṣōḥ saḥ</ab>
+	<ab n="40" xml:id="PraPrā.2.40">daśādiṣu haḥ</ab>
+	<ab n="41" xml:id="PraPrā.2.41">saṁjñāyāṁ vā</ab>
+	<ab n="42" xml:id="PraPrā.2.42">divasē sasya</ab>
+	<ab n="43" xml:id="PraPrā.2.43">snuṣāyāṁ haḥ</ab>
+	<trailer>iti prākr̥tasañjīvanyām ayuktavidhir dvitīyaḥ paricchēdaḥ</trailer>
+      </div>
+
+      <div type="chapter" n="3">
+	<head>tr̥tīyaḥ paricchēdaḥ</head>
+	<head>yuktavidhir ucyatē</head>
+	<ab n="1" xml:id="PraPrā.3.1">upari lōpaḥ ka-ga-ḍa-ta-da-pa-ṣa-sa-śām</ab>
+	<ab n="2" xml:id="PraPrā.3.2">adhō manayām</ab>
+	<ab n="3" xml:id="PraPrā.3.3">sarvatra lavarām</ab>
+	<ab n="4" xml:id="PraPrā.3.4">drē rō vā</ab>
+	<ab n="5" xml:id="PraPrā.3.5">sarvajña-tulyēṣu ñaḥ</ab>
+	<ab n="6" xml:id="PraPrā.3.6">madhyāhnē hasya</ab>
+	<ab n="7" xml:id="PraPrā.3.7">śmaśru-śmaśānayōr ādēḥ</ab>
+	<ab n="8" xml:id="PraPrā.3.8">hna-hla-hmēṣu nalamāṁ sthitir ūrdhvam</ab>
+	<ab n="9" xml:id="PraPrā.3.9">yuktasya</ab>
+	<ab n="10" xml:id="PraPrā.3.10">ṣṭasya ṭhaḥ</ab>
+	<ab n="11" xml:id="PraPrā.3.11">asthani</ab>
+	<ab n="12" xml:id="PraPrā.3.12">stasya thaḥ</ab>
+	<ab n="13" xml:id="PraPrā.3.13">taḥ staṁbē</ab>
+	<ab n="14" xml:id="PraPrā.3.14">stambhē khaḥ</ab>
+	<ab n="15" xml:id="PraPrā.3.15">sthāṇāvaharē</ab>
+	<ab n="16" xml:id="PraPrā.3.16">kṣēṭakē ca</ab>
+	<ab n="17" xml:id="PraPrā.3.17">ryaśayyābhimanyuṣu jaḥ</ab>
+	<ab n="18" xml:id="PraPrā.3.18">tūryadhairyasaundaryāścaryaparyantēṣu </ab>
+	<ab n="19" xml:id="PraPrā.3.19">sūryē vā</ab>
+	<ab n="20" xml:id="PraPrā.3.20">cauryasamēṣu riaḥ</ab>
+	<ab n="21" xml:id="PraPrā.3.21">paryasta-paryāṇa-saukumāryēṣu laḥ</ab>
+	<ab n="22" xml:id="PraPrā.3.22">rtasya ṭaḥ</ab>
+	<ab n="23" xml:id="PraPrā.3.23">mr̥ttikāpattanayōś ca</ab>
+	<ab n="24" xml:id="PraPrā.3.24">na dhūryādiṣu</ab>
+	<ab n="25" xml:id="PraPrā.3.25">gartē ca ḍaḥ</ab>
+	<ab n="26" xml:id="PraPrā.3.26">gardabha-saṁmarda-vitardi-vicchardiṣu rdasya</ab>
+	<ab n="27" xml:id="PraPrā.3.27">tyathyadyāṁ cachajāḥ</ab>
+	<ab n="28" xml:id="PraPrā.3.28">dhyahyayōr jhaḥ</ab>
+	<ab n="29" xml:id="PraPrā.3.29">ṣkaskakṣāṁ khaḥ</ab>
+	<ab n="30" xml:id="PraPrā.3.30">akṣyādiṣu chaḥ</ab>
+	<ab n="31" xml:id="PraPrā.3.31">kṣmā-vr̥kṣa-kṣaṇēṣu vā</ab>
+	<ab n="32" xml:id="PraPrā.3.32">ṣma-pakṣma-vismayēṣu mhaḥ</ab>
+	<ab n="33" xml:id="PraPrā.3.33">hna-sna-ṣṇa-kṣṇa-śnāṁ ṇhaḥ</ab>
+	<ab n="34" xml:id="PraPrā.3.34">cihnē ndhaḥ</ab>
+	<ab n="35" xml:id="PraPrā.3.35">ṣpasya phaḥ</ab>
+	<ab n="36" xml:id="PraPrā.3.36">spasya</ab>
+	<ab n="37" xml:id="PraPrā.3.37">bāṣpē ’śruṇi haḥ</ab>
+	<ab n="38" xml:id="PraPrā.3.38">kārṣāpaṇē</ab>
+	<ab n="39" xml:id="PraPrā.3.39">ścatsapsāṁ chaḥ</ab>
+	<ab n="40" xml:id="PraPrā.3.40">vr̥ścikē ñchaḥ</ab>
+	<ab n="41" xml:id="PraPrā.3.41">nōtsukōtsavayōḥ</ab>
+	<ab n="42" xml:id="PraPrā.3.42">nmō maḥ</ab>
+	<ab n="43" xml:id="PraPrā.3.43">mna-jña-pañcāśat-pañcadaśau ṇaḥ</ab>
+	<ab n="44" xml:id="PraPrā.3.44">tālvr̥ntē ṇṭhaḥ</ab>
+	<ab n="45" xml:id="PraPrā.3.45">bhindipālē ṇḍaḥ</ab>
+	<ab n="46" xml:id="PraPrā.3.46">vihvalē bhō vā</ab>
+	<ab n="47" xml:id="PraPrā.3.47">ādēś ca</ab>
+	<ab n="48" xml:id="PraPrā.3.48">ātmani paḥ</ab>
+	<ab n="49" xml:id="PraPrā.3.49">kmasya</ab>
+	<ab n="50" xml:id="PraPrā.3.50">śēṣādēśayōr dvitvam anādau</ab>
+	<ab n="51" xml:id="PraPrā.3.51">vargē yujaḥ pūrvaḥ</ab>
+	<ab n="52" xml:id="PraPrā.3.52">nīḍādiṣu</ab>
+	<ab n="53" xml:id="PraPrā.3.53">āmratāmrayōr vaḥ</ab>
+	<ab n="54" xml:id="PraPrā.3.54">na rahōḥ</ab>
+	<ab n="55" xml:id="PraPrā.3.55">āṅō jñādēśasya</ab>
+	<ab n="56" xml:id="PraPrā.3.56">samāsē vā</ab>
+	<ab n="57" xml:id="PraPrā.3.57">sēvādiṣu vā</ab>
+	<ab n="58" xml:id="PraPrā.3.58">vikarṣaḥ</ab>
+	<ab n="59" xml:id="PraPrā.3.59">kliṣṭa-śliṣṭa-ratna-kriyā-śārṅgēṣu tatsvaravat pūrvasya</ab>
+	<ab n="60" xml:id="PraPrā.3.60">kr̥ṣṇē vā</ab>
+	<ab n="61" xml:id="PraPrā.3.61">it śrī-hrī-klānta-klēśa-mlāna-svapa-sparśādarśa-harṣēṣu</ab>
+	<ab n="62" xml:id="PraPrā.3.62">aḥ kṣmāślāghayōḥ</ab>
+	<ab n="63" xml:id="PraPrā.3.63">snēhē vā</ab>
+	<ab n="64" xml:id="PraPrā.3.64">uḥ padmatanvīsamēṣu</ab>
+	<ab n="65" xml:id="PraPrā.3.65">jyāyām īt</ab>
+	<trailer>iti vasantarājaviracitāyāṁ prākr̥tasañjīvanyāṁ yuktavarṇavidhis tr̥tīyaḥ paricchēdaḥ</trailer>
+      </div>
+
+      <div type="chapter" n="4">
+	<head>caturthaḥ paricchēdaḥ</head>
+	<head>atha saṁkīrṇavidhir ucyatē</head>
+	<ab n="1" xml:id="PraPrā.4.1">sandhāv acām aḍlōpaviśēṣā bahulam</ab>
+	<ab n="2" xml:id="PraPrā.4.2">udumbarē dōr vā lōpaḥ</ab>
+	<ab n="3" xml:id="PraPrā.4.3">kālāyasē yasya</ab>
+	<ab n="4" xml:id="PraPrā.4.4">bhājanē jasya</ab>
+	<ab n="5" xml:id="PraPrā.4.5">yāvadādiṣu vasya</ab>
+	<ab n="6" xml:id="PraPrā.4.6">antyasya halaḥ</ab>
+	<ab n="7" xml:id="PraPrā.4.7">striyām āt</ab>
+	<ab n="8" xml:id="PraPrā.4.8">na vidyuti</ab>
+	<ab n="9" xml:id="PraPrā.4.9">rō rā</ab>
+	<ab n="10" xml:id="PraPrā.4.10">kṣudhō haḥ</ab>
+	<ab n="11" xml:id="PraPrā.4.11">śaradō ’t</ab>
+	<ab n="12" xml:id="PraPrā.4.12">dik-prāvr̥ṣō saḥ</ab>
+	<ab n="13" xml:id="PraPrā.4.13">mō bindur aci vā ’lōpaś ca</ab>
+	<ab n="14" xml:id="PraPrā.4.14">naṅōr hali</ab>
+	<ab n="15" xml:id="PraPrā.4.15">vakrādiṣu</ab>
+	<ab n="16" xml:id="PraPrā.4.16">māṁsādiṣu</ab>
+	<ab n="17" xml:id="PraPrā.4.17">kapi tadvargyāntaḥ</ab>
+	<ab n="18" xml:id="PraPrā.4.18">nasantaprāvr̥ṭśaradaḥ puṁsi</ab>
+	<ab n="19" xml:id="PraPrā.4.19">na śirōnabhasī</ab>
+	<ab n="20" xml:id="PraPrā.4.20">pr̥ṣṭhākṣipraśnāḥ striyāṁ vā</ab>
+	<ab n="21" xml:id="PraPrā.4.21">ōdavāpayōḥ</ab>
+	<ab n="22" xml:id="PraPrā.4.22">taltvayōr dāttaṇau</ab>
+	<ab n="23" xml:id="PraPrā.4.23">ktva tūṇa</ab>
+	<ab n="24" xml:id="PraPrā.4.24">tr̥na ira śīlē</ab>
+	<ab n="25" xml:id="PraPrā.4.25">ālv-illōllālavantēntā matupaḥ</ab>
+	<ab n="26" xml:id="PraPrā.4.26">svārthē kō vā</ab>
+	<ab n="27" xml:id="PraPrā.4.27">vidyut-pītayōr laḥ</ab>
+	<ab n="28" xml:id="PraPrā.4.28">vr̥ndē dō vaḥ</ab>
+	<ab n="29" xml:id="PraPrā.4.29">karēṇvāṁ raṇōḥ sthiti-parivr̥ttiḥ</ab>
+	<ab n="30" xml:id="PraPrā.4.30">ālānē lanōḥ</ab>
+	<ab n="31" xml:id="PraPrā.4.31">mahārāṣṭrē harōḥ</ab>
+	<ab n="32" xml:id="PraPrā.4.32">vr̥haspatau bahōḥ</ab>
+	<ab n="33" xml:id="PraPrā.4.33">malinē linōrilau vā</ab>
+	<ab n="34" xml:id="PraPrā.4.34">gr̥hasya gharō ’patau</ab>
+	<ab n="35" xml:id="PraPrā.4.35">dāḍhādayō bahulam</ab>
+	<trailer>iti śrīvasantarājaviracitāyāṁ prākr̥tasañjīvanyāṁ saṅkīrṇavidhiś caturthaḥ paricchēdaḥ</trailer>
+      </div>
+
+      <div type="chapter" n="5">
+	<head>pañcamaḥ paricchēdaḥ</head>
+	<head>atha subvidhir ucyatē</head>
+	<ab n="1" xml:id="PraPrā.5.1">ata ōt sōḥ</ab>
+	<ab n="2" xml:id="PraPrā.5.2">jaś-śasōr lōpaḥ</ab>
+	<ab n="3" xml:id="PraPrā.5.3">atō ’maḥ</ab>
+	<ab n="4" xml:id="PraPrā.5.4">ṭāmōr ṇaḥ</ab>
+	<ab n="5" xml:id="PraPrā.5.5">bhisō hiṁ</ab>
+	<ab n="6" xml:id="PraPrā.5.6">ṅasēr ādōduhayaḥ</ab>
+	<ab n="7" xml:id="PraPrā.5.7">bhyasō hintō suntō</ab>
+	<ab n="8" xml:id="PraPrā.5.8">ssō ṅasaḥ</ab>
+	<ab n="9" xml:id="PraPrā.5.9">ṅērēmmī</ab>
+	<ab n="10" xml:id="PraPrā.5.10">supaḥ suḥ</ab>
+	<ab n="11" xml:id="PraPrā.5.11">jasṅasyāṁsu dīrghaḥ</ab>
+	<ab n="12" xml:id="PraPrā.5.12">ē supyaṅiṅasōḥ</ab>
+	<ab n="13" xml:id="PraPrā.5.13">kvacid api lōpaḥ</ab>
+	<ab n="14" xml:id="PraPrā.5.14">idutō śasō ṇō</ab>
+	<ab n="15" xml:id="PraPrā.5.15">ṅasō vā</ab>
+	<ab n="16" xml:id="PraPrā.5.16">jasa ō vō vā ’ttvaṁ ca</ab>
+	<ab n="17" xml:id="PraPrā.5.17">ṭā ṇā</ab>
+	<ab n="18" xml:id="PraPrā.5.18">subhissupsu dīrghaḥ</ab>
+	<ab n="19" xml:id="PraPrā.5.19">striyāṁ śasa udōtau</ab>
+	<ab n="20" xml:id="PraPrā.5.20">jasō vā</ab>
+	<ab n="21" xml:id="PraPrā.5.21">ami hrasvaḥ</ab>
+	<ab n="22" xml:id="PraPrā.5.22">ṭāṅasīnām idēdādataḥ</ab>
+	<ab n="23" xml:id="PraPrā.5.23">nātō ’dātau</ab>
+	<ab n="24" xml:id="PraPrā.5.24">ādītau bahulam</ab>
+	<ab n="25" xml:id="PraPrā.5.25">napuṁsakē sōr binduḥ</ab>
+	<ab n="26" xml:id="PraPrā.5.26">iṁ jaśśasōr dīrghaḥ</ab>
+	<ab n="27" xml:id="PraPrā.5.27">nāmantraṇē sāvōttvadīrghabindavaḥ</ab>
+	<ab n="28" xml:id="PraPrā.5.28">āta ē</ab>
+	<ab n="29" xml:id="PraPrā.5.29">īdūtōr hrasvaḥ</ab>
+	<ab n="30" xml:id="PraPrā.5.30">r̥ta āraḥ supi</ab>
+	<ab n="31" xml:id="PraPrā.5.31">māturā</ab>
+	<ab n="32" xml:id="PraPrā.5.32">u jas-śas-ṭā-ṅassu vā</ab>
+	<ab n="33" xml:id="PraPrā.5.33">pitr̥-bhrātr̥-jāmātṝṇām araḥ</ab>
+	<ab n="34" xml:id="PraPrā.5.34">ā ca sau</ab>
+	<ab n="35" xml:id="PraPrā.5.35">rājñaḥ</ab>
+	<ab n="36" xml:id="PraPrā.5.36">āmantraṇē bindur vā</ab>
+	<ab n="37" xml:id="PraPrā.5.37">jasaśasṅasāṁ ṇō</ab>
+	<ab n="38" xml:id="PraPrā.5.38">śasa ēc ca</ab>
+	<ab n="39" xml:id="PraPrā.5.39">amō ṇaṁ</ab>
+	<ab n="40" xml:id="PraPrā.5.40">ṭā ṇā</ab>
+	<ab n="41" xml:id="PraPrā.5.41">ṅasaś ca dvittvaṁ vā jalōpaś ca</ab>
+	<ab n="42" xml:id="PraPrā.5.42">idadvitvē</ab>
+	<ab n="43" xml:id="PraPrā.5.43">ā ṇōṇamōr aṅasi</ab>
+	<ab n="44" xml:id="PraPrā.5.44">ātmanō ’ppāṇō vā</ab>
+	<ab n="45" xml:id="PraPrā.5.45">id dvitvavarjaṁ rājavadanādēśē</ab>
+	<ab n="46" xml:id="PraPrā.5.46">brahmādayō ’py ēvam</ab>
+	<ab n="47" xml:id="PraPrā.5.47">sarvādēḥ</ab>
+	<ab n="48" xml:id="PraPrā.5.48">jasa ēt</ab>
+	<ab n="49" xml:id="PraPrā.5.49">ṅēḥ ssiṁmmitthāḥ</ab>
+	<ab n="50" xml:id="PraPrā.5.50">idam-ētat-kiṁ-yat-tadbhyaṣ ṭā iṇā vā</ab>
+	<ab n="51" xml:id="PraPrā.5.51">āma ēsiṁ</ab>
+	<ab n="52" xml:id="PraPrā.5.52">kiṁ-yat-tadbhyō ṅasa āsa</ab>
+	<ab n="53" xml:id="PraPrā.5.53">idbhyaḥ ssāsē</ab>
+	<ab n="54" xml:id="PraPrā.5.54">ṅēr hiṁ</ab>
+	<ab n="55" xml:id="PraPrā.5.55">āhē iā kālē</ab>
+	<ab n="56" xml:id="PraPrā.5.56">ōttōdō ṅasēr anidamaḥ</ab>
+	<ab n="57" xml:id="PraPrā.5.57">tadō ṅasā sē vā striyām api</ab>
+	<ab n="58" xml:id="PraPrā.5.58">āmaḥ siṁ</ab>
+	<ab n="59" xml:id="PraPrā.5.59">kimaḥ kaḥ</ab>
+	<ab n="60" xml:id="PraPrā.5.60">idama imaḥ</ab>
+	<ab n="61" xml:id="PraPrā.5.61">aṁ ssiṁssayōr vā</ab>
+	<ab n="62" xml:id="PraPrā.5.62">ṅēr mēnē haḥ</ab>
+	<ab n="63" xml:id="PraPrā.5.63">na tthaḥ</ab>
+	<ab n="64" xml:id="PraPrā.5.64">napuṁsakē svamōridamiṇamiṇamō</ab>
+	<ab n="65" xml:id="PraPrā.5.65">ētadaḥ sōrōttvaṁ vā</ab>
+	<ab n="66" xml:id="PraPrā.5.66">ttō ṅasēḥ</ab>
+	<ab n="67" xml:id="PraPrā.5.67">ttatthayōs tasya lōpaḥ</ab>
+	<ab n="68" xml:id="PraPrā.5.68">tadētadōḥ saḥ sāvanapuṁsakē</ab>
+	<ab n="69" xml:id="PraPrā.5.69">adasō dō muḥ</ab>
+	<ab n="70" xml:id="PraPrā.5.70">haś ca sau</ab>
+	<ab n="71" xml:id="PraPrā.5.71">padasya</ab>
+	<ab n="72" xml:id="PraPrā.5.72">yuṣmadas taṁ tumaṁ</ab>
+	<ab n="73" xml:id="PraPrā.5.73">tuṁ cāmi</ab>
+	<ab n="74" xml:id="PraPrā.5.74">tujjhē tujjha tumhē jasi</ab>
+	<ab n="75" xml:id="PraPrā.5.75">vō ca śasi</ab>
+	<ab n="76" xml:id="PraPrā.5.76">ṭā-ṅyōs taï taē tumaï tumaē tumē</ab>
+	<ab n="77" xml:id="PraPrā.5.77">tumammi ca ṅau</ab>
+	<ab n="78" xml:id="PraPrā.5.78">ṅasi tumō-tuha-tujjha-tuva-tumhāḥ</ab>
+	<ab n="79" xml:id="PraPrā.5.79">āṅi ca tē dē</ab>
+	<ab n="80" xml:id="PraPrā.5.80">tumāi ca</ab>
+	<ab n="81" xml:id="PraPrā.5.81">tujjhēhi tubbhēhi tumhēhi bhisi</ab>
+	<ab n="82" xml:id="PraPrā.5.82">ṅasau tattō taïttō tumāō tumāi tumāhi vā</ab>
+	<ab n="83" xml:id="PraPrā.5.83">tujjhāhintō tujjhāsuntō bhyasi</ab>
+	<ab n="84" xml:id="PraPrā.5.84">vō tē tujjhāṇaṁ tumhāṇaṁ āmi</ab>
+	<ab n="85" xml:id="PraPrā.5.85">tujjhēsu tubbhēsu tumhēsu supi</ab>
+	<ab n="86" xml:id="PraPrā.5.86">asmadō haṁ ahaṁ ahaaṁ sau</ab>
+	<ab n="87" xml:id="PraPrā.5.87">ammirami ca</ab>
+	<ab n="88" xml:id="PraPrā.5.88">maṁ mamaṁ ca</ab>
+	<ab n="89" xml:id="PraPrā.5.89">amhē jas-śasōḥ</ab>
+	<ab n="90" xml:id="PraPrā.5.90">ṇō ca śasi</ab>
+	<ab n="91" xml:id="PraPrā.5.91">āṅi mē mmāi</ab>
+	<ab n="92" xml:id="PraPrā.5.92">ṅau ca maï maē</ab>
+	<ab n="93" xml:id="PraPrā.5.93">mammi ca</ab>
+	<ab n="94" xml:id="PraPrā.5.94">amhēhiṁ bhisi</ab>
+	<ab n="95" xml:id="PraPrā.5.95">mattō maïttō mamāō mamāu mamāhi ṅasau</ab>
+	<ab n="96" xml:id="PraPrā.5.96">amhāhintō amhāsuntō bhyasi</ab>
+	<ab n="97" xml:id="PraPrā.5.97">mē mama maha majjha ṅasi</ab>
+	<ab n="98" xml:id="PraPrā.5.98">ṇō amha amhāṇa amhē āmi</ab>
+	<ab n="99" xml:id="PraPrā.5.99">amhēsu supi</ab>
+	<ab n="100" xml:id="PraPrā.5.100">dvēr dō</ab>
+	<ab n="101" xml:id="PraPrā.5.101">trēs tī</ab>
+	<ab n="102" xml:id="PraPrā.5.102">tiṇi jaś-śasbhyām</ab>
+	<ab n="103" xml:id="PraPrā.5.103">dvēr duvē dōṇi</ab>
+	<ab n="104" xml:id="PraPrā.5.104">caturaś cattārō cattāri</ab>
+	<ab n="105" xml:id="PraPrā.5.105">ēṣāmāmō ṇhaṁ</ab>
+	<ab n="106" xml:id="PraPrā.5.106">śēśād adantavat</ab>
+	<ab n="107" xml:id="PraPrā.5.107">na ṅiṅasyōr ēdātau</ab>
+	<ab n="108" xml:id="PraPrā.5.108">ē bhyasi</ab>
+	<ab n="109" xml:id="PraPrā.5.109">dvivacanasya bahuvacanam</ab>
+	<ab n="110" xml:id="PraPrā.5.110">caturthyāḥ ṣaṣṭhī</ab>
+	<ab n="111" xml:id="PraPrā.5.111">kvacin na tādarthyē</ab>
+	<trailer>iti śrīvasantarājaviracitāyāṁ prākr̥tasañjīvanyāṁ pañcamaḥ subvidhiparicchēdaḥ</trailer>
+      </div>
+
+      <div type="chapter" n="6">
+	<head>ṣaṣṭhō paricchēdaḥ</head>
+	<head>atha tiṅvidhir ucyatē</head>
+	<ab n="1" xml:id="PraPrā.6.1">ta-tipōr id-ētau</ab>
+	<ab n="2" xml:id="PraPrā.6.2">sip-thāsōḥ si sē</ab>
+	<ab n="3" xml:id="PraPrā.6.3">iṇ-mipōr miḥ</ab>
+	<ab n="4" xml:id="PraPrā.6.4">nti-hētthā-mō-mu-mā bahuṣu</ab>
+	<ab n="5" xml:id="PraPrā.6.5">ata ē sē</ab>
+	<ab n="6" xml:id="PraPrā.6.6">astēr lōpaḥ</ab>
+	<ab n="7" xml:id="PraPrā.6.7">mi-mō-mu-mānām adhō haś ca</ab>
+	<ab n="8" xml:id="PraPrā.6.8">yaka ia-ïjjau</ab>
+	<ab n="9" xml:id="PraPrā.6.9">nāntyadvitvē</ab>
+	<ab n="10" xml:id="PraPrā.6.10">nta-māṇau śatr̥-śānacōḥ</ab>
+	<ab n="11" xml:id="PraPrā.6.11">ī ca striyām</ab>
+	<ab n="12" xml:id="PraPrā.6.12">dhātōr bhaviṣyati hiḥ</ab>
+	<ab n="13" xml:id="PraPrā.6.13">uttamē ssā hā ca</ab>
+	<ab n="14" xml:id="PraPrā.6.14">minā ssaṁ vā</ab>
+	<ab n="15" xml:id="PraPrā.6.15">mō-mu-mair hissā hitthā</ab>
+	<ab n="16" xml:id="PraPrā.6.16">kr̥-dā-śru-vaci-gami-rudi-dr̥śi-rūpāṇāṁ kāhaṁ dāhaṁ sōcchaṁ vōcchaṁ gacchaṁ rōcchaṁ dacchaṁ</ab>
+	<ab n="17" xml:id="PraPrā.6.17">śrv-ādīnāṁ triṣv anusvāravarjaṁ hi-lōpaś ca vā</ab>
+	<ab n="18" xml:id="PraPrā.6.18">u su mu vidhy-ādiṣv ēkasmin</ab>
+	<ab n="19" xml:id="PraPrā.6.19">ntu-ha-mō bahuṣu</ab>
+	<ab n="20" xml:id="PraPrā.6.20">vartamāna-bhaviṣyadanadyatanayōś ca jja jjā vā</ab>
+	<ab n="21" xml:id="PraPrā.6.21">madhyē ca</ab>
+	<ab n="22" xml:id="PraPrā.6.22">nānēkācaḥ</ab>
+	<ab n="23" xml:id="PraPrā.6.23">īa bhūtē</ab>
+	<ab n="24" xml:id="PraPrā.6.24">ēkācō hīa</ab>
+	<ab n="25" xml:id="PraPrā.6.25">āsir astēḥ</ab>
+	<ab n="26" xml:id="PraPrā.6.26">ṇicaḥ ēd-ādēr āt</ab>
+	<ab n="27" xml:id="PraPrā.6.27">āvē vā</ab>
+	<ab n="28" xml:id="PraPrā.6.28">āviḥ kta-bhāva-karmasu vā</ab>
+	<ab n="29" xml:id="PraPrā.6.29">naidāvē</ab>
+	<ab n="30" xml:id="PraPrā.6.30">ata ā mipi vā </ab>
+	<ab n="31" xml:id="PraPrā.6.31">ic ca bahuṣu</ab>
+	<ab n="32" xml:id="PraPrā.6.32">ktē</ab>
+	<ab n="33" xml:id="PraPrā.6.33">ē ca ktvā-tumun-tavya-bhaviṣyatsu</ab>
+	<ab n="34" xml:id="PraPrā.6.34">lādēśō vā</ab>
+	<trailer>iti prākr̥tasañjīvanyāṁ tiṅvidhiḥ śaṣṭhaḥ paricchēdaḥ</trailer>
+      </div>
+
+      <div type="chapter" n="7">
+	<head>saptamaḥ paricchēdaḥ</head>
+	<head>atha dhātuvidhir ucyatē</head>
+	<ab n="1" xml:id="PraPrā.7.1">bhuvō hō-huvau</ab>
+	<ab n="2" xml:id="PraPrā.7.2">ktē hū</ab>
+	<ab n="3" xml:id="PraPrā.7.3">prādēr bhavaḥ</ab>
+	<ab n="4" xml:id="PraPrā.7.4">tvaras tuvaraḥ</ab>
+	<ab n="5" xml:id="PraPrā.7.5">ghurṇō ghōla-ghumau</ab>
+	<ab n="6" xml:id="PraPrā.7.6">nudō ṇōllaḥ</ab>
+	<ab n="7" xml:id="PraPrā.7.7">pāṭēḥ phālaḥ</ab>
+	<ab n="8" xml:id="PraPrā.7.8">vr̥ṣādīnām r̥tō ’riḥ</ab>
+	<ab n="9" xml:id="PraPrā.7.9">antē araḥ</ab>
+	<ab n="10" xml:id="PraPrā.7.10">kr̥ñaḥ kuṇa ca</ab>
+	<ab n="11" xml:id="PraPrā.7.11">jr̥bhēr jambhā</ab>
+	<ab n="12" xml:id="PraPrā.7.12">grahēr gēṇhaḥ</ab>
+	<ab n="13" xml:id="PraPrā.7.13">ghētta ktvā-tumun-tavyēṣu</ab>
+	<ab n="14" xml:id="PraPrā.7.14">kr̥ñaḥ kā bhūta-bhaviṣyatōś ca</ab>
+	<ab n="15" xml:id="PraPrā.7.15">smaratēr bhara-sumarau</ab>
+	<ab n="16" xml:id="PraPrā.7.16">bhiyō bhā-vīhau</ab>
+	<ab n="17" xml:id="PraPrā.7.17">mlō vā vāa</ab>
+	<ab n="18" xml:id="PraPrā.7.18">tr̥pas thippaḥ</ab>
+	<ab n="19" xml:id="PraPrā.7.19">jñō jāṇa-muṇau</ab>
+	<ab n="20" xml:id="PraPrā.7.20">ghaṭēr gaḍhaḥ</ab>
+	<ab n="21" xml:id="PraPrā.7.21">samlō galaḥ</ab>
+	<ab n="22" xml:id="PraPrā.7.22">sraṁsō lhasaḥ</ab>
+	<ab n="23" xml:id="PraPrā.7.23">nēḥ sadaḥ sajjaḥ</ab>
+	<ab n="24" xml:id="PraPrā.7.24">āṅō rabhēr ḍhavaḥ</ab>
+	<ab n="25" xml:id="PraPrā.7.25">udi śalēḥ thallō vā</ab>
+	<ab n="26" xml:id="PraPrā.7.26">pibatēr ghōṭaḥ</ab>
+	<ab n="27" xml:id="PraPrā.7.27">jalpēr lō maḥ</ab>
+	<ab n="28" xml:id="PraPrā.7.28">sthādhyāgānāṁ ṭhāa jhāa gāa</ab>
+	<ab n="29" xml:id="PraPrā.7.29">ṭhā-jhā-gāś ca bhaviṣyad-vartamāna-vidhy-ādy-ēkavacanē</ab>
+	<ab n="30" xml:id="PraPrā.7.30">khādi-dhāvyōḥ khā dhā</ab>
+	<ab n="31" xml:id="PraPrā.7.31">grasēr visaḥ</ab>
+	<ab n="32" xml:id="PraPrā.7.32">ciñaś ciṇaḥ</ab>
+	<ab n="33" xml:id="PraPrā.7.33">krīñaḥ kiṇaḥ</ab>
+	<ab n="34" xml:id="PraPrā.7.34">vē kē ca</ab>
+	<ab n="35" xml:id="PraPrā.7.35">udhmō dhumā</ab>
+	<ab n="36" xml:id="PraPrā.7.36">śradō dhō dahaḥ</ab>
+	<ab n="37" xml:id="PraPrā.7.37">avād gāhēr vāhaḥ</ab>
+	<ab n="38" xml:id="PraPrā.7.38">kāśēr vāsaḥ</ab>
+	<ab n="39" xml:id="PraPrā.7.39">nirō māṅō māṇa-mavau</ab>
+	<ab n="40" xml:id="PraPrā.7.40">padēr vvalaḥ</ab>
+	<ab n="41" xml:id="PraPrā.7.41">kṣiyō jhijjaḥ</ab>
+	<ab n="42" xml:id="PraPrā.7.42">bhidi-chidōr antyasya ndaḥ</ab>
+	<ab n="43" xml:id="PraPrā.7.43">kvathēr ḍhaḥ</ab>
+	<ab n="44" xml:id="PraPrā.7.44">vēṣṭēś ca</ab>
+	<ab n="45" xml:id="PraPrā.7.45">ut-samōr llaḥ</ab>
+	<ab n="46" xml:id="PraPrā.7.46">rudō vaḥ</ab>
+	<ab n="47" xml:id="PraPrā.7.47">udō vijēḥ</ab>
+	<ab n="48" xml:id="PraPrā.7.48">vr̥dhēr ḍḍhaḥ</ab>
+	<ab n="49" xml:id="PraPrā.7.49">hantēr mmaḥ</ab>
+	<ab n="50" xml:id="PraPrā.7.50">ruṣādīnāṁ dīrghaḥ</ab>
+	<ab n="51" xml:id="PraPrā.7.51">ccō vraji-nr̥tyōḥ</ab>
+	<ab n="52" xml:id="PraPrā.7.52">yudhi-budhi-gr̥dhi-sidhi-krudhāṁ jjhaḥ</ab>
+	<ab n="53" xml:id="PraPrā.7.53">rudhēr ndha-mbhau</ab>
+	<ab n="54" xml:id="PraPrā.7.54">mr̥dō laḥ</ab>
+	<ab n="55" xml:id="PraPrā.7.55">śadipatyōr ḍaḥ</ab>
+	<ab n="56" xml:id="PraPrā.7.56">śakādīnāṁ dvitvaṁ</ab>
+	<ab n="57" xml:id="PraPrā.7.57">sphuṭi-calōr vā</ab>
+	<ab n="58" xml:id="PraPrā.7.58">prādēr mīlaḥ</ab>
+	<ab n="59" xml:id="PraPrā.7.59">bhujādīnāṁ ktvā-tuman-tavyēṣu lōpaḥ</ab>
+	<ab n="60" xml:id="PraPrā.7.60">śru-hu-ji-lū-dhūnāṁ ṇō ’ntē hrasvaś ca</ab>
+	<ab n="61" xml:id="PraPrā.7.61">bhāva-karmaṇōr vvaś ca</ab>
+	<ab n="62" xml:id="PraPrā.7.62">gamādīnāṁ dvitvaṁ vā</ab>
+	<ab n="63" xml:id="PraPrā.7.63">duhi-lihi-vahāṁ dujjha-lijjha-bujjhāḥ</ab>
+	<ab n="64" xml:id="PraPrā.7.64">hr̥ñ-kr̥ñōr hīra-kīrau</ab>
+	<ab n="65" xml:id="PraPrā.7.65">jñō jāṇa-muṇau</ab>
+	<ab n="66" xml:id="PraPrā.7.66">grahēr ghēppaḥ</ab>
+	<ab n="67" xml:id="PraPrā.7.67">ktēna diṇṇādayaḥ</ab>
+	<ab n="68" xml:id="PraPrā.7.68">takṣē raṁpa-vacchau</ab>
+	<ab n="69" xml:id="PraPrā.7.69">khidēr visūraḥ</ab>
+	<ab n="70" xml:id="PraPrā.7.70">krudhēr jūraḥ</ab>
+	<ab n="71" xml:id="PraPrā.7.71">carcēś caraḥ</ab>
+	<ab n="72" xml:id="PraPrā.7.72">trasēr vajjaḥ</ab>
+	<ab n="73" xml:id="PraPrā.7.73">mr̥jēr lubha-puṁsau</ab>
+	<ab n="74" xml:id="PraPrā.7.74">buḍḍa-khuppau majjēḥ</ab>
+	<ab n="75" xml:id="PraPrā.7.75">dr̥śēḥ pulaa-ṇiaccha-avakkha-saccavāḥ</ab>
+	<ab n="76" xml:id="PraPrā.7.76">śakēs tara-vaa-tīrāḥ</ab>
+	<ab n="77" xml:id="PraPrā.7.77">ēvam anyē ’pi</ab>
+	<ab n="78" xml:id="PraPrā.7.78">śēṣāṇāṁ adantatā</ab>
+	<ab n="79" xml:id="PraPrā.7.79">anadantānām ad vā</ab>
+	<ab n="80" xml:id="PraPrā.7.80">aḍādēśā bahulam</ab>
+	<trailer>iti śrīvasantarājaviracitāyāṁ prākr̥tasañjīvanyāṁ dhātuvidhiḥ saptamaḥ paricchēdaḥ</trailer>
+      </div>
+
+      <div type="chapter" n="8">
+	<head>aṣṭạmaḥ paricchēdaḥ</head>
+	<head>atha nipātavidhir ucyatē</head>
+	<ab n="1" xml:id="PraPrā.8.1">nipātāḥ</ab>
+	<ab n="2" xml:id="PraPrā.8.2">kīsa kim-arthē</ab>
+	<ab n="3" xml:id="PraPrā.8.3">huṁ dāna-pr̥cchā-nivāraṇēṣu</ab>
+	<ab n="4" xml:id="PraPrā.8.4">ccia ccēa avadhāraṇē</ab>
+	<ab n="5" xml:id="PraPrā.8.5">ō sūcanā-páscāttāpa-vikalpēṣu</ab>
+	<ab n="6" xml:id="PraPrā.8.6">ira-kira-kilā aniścayākhyānēṣu</ab>
+	<ab n="7" xml:id="PraPrā.8.7">hu kkhu niścaya-vitarka-sambhāvanāsu</ab>
+	<ab n="8" xml:id="PraPrā.8.8">i-jē-rāḥ pādapūraṇē</ab>
+	<ab n="9" xml:id="PraPrā.8.9">ānantaryē ṇavari</ab>
+	<ab n="10" xml:id="PraPrā.8.10">u kṣēpa-vismaya-sūcanāsu</ab>
+	<ab n="11" xml:id="PraPrā.8.11">kiṇō praśnē</ab>
+	<ab n="12" xml:id="PraPrā.8.12">abbō duḥkha-sūcanā-saṁbhāṣaṇēṣu</ab>
+	<ab n="13" xml:id="PraPrā.8.13">alāhi nivāraṇē</ab>
+	<ab n="14" xml:id="PraPrā.8.14">aï raṇē saṁbhāṣaṇē</ab>
+	<ab n="15" xml:id="PraPrā.8.15">vēcca āmantraṇē</ab>
+	<ab n="16" xml:id="PraPrā.8.16">dhū kutsāyāṁ</ab>
+	<ab n="17" xml:id="PraPrā.8.17">rē arē harē saṁbhāṣaṇa-ratikalaha-kṣēpēṣu</ab>
+	<ab n="18" xml:id="PraPrā.8.18">piva miva viva va ivārthē</ab>
+	<ab n="19" xml:id="PraPrā.8.19">śēṣāḥ saṁskr̥tāt</ab>
+	<trailer>iti vasantarājaviracitāyāṁ prākr̥tasañjīvanīvr̥ttau nipātavidhir aṣṭamaḥ paricchēdaḥ samāptaḥ</trailer>
+      </div>
+    </body>
+  </text>
+</TEI>

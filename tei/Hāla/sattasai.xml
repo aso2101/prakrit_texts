@@ -1,0 +1,4093 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0" n="">
+  <teiHeader xml:lang="eng">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Sattasaī</title>
+        <author>Hāla</author>
+	<principal>
+	  <persName ref="http://viaf.org/viaf/372149294434280521495">
+	    <forename>Andrew</forename>
+	    <surname>Ollett</surname>
+	  </persName>
+	</principal>
+	<respStmt>
+	  <resp>Typed in by</resp>
+	  <name>Andrew Ollett</name>
+	</respStmt>
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>Prakrit Digital Texts Project</authority>
+        <availability status="restricted">
+          <p>Distributed under a <ref target="https://creativecommons.org/licenses/by-sa/4.0/" type="url">Creative Commons Attribution-ShareAlike 4.0</ref> license.</p>
+	  <!-- further information here? !-->
+        </availability>
+        <date>2020</date>
+      </publicationStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Das Saptaçatakam des Hâla</title>
+          <editor>
+	    <persName ref="http://viaf.org/viaf/7814152">
+	      <forename>Albrecht</forename>
+	      <surname>Weber</surname>
+	    </persName>
+	  </editor>
+          <publisher>Brockhaus</publisher>
+          <pubPlace>Leipzig</pubPlace>
+          <date>1881</date>
+          <note>Digital copy available via <ref target="https://archive.org/details/dassaptaatakamd00webegoog">Internet Archive</ref>.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+	<language ident="eng">English</language>
+	<language ident="pra-Latn">Prakrit in Roman transliteration (ISO-15919)</language>
+	<language ident="san-Latn">Sanskrit in Roman transliteration (ISO-15919)</language>
+      </langUsage>
+      <textClass>
+	<keywords>
+	  <term><!--each keyword in a <term/> element --></term>
+	</keywords>
+      </textClass>
+    </profileDesc>
+
+
+    <encodingDesc>
+      <editorialDecl>
+        <p><!-- romanization !-->
+          <!-- orthography !-->
+        <!-- encoding !--></p>
+	<p>In Weber's edition the verses are organized as follows:
+	<list>
+	  <item>1-698: Vulgata (Gaṅgādhara's recension)</item>
+	  <item>699-703: Vulgata (Kulanātha's text)</item>
+	  <item>704-705: Vulgata (Pītāmbara's text)</item>
+	  <item>706-716: Vulgata (MSS gamma and psi)</item>
+	  <item>717-720: Vulgata (MSS xi and pi, commentaries)</item>
+	  <item>721-746: Vulgata (MS chi, commentary)</item>
+	  <item>747-799: Recension of MS R</item>
+	  <item>800-814: Sādhāraṇadeva's recension (Muktāvalī)</item>
+	  <item>815-953: The first Teliṅga recension </item>
+	  <item>954-965: The second Teliṅga recension</item>
+	  <item>966-1000: Appendix: citations in the Alaṃkāra-literature</item>
+	</list>
+	</p>
+      </editorialDecl>
+    </encodingDesc>
+
+    <revisionDesc>
+      <change when="2020-08-09" who="Andrew Ollett">
+	<list>
+	  <item>Initial version.</item>
+	</list>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg n="1">
+	<l>pasuvaïṇō rōsāruṇapaḍimāsaṅkantagōrimuhaandam</l>
+	<l>gahiagghapaṅkaaṁ mia sañjhāsalilañjaliṁ ṇamaha</l>
+      </lg>
+      <lg n="2">
+	<l>amiaṁ pāuakavvaṁ paḍhiuṁ sōuṁ ca jē ṇa āṇanti</l>
+	<l>kāmassa tattatattiṁ kuṇanti tē kaha ṇa lajjanti</l>
+      </lg>
+      <lg n="3">
+	<l>satta saāiṁ kaïvacchalēṇa kōḍīa majjhaārammi</l>
+	<l>hālēṇa viraïāiṁ sālaṅkārāṇa gāhāṇaṁ</l>
+      </lg>
+      <lg n="4">
+	<l>ua ṇiccalaṇippandā bhisiṇīvattammi rēhaï valāā</l>
+	<l>nimmalamaragaabhāaṇapariṭṭhiā saṅkhasutti vva</l>
+      </lg>
+      <lg n="5">
+	<l>tāva ccia raïsamaē mahilāṇaṁ vibbhamā virāanti</l>
+	<l>jāva ṇa kuvalaadalasacchahāi maülanti ṇaaṇāiṁ</l>
+      </lg>
+      <lg n="6">
+	<l>ṇōhaliam appaṇō kiṁ ṇa maggasē maggasē kuravaassa</l>
+	<l>ēaṁ khu suhaa tuha hasaï valiamuhapaṅkaaṁ jāā</l>
+      </lg>
+      <lg n="7">
+	<l>tāvijjanti asōēhi laḍahavilaāu daïavirahammi</l>
+	<l>kiṁ sahaï kō vi kassa vi pāapahāraṁ pahuppantō</l>
+      </lg>
+      <lg n="8">
+	<l>attā taha ramaṇijjaṁ aṁhaṁ gāmassa maṇḍaṇīhūaṁ</l>
+	<l>luatilavāḍisaricchaṁ sisirēṇakaaṁ bhisiṇisaṇḍaṁ</l>
+      </lg>
+      <lg n="9">
+	<l>kiṁ ruasi ōṇaamuhī dhavalāantēsu sālichēttēsu</l>
+	<l>hariālamaṇḍiamuhī ṇaḍi vva saṇavāḍiā jāā</l>
+      </lg>
+      <lg n="10">
+	<l>sahi ērisi ccia gaī mā ruvvasu taṁsavaliamuhaandaṁ</l> 
+	<l>ēāṇa vālavāluṅkitantukuḍilāṇa pēmmāṇaṁ</l>
+      </lg>
+      <lg n="11">
+	<l>pāapaḍiassa païṇō puṭṭhiṁ puttē samāruhantammi</l>
+	<l>daḍhamaṇṇudūmiāi vihāsō ghariṇīa ṇikkantō</l>
+      </lg>
+      <lg n="12">
+	<l>saccaṁ jāṇaï daṭṭhaṁ sarisammi jaṇammi jujjaē rāō</l>
+	<l>maraü ṇa tumaṁ bhaṇissaṁ maraṇaṁ pi salāhanijjaṁ sē</l>
+      </lg>
+      <lg n="13">
+	<l>randhaṇakammaṇiuṇiē mā jūrasu rattapāḍalasuandhaṁ</l>
+	<l>muhamāruaṁ piantō dhūmāi sihī ṇa pajjalaï</l>
+      </lg>
+      <lg n="14">
+	<l>ghariṇīa mahāṇasakammalaggamasimaïliēṇa hatthēṇa</l>
+	<l>chittaṁ muhaṁ hasijjaï candāvatthaṁ gaaṁ païṇā</l>
+      </lg>
+      <lg n="15">
+	<l>kiṁ kiṁ dē paḍihāsaï sahīhi ia pucchiāi muddhāē</l>
+	<l>paḍhamuggaadōhaliṇīa ṇavara daïaṁ gaā diṭṭhī</l>
+      </lg>
+      <lg n="16">
+	<l>amaamaa gaaṇasēhara raaṇīmukhatilaa canda dē chivasu</l>
+	<l>chittō jēhi jiaamō mamaṁ pi tēhiṁ cia karēhiṁ</l>
+      </lg>
+      <lg n="17">
+	<l>ēhijja sō paütthō ahaaṁ kuppējja sō vi aṇuṇējja</l>
+	<l>ia kassa vi phalaï maṇōramāṇa mālā piaamammi</l>
+      </lg>
+      <lg n="18">
+	<l>duggaakuḍaṁvaaṭṭhī kaha ṇu maē dhōiēṇa sōḍhavvā</l>
+	<l>dasiōsarantasalilēṇa uaha ruṇṇaṁ va paḍaēṇa</l>
+      </lg>
+      <lg n="19">
+	<l>kōsaṁvakisalavaṇṇaa taṇṇaa uṇṇāmiēhi kaṇṇēhiṁ</l>
+	<l>hiaaṭṭhiaṁ gharaṁ vaccamāṇa dhavalattaṇaṁ pāva</l>
+      </lg>
+      <lg n="20">
+	<l>aliapasuttaa viṇimīliaccha dē suhaa majjha ōāsaṁ</l>
+	<l>gaṇḍapariuṁ vaṇāpulaïaṅga ṇa puṇō cirāissaṁ</l>
+      </lg>
+      <lg n="21">
+	<l>asamatta maṇḍaṇa ccia vacca gharaṁ sē sakōuhallassa</l>
+	<l>vōlāviahalahalaassa putti cittē ṇa laggihisi</l>
+      </lg>
+      <lg n="22">
+	<l>āarapaṇāmiōṭṭaṁ aghaḍiaṇāsaṁ asaṁhaaṇiḍālaṁ</l>
+	<l>vaṇṇaghialittamuhiē tīē pariuṁvaṇaṁ bharimō</l>
+      </lg>
+      <lg n="23">
+	<l>āṇāsaāi dēntī taha suraē harisaviasiakavōlā</l>
+	<l>gōsē vi ōṇaamuhī aha sē tti piaṁ ṇa saddhahimō</l>
+      </lg>
+      <lg n="24">
+	<l>piavirahō appiadaṁsaṇaṁ ca garuāi dō vi dukkhāi</l>
+	<l>jīa tumaṁ kārijjasi tīa ṇamō āhijāīē</l>
+      </lg>
+      <lg n="25">
+	<l>ēkkō vi kālasārō ṇa dēi gantuṁ paāhiṇa calantō</l>
+	<l>kiṁ uṇa vāhāuliaṁ lōaṇajualaṁ piaamāē</l>
+      </lg>
+      <lg n="26">
+	<l>ṇa kuṇanto ccia māṇaṁ ṇisāsu suhasuttadaravivuddhānaṁ</l>
+	<l>suṇṇaïapāsaparimusaṇavēaṇaṁ jaï si jānantō</l>
+      </lg>
+      <lg n="27">
+	<l>paṇaakuviāṇa dōṇha vi aliapasuttāṇa māṇaïllāṇa</l>
+	<l>ṇiccalaṇiruddhaṇīsāsadiṇṇaaṇṇāṇa kō mallō</l>
+      </lg>
+      <lg n="28">
+	<l>ṇavalaïpaharaṁ aṅgē jahiṁ jahiṁ mahaï dēarō dāuṁ</l>
+	<l>rōmañca dandarāī tahiṁ tahiṁ dīsaï vahūē</l>
+      </lg>
+      <lg n="29">
+	<l>ajja maē tēṇa viṇā aṇuhūasuhāi sambharantīē</l>
+	<l>ahiṇavamēhāṇa ravō ṇisāmiō vajjhapaḍatō vva</l>
+      </lg>
+      <lg n="30">
+	<l>ṇikkiva jāābhīrua duddaṁsaṇa ṇiṁvakīḍasāriccha</l>
+	<l>gāmō gāmaṇiṇandaṇa tujjha kaē taha vitaṇuāi</l>
+      </lg>
+      <lg n="31">
+	<l>paharavaṇamaggavisamē jāā kicchēṇa lahaï sē ṇiddaṁ</l>
+	<l>gāmaṇiuttassa urē pallī uṇa sē suhaṁ suaï</l>
+      </lg>
+      <lg n="32">
+	<l>aha sambhāviamaggō suhaa tue ccēa ṇavara ṇivvūḍhō</l>
+	<l>ēṇhiṁ hiaē aṇṇaṁ aṇṇaṁ vāāi lōassa</l>
+      </lg>
+      <lg n="33">
+	<l>uṇhāi ṇīsasantō kīsa maha paraṁmuhīa saaṇaddhē</l>
+	<l>hiaaṁ palīviuṁ aṇusaēṇa puṭṭhiṁ palīvēsi</l>
+      </lg>
+      <lg n="34">
+	<l>tuha virahē ciraāraa tissā ṇivaḍantavāhamaïlēṇa</l>
+	<l>raïrahasiharadhaēṇa va muhēṇa chāhi ccia ṇa pattā</l>
+      </lg>
+      <lg n="35">
+	<l>diarassa asuddhamaṇassa kulavahūṇiaakuḍḍalihiāi</l>
+	<l>diahaṁ kahēi rāmāṇulaggasōmitticariāiṁ</l>
+      </lg>
+      <lg n="36">
+	<l>cattaraghariṇī piadaṁsaṇā a taruṇī paütthavaïāa</l>
+	<l>asaī saajjiāduggaā a ṇaha khaṇḍiaṁ sīlaṁ</l>
+      </lg>
+      <lg n="37">
+	<l>tālūrabhamāulakhuḍiakēsarō giriṇaīapūrēṇa</l>
+	<l>daravuḍḍavuḍḍaṇivvuḍḍamahuarō hīlaï kalaṁvō</l>
+      </lg>
+      <lg n="38">
+	<l>ahiāimāṇiṇō duggaassa chāiṁ païssa rakkhaṁhī</l>
+	<l>ṇiavandhavāṇa jūraï ghariṇī vihavēṇa ēntāṇaṁ</l>
+      </lg>
+      <lg n="39">
+	<l>sāhīṇē vi piaamē pattē vi chaṇē ṇa maṇḍiō appā</l>
+	<l>duggaapaütthavaïaṁ saajjiaṁ saṇṭhavantīē</l>
+      </lg>
+      <lg n="40">
+	<l>tujjha vasaï tti hiaaṁ imēhi diṭṭhō tumaṁ ti acchīiṁ</l>
+	<l>tuha virahē kisiāi ti tīē aṅgāi vi piāiṁ</l>
+      </lg>
+      <lg n="41">
+	<l>sabbhāvaṇē habhariē rattē rajjijjaï tti juttam iṇaṁ</l>
+	<l>aṇahiaē uṇa hiaaṁ jaṁ dijjaï taṁ jaṇō hasaï</l>
+      </lg>
+      <lg n="42">
+	<l>ārambhantassa dhuaṁ lacchī maraṇaṁ va hōi purisassa</l>
+	<l>taṁ maraṇam aṇārambhē vi hōi lacchī uṇa ṇa hōi</l>
+      </lg>
+      <lg n="43">
+	<l>virahāṇalō sahijjaï āsāvandhēṇa vallahajaṇassa</l>
+	<l>ēkkaggāmapavāsō māē maraṇaṁ visēsēi</l>
+      </lg>
+      <lg n="44">
+	<l>akkhaḍaï piā hiaē aṇṇaṁ mahilāaṇaṁ ramantassa</l>
+	<l>diṭṭhē sarisammi guṇē sarisammi guṇē aīsantē</l>
+      </lg>
+      <lg n="45">
+	<l>ṇaïpūrasacchahē jōvvaṇammi aïpavasiēsudiahēsu</l>
+	<l>aṇiattāsu a rāīsu putti kiṁ daḍḍhamāṇēṇa</l>
+      </lg>
+      <lg n="46">
+	<l>kallaṁ kira kharatiaō pavasihaï piō tti suvvaï jaṇammi</l>
+	<l>taha vaḍḍha bhaavaï ṇisē jaha sē kallaṁ cia ṇa hōi</l>
+      </lg>
+      <lg n="47">
+	<l>hontapahiassa jāā āucchaṇajīadhāraṇarahassaṁ</l>
+	<l>pucchantī bhamaï gharaṁ gharēṇa piavirahasahirīō</l>
+      </lg>
+      <lg n="48">
+	<l>aṇṇamahilāpasaṅgaṁ dē dēvva karēsu amha daïassa</l>
+	<l>purisā ēkkantarasā ṇa hu dōsaguṇē viāṇanti</l>
+      </lg>
+      <lg n="49">
+	<l>thōaṁ pi ṇa ṇīi imā majjhaṇhē ua sarīratalalukkā</l>
+	<l>āavabhaēṇa chāhī vi tā pahia kiṁ ṇa vīsamasī</l>
+      </lg>
+      <lg n="50">
+	<l>suhaücchaaṁ jaṇaṁ dullahaṁ pi dūrāhi amha āṇēnta</l>
+	<l>uaāraa jara jīaṁ pi ṇēnta ṇa kaāvarāhōsi</l>
+      </lg>
+      <lg n="51">
+	<l>āma jarō mē mandō ahava ṇa mandō jaṇassa kā tattī</l>
+	<l>suhaücchaa suhaa suandhagandha mā gandhiriṁ chivasu</l>
+      </lg>
+      <lg n="52">
+	<l>sihipicchaluliakēsē vēvantōru viṇimīliaddhacchī</l>
+	<l>darapurisāini visamiri jāṇasu purisāṇa jaṁ dukkhaṁ</l>
+      </lg>
+      <lg n="53">
+	<l>pēmmassa virōhiasandhiassa paccakkhadiṭṭhaviliassa</l>
+	<l>uaassa va tāviasīalassa virasō rasō hōi</l>
+      </lg>
+      <lg n="54">
+	<l>vajjavaḍanāirikkaṁ païṇō sōūṇa siñjiṇīghōsaṁ</l>
+	<l>pusiāi karimarīē sarivandīṇaṁ pi acchīiṁ</l>
+      </lg>
+      <lg n="55">
+	<l>karimari aālagajjirajalaāsaṇivaḍaṇapaḍiravō ēsō</l>
+	<l>païṇō dhaṇurava kaṅkhiri rōmañcaṁ kiṁ muhā vahasi</l>
+      </lg>
+      <lg n="56">
+	<l>sahaï sahaï tti tēṇa tahā ramiā suraaduvviaḍḍēṇa</l>
+	<l>pavvāasirīsāi va jaha sē jāāi aṅgāiṁ</l>
+      </lg>
+      <lg n="57">
+	<l>agaṇiasēsajuāṇā vālaa vōlīṇalōamajjāā</l>
+	<l>aha sā bhamaï disāmuhapasāriacchī tuha kaēṇa</l>
+      </lg>
+      <lg n="58">
+	<l>ajjaṁ cēa paütthō ujjāgaraō jaṇassa ajjēa</l>
+	<l>ajjēa haliddāpiñjarāi gōlāi tūhāiṁ</l>
+      </lg>
+      <lg n="59">
+	<l>asarisacittē diarē suddhamaṇā piaamē visamasīlē</l>
+	<l>ṇa kahaï kuḍuṁvavihaḍaṇabhaēṇa taṇuāaē sōṇhā</l>
+      </lg>
+      <lg n="60">
+	<l>cintāṇiadaïasamāgamammi kaamaṇṇuāi bhariūṇa</l>
+	<l>suṇṇaṁ kalahā antī sahīhi ruṇṇā ṇa ōhasiā</l>
+      </lg>
+      <lg n="61">
+	<l>hiaaṇṇuēhi samaaṁ asamattāiṁ pi jaha suhāvēnti</l>
+	<l>kajjāi maṇē ṇa tahā iarēhi samāṇiāiṁ pi</l>
+      </lg>
+      <lg n="62">
+	<l>daraphuḍiasippisampuḍaṇilukkahālāhalaggacheppaṇihaṁ</l>
+	<l>pikkaṁvaṭṭhiviṇiggaakōmalam aṁvaṅkuraṁ uaha</l>
+      </lg>
+      <lg n="63">
+	<l>uaha paḍalantarōiṇṇaṇiaatantuddhapāapaḍilaggaṁ</l>
+	<l>dullakkhasuttagutthēkkavaülakusumaṁ va makkaḍaaṁ</l>
+      </lg>
+      <lg n="64">
+	<l>uaridaraḍiṭṭhakhaṇṇuaṇilukkapārāvaāṇa viruēhiṁ</l>
+	<l>ṇitthaṇaï jāaviaṇaṁ sūlāhiṇṇaṁ va dēvaülaṁ</l>
+      </lg>
+      <lg n="65">
+	<l>jaï hōsi ṇa tassa piā aṇudiahaṁ ṇīsahēhi aṅgēhiṁ</l>
+	<l>ṇavasūapīapēōsamattapāḍi vva kiṁ suasi</l>
+      </lg>
+      <lg n="66">
+	<l>hēmantiāsu aïdīharāsu rāīsu taṁ si aviṇiddā</l>
+	<l>ciraarapaütthavaïē ṇa sundaraṁ jaṁ diā suasi</l>
+      </lg>
+      <lg n="67">
+	<l>jaï cikkhillabhaüppuapaam iṇam alasāi tuha paē diṇṇaṁ</l>
+	<l>tā suhaa kaṇḍaïjjantam aṅgam ēṇhiṁ kiṇō vahasi</l>
+      </lg>
+      <lg n="68">
+	<l>pattō chaṇō ṇa sōhaï aïppahāē vva puṇṇimāandō</l>
+	<l>antavirasō vva kāmō asampaāṇō a pariōsō</l>
+      </lg>
+      <lg n="69">
+	<l>pāṇiggahaṇe ccia pavvaīa ṇāaṁ sahīhi sōhaggaṁ</l>
+	<l>pasuvaïṇā vāsuikaṅkaṇammi ōsāriē dūraṁ</l>
+      </lg>
+      <lg n="70">
+	<l>giṁhē davaggimasimaïliāi dīsanti viñjhasiharāiṁ</l>
+	<l>āsasu paütthavaïē ṇa honti ṇavapāusabbhāiṁ</l>
+      </lg>
+      <lg n="71">
+	<l>jēttiamēttaṁ tīraï ṇivvōḍhuṁ dēsu tēttiaṁ paṇaaṁ</l>
+	<l>ṇa jaṇō viṇiattapasāadukkhasahaṇakkhamō savvō</l>
+      </lg>
+      <lg n="72">
+	<l>vahuvallahassa jā hōi vallahā kaha vi pañca diahāiṁ</l>
+	<l>sā kiṁ chaṭṭhaṁ maggaï kattō miṭṭhaṁ ca vahuaṁ ca</l>
+      </lg>
+      <lg n="73">
+	<l>jaṁ jaṁ sō ṇijjhāaï aṅgōāsaṁ mahaṁ aṇimisacchō</l>
+	<l>pacchāēmi a taṁ taṁ icchāmi a tēṇa dīsantaṁ</l>
+      </lg>
+      <lg n="74">
+	<l>daḍhamaṇṇudūmiāi vi gahiō daïammi pēchaha imīē</l>
+	<l>ōsaraï vāluāmuṭṭhiō vva māṇō surasurantō</l>
+      </lg>
+      <lg n="75">
+	<l>ua pōmmarāamaragaasaṁvaliā ṇahaalāu ōaraï</l>
+	<l>ṇahasirikaṇṭhabbhaṭṭha vva kaṇṭhiā kīrariñchōlī</l>
+      </lg>
+      <lg n="76">
+	<l>ṇa vi taha viēsavāsō dōggaccaṁ maha jaṇēi santāvaṁ</l>
+	<l>āsaṁsiatthavimuhō jaha paṇaïaṇō ṇiattantō</l>
+      </lg>
+      <lg n="77">
+	<l>khandhaggiṇā vaṇēsuṁ taṇēhi gāmammi rakkhiō pahiō</l>
+	<l>ṇaaravasiō ṇaḍijjaï sāṇusaēṇa vva sīēṇa</l>
+      </lg>
+      <lg n="78">
+	<l>bharimō sē gahiāharadhuasīsapahōlirālaāuliaṁ</l>
+	<l>vaaṇaṁ parimalataraliabhamarālipaïṇṇakamalaṁ va</l>
+      </lg>
+      <lg n="79">
+	<l>hallaphalaṇhāṇapasāhiāṇa chaṇavāsarē savattīṇa</l>
+	<l>ajjāi majjaṇāṇāarēṇa kahiaṁ va sōhaggaṁ</l>
+      </lg>
+      <lg n="80">
+	<l>ṇhāṇahaliddābhariantarāi jālāi jālavalaassa</l>
+	<l>sōhanti kiliñciakaṇṭaēṇa kaṁ kāhisi kaatthaṁ</l>
+      </lg>
+      <lg n="81">
+	<l>addaṁsaṇēṇa pēmmaṁ avēi aïdaṁsaṇēṇa vi avēi</l>
+	<l>pisuṇajaṇakampiēṇa vi avēi ēmēa vi avēi</l>
+      </lg>
+      <lg n="82">
+	<l>addaṁsaṇēṇa mahilāaṇassa aïdaṁsaṇēṇa ṇīassa</l>
+	<l>mukkhassa pisuṇaaṇajampiēṇa ēmēa vi khalassa</l>
+      </lg>
+      <lg n="83">
+	<l>pōṭṭapaḍiēhi dukkhaṁ acchijjaï uṇṇaēhi hōūṇa</l>
+	<l>ia cintantāṇa maṇē thaṇāṇa kasaṇaṁ muhaṁ jāaṁ</l>
+      </lg>
+      <lg n="84">
+	<l>sō tujjha kaē sundari taha jhīṇō sumahilō haliaüttō</l>
+	<l>jaha sē macchariṇīa vi dōccaṁ jāāi paḍivaṇṇaṁ</l>
+      </lg>
+      <lg n="85">
+	<l>dakkhiṇṇēṇa vi ēntō suhaa suhāvēsi aṁha hiaāiṁ</l>
+	<l>ṇikkaïavēṇa jāṇaṁ gaō si kā ṇivvuī tāṇaṁ</l>
+      </lg>
+      <lg n="86">
+	<l>ēkkaṁ paharugghāaṁ hatthaṁ muhamāruēṇa vīantō</l>
+	<l>sō vi hasantīa maē gahiō vīēṇa kaṇṭhammi</l>
+      </lg>
+      <lg n="87">
+	<l>avalaṁviamāṇaparaṁmuhīa ēntassa māṇini piassa</l>
+	<l>puṭṭhipulaüggamō tuha kahēi samuhaṭṭhiaṁ hiaaṁ</l>
+      </lg>
+      <lg n="88">
+	<l>jānaï jāṇāvēuṁ aṇuṇaaviddaviamāṇaparisēsaṁ</l>
+	<l>païrikkammi vi viṇaāvalaṁvaṇaṁ sa ccia kuṇantī</l>
+      </lg>
+      <lg n="89">
+	<l>muhamāruēṇa taṁ kaṇha gōraaṁ rāhiāi avaṇēntō</l>
+	<l>ēāṇa vallavīṇaṁ aṇṇāṇa vi gōraaṁ harasi</l>
+      </lg>
+      <lg n="90">
+	<l>kiṁ dāva kaā ahavā karēsi kāhisi a suhaa ēttāhē</l>
+	<l>avarāhāṇa alajjira sāhasu kaarā khamijjanti</l>
+      </lg>
+      <lg n="91">
+	<l>ṇūmanti jē pahuttaṁ kuviaṁ dāsa vva jē pasāanti</l>
+	<l>te ccia mahilāṇa piā sēsā sāmi ccia varāā</l>
+      </lg>
+      <lg n="92">
+	<l>taïā kaaggha mahuara ṇa ramasi aṇṇāsu pupphajāīsu</l>
+	<l>vaddhaphalabhāragaruiṁ mālaïm ēṇhiṁ pariccaasi</l>
+      </lg>
+      <lg n="93">
+	<l>aviaṇhapēcchaṇijjēṇa takkhaṇaṁ māmi tēṇa diṭṭhēṇa</l>
+	<l>siviṇaapīēṇa va pāṇiēṇa taṇha ccia ṇa phiṭṭā</l>
+      </lg>
+      <lg n="94">
+	<l>suaṇō jaṁ dēsam alaṅkarēi taṁ cia karēi pavasantō</l>
+	<l>gāmāsaṇṇummūlia mahāvaḍaṭṭhāṇasāricchaṁ</l>
+      </lg>
+      <lg n="95">
+	<l>sō ṇāma sambharijjaï pabbhasiō jō khaṇaṁ pi hiaāhi</l>
+	<l>sambhariavvaṁ ca kaaṁ gaaṁ ca pēmmaṁ ṇirālaṁvaṁ </l>
+      </lg>
+      <lg n="96">
+	<l>ṇāsaṁ va sā kavōlēajja vituha dantamaṇḍalaṁ vālā</l>
+	<l>ubbhiṇṇapulaavaïvēḍhaparigaaṁ rakkhaï varāī</l>
+      </lg>
+      <lg n="97">
+	<l>diṭṭhā cūā agghāiā surā dakkhiṇāṇilō sahiō</l>
+	<l>kajjāiṁ cia garuāi māmi kō vallahō kassa</l>
+      </lg>
+      <lg n="98">
+	<l>ramiūṇa paaṁ pi gaō jāhē uvaūhiuṁ paḍiṇiuttō</l>
+	<l>ahaaṁ paütthavaïa vva takkhaṇaṁ sō pavāsi vva</l>
+      </lg>
+      <lg n="99">
+	<l>aviaṇhapēcchaṇijjaṁ samasuhadukkhaṁ viiṇṇasabbhāvaṁ</l>
+	<l>aṇṇōṇṇahiaalaggaṁ puṇṇēhi jaṇō jaṇaṁ lahaï</l>
+      </lg>
+      <lg n="100">
+	<l>dukkhaṁ dēntō vi suhaṁ jaṇēi jō jassa vallahō hōi</l>
+	<l>daïaṇahadūmiāṇa vi vaḍḍhaï thaṇaāṇa rōmañcō</l>
+      </lg>
+      <lg n="101">
+	<l>dhariō dhariō vialaï uvaēsō piasahīhi dijjantō</l>
+	<l>maaraddhaavāṇapahārajajjarē tīa hiaammi</l>
+      </lg>
+      <lg n="102">
+	<l>taḍasaṇṭhiaṇīḍēkkantapīluārakkhaṇēkkadiṇṇamaṇā</l>
+	<l>agaṇiaviṇivāabhaā pūrēṇa samaṁ vahaï kāī</l>
+      </lg>
+      <lg n="103">
+	<l>vahupupphabharōṇāmiabhūmīgaasāha suṇasu viṇṇattiṁ</l>
+	<l>gōlāaḍaviaḍakuḍaṅga mahua saṇiaṁ galijjāsu</l>
+      </lg>
+      <lg n="104">
+	<l>ṇippacchimāi asaī dukkhālōāi mahuapupphāiṁ</l>
+	<l>cīē vandhussa va aṭṭhiāi ruarī samucciṇaï</l>
+      </lg>
+      <lg n="105">
+	<l>ō hiaa maḍahasariājalaraahīrantadīhadāru vva</l>
+	<l>ṭhāṇē ṭhāṇe ccia laggamāṇa kēṇā 'vi ḍajjhihisi</l>
+      </lg>
+      <lg n="106">
+	<l>jō tīa ahararāō rattiṁ uvvāsiō piaamēṇa</l>
+	<l>so ccia dīsaï gōsē savattiṇaaṇēsu saṅkantō</l>
+      </lg>
+      <lg n="107">
+	<l>gōlāaḍaṭṭhiaṁ pēcchiūṇa gahavaïsuaṁ haliasōṇhā</l>
+	<l>āḍhattā uttariuṁ dukkhuttārāi paavīē</l>
+      </lg>
+      <lg n="108">
+	<l>calaṇōāsaṇisaṇṇassa tassa bharimō aṇālavantassa</l>
+	<l>pāaṅguṭṭhāvēḍhiakēsadaḍhāaḍḍhaṇasuhēlliṁ</l>
+      </lg>
+      <lg n="109">
+	<l>phālēi acchabhallaṁ va uaha kuggāmadēuladdārē</l>
+	<l>hēmantaālapahiō vijjhāantaṁ palālaggiṁ</l>
+      </lg>
+      <lg n="110">
+	<l>kamalāarā ṇa maliā haṁsā uḍḍāviā ṇa a piucchā</l>
+	<l>kēṇa vi gāmataḍāē abbhaṁ uttāṇiaṁ chūḍhaṁ</l>
+      </lg>
+      <lg n="111">
+	<l>kēṇa maṇē bhaggamaṇōrahēṇa saṁlāviaṁ pavāsō tti</l>
+	<l>savisāi va alasāanti jēṇa vahuāi aṅgāiṁ</l>
+      </lg>
+      <lg n="112">
+	<l>ajja vi vālō dāmōarō tti ia jampiē jasōāē</l>
+	<l>kaṇhamuhapēsiacchaṁ ṇihuaṁ hasiaṁ vaavahūhiṁ</l>
+      </lg>
+      <lg n="113">
+	<l>tē viralā sappurisā jāṇa siṇēhō ahiṇṇamuharāō</l>
+	<l>aṇudiaha vaḍḍhamāṇō riṇaṁ va puttēsu saṅkamaï</l>
+      </lg>
+      <lg n="114">
+	<l>ṇaccaṇasalāhaṇaṇihēṇa pāsaparisaṇṭhiā ṇiuṇagōvī</l>
+	<l>sarigōviāṇa cuṁvaï kavōlapaḍimāgaaṁ kaṇhaṁ</l>
+      </lg>
+      <lg n="115">
+	<l>savvattha disāmuhapasariēhi aṇṇōṇṇakaḍaalaggēhiṁ</l>
+	<l>challiṁ va muaï viñjhō mēhēhi visaṅghaḍantēhiṁ</l>
+      </lg>
+      <lg n="116">
+	<l>ālōanti pulindā pavvaasiharaṭṭhiā dhaṇuṇisaṇṇā</l>
+	<l>hatthiulēhi va viñjhaṁ pūrijjantaṁ ṇavabbhēhiṁ</l>
+      </lg>
+      <lg n="117">
+	<l>vaṇadavamasimaïlaṅgō rēhaï viñjhō ghaṇēhi dhavalēhiṁ</l>
+	<l>khīrōamanthaṇucchaliaduddhasittō vva mahumahaṇō</l>
+      </lg>
+      <lg n="118">
+	<l>vandīa ṇihaavandhavavimaṇāi vi pakkalō tti cōrajuvā</l>
+	<l>aṇurāēṇa pulaïō guṇēsu kō maccharaṁ vahaï</l>
+      </lg>
+      <lg n="119">
+	<l>ajja kaïmō vi diahō vāhavahū rūvajōvvaṇummattā</l>
+	<l>sōhaggaṁ dhaṇurumpacchalēṇa racchāsu vikkiraï</l>
+      </lg>
+      <lg n="120">
+	<l>ukkhippaï maṇḍalimāruēṇa gēhaṅgaṇāhi vāhīē</l>
+	<l>sōhaggadhaavaḍāa vva uvaha dhaṇurumpariñchōlī</l>
+      </lg>
+      <lg n="121">
+	<l>gaagaṇḍatthalaṇihasaṇamaamaïlīkaakarañjasāhāhiṁ</l>
+	<l>ēntīa kulagharāō ṇāaṁ vāhīa païmaraṇaṁ</l>
+      </lg>
+      <lg n="122">
+	<l>ṇavavahupēmmatanuiō paṇaaṁ paḍhamaghariṇīa rakkhantō</l>
+	<l>alihiaduppariallaṁ pi ṇēi raṇṇaṁ dhaṇuṁ vāhō</l>
+      </lg>
+      <lg n="123">
+	<l>hāsāviō jaṇō sāmalīa paḍhamaṁ pasūamāṇāē</l>
+	<l>vallahavāēṇa alaṁ mama tti vahusō bhaṇantīē</l>
+      </lg>
+      <lg n="124">
+	<l>kaïavarahiaṁ pēmmaṁ ṇa tthi ccia māmi māṇusē lōē</l>
+	<l>aha hōi kassa virahō virahē hontammi kō jiaï</l>
+      </lg>
+      <lg n="125">
+	<l>acchēraṁ va ṇihiṁ miva saggē rajjaṁ va amaapāṇaṁ va</l>
+	<l>āsi mha taṁ muhuttaṁ viṇiaṁsaṇadaṁsaṇaṁ tissā</l>
+      </lg>
+      <lg n="126">
+	<l>sā tujjha vallahā taṁ si majjha vēsō si tīa tujjha ahaṁ</l>
+	<l>vālaa phuḍaṁ bhaṇāmō pēmmaṁ kira vahuviāraṁ ti</l>
+      </lg>
+      <lg n="127">
+	<l>ahaaṁ lajjāluiṇī tassa a ummaccharāi pēmmāiṁ</l>
+	<l>sahiāaṇō vi ṇiuṇō alāhi kiṁ pāarāēṇa</l>
+      </lg>
+      <lg n="128">
+	<l>mahumāsamāruāhaamahuarajhaṅkāraṇibbharē raṇṇē</l>
+	<l>gāi virahakhharāvaddhapahiamaṇamōhaṇaṁ gōvī</l>
+      </lg>
+      <lg n="129">
+	<l>taha māṇō māṇadhaṇāi tīa ēmēa dūram aṇuvaddhō</l>
+	<l>jaha sē aṇuṇīa piō ēkkaggāma ccia paütthō</l>
+      </lg>
+      <lg n="130">
+	<l>sālōa ccia sūrē ghariṇī gharasāmiassa ghēttūṇa</l>
+	<l>ṇēcchantassa vi pāē dhuaï hasantī hasantassa</l>
+      </lg>
+      <lg n="131">
+	<l>vāharaü maṁ sahīō tissā gōttēṇa kiṁ tha bhaṇiēṇa</l>
+	<l>thirapēmmā hōu jahiṁ tahiṁ pi mā kiṁ pi ṇaṁ bhaṇaha</l>
+      </lg>
+      <lg n="132">
+	<l>rūaṁ acchīsu ṭhiaṁ pharisō aṅgēsu jampiaṁ kaṇṇē</l>
+	<l>hiaaṁ hiaē ṇihiaṁ viōiaṁ kiṁ tha dēvvēṇa</l>
+      </lg>
+      <lg n="133">
+	<l>saaṇē cintāmaïaṁ kāūṇa piaṁ ṇimīliacchīē</l>
+	<l>appāṇō uvaūḍhō pasiḍhilavalaāhi vāhāhiṁ</l>
+      </lg>
+      <lg n="134">
+	<l>paribhūēṇa vi diahaṁ gharagharabhamirēṇa aṇṇakajjammi</l>
+	<l>cirajīviēṇa imiṇā khavia mhō ḍaḍḍhakāēṇa</l>
+      </lg>
+      <lg n="135">
+	<l>vasaï jahiṁ cēa khalō pōsijjantō siṇēhadāṇēhiṁ</l>
+	<l>taṁ cēa ālaaṁ dīvaō vva aïrēṇa maïlēi</l>
+      </lg>
+      <lg n="136">
+	<l>hontī vi ṇipphala ccia dhaṇariddhī hōi kiviṇapurisassa</l>
+	<l>gimhāavasantattassa ṇiaachāhi vva pahiassa</l>
+      </lg>
+      <lg n="137">
+	<l>phuriē vāmacchi taē jaï ēhii sō piō jja tā suiraṁ</l>
+	<l>sammīlia dāhiṇaaṁ tui aviaṇhaṁ pulōissaṁ</l>
+      </lg>
+      <lg n="138">
+	<l>suṇahapaürammi gāmē hiṇḍantī tuha kaēṇa sā vālā</l>
+	<l>pāsaasāri vva gharaṅgharēṇa kaïā vi khajjihaï</l>
+      </lg>
+      <lg n="139">
+	<l>aṇṇaṇṇaṁ kusumarasaṁ jaṁ kira sō mahaï mahuarō pāuṁ</l>
+	<l>taṁ ṇīrasāṇa dōsō kusumāṇaṁ ṇēa bhamarassa</l>
+      </lg>
+      <lg n="140">
+	<l>racchāpaïṇṇaṇaaṇuppalā tumaṁ sā paḍicchaē ēntaṁ</l>
+	<l>dāraṇihiēhi dōhi vi maṅgalakalasēhi va thaṇēhiṁ</l>
+      </lg>
+      <lg n="141">
+	<l>tā ruṇṇaṁ jā ruvvaï tā jhīṇaṁ jāva jhijjaē aṅgaṁ</l>
+	<l>tā ṇīsasia varāīa jāva sāsā pahuppanti</l>
+      </lg>
+      <lg n="142">
+	<l>samasōkkhadukkhaparivaḍḍhiāṇa kālēṇa rūḍhapēmmāṇa</l>
+	<l>mihuṇāṇa maraï jaṁ taṁ khu jiaï iaraṁ muaṁ hōi</l>
+      </lg>
+      <lg n="143">
+	<l>harihii piassa ṇavacūapallavō paḍhamamañjarisaṇāhō</l>
+	<l>mā ruasu putti patthāṇakalasamuhasaṇṭhiō gamaṇaṁ</l>
+      </lg>
+      <lg n="144">
+	<l>jō kaha vi maha sahīhiṁ chiddaṁ lahiūṇa pēsiō hiaē</l>
+	<l>sō māṇō cōriakāmuō vva diṭṭhē piē ṇaṭṭhō</l>
+      </lg>
+      <lg n="145">
+	<l>sahiāhi bhaṇṇamāṇā thaṇaē laggaṁ kusumbhaüpphaṁ ti</l>
+	<l>muddhavahuā hasijjaï papphōḍantī ṇahavaāiṁ</l>
+      </lg>
+      <lg n="146">
+	<l>ummūlēnti va hiaaṁ imāi rē tuha virajjamāṇassa</l>
+	<l>avahīraṇavasavisãṭhulavalantaṇaaṇaddhadiṭṭhāiṁ</l>
+      </lg>
+      <lg n="147">
+	<l>ṇa muanti dīhasāsē ṇa ruanti ciraṁ ṇa honti kisiāō</l>
+	<l>dhaṇṇāu tāu jāṇaṁ vahuvallaha vallahō ṇa tumaṁ</l>
+      </lg>
+      <lg n="148">
+	<l>ṇiddālasaparighummirataṁsavalantaddhatāraālōā</l>
+	<l>kāmassa vi duvvisahā diṭṭhiṇivāā sasimuhīē</l>
+      </lg>
+      <lg n="149">
+	<l>jīviasēsāi maē gamiā kaha kaha vi pēmmaduddōlī</l>
+	<l>ēṇhuṁ viramasu rē ḍaḍḍha hiaa mā rajjasu kahiṁ pi</l>
+      </lg>
+      <lg n="150">
+	<l>ajjāi ṇavaṇahakkhaaṇirikkhaṇē garuajōvvaṇuttuṅgaṁ</l>
+	<l>paḍimāgaaṇiaṇaaṇuppalacciaṁ hōi thaṇavaṭṭhaṁ</l>
+      </lg>
+      <lg n="151">
+	<l>taṁ ṇamaha jassa vacchē lacchimuhaṁ kōtthuhammi saṅkantaṁ</l>
+	<l>dīsaï maaparihīṇaṁ sasiviṁvaṁ sūraviṁva vva</l>
+      </lg>
+      <lg n="152">
+	<l>mā kuṇa paḍivakkhasuhaṁ aṇuṇēsu piaṁ pasāalōhillaṁ</l>
+	<l>aïgahiagaruamāṇēṇa putti rāsi vva jhijjihisi</l>
+      </lg>
+      <lg n="153">
+	<l>virahakaravattadūsaha phālijjantammi tīa hiaammi</l>
+	<l>aṁsū kajjalamaïlaṁ pamāṇasuttaṁ va paḍihāi</l>
+      </lg>
+      <lg n="154">
+	<l>duṇṇikkhēvaam ēaṁ puttaa mā sāhasaṁ karijjāsu</l>
+	<l>ēttha ṇihittāi maṇē hiaāi puṇō ṇa labbhanti</l>
+      </lg>
+      <lg n="155">
+	<l>ṇivvuttaraā vi vahū suraavirāmaṭṭhiiṁ aāṇantī</l>
+	<l>aviraahiaā aṇṇaṁ pi kiṁ pi atthi tti cintēi</l>
+      </lg>
+      <lg n="156">
+	<l>ṇandantu suraasuharasataṇhāvaharāi saalalōassa</l>
+	<l>vahukaïavamaggaviṇimmiāi vēsāṇa pēmmāiṁ</l>
+      </lg>
+      <lg n="157">
+	<l>appattamaṇṇudukkhō kiṁ maṁ kisia tti pucchasi hasantō</l>
+	<l>pāvasi jā calacittaṁ piaṁ jaṇaṁ tā tuha kahissaṁ</l>
+      </lg>
+      <lg n="158">
+	<l>avahatthiūṇa sahijampiāi jāṇaṁ kaēṇa ramiō si</l>
+	<l>ēāi tāi sōkkhāi saṁsaō jēhi jīassa</l>
+      </lg>
+      <lg n="159">
+	<l>īsāluō paī sē rattiṁ mahuaṁ ṇa dēi uccēuṁ</l>
+	<l>uccēi appaṇa ccia māē aïujjuasahāō</l>
+      </lg>
+      <lg n="160">
+	<l>acchōḍiavatthaddhantapatthiē mantharaṁ tumaṁ vacca</l>
+	<l>cintēsi thaṇaharāāsiassa majjhassa vi ṇa bhaṅgaṁ</l>
+      </lg>
+      <lg n="161">
+	<l>uddhacchō piaï jalaṁ jaha jaha viralaṅgulī ciraṁ pahiō</l>
+	<l>pāvāliā vi taha taha dhāraṁ taṇuaṁ pi taṇuēi</l>
+      </lg>
+      <lg n="162">
+	<l>bhicchaarō pēcchaï ṇāhimaṇḍalaṁ sā vi tassa muhaandaṁ</l>
+	<l>taṁ caṭṭuaṁ karaṅkaṁ dōṇha vi kāā vilumpanti</l>
+      </lg>
+      <lg n="163">
+	<l>jēṇa viṇā ṇa jivijjaï aṇuṇijjaï sō kaāvarāhō vi</l>
+	<l>pattē vi ṇaaraḍāhē bhaṇa kassa ṇa vallahō aggī</l>
+      </lg>
+      <lg n="164">
+	<l>vaṅkaṁ kō pulaïjjaü kassa kahijjaü suhaṁ va dukkhaṁ va</l>
+	<l>kēṇa samaṁ va hasijjaü pāmarapaürē haaggāmē</l>
+      </lg>
+      <lg n="165">
+	<l>phalahīvāhaṇapuṇṇāhamaṅgalaṁ laṅgalē kuṇantīē</l>
+	<l>asaīa maṇōrahagabbhiṇīa hatthā tharaharanti</l>
+      </lg>
+      <lg n="166">
+	<l>pahiullūraṇasaṅkāulāhi asaīhi vahalatimirassa</l>
+	<l>āippaṇēṇa ṇihuaṁ vaḍassa sittāi pattāiṁ</l>
+      </lg>
+      <lg n="167">
+	<l>bhañjantassa vi tuha saggagāmiṇō ṇaïkarañjasāhāō</l>
+	<l>pāā ajja vi dhammia tuha kaha dharaṇiṁ cia chivanti</l>
+      </lg>
+      <lg n="168">
+	<l>acchaü dāva maṇaharaṁ piāi muhadaṁsaṇaṁ aïmahagghaṁ</l>
+	<l>taggāmachēttasīmā vi jhatti diṭṭhā suhāvēi</l>
+      </lg>
+      <lg n="169">
+	<l>ṇikkammāhi vi chēttāhi pāmarō ṇēa vaccaē vasahiṁ</l>
+	<l>muapiajāāsuṇṇaïagēhadukkhaṁ pariharantō</l>
+      </lg>
+      <lg n="170">
+	<l>jhañjhāvāuttiṇagharavivarapalōṭṭantasaliladhārāhiṁ</l>
+	<l>kuḍḍalihiōhidiahaṁ rakkhaï ajjā karaalēhiṁ</l>
+      </lg>
+      <lg n="171">
+	<l>gōlāṇaīa kacchē cakkhantō rāiāi pattāiṁ</l>
+	<l>upphaḍaï makkaḍō khōkkhēi a pōṭṭaṁ ca piṭṭēi</l>
+      </lg>
+      <lg n="172">
+	<l>gahavaïṇā muasēihaḍuṇḍumadāmaṁ ciraṁ vahēūṇa</l>
+	<l>vaggasaāiṁ ṇēūṇa ṇavari ajjāharē vaddhaṁ</l>
+      </lg>
+      <lg n="173">
+	<l>sihipēhuṇāvaaṁsā vahuā vāhassa gavvirī bhamaï</l>
+	<l>gaamōttiaraïapasāhaṇāṇa majjhē savattīṇa</l>
+      </lg>
+      <lg n="174">
+	<l>vaṅkacchipēcchirīṇaṁ vaṅkullavirīṇa vaṅkabhamirīṇaṁ</l>
+	<l>vaṅkahasirīṇa puttaa puṇṇēhi jaṇō piō hōi</l>
+      </lg>
+      <lg n="175">
+	<l>bhama dhammia vīsatthō sō suṇahō ajja māriō tēṇa</l>
+	<l>gōlāaḍaviaḍakuḍuṅgavāsiṇā dariasīhēṇa</l>
+      </lg>
+      <lg n="176">
+	<l>vāēriēṇa bhariaṁ acchiṁ kaṇṇaraïuppalaraēṇa</l>
+	<l>phukkantō aviaṇhaṁ cuṁvantō kō si dēvvāṇaṁ</l>
+      </lg>
+      <lg n="177">
+	<l>sahi dummēnti kalaṁvāiṁ jaha maṁ taha ṇa sēsakusumāiṁ</l>
+	<l>ṇūṇaṁ imēsu diahēsu vahaï guliādhaṇuṁ kāmō</l>
+      </lg>
+      <lg n="178">
+	<l>ṇā 'haṁ dūī ṇa tumaṁ piō tti kō amha ēttha vāvārō</l>
+	<l>sā maraï tujjha aasō ēaṁ dhammakkharaṁ bhaṇimō</l>
+      </lg>
+      <lg n="179">
+	<l>tīa muhāhi tuha muhaṁ tujjha muhāō a majjha calaṇammi</l>
+	<l>hatthāhatthīa gaō aïdukkarakāraō tilaō</l>
+      </lg>
+      <lg n="180">
+	<l>sāmāi sāmalijjaï addhacchipalōirīa muhasōhā</l>
+	<l>jaṁvūdalakaakaṇṇāvaaṁsabhamirē haliaüttē</l>
+      </lg>
+      <lg n="181">
+	<l>dūi tumaṁ cia kusalā kakkhaḍamaüāi jāṇasē vōttuṁ</l>
+	<l>kaṇḍūipaṇḍaraṁ jaha ṇa hōi taha taṁ karējjāsu</l>
+      </lg>
+      <lg n="182">
+	<l>mahilāsahassabhariē tuha hiaē suhaa sā amāantī</l>
+	<l>diahaṁ aṇaṇṇakammā aṅgaṁ taṇuaṁ pi taṇuēi</l>
+      </lg>
+      <lg n="183">
+	<l>khaṇamēttaṁ pi ṇa phiṭṭaï aṇudiaha viiṇṇagaruasantāvā</l>
+	<l>pacchaṇṇapāvasaṅka vva sāmalī majjha hiaāō</l>
+      </lg>
+      <lg n="184">
+	<l>aṇṇua ṇā 'haṁ kuviā uvaūhasu kiṁ muhā pasāēsi</l>
+	<l>tuha maṇṇusamuppāēṇa majjha māṇēṇa vi ṇa kajjaṁ</l>
+      </lg>
+      <lg n="185">
+	<l>dīhuṇhapaüraṇīsāsapaaviō vāhasalilaparisittō</l>
+	<l>sāhēi sāmasavalaṁ va tīa aharō tuha viōē</l>
+      </lg>
+      <lg n="186">
+	<l>saraē mahaddahāṇaṁ antōsisirāi vāhiruṇhāiṁ</l>
+	<l>jāāi kuviasajjaṇahiaasaricchāi salilāiṁ</l>
+      </lg>
+      <lg n="187">
+	<l>āassa kiṁ ṇu kāhaṁ kiṁ vōcchaṁ kaha ṇu hōhii imaṁ ti</l>
+	<l>paḍhamuggaasāhasaāriāi hiaaṁ tharaharēi</l>
+      </lg>
+      <lg n="188">
+	<l>ṇēurakōḍivilaggaṁ ciuraṁ daïassa pāapaḍiassa</l>
+	<l>hiaaṁ paütthamāṇaṁ ummōanti ccia kahēi</l>
+      </lg>
+      <lg n="189">
+	<l>tujjha 'ṅgarāasēsēṇa sāmalī taha kharēṇa sōmārā</l>
+	<l>sā kira gōlātūhē ṇhāā jaṁvūkasāēṇa</l>
+      </lg>
+      <lg n="190">
+	<l>ajjaṁ cēa paütthō ajjaṁ cia suṇṇaāi jāāiṁ</l>
+	<l>racchāmuhadēulacaccarāi amhaṁ ca hiaāiṁ</l>
+      </lg>
+      <lg n="191">
+	<l>ciriḍiṁ pi aāṇantā lōā lōēhi gōravabbhahiā</l>
+	<l>sōṇāratula vva ṇirakkharā vi khandhēhi vubbhanti</l>
+      </lg>
+      <lg n="192">
+	<l>āaṁvantakavōlaṁ khaliakkharajampiriṁ phurantōṭṭhiṁ</l>
+	<l>mā chivasu tti sarōsaṁ samōsarantiṁ piaṁ bharimō</l>
+      </lg>
+      <lg n="193">
+	<l>gōlāvisamōāracchalēṇa appā urammi sē mukkō</l>
+	<l>aṇuampāṇiddōsaṁ tēṇa vi sā gāḍham uvaūḥā</l>
+      </lg>
+      <lg n="194">
+	<l>sā taï sahatthadiṇṇaṁ ajja vi rē suhaa gandharahiaṁ pi</l>
+	<l>uvvasiaṇaaragharadēvaa vva ōmāliaṁ vahaï</l>
+      </lg>
+      <lg n="195">
+	<l>kēlīa vi rūsēuṁ ṇa tīraē tammi cukkaviṇaammi</l>
+	<l>jāiaēhi vi māē imēhi avasēhi aṅgēhiṁ</l>
+      </lg>
+      <lg n="196">
+	<l>upphulliāi khēlaü mā ṇaṁ vārēhi hōu parikhāmā</l>
+	<l>mā jahaṇabhāragaruī purisāantī kilimmihaï</l>
+      </lg>
+      <lg n="197">
+	<l>paürajuāṇō gāmō mahumāsō jōvvaṇaṁ paī ṭhērō</l>
+	<l>juṇṇasurā sāhīṇā asaī mā hōu kiṁ maraü</l>
+      </lg>
+      <lg n="198">
+	<l>vahusō vi kahijjantaṁ tuha vaaṇaṁ majjha hatthasandiṭṭhaṁ</l>
+	<l>ṇa suaṁ ti jampamāṇā puṇaruttasaaṁ kuṇaï ajjā</l>
+      </lg>
+      <lg n="199">
+	<l>pāaḍiaṇēhasabbhāvaṇibbharaṁ tīa jaha tumaṁ diṭṭhō</l>
+	<l>saṁvaraṇavāvaḍāē aṇṇō vi jaṇō taha ccēa</l>
+      </lg>
+      <lg n="200">
+	<l>gēṇhaha pulōaha imaṁ pahasiavaaṇā païssa appēi</l>
+	<l>jāā suapaḍhamubbhiṇṇadantajualaṅkiaṁ vōraṁ</l>
+      </lg>
+      <lg n="201">
+	<l>acchaü tā jaṇavāō hiaaṁ cia attaṇō tuha pamāṇaṁ</l>
+	<l>taha taṁ si mandaṇēhō jaha ṇa uvālambhajōggō si</l>
+      </lg>
+      <lg n="202">
+	<l>appacchandapahāvira dullahalambhaṁ jaṇaṁ vimagganta</l>
+	<l>āāsavahēhi bhamanta hiaa kaïā vi bhajjihisi</l>
+      </lg>
+      <lg n="203">
+	<l>ahava guṇa ccia lahuā ahavā guṇaaṇṇuō ṇa sō lōō</l>
+	<l>ahava mhi ṇigguṇā vā vahuguṇavantō jaṇō tassa</l>
+      </lg>
+      <lg n="204">
+	<l>phuṭṭantēṇa vi hiaēṇa māmi kaha ṇivvarijjaē tammi</l>
+	<l>addāē paḍiviṁva vva jammi dukkhaṁ ṇa saṅkamaï</l>
+      </lg>
+      <lg n="205">
+	<l>pāsāsaṅkī kāō ṇē 'cchaï diṇṇaṁ pi pahiaghariṇīē</l>
+	<l>ōṇattakaraalōaliavalaamajjhaṭṭhiaṁ piṇḍaṁ</l>
+      </lg>
+      <lg n="206">
+	<l>ōhidiahāgamāsaṅkirīhi sahiāhi kuḍḍalihiāō</l>
+	<l>dō tiṇṇi tahiṁ mia cōriāi rēhā pusijjanti</l>
+      </lg>
+      <lg n="207">
+	<l>tuha muhasāricchaṁ ṇa lahaï tti sampuṇṇamaṇḍalō vihiṇā</l>
+	<l>aṇṇamaaṁ va ghaḍēuṁ puṇō vi khaṇḍijjaï miaṅkō</l>
+      </lg>
+      <lg n="208">
+	<l>ajjaṁ gaō tti ajjaṁ gaō tti ajjaṁ gaō tti gaṇirīē</l>
+	<l>paḍhama ccia diahaddhē kuḍḍō rēhāhi cittaliō</l>
+      </lg>
+      <lg n="209">
+	<l>ṇa vi taha paḍhamasamāgamasuraasuhē pāviē vi pariōsō</l>
+	<l>jaha vīadiahasavilakkhalakkhiē vaaṇakamalammi</l>
+      </lg>
+      <lg n="210">
+	<l>jē samuhāgaavōlantavaliapiapēsiacchivicchōhā</l>
+	<l>aha maṇṇē maaṇasarā jaṇassa jē honti tē hontu</l>
+      </lg>
+      <lg n="211">
+	<l>iarō jaṇō ṇa pāvaï tuha jahaṇāruhaṇasaṅgamasuhēlliṁ</l>
+	<l>aṇuhavaï kaṇaadōrō huavahavaruṇāṇa māhappaṁ</l>
+      </lg>
+      <lg n="212">
+	<l>jō jassa vihavasārō taṁ sō dēi tti kiṁ tha acchēraṁ</l>
+	<l>aṇahontaṁ pi hu diṇṇaṁ dōhaggaṁ taï savattīṇaṁ</l>
+      </lg>
+      <lg n="213">
+	<l>candasarisaṁ muhaṁ sē sarasō amaassa muharasō tissā</l>
+	<l>sakaaggaharahasujjalacuṁvaṇaaṁ kassa sarisaṁ sē</l>
+      </lg>
+      <lg n="214">
+	<l>uppaṇṇatthē kajjē aïcintantō guṇāguṇē tammi</l>
+	<l>ciraālamandapēcchittaṇēṇa purisō haṇaï kajjaṁ</l>
+      </lg>
+      <lg n="215">
+	<l>vālaa tumāhi ahiaṁ ṇiaaṁ cia vallahaṁ mahaṁ jīaṁ</l>
+	<l>taṁ taï viṇā ṇa hōi tti tēṇa kuviaṁ pasāēmi</l>
+      </lg>
+      <lg n="216">
+	<l>pattia ṇa pattiantī jaï tujjha imē ṇa majjha ruirīē</l>
+	<l>puṭṭhīa vāhavindū pulaübbhēē ṇa bhijjantā</l>
+      </lg>
+      <lg n="217">
+	<l>taṁ mittaṁ kāavvaṁ jaṁ kira vasaṇammi dēsaālammi</l>
+	<l>ālihiabhittivāullaa vva ṇa paraṁmuhaṁ ṭhāi</l>
+      </lg>
+      <lg n="218">
+	<l>vahuāi ṇaïṇiuñjē paḍhamuggaasīlakhaṇḍaṇavilakkhaṁ</l>
+	<l>uḍḍēi vihaṅgaülaṁ hāhā pakkhēhi va bhaṇantaṁ</l>
+      </lg>
+      <lg n="219">
+	<l>saccaṁ bhaṇāmi vālaa ṇa tthi asakkaṁ vasantamāsassa</l>
+	<l>gandhēṇa kuruvaāṇaṁ maṇaṁ pi asaïttanaṁ ṇa gaā</l>
+      </lg>
+      <lg n="220">
+	<l>ēkkēkkamavaïvēḍhaṇavivarantaradiṇṇataralaṇaaṇāē</l>
+	<l>taï vōlantē vālaa pañjarasaüṇāiaṁ tīē</l>
+      </lg>
+      <lg n="221">
+	<l>tā kiṁ karēu jaï taṁ si tīa vaïvēḍhapēlliathaṇīē</l>
+	<l>pāaṅguṭṭhaggukkhittaṇīsahaṅgīa vi ṇa diṭṭhō</l>
+      </lg>
+      <lg n="222">
+	<l>piasambharaṇapalōṭṭantavāhadhārāṇivāabhīāē</l>
+	<l>dijjaï vaṅkaggīvāi dīvaō pahiajāāē</l>
+      </lg>
+      <lg n="223">
+	<l>taï vōlantē vālaa tissā aṅgāi taha ṇu valiāiṁ</l>
+	<l>jaha puṭṭhimajjhaṇivaḍantavāhadhārāu dīsanti</l>
+      </lg>
+      <lg n="224">
+	<l>tā majjhimo ccia varaṁ dujjaṇasuaṇēhi dōhi vi ṇa kajjaṁ</l>
+	<l>jaha diṭṭhō tavaï khalō tahēa suaṇō aīsantō</l>
+      </lg>
+      <lg n="225">
+	<l>addhacchipēcchiaṁ mā karēhi sāhāviaṁ palōēhi</l>
+	<l>sō vi sudiṭṭhō hōhii tumaṁ pi muddhā kalijjhihisi</l>
+      </lg>
+      <lg n="226">
+	<l>diahaṁ khuḍukkiāē tīē kāūṇa gēhavāvāraṁ</l>
+	<l>garuē vi maṇṇudukkhē bharimō pāantasuttassa</l>
+      </lg>
+      <lg n="227">
+	<l>pāṇaüḍīa vi jaliūṇa huavahō jalaï jaṇṇavāḍammi</l>
+	<l>ṇa hu tē parihariavvā visamadasāsaṇṭhiā purisā</l>
+      </lg>
+      <lg n="228">
+	<l>jaṁ tujjha saī jāā asaīō suhaa jaṁ ca amhē vi</l>
+	<l>tā kiṁ phuṭṭaü vīaṁ tujjha samāṇō juā ṇa tthi</l>
+      </lg>
+      <lg n="229">
+	<l>savvassammi vi ḍaḍḍhē taha vi hu hiaassa ṇivvui ccēa</l>
+	<l>jaṁ tēna gāmaḍāhē hatthāhatthiṁ kuḍō gahiō</l>
+      </lg>
+      <lg n="230">
+	<l>jāējja vaṇuddēsē khujjō vi hu ṇīsahō siḍhilavattō</l>
+	<l>mā māṇusammi lōē cāī rasiō dariddō a</l>
+      </lg>
+      <lg n="231">
+	<l>tassa a sōhaggaguṇaṁ amahilasarisaṁ ca sāhasaṁ majjha</l>
+	<l>jāṇaï gōlāūrō vāsārattaddharattō a</l>
+      </lg>
+      <lg n="232">
+	<l>tē vōliā vaassā tāṇa kuḍuṅgāṇa khaṇṇuā sēsā</l>
+	<l>amhē vi gaavaāō mūlucchēaṁ gaaṁ pēmmaṁ</l>
+      </lg>
+      <lg n="233">
+	<l>thaṇajahaṇaṇiaṁvōvari ṇaharaṅkā gaavaāṇa vilaāṇaṁ</l>
+	<l>uvvasiāṇaṅgaṇivāsamūlavandha vva dīsanti</l>
+      </lg>
+      <lg n="234">
+	<l>jassa jahiṁ cia paḍhamaṁ tissā aṅgammi ṇivaḍiā diṭṭhī</l>
+	<l>tassa tahiṁ cēa ṭhiā savvaṅgaṁ kēṇa vi ṇa diṭṭhaṁ</l>
+      </lg>
+      <lg n="235">
+	<l>virahē visaṁ va visamā amaamaā hōi saṅgamē ahiaṁ</l>
+	<l>kiṁ vihiṇā samaaṁ cia dōhiṁ pi piā viṇimmaviā</l>
+      </lg>
+      <lg n="236">
+	<l>addaṁsaṇēṇa puttaa suṭṭhu vi ṇēhāṇuvandhaghaḍiāiṁ</l>
+	<l>hatthaüḍapāṇiāi va kālēṇa galanti pēmmāiṁ</l>
+      </lg>
+      <lg n="237">
+	<l>païpurao ccia ṇijjaï viñchuaḍaṭṭhē 'ti jāravējjagharaṁ</l>
+	<l>ṇiuṇasahīkaradhariā bhuajualandōlirī vālā</l>
+      </lg>
+      <lg n="238">
+	<l>vikkiṇaï māhamāsaṁmi pāmarō pāriḍiṁ vaïllēṇa</l>
+	<l>ṇiddhūmamummurē sāmalīa thaṇaē ṇiacchantō</l>
+      </lg>
+      <lg n="239">
+	<l>saccaṁ bhaṇāmi maraṇē ṭhia mhi puṇṇē taḍammi tāvīē</l>
+	<l>ajja vi tattha kuḍuṅgē ṇivaḍaï diṭṭhī taha ccēa</l>
+      </lg>
+      <lg n="240">
+	<l>andhaaravōrapatthiṁ va māuā maha païṁ vilumpanti</l>
+	<l>īsāanti maha ccia cheppāhintō phaṇō jāō</l>
+      </lg>
+      <lg n="241">
+	<l>appattapattaaṁ pāviūṇa ṇavaraṅgaaṁ haliasōṇhā</l>
+	<l>uaha taṇuī ṇa māaï rundāsu vi gāmaracchāsu</l>
+      </lg>
+      <lg n="242">
+	<l>vakkhēvaāi piajampiāi parahiaaṇivvuiarāi</l>
+	<l>viralō hu jāṇaï jaṇō uppaṇṇē jampiavvāiṁ</l>
+      </lg>
+      <lg n="243">
+	<l>chajjaï pahussa laliaṁ piāi māṇō khamā samatthassa</l>
+	<l>jāṇantassa a bhaṇiaṁ mōṇaṁ ca aāṇamāṇassa</l>
+      </lg>
+      <lg n="244">
+	<l>vēvirasiṇṇakaraṅgulipariggahakkhalialēgaṇīmaggē</l>
+	<l>sōtthi ccia ṇa samappaï piasahi lēhammi kiṁ lihimō</l>
+      </lg>
+      <lg n="245">
+	<l>dēvvammi parāhuttē pattia ghaḍiaṁ pi vihaḍaï ṇarāṇaṁ</l>
+	<l>kajjaṁ vāluavaraṇaṁ va kaha vi vandhaṁ cia ṇa dēi</l>
+      </lg>
+      <lg n="246">
+	<l>māmi hiaaṁ va pīaṁ tēṇa juāṇēṇa majjamāṇāē</l>
+	<l>ṇhāṇahaliddākaḍuaṁ aṇusōtta jalaṁ piantēṇa</l>
+      </lg>
+      <lg n="247">
+	<l>jiviaṁ asāsaaṁ cia ṇa ṇiattaï jōvvaṇaṁ aïkkantaṁ</l>
+	<l>diahā diahēhi samā ṇa honti kiṁ ṇiṭṭhurō lōō</l>
+      </lg>
+      <lg n="248">
+	<l>uppāiadavvāṇa vi khalāṇa kō bhāaṇaṁ khalo ccēa</l>
+	<l>pikkāi vi ṇiṁvaphalāi ṇavara kāēhi khajjanti</l>
+      </lg>
+      <lg n="249">
+	<l>ajja maē gantavvaṁ ghaṇandhaārē vi tassa suhaassa</l>
+	<l>ajjā ṇimīliacchī paaparivāḍiṁ gharē kuṇaï</l>
+      </lg>
+      <lg n="250">
+	<l>suaṇō ṇa kuppaï ccia aha kuppaï vippiaṁ ṇa cintēi</l>
+	<l>aha cintēi ṇa jampaï aha jampaï lajjiō hōi</l>
+      </lg>
+      <lg n="251">
+	<l>sō atthō jō hatthē taṁ mittaṁ jaṁ ṇirantaraṁ vasaṇē</l>
+	<l>taṁ rūaṁ jattha guṇā taṁ viṇṇāṇaṁ jahiṁ dhammō</l>
+      </lg>
+      <lg n="252">
+	<l>candamuhi candadhavalā dīhā dīhacchi tuha viōammi</l>
+	<l>caüjāmā saajāma vva jāmiṇī kaha vi vōlīṇā</l>
+      </lg>
+      <lg n="253">
+	<l>aülīṇō dōmuhaō tā mahurō bhōaṇaṁ muhē jāva</l>
+	<l>muraō vva khalō jiṇṇammi bhōaṇē virasam ārasaï</l>
+      </lg>
+      <lg n="254">
+	<l>taha sōṇhāi pulaïō daravaliāvaṅgatāraaṁ pahiō</l>
+	<l>jaha vāriō vi gharasāmiēṇa ālindaē vasiō</l>
+      </lg>
+      <lg n="255">
+	<l>lahuanti lahuṁ purisaṁ pavvaamēttaṁ pi dō vi kajjāiṁ</l>
+	<l>ṇivvaraṇam aṇivvūḍhē ṇivvūḍhē jaṁ aṇivvaraṇaṁ</l>
+      </lg>
+      <lg n="256">
+	<l>kaṁ tuṅgathaṇukkhittēṇa putti dāraṭṭhiā palōēsi</l>
+	<l>uṇṇāmiakalasaṇivēsiagghakamalēṇa va muhēṇa</l>
+      </lg>
+      <lg n="257">
+	<l>vaïvivaraṇiggaadalō ēraṇḍō sāhaï vva taruṇāṇaṁ</l>
+	<l>ēttha gharē haliavahū ēddahamēttatthaṇī vasaï</l>
+      </lg>
+      <lg n="258">
+	<l>gaakalahakumbhasaṁṇihaghaṇapīṇaṇirantarēhi tuṅgēhiṁ</l>
+	<l>gūsasiuṁ pi ṇa tīraï kiṁ puṇa gantuṁ haathaṇēhiṁ</l>
+      </lg>
+      <lg n="259">
+	<l>māsapasūaṁ chammāsagabbhiṇiṁ ēkkadiahajariaṁ ca</l>
+	<l>raṅguttiṇṇaṁ ca piaṁ puttaa kāmantaō hōhi</l>
+      </lg>
+      <lg n="260">
+	<l>paḍivakkhamaṇṇupuñjē lāvaṇṇaüḍē aṇaṅgagaakumbhē</l>
+	<l>purisasaahiaadhariē kīsa thaṇantī thaṇē vahasi</l>
+      </lg>
+      <lg n="261">
+	<l>ghariṇīghaṇathaṇapēllaṇasuhēllipaḍiassa hontapahiassa</l>
+	<l>avasaüṇaṅgāraavāraviṭṭhidiahā suhāvēnti</l>
+      </lg>
+      <lg n="262">
+	<l>sā tujjha kaē vālaa aṇisaṁ gharadāratōraṇaṇisaṇṇā</l>
+	<l>ōsūsaï vandaṇamālia vva diahaṁ cia varāī</l>
+      </lg>
+      <lg n="263">
+	<l>hasiaṁ sahatthatālaṁ sukkhavaḍaṁ uvagaēhi pahiēhiṁ</l>
+	<l>pattaaphalāṇa sarisē uḍḍīṇē pūsavindammi</l>
+      </lg>
+      <lg n="264">
+	<l>ajja mhi hāsiā māmi tēṇa pāēsu taha paḍantēṇa</l>
+	<l>tīē vi jalantiṁ dīvavattim abbhuttaantīē</l>
+      </lg>
+      <lg n="265">
+	<l>aṇuvattaṇaṁ kuṇantō vēsē vi jaṇē ahiṇṇamuharāō</l>
+	<l>appavasō vi hu suaṇō paravvasō āhiāīē</l>
+      </lg>
+      <lg n="266">
+	<l>aṇudiahavaḍḍhiāara viṇṇāṇaguṇēhi jaṇiamāhappō</l>
+	<l>puttaa ahiāajaṇō virajjamāṇō vi dullakkhō</l>
+      </lg>
+      <lg n="267">
+	<l>viṇṇāṇaguṇamahagghē purisē vēsattaṇaṁ pi ramaṇijjaṁ</l>
+	<l>jaṇaṇindiē uṇa jaṇē piattaṇēṇā 'vi lajjhāmō</l>
+      </lg>
+      <lg n="268">
+	<l>kaha ṇāma tīa taha sō sahāvagaruō vi thaṇaharō paḍiō</l>
+	<l>ahavā mahilāṇa ciraṁ kō vi ṇa hiaammi saṇṭhāi</l>
+      </lg>
+      <lg n="269">
+	<l>suanu vaaṇaṁ chivantaṁ sūraṁ mā sāulīa vārēhi</l>
+	<l>ēassa paṅkaassa a jāṇaü kaaraṁ suhapphaṁsaṁ</l>
+      </lg>
+      <lg n="270">
+	<l>māṇōsahaṁ va pijjaï piāi māṇaṁsiṇīa daïassa</l>
+	<l>karasampuḍavaliuddhāṇaṇāi maïrāi gaṇḍūsō</l>
+      </lg>
+      <lg n="271">
+	<l>kaha sā ṇivvaṇṇijjaü jīa jahālōiammi aṅgammi</l>
+	<l>diṭṭhī duvvalagāi vva paṅkapaḍiā ṇa uttaraï</l>
+      </lg>
+      <lg n="272">
+	<l>kīranti ccia ṇāsaï uaē rēha vva khalaaṇē mēttī</l>
+	<l>sā uṇa suaṇammi kaā aṇahā pāhāṇarēha vva</l>
+      </lg>
+      <lg n="273">
+	<l>avvō ukkaraāraa puṇō vi tattiṁ karēsi gamaṇassa</l>
+	<l>ajja vi ṇa honti saralā vēṇīa taraṅgiṇō cihurā</l>
+      </lg>
+      <lg n="274">
+	<l>ṇa vi taha chēaraāi vi haranti puṇaruttarāarasiāiṁ</l>
+	<l>jaha jattha va tattha va jaha va taha va sabbhāvaṇēharamiāiṁ</l>
+      </lg>
+      <lg n="275">
+	<l>ujjhasi piāi samaaṁ taha vi hu rē bhaṇasu kīsa kisia tti</l>
+	<l>uaribharēṇa aāṇua muaï vaïllō vi aṅgāiṁ</l>
+      </lg>
+      <lg n="276">
+	<l>daḍhamūlavaddhagaṇṭhi vva mōiā kaha vi tēṇa mē vāhū</l>
+	<l>amhēhi vi tassa urē khutta vva samukkhaā thaṇaā</l>
+      </lg>
+      <lg n="277">
+	<l>aṇuṇaapasāiāē tujjha 'varāhē ciraṁ gaṇantīē</l>
+	<l>apahuttōhaahatthaṅgurīa ruṇṇaṁ varāīē</l>
+      </lg>
+      <lg n="278">
+	<l>sēacchalēṇa pēcchaha taṇuē aṅgammi sē amāantaṁ</l>
+	<l>lāvaṇṇaṁ ōsaraï va tivalīsōvāṇavantīhiṁ</l>
+      </lg>
+      <lg n="279">
+	<l>dēvvāattammi phalē kiṁ kīraü ēttiaṁ puṇō bhaṇimō</l>
+	<l>kaṅkēllipallavāṇaṁ ṇa pallavā honti sāricchā</l>
+      </lg>
+      <lg n="280">
+	<l>dhuaï vva maakalaṅkaṁ kavōlapaḍiassa māṇiṇī uaha</l>
+	<l>aṇavaraavāhajalabhariaṇaaṇakalasēhi candassa</l>
+      </lg>
+      <lg n="281">
+	<l>gandhēṇa appaṇō māliāṇa ṇōmāliā ṇa phuṭṭihaï</l>
+	<l>aṇṇō kō vi haāsāi maṁsalō parimaluggārō</l>
+      </lg>
+      <lg n="282">
+	<l>phalasampattīa samōṇaāi tuṅgāi phalavipattīē</l>
+	<l>hiaāi supurisāṇaṁ mahātarūṇaṁ va siharāiṁ</l>
+      </lg>
+      <lg n="283">
+	<l>āsāsēi pariaṇaṁ parivattantīa pahiajāāē</l>
+	<l>ṇitthāmuvvattaṇavaliahatthamuhalō valaasaddō</l>
+      </lg>
+      <lg n="284">
+	<l>tuṅgo ccia hōi maṇō maṇaṁsiṇō antimāsu vi dasāsu</l>
+	<l>atthamaṇammi vi raïṇō kiraṇā uddhaṁ cia phuranti</l>
+      </lg>
+      <lg n="285">
+	<l>pōṭṭaṁ bharanti saüṇā vi māuā appaṇō aṇuvviggā</l>
+	<l>vihaluddharaṇasahāvā huvanti jaï kē vi sappurisā</l>
+      </lg>
+      <lg n="286">
+	<l>ṇa viṇā sabbhāvēṇaṁ gheppaï paramatthajāṇuō lōō</l>
+	<l>kō juṇṇamañjaraṁ kañjiēṇa vēāriuṁ taraï</l>
+      </lg>
+      <lg n="287">
+	<l>raṇṇāu taṇaṁ raṇṇāu pāṇiaṁ savvadō saaṅgāhaṁ</l>
+	<l>taha vi maāṇa maīṇa a āmaraṇantāi pēmmāiṁ</l>
+      </lg>
+      <lg n="288">
+	<l>tāvam avaṇēi ṇa tahā candaṇapaṅkō vi kāmimihuṇāṇaṁ</l>
+	<l>jaha dūsahē vi gimhē aṇṇōṇṇāliṅgaṇasuhēllī</l>
+      </lg>
+      <lg n="289">
+	<l>tuppāṇaṇā kiṇō acchasi tti paripucchiāi vahuāi</l>
+	<l>viuṇāvēḍhiajahaṇatthalāi lajjōṇaaṁ hasiaṁ</l>
+      </lg>
+      <lg n="290">
+	<l>hiaa ccēa vilīṇō ṇa sāhiō jāṇiūṇa gharasāraṁ</l>
+	<l>vandhavaduvvaaṇaṁ miva dōhalaō duggaavahūē</l>
+      </lg>
+      <lg n="291">
+	<l>dhāvaï vialiadhammillasicaasañjamaṇavāvaḍakaraggā</l>
+	<l>caṇḍilabhaavivalāantaḍimbhaparimaggiṇī ghariṇī</l>
+      </lg>
+      <lg n="292">
+	<l>jaha jaha uvvahaï vahū ṇavajōvvaṇamaṇaharāi aṅgāi</l>
+	<l>taha taha sē taṇuāaï majjhō daïō a paḍivakkhō</l>
+      </lg>
+      <lg n="293">
+	<l>jaha jaha jarāpariṇaō hōi paī duggaō virūō vi</l>
+	<l>kulavāliāṇa taha taha ahiaaraṁ vallahō hōi</l>
+      </lg>
+      <lg n="294">
+	<l>ēsō māmi juāṇō vāraṁ vārēṇa jaṁ aḍaaṇāō</l>
+	<l>gimhē gāmēkkavaḍōdaaṁ va kicchēṇa pāvanti</l>
+      </lg>
+      <lg n="295">
+	<l>gāmavaḍassa piucchā āvaṇḍumuhāṇa paṇḍuracchāhaṁ</l>
+	<l>hiaēṇa samaṁ asaīṇa paḍaï vāāhaaṁ pattaṁ</l>
+      </lg>
+      <lg n="296">
+	<l>pēcchaï aladdhalakkhaṁ dīhaṁ ṇīsasaï suṇṇaaṁ hasaï</l>
+	<l>jaha jampaï aphuḍatthaṁ taha sē hiaaṭṭhiaṁ kiṁ pi</l>
+      </lg>
+      <lg n="297">
+	<l>gahavaï gaō mha saraṇaṁ rakkhasu ēaṁ ti aḍaaṇā bhaṇiuṁ</l>
+	<l>sahasāgaassa turiaṁ païṇo ccia jāram appēi</l>
+      </lg>
+      <lg n="298">
+	<l>hiaēchiassa dijjaü taṇuāantiṁ ṇa pēcchaha piucchā</l>
+	<l>hiaēchiō mha kattō bhaṇiuṁ mōhaṁ gaā kuarī</l>
+      </lg>
+      <lg n="299">
+	<l>khiṇṇassa urē païṇō ṭhavēi gimhāvaraṇharamiassa</l>
+	<l>ōllaṁ galantakusumaṁ ṇhāṇasuandhaṁ cihurabhāraṁ</l>
+      </lg>
+      <lg n="300">
+	<l>aha sarasadantamaṇḍalakavōlapaḍimāgaō maacchīē</l>
+	<l>antōsindūriasaṅkhavattakaraṇiṁ vahaï candō</l>
+      </lg>
+      <lg n="301">
+	<l>aha amha āaō ajja kulaharāō tti chēñchaī jāraṁ</l>
+	<l>sahasāgaassa turiaṁ païṇō kaṇṭhammi lāēi</l>
+      </lg>
+      <lg n="302">
+	<l>pusiā kaṇṇāharaṇēndaṇīlakiraṇāhaā sasimaūhā</l>
+	<l>māṇiṇivaaṇammi sakajjalaṁsusaṅkāi daïēṇa</l>
+      </lg>
+      <lg n="303">
+	<l>ēddahamēttammi jaē sundaramahilāsahassabhariē vi</l>
+	<l>aṇuharaï ṇavara tissā vāmaddhaṁ dāhiṇaddhassa</l>
+      </lg>
+      <lg n="304">
+	<l>jaha jaha vāēi piō taha taha ṇaccāmi cañcalē pēmmē</l>
+	<l>vallī valēi aṅgaṁ sahāvathaddhē vi rukkhammi</l>
+      </lg>
+      <lg n="305">
+	<l>dukkhēhi labbhaï piō laddhō dukkhēhi hōi sāhīṇō</l>
+	<l>laddhō vi aladdho ccia jaï jaha hiaaṁ taha ṇa hōi</l>
+      </lg>
+      <lg n="306">
+	<l>avvō aṇuṇaasuhakaṅkhirīa akaaṁ kaaṁ kuṇantīē</l>
+	<l>saralasahāvō vi piō aviṇaamaggaṁ valā ṇīō</l>
+      </lg>
+      <lg n="307">
+	<l>hatthēsu a pāēsu a aṅguligaṇaṇāi aïgaā diahā</l>
+	<l>ēṇhiṁ uṇa kēṇa gaṇijjaü tti bhaṇiuṁ ruaï muddhā</l>
+      </lg>
+      <lg n="308">
+	<l>kīramuhasacchahēhiṁ rēhaï vasuhā palāsakusumēhiṁ</l>
+	<l>vuddhassa calaṇavandaṇapaḍiēhi va bhikkhusaṅghēhiṁ</l>
+      </lg>
+      <lg n="309">
+	<l>jaṁ jaṁ pihulaṁ aṅgaṁ taṁ taṁ jāaṁ kisōari kisaṁ tē</l>
+	<l>jaṁ taṁ taṇuaṁ taṁ taṁ pi ṇiṭṭhiaṁ kiṁ tha māṇēṇa</l>
+      </lg>
+      <lg n="310">
+	<l>ṇa guṇēṇa hīraï jaṇō hīraï jō jēṇa bhāviō tēṇa</l>
+	<l>mōttūṇa pulindā mōttiāi guñjāu gēṇhanti</l>
+      </lg>
+      <lg n="311">
+	<l>laṅkālaāṇa puttaa vasantamāsēkkaladdhapasarāṇa</l>
+	<l>āpīalōhiāṇaṁ vīhēi jaṇō palāsāṇaṁ</l>
+      </lg>
+      <lg n="312">
+	<l>ghēttūṇa cuṇṇamuṭṭhiṁ harisūsuiāi vēamāṇāē</l>
+	<l>bhisiṇēmi tti piaamaṁ hatthē gandhōdaaṁ jāaṁ</l>
+      </lg>
+      <lg n="313">
+	<l>puṭṭhiṁ pusasu kisōari palōharaṅkōllapattacittaliaṁ</l>
+	<l>chēāhi diarajāāhi ujjuē mā kalijjihisi</l>
+      </lg>
+      <lg n="314">
+	<l>acchīi tā thaïssaṁ dōhi vi hatthēhi tammi diṭṭhammi</l>
+	<l>aṅgaṁ kalaṁvakusumaṁ va pulaïaṁ kaha ṇu ḍhakkissaṁ</l>
+      </lg>
+      <lg n="315">
+	<l>jhañjhāvāuttiṇiē gharammi rōūṇa ṇīsahaṇisaṇṇaṁ</l>
+	<l>dāvēi va gaavaïaṁ vijjujjōō jalaharāṇaṁ</l>
+      </lg>
+      <lg n="316">
+	<l>bhuñjasu jaṁ sāhīṇaṁ kattō lōṇaṁ kugāmariddhammi</l>
+	<l>suhaa salōṇēṇa vi kiṁ tēṇa siṇēhō jahiṁ ṇatthi</l>
+      </lg>
+      <lg n="317">
+	<l>suhapucchiāi haliō muhapaṅkaasurahipavaṇaṇivvaviaṁ</l>
+	<l>taha piaï paaïkaḍuaṁ pi ōsahaṁ jaha ṇa ṇiṭṭhāi</l>
+      </lg>
+      <lg n="318">
+	<l>aha sā tahiṁ tahiṁ vvia vāṇīravaṇammi cuvakasaṅkēā</l>
+	<l>tuha daṁsaṇaṁ vimaggaï pabbhaṭṭaṇihāṇaṭhāṇaṁ ca</l>
+      </lg>
+      <lg n="319">
+	<l>daḍharōsakalusiassa vi suaṇassa muhāhi vippiaṁ kantō</l>
+	<l>rāhumuhammi vi sasiṇō kiraṇā amaaṁ via muanti</l>
+      </lg>
+      <lg n="320">
+	<l>avamāniō vi ṇa tahā dummijjaï sajjaṇō vihavahīṇō</l>
+	<l>paḍikāuṁ asamatthō māṇijjantō jaha parēṇa</l>
+      </lg>
+      <lg n="321">
+	<l>kalahantarē vi aviṇiggaāi hiaammi jaramuvagaāiṁ</l>
+	<l>suaṇakaāi rahassāi ḍahaï āukkhaē aggī</l>
+      </lg>
+      <lg n="322">
+	<l>lumbīō aṅgaṇamāhavīṇa dāraggalāu jāāu</l>
+	<l>āsāsō panthapalōaṇē vi piṭṭhō gaavaīṇaṁ</l>
+      </lg>
+      <lg n="323">
+	<l>piadaṁsaṇasuharasamaüliāi jaï sē ṇa honti ṇaaṇāiṁ</l>
+	<l>tā kēṇa kaṇṇaraïaṁ lakkhijjaï kuvalaaṁ tissā</l>
+      </lg>
+      <lg n="324">
+	<l>cikkhillakhuttahalamuhakaḍḍhaṇasiḍhilē païmmi pāsuttē</l>
+	<l>appattamōhaṇasuhā ghaṇasamaaṁ pāmarī savaï</l>
+      </lg>
+      <lg n="325">
+	<l>dummēnti dēnti sōkkhaṁ kuṇanti aṇurāaaṁ ramāvēnti</l>
+	<l>araïraïvandhavāṇaṁ ṇamō ṇamō maaṇavāṇāṇaṁ</l>
+      </lg>
+      <lg n="326">
+	<l>kusumamaā vi aïkharā aladdhaphaṁsā vi dūsahapaāvā</l>
+	<l>bhindantā vi raïarā kāmassa sarā vahuviappā</l>
+      </lg>
+      <lg n="327">
+	<l>īsaṁ jaṇēnti dāvēnti mammahaṁ vippiaṁ sahāvēnti</l>
+	<l>virahē ṇa dēnti mariuṁ ahō guṇā tassa vahumaggā</l>
+      </lg>
+      <lg n="328">
+	<l>ṇīāi ajja ṇikkiva piṇaddhaṇavaraṅgaāi varaīē</l>
+	<l>gharaparivāḍīa pahēṇaāi tuha daṁsaṇāsāē</l>
+      </lg>
+      <lg n="329">
+	<l>sūijjaï hēmantammi duggaō phumphuāsuandhēṇa</l>
+	<l>dhūmakavilēṇa pariviralatantuṇā juṇṇapaḍaēṇa</l>
+      </lg>
+      <lg n="330">
+	<l>kharasippīrullihiāi kuṇaï pahiō himāgamapahāē</l>
+	<l>āamaṇajalōlliahatthaphaṁsamasiṇāi aṅgāiṁ</l>
+      </lg>
+      <lg n="331">
+	<l>ṇakkhukkhuḍiaṁ sahaāramañjariṁ pāmarassa sīsammi</l>
+	<l>vandiṁ miva hīrantiṁ bhamarajuāṇā aṇusaranti</l>
+      </lg>
+      <lg n="332">
+	<l>sūracchalēṇa puttaa kassa tumaṁ añjaliṁ paṇāmēsi</l>
+	<l>hāsakaḍakkhummissā ṇa honti dēvāṇa jōkkārā</l>
+      </lg>
+      <lg n="333">
+	<l>muhavijjhaviapaīvaṁ ṇiruddhasāsaṁ sasaṅkiullāvaṁ</l>
+	<l>savahasaarakkhiōṭṭhaṁ cōriaramiaṁ suhāvēi</l>
+      </lg>
+      <lg n="334">
+	<l>gēacchalēṇa bhariuṁ kassa tumaṁ ruasi ṇibbharukkaṇṭhaṁ</l>
+	<l>maṇṇupaḍiruddhakaṇṭhaddhaṇintakhaliakkharullāvaṁ</l>
+      </lg>
+      <lg n="335">
+	<l>vahalatamāhaarāī ajja paütthō paī gharaṁ suṇṇaṁ</l>
+	<l>taha jaggēsu saajjia ṇa jahā amhē musijjāmō</l>
+      </lg>
+      <lg n="336">
+	<l>sañjīvaṇōsahaṁ miva suassa rakkhaï aṇaṇṇavāvārā</l>
+	<l>sāsū ṇavabbhadaṁsaṇakaṇṭhāgaajīviaṁ sōṇhaṁ</l>
+      </lg>
+      <lg n="337">
+	<l>ṇūṇaṁ hiaaṇihittāi vasasi jāāi amha hiaammi</l>
+	<l>aṇṇaha maṇōrahā mē sāhasu kaha tīa viṇṇāā</l>
+      </lg>
+      <lg n="338">
+	<l>taï suhaa aīsantē tissā acchīhi kaṇṇalaggēhiṁ</l>
+	<l>diṇṇaṁ ghōliravāhēhi pāṇiaṁ daṁsaṇasuhāṇaṁ</l>
+      </lg>
+      <lg n="339">
+	<l>uppēkkhāgaa tuha muhadaṁsaṇapaḍiruddhajīviāsāi</l>
+	<l>duhiāi maē kālō kēttiamēttō vva ṇēavvō</l>
+      </lg>
+      <lg n="340">
+	<l>vōlīṇālakkhiarūajōvvaṇā putti kaṁ ṇa dūmēsi</l>
+	<l>diṭṭhā paṇaṭṭhapōrāṇajaṇavaā jammabhūmi vva</l>
+      </lg>
+      <lg n="341">
+	<l>pariōsaviasiēhiṁ bhaṇiaṁ acchīhi tēṇa jaṇamajjhē</l>
+	<l>paḍivaṇṇaṁ tīa vi uvvamantasēēhi aṅgēhiṁ</l>
+      </lg>
+      <lg n="342">
+	<l>ēkkakkamasandēsāṇurāavaḍḍhantakōuhallāiṁ</l>
+	<l>dukkhaṁ asamattamaṇōrahāi acchanti mihuṇāiṁ</l>
+      </lg>
+      <lg n="343">
+	<l>jaï sō ṇa vallaho ccia gōttaggahaṇēṇa tassa sahi kīsa</l>
+	<l>hōi muhaṁ tē raviaraphaṁsavisaṭṭaṁ va tāmarasaṁ</l>
+      </lg>
+      <lg n="344">
+	<l>māṇadumaparusapavaṇassa māmi savvaṅgaṇivvuiarassa</l>
+	<l>avaūhaṇassa bhaddaṁ raïṇāḍaapuvvaraṅgassa</l>
+      </lg>
+      <lg n="345">
+	<l>ṇiaāṇumāṇaṇīsaṅka hiaa dē pasia virama ēttāhē</l>
+	<l>amuṇiaparamatthajaṇāṇulagga kīsa mha lahuēsi</l>
+      </lg>
+      <lg n="346">
+	<l>ōsahiajaṇō païṇā salāhamāṇēṇa aïciraṁ hasiō</l>
+	<l>candō tti tujjha vaaṇē viiṇṇakusumañjalivilakkhō</l>
+      </lg>
+      <lg n="347">
+	<l>jhijjantēhi aṇudiṇaṁ paccakkhammi vi tumammi aṅgēhiṁ</l>
+	<l>vālaa pucchijjantī ṇa āṇimō kassa kiṁ bhaṇimō</l>
+      </lg>
+      <lg n="348">
+	<l>aṅgāṇaṁ taṇuāraa sikkhāvaa dīharōiavvāṇaṁ</l>
+	<l>viṇaāikkamaāraa mā mā ṇaṁ pamhasijjāsu</l>
+      </lg>
+      <lg n="349">
+	<l>aṇṇaha ṇa tīraï ccia parivaḍḍhantagaruaṁ piaamassa</l>
+	<l>maraṇaviṇōēṇa viṇā viramāvēuṁ virahadukkhaṁ</l>
+      </lg>
+      <lg n="350">
+	<l>vaṇṇantīhi tuha guṇē vahusō amhēhi chiñchaīpuraō</l>
+	<l>vālaa saam ēa kaō si dullahō kassa kuppāmō</l>
+      </lg>
+      <lg n="351">
+	<l>jāō sō vi vilakkhō maē vi hasiūṇa gāḍham uvaūḍhō</l>
+	<l>paḍhamōsariassa ṇiaṁsaṇassa gaṇṭhiṁ vimaggantō</l>
+      </lg>
+      <lg n="352">
+	<l>kaṇḍujjuā varāī ajja taē sā kaāvarāhēṇa</l>
+	<l>alasāiaruṇṇaviambhiāi diahēṇa sikkhaviā</l>
+      </lg>
+      <lg n="353">
+	<l>avarāhēhi vi ṇa tahā pattia jaha maṁ imēhi dummēsi</l>
+	<l>avahatthiasabbhāvēhi suhaa dakkhiṇṇabhaṇiēhiṁ</l>
+      </lg>
+      <lg n="354">
+	<l>mā jūra piāliṅgaṇasarahasabhamirīṇa vāhulaïāṇaṁ</l>
+	<l>tuṇhikka paruṇṇēnaṁ imiṇā māṇaṁsiṇi muhēṇaṁ</l>
+      </lg>
+      <lg n="355">
+	<l>mā vacca pupphalāvira dēvā uaañjalīhi tūsanti</l>
+	<l>gōlāṇaīa puttaa sīlummūlāi kūlāiṁ</l>
+      </lg>
+      <lg n="356">
+	<l>vaaṇē vaaṇammi calantasīsasuṇṇāvahāṇahuṅkāraṁ</l>
+	<l>sahi dēntī ṇīsāsantarēsu kīsa mha dūmēsi</l>
+      </lg>
+      <lg n="357">
+	<l>sabbhāvaṁ pucchantī vālaa rōāviā tuha piāē</l>
+	<l>ṇa tthi ccia kaasavahaṁ hāsummissaṁ bhaṇantīē</l>
+      </lg>
+      <lg n="358">
+	<l>ēttha maē ramiavvaṁ tīa samaṁ cintiūṇa hiaēṇa</l>
+	<l>pāmarakarasēullā ṇivaḍaï tuvarī vavijjantī</l>
+      </lg>
+      <lg n="359">
+	<l>gahavaïsuōcciēsu vi phalahīvēṇṭēsu uaha vahuāi</l>
+	<l>mōhaṁ bhamaï pulaïō vilaggasēaṅgulī hatthō</l>
+      </lg>
+      <lg n="360">
+	<l>ajjaṁ mōhaṇasuhiaṁ mua tti mōttuṁ palāiē haliē</l>
+	<l>daraphuḍiavēṇṭabhārōṇaāi hasiaṁ va phalahīē</l>
+      </lg>
+      <lg n="361">
+	<l>ṇīsāsukkampiapulaïēhi jāṇanti ṇacciuṁ dhaṇṇā</l>
+	<l>amhārisīhi diṭṭhē piammi appā vi vīsariō</l>
+      </lg>
+      <lg n="362">
+	<l>taṇuēṇa vi taṇuijjaï khīṇēṇa vi khijjaē valā imiṇā</l>
+	<l>majjhatthēṇa vi majjhēṇa putti kaha tujjha paḍivakkhō</l>
+      </lg>
+      <lg n="363">
+	<l>vāhi vva vējjarahiō dhaṇarahiō saaṇamajjhavāsō vva</l>
+	<l>riuriddhidaṁsaṇaṁ miva dūsahaṇīō tuha viōō</l>
+      </lg>
+      <lg n="364">
+	<l>kō ttha jaammi samatthō thaïuṁ vitthiṇṇaṇimmaluttuṅgaṁ</l>
+	<l>hiaaṁ tujjha ṇarāhiva gaaṇaṁ va paōharē mōttuṁ</l>
+      </lg>
+      <lg n="365">
+	<l>āaṇṇēi aḍaaṇā kuḍuṅgahēṭṭhammi diṇṇasaṅkēā</l>
+	<l>aggapaapēlliāṇaṁ mammaraaṁ juṇṇapattāṇaṁ</l>
+      </lg>
+      <lg n="366">
+	<l>ahilēnti surahiṇīsasiaparimalāvaddhamaṇḍalaṁ bhamarā</l>
+	<l>amuṇiacandaparihavaṁ apuvvakamalaṁ muhaṁ tissā</l>
+      </lg>
+      <lg n="367">
+	<l>dhīrāvalaṁvirīa vi guruaṇapuraō tumammi vōlīṇē</l>
+	<l>paḍiō sē acchiṇimīlaṇēṇa pamhaṭṭhiō vāhō</l>
+      </lg>
+      <lg n="368">
+	<l>bharimō sē saaṇaparaṁmuhīa vialantamāṇapasarāi</l>
+	<l>kaïavasuttuvvattaṇathaṇaalasappēllaṇasuhēlliṁ</l>
+      </lg>
+      <lg n="369">
+	<l>phaggucchavaṇiddōsaṁ kēṇa vi kaddamapasāhaṇaṁ diṇṇaṁ</l>
+	<l>thaṇaalasamuhapalōṭṭantasēadhōaṁ kiṇō dhuasi</l>
+      </lg>
+      <lg n="370">
+	<l>kiṁ ṇa bhaṇiō si vālaa gāmaṇidhūāi guruaṇasamakkhaṁ</l>
+	<l>aṇimisam īsīsi valantavaaṇaṇaaṇaddhatiṭṭhēhiṁ</l>
+      </lg>
+      <lg n="371">
+	<l>ṇaaṇabbhantaraghōlantavāhabharamantharāi diṭṭhīē</l>
+	<l>puṇaruttapēccharīē vālaa kiṁ jaṁ ṇa bhaṇiō si</l>
+      </lg>
+      <lg n="372">
+	<l>jō sīsammi viiṇṇō majjha juāṇēhi gaṇavaī āsi</l>
+	<l>taṁ cia ēṇhiṁ paṇamāmi haajarē hōhi santuṭṭhā</l>
+      </lg>
+      <lg n="373">
+	<l>antōhuttaṁ ḍajjhaï jāāsuṇṇē gharē haliaüttō</l>
+	<l>ukkhāaṇihāṇāi va ramiaṭṭhāṇāi pēcchantō</l>
+      </lg>
+      <lg n="374">
+	<l>ṇiddābhaṅgō āvaṇḍurattaṇaṁ dīharā a ṇīsāsā</l>
+	<l>jāanti jassa virahē tēṇa samaṁ kīrisō māṇō</l>
+      </lg>
+      <lg n="375">
+	<l>tēṇa ṇa marāmi maṇṇūhi pūriā ajja jēṇa rē suhaa</l>
+	<l>taggaamaṇā marantī mā tujjha puṇō vi laggissaṁ</l>
+      </lg>
+      <lg n="376">
+	<l>avarajjhasu vīsaddhaṁ savvaṁ tē suhaa visahimō amhē</l>
+	<l>guṇaṇibbharammi hiaē pattia dōsā ṇa māanti</l>
+      </lg>
+      <lg n="377">
+	<l>bhariuccarantapasariapiasambharaṇapisuṇō varāīē</l>
+	<l>parivāhō via dukkhassa vahaï ṇaaṇaṭṭhiō vāhō</l>
+      </lg>
+      <lg n="378">
+	<l>jaṁ jaṁ karēsi jaṁ jaṁ jampasi jaha jaha tumaṁ ṇiacchēsi</l>
+	<l>taṁ tam aṇusikkhirīē dīhō diahō ṇa sampaḍaï</l>
+      </lg>
+      <lg n="379">
+	<l>bhaṇḍantīa taṇāiṁ sōttuṁ diṇṇāi jāi pahiassa</l>
+	<l>tāi ccēa pahāē ajjā āaḍḍhaï ruantī</l>
+      </lg>
+      <lg n="380">
+	<l>vasaṇammi aṇuvviggā vihavammi agavviā bhaē dhīrā</l>
+	<l>honti ahiṇṇasahāvā samēsu visamēsu sappurisā</l>
+      </lg>
+      <lg n="381">
+	<l>ajja sahi kēṇa gōsē kaṁ pi maṇē vallahaṁ bharantēṇa</l>
+	<l>amhaṁ maaṇasarāhaahiaavaṇapphōḍaṇaṁ gīaṁ</l>
+      </lg>
+      <lg n="382">
+	<l>uṭṭhantamahārambhē thaṇaē daṭṭhūṇa muddhavahuāē</l>
+	<l>ōsaṇṇakavōlāē ṇīsasiaṁ paḍhamaghariṇīē</l>
+      </lg>
+      <lg n="383">
+	<l>garuachuhāuliassa vi vallahakariṇīmuhaṁ bharantassa</l>
+	<l>sarasō muṇālakavalō gaassa hatthe ccia milāṇō</l>
+      </lg>
+      <lg n="384">
+	<l>pasia piē kā kuviā suaṇu tumaṁ paraaṇammi kō kōvō</l>
+	<l>kō hu parō ṇāha tumaṁ kīsa aüṇṇāṇa mē sattī</l>
+      </lg>
+      <lg n="385">
+	<l>ēhisi tumaṁ ti ṇimisaṁ va jaggiaṁ jāmiṇīa paḍhamaddhaṁ</l>
+	<l>sēsaṁ santāvaparavvasāi varisaṁ va vōlīṇaṁ</l>
+      </lg>
+      <lg n="386">
+	<l>avalaṁvaha mā saṅkaha ṇa imā gahalaṅghiā paribbhamaï</l>
+	<l>atthakkagajjiubbhantahitthahiaā pahiajāā</l>
+      </lg>
+      <lg n="387">
+	<l>kēsararaavicchaḍḍē maarandō hōi jēttiō kamalē</l>
+	<l>jaï bhamara tēttiō aṇṇahiṁ pi tā sōhasi bhamantō</l>
+      </lg>
+      <lg n="388">
+	<l>pēcchanti aṇimisacchā pahiā haliassa piṭṭhapaṇḍuriaṁ</l>
+	<l>dhūaṁ duddhasamudduttarantalacchiṁ via saaṇhā</l>
+      </lg>
+      <lg n="389">
+	<l>kassa bharasi tti bhaṇiē kō mē atthi tti jampamāṇīē</l>
+	<l>uvviggarōirīē amhē vi ruāviā tīē</l>
+      </lg>
+      <lg n="390">
+	<l>pāapaḍiaṁ ahavvē kiṁ dāṇi ṇa uṭṭhavēsi bhattāraṁ</l>
+	<l>ēaṁ cia avasāṇaṁ dūraṁ pi gaassa pēmmassa</l>
+      </lg>
+      <lg n="391">
+	<l>taḍaviṇihiaggahatthā vāritaraṅgēhi ghōliraṇiaṁvā</l>
+	<l>sālūrī paḍiviṁvē purisāanti vva paḍihāi</l>
+      </lg>
+      <lg n="392">
+	<l>sikkariamaṇiamuhavēviāi dhuahatthasiñjiavvāi</l>
+	<l>sikkhantu vōḍahīō kusumbha tumhaṁ pasāēṇa</l>
+      </lg>
+      <lg n="393">
+	<l>jēttiamēttā racchā ṇiaṁva kaha tēttiō ṇa jāō si</l>
+	<l>jēṇa chivijjaï guruaṇalajjōsariō vi sō suhaō</l>
+      </lg>
+      <lg n="394">
+	<l>maragaasūīviddhaṁ va mōttiaṁ piaï āaaggīvō</l>
+	<l>mōrō pāusaālē taṇaggalaggaṁ uaavinduṁ</l>
+      </lg>
+      <lg n="395">
+	<l>ajjāi ṇīlakañcuabhariuvvariaṁ vihāi thaṇavaṭṭaṁ</l>
+	<l>jalabhariajalaharantaradaruggaaṁ candaviṁvaṁ va</l>
+      </lg>
+      <lg n="396">
+	<l>rāaviruddhaṁ va kahaṁ pahiō pahiassa sāhaï sasaṅkaṁ</l>
+	<l>jattō amvāṇa dalaṁ tattō daraṇiggaaṁ kiṁ pi</l>
+      </lg>
+      <lg n="397">
+	<l>dhaṇṇā tā mahilāō jā daïaṁ siviṇaē vi pēcchanti</l>
+	<l>ṇidda ccia tēṇa viṇā ṇa ēi kā pēcchaē siviṇaṁ</l>
+      </lg>
+      <lg n="398">
+	<l>parihariakaṇaakuṇḍalagaṇḍatthalamaṇaharēsu savaṇēsu</l>
+	<l>aṇṇua samaavasēṇaṁ parihijjaï tālavēṇṭajuaṁ</l>
+      </lg>
+      <lg n="399">
+	<l>majjhaṇhapatthiassa vi gimhē pahiassa haraï santāvaṁ</l>
+	<l>hiaaṭṭhiajāāmuhamaaṅkajōṇhājalappavahō</l>
+      </lg>
+      <lg n="400">
+	<l>bhaṇa kō ṇa rūsaï jaṇō patthijjantō adēsaālammi</l>
+	<l>raïvāvaḍā ruvantaṁ piaṁ pi puttaṁ savaï māā</l>
+      </lg>
+      <lg n="401">
+	<l>ḍajjhasi ḍajjhasu kutthasi kutthasu aha phuḍasi hiaa tā phuḍasu</l>
+	<l>taha vi parisēsio ccia sō khu maē galiasabbhāvō</l>
+      </lg>
+      <lg n="402">
+	<l>daṭṭhūṇa randatuṇḍaggaṇiggaaṁ ṇiasuassa dāḍhaggaṁ</l>
+	<l>bhōṇḍī viṇā vi kajjēṇa gāmaṇiaḍē javē caraï</l>
+      </lg>
+      <lg n="403">
+	<l>hēlākaraggakaḍḍhiajalarikkaṁ sāaraṁ paāsantō</l>
+	<l>jaaï aṇiggahavaḍavaggibhariagaaṇō gaṇāhivaī</l>
+      </lg>
+      <lg n="404">
+	<l>ēēṇa ccia kaṅkēlli tujjha taṁ ṇa tthi jaṁ ṇa pajjattaṁ</l>
+	<l>uvamijjaï jaṁ tuha pallavēṇa varakāmiṇīhatthō</l>
+      </lg>
+      <lg n="405">
+	<l>rasia viaḍḍha vilāsia samaaṇṇua saccaaṁ asōō si</l>
+	<l>varajuvaïcalaṇakamalāhaō vi jaṁ viasasi saaṇhaṁ</l>
+      </lg>
+      <lg n="406">
+	<l>valiṇō vāāvaṁhē cōjjaṁ ṇiuṇattaṇaṁ ca paaḍantō</l>
+	<l>surasatthakaāṇandō vāmaṇarūvō harī jaaï</l>
+      </lg>
+      <lg n="407">
+	<l>vijjhāvijjaï jalaṇō gahavaïdhūāi vitthaasihō vi</l>
+	<l>aṇumaraṇaghaṇāliṅgaṇapiaamasuhasijjiraṅgīē</l>
+      </lg>
+      <lg n="408">
+	<l>jāramasāṇasamubbhavabhūisuhapphaṁsasijjiraṅgīē</l>
+	<l>ṇa samappaï ṇavakāvāliṇīa uddhūlaṇārambhō</l>
+      </lg>
+      <lg n="409">
+	<l>ēkkō paṇhaaï thaṇō vīō pulaēi ṇahamuhālihiō</l>
+	<l>puttassa piaamassa a majjhaṇisaṇṇāi ghariṇīa</l>
+      </lg>
+      <lg n="410">
+	<l>ēttāi ccia mōhaṁ jaṇēi vālattaṇē vi vaṭṭantī</l>
+	<l>gāmaṇidhuā visalaa vva vaḍḍhiā kāhii aṇatthaṁ</l>
+      </lg>
+      <lg n="411">
+	<l>apahuppantaṁ mahimaṇḍalammi ṇahasaṇṭhiaṁ ciraṁ hariṇō</l>
+	<l>tārāupphappaarañciaṁ va taïaṁ paaṁ ṇamaha</l>
+      </lg>
+      <lg n="412">
+	<l>suppaü taïō vi gaō jāmō tti sahīu kīsa maṁ bhaṇaha</l>
+	<l>sēhāliāṇa gandhō ṇa dēi sōttuṁ suaha tumhē</l>
+      </lg>
+      <lg n="413">
+	<l>kaha sō ṇa sambharijjaï jō mē taha saṇṭhiāi aṅgāiṁ</l>
+	<l>ṇivvattiē vi suraē ṇijjhāaï suraarasiō vva</l>
+      </lg>
+      <lg n="414">
+	<l>sukkhantavahalakaddamaghammavisūrantakamaḍhapāḍhīṇaṁ</l>
+	<l>diṭṭhaṁ aïṭṭhaüvvaṁ kālēṇa talaṁ taḍāassa</l>
+      </lg>
+      <lg n="415">
+	<l>cōriaraasaddhāluṇi mā putti bhammasu andhaārammi</l>
+	<l>ahiaaraṁ lakkhijjasi tamabhariē dīvaasiha vva</l>
+      </lg>
+      <lg n="416">
+	<l>vāhittā paḍivaaṇaṁ ṇa dēi rūsēi ēkkamēkkassa</l>
+	<l>asaī kajjēṇa viṇā palippamāṇē ṇaīkacchē</l>
+      </lg>
+      <lg n="417">
+	<l>āma asaï mha ōsara païvvaē ṇa tuha maïliaṁ gōttaṁ</l>
+	<l>kiṁ uṇa jaṇassa jāa vva caṇḍilaṁ tā ṇa kāmēmō</l>
+      </lg>
+      <lg n="418">
+	<l>ṇiddaṁ lahanti kahiaṁ suṇanti khaliakkharaṁ ṇa jampanti</l>
+	<l>jāhi ṇa diṭṭhō si tumaṁ tāo ccia suhaa suhiāō</l>
+      </lg>
+      <lg n="419">
+	<l>vālaa tumāi diṇṇaṁ kaṇṇē kāūṇa vōrasaṅghāḍiṁ</l>
+	<l>lajjāluiṇī vi vahū gharaṁ gaā gāmaracchāē</l>
+      </lg>
+      <lg n="420">
+	<l>aha sō vilakkhahiaō maē ahavvāi agahiāṇuṇaō</l>
+	<l>paravajjaṇaccirīhiṁ tumhēhi uvēkkhiō ṇintō</l>
+      </lg>
+      <lg n="421">
+	<l>dīsantō ṇaaṇasuhō ṇivvudijaṇaṇō karēhi vi chivantō</l>
+	<l>abbhatthiō ṇa labbhaï candō vva piō kalāṇilaō</l>
+      </lg>
+      <lg n="422">
+	<l>jē līṇabhamarabharabhaggagōcchaā āsi ṇaïaḍucchaṅgē</l>
+	<l>kālēṇa vañjulā piavaassa tē khaṇṇuā jāā</l>
+      </lg>
+      <lg n="423">
+	<l>khaṇabhaṅgurēṇa pēmmēṇa māuā dūmia mhi ēttāhē</l>
+	<l>siviṇaaṇihilambhēṇa va diṭṭhapaṇaṭṭhēṇa lōammi</l>
+      </lg>
+      <lg n="424">
+	<l>cāō sahāvasaralaṁ vicchuhaï saraṁ guṇammi ṇivaḍantaṁ</l>
+	<l>vaṅkassa ujjuassa a saṁvandhō kiṁ ciraṁ hōi</l>
+      </lg>
+      <lg n="425">
+	<l>paḍhamaṁ vāmaṇavihiṇā pacchā hu kaō viambhamāṇēṇa</l>
+	<l>thaṇajualēṇa imīē mahumahaṇēṇa vva valivandhō</l>
+      </lg>
+      <lg n="426">
+	<l>mālaïkusumāi kuluñciūṇa mā jāṇa ṇivvuō sisirō</l>
+	<l>kāavvā ajja vi ṇigguṇāṇa kundāṇa sāmiddhī</l>
+      </lg>
+      <lg n="427">
+	<l>tuṅgāṇa visēsaṇirantarāṇa sarasavaṇaladdhasōhāṇaṁ</l>
+	<l>kaakajjāṇa bhaḍāṇa va thaṇāṇa paḍaṇaṁ pi ramaṇijjaṁ</l>
+      </lg>
+      <lg n="428">
+	<l>parimalaṇasuhā garuā aladdhavivarā salakkhaṇāharaṇā</l>
+	<l>thaṇaā kavvālāa vva kassa hiaē ṇa lagganti</l>
+      </lg>
+      <lg n="429">
+	<l>khippaï hārō thaṇamaṇḍalāhi taruṇīhi ramaṇaparirambhē</l>
+	<l>acciaguṇā vi guṇiṇō lahanti lahuattaṇaṁ kālē</l>
+      </lg>
+      <lg n="430">
+	<l>aṇṇō kō vi sahāvō vammahasihiṇō halā haāsassa</l>
+	<l>vijjhāi ṇīrasāṇaṁ hiaē sarasāṇa pajjalaï</l>
+      </lg>
+      <lg n="431">
+	<l>taha tassa māṇaparivaḍḍhiassa cirapaṇaavaddhamūlassa</l>
+	<l>māmi paḍantassa suō saddō vi ṇa pēmmarukkhassa</l>
+      </lg>
+      <lg n="432">
+	<l>pāapaḍiō ṇa gaṇiō piaṁ bhaṇantō vi appiaṁ bhaṇiō</l>
+	<l>vaccantō vi ṇa ruddhō bhaṇa kassa kaē kaō māṇō</l>
+      </lg>
+      <lg n="433">
+	<l>pusaï khaṇaṁ dhuaï khaṇaṁ papphōḍaï takkhaṇaṁ aāṇantī</l>
+	<l>muddhavahū thaṇavaṭṭē diṇṇaṁ daïēṇa ṇakkhavaaṁ</l>
+      </lg>
+      <lg n="434">
+	<l>vāsārattē uṇṇaapaōharē jōvvaṇē vva vōlīṇē</l>
+	<l>paḍhamēkkakāsakusumaṁ dīsaï paliaṁ va dharaṇīē</l>
+      </lg>
+      <lg n="435">
+	<l>kattha gaaṁa raïviṁvaṁ kattha paṇaṭṭhāu candatārāu</l>
+	<l>gaaṇē valāavantiṁ kālō hōraṁ va kaṭṭhēi</l>
+      </lg>
+      <lg n="436">
+	<l>aviralapaḍantaṇavajaladhārārajjughaḍiaṁ paattēṇa</l>
+	<l>apahuttō ukkhiviuṁ rasaï va mēhō mahiṁ uaha</l>
+      </lg>
+      <lg n="437">
+	<l>ō hiaa ōhidiahaṁ taïā paḍivajjiūṇa daïassa</l>
+	<l>atthakkāula vīsambhaghāi kiṁ taï samāḍhattaṁ</l>
+      </lg>
+      <lg n="438">
+	<l>jō vi ṇa āṇaï tassa vi kahēi bhaggāi tēṇa valaāiṁ</l>
+	<l>aïujjuā varāī ahava piō sē haāsāē</l>
+      </lg>
+      <lg n="439">
+	<l>sāmāi garuajōvvaṇavisēsabhariē kavōlamūlammi</l>
+	<l>pijjaï ahōmuhēṇa va kaṇṇavaaṁsēṇa lāvaṇṇaṁ</l>
+      </lg>
+      <lg n="440">
+	<l>sēulliasavvaṅgī gōttaggahaṇēṇa tassa suhaassa</l>
+	<l>dūiṁ appāhēntī tassēa gharaṅgaṇaṁ pattā</l>
+      </lg>
+      <lg n="441">
+	<l>jammantarē vi calaṇē jīēṇaṁ maaṇa tujjha accissaṁ</l>
+	<l>jaï taṁ pi tēṇa vāṇēṇa vijjhasē jēṇa haṁ viddhā</l>
+      </lg>
+      <lg n="442">
+	<l>ṇiavakkhārōviadēhabhāraṇiuṇaṁ rasaṁ lahantēṇa</l>
+	<l>viasāviūṇa pijjaï mālaïkaliā mahuarēṇa</l>
+      </lg>
+      <lg n="443">
+	<l>kuruṇāhō via pahiō dummijjaï māhavassa miliēṇa</l>
+	<l>bhīmēṇa jahicchāē dāhiṇavāēṇa chippantō</l>
+      </lg>
+      <lg n="444">
+	<l>jāva ṇa kōsaviāsaṁ pāvaï īsīsi mālaīkaliā</l>
+	<l>maarandapāṇalōhilla bhamara tāva ccia malēsi</l>
+      </lg>
+      <lg n="445">
+	<l>akaaṇṇua tujjha kaē pāusarāīsu jaṁ maē khuṇṇaṁ</l>
+	<l>uppēkkhāmi alajjira ajja vi taṁ gāmacikkhillaṁ</l>
+      </lg>
+      <lg n="446">
+	<l>rēhaï galantakēsakkhalantakuṇḍalalalantahāralaā</l>
+	<l>addhuppaïā vijjāhari vva purisāirī vālā</l>
+      </lg>
+      <lg n="447">
+	<l>jaï bhamasi bhamasu ēmēa kaṇha sōhaggagavvirō gōṭṭhē</l>
+	<l>mahilāṇaṁ dōsaguṇē viāriuṁ jaï khamō si tumaṁ</l>
+      </lg>
+      <lg n="448">
+	<l>sañjhāsamaē jalapūriañjaliṁ vihaḍiēkkavāmaaraṁ</l>
+	<l>gōrīa kōsapāṇujjaaṁ va pamahāhivaṁ ṇamaha</l>
+      </lg>
+      <lg n="449">
+	<l>gāmaṇiṇō savvāsu vi piāsu aṇumaraṇagahiavēsāsu</l>
+	<l>mammacchēēsu vi vallahāi uvariṁ valaï diṭṭhī</l>
+      </lg>
+      <lg n="450">
+	<l>māmi sarisakkharāṇa vi atthi visēsō paampiavvāṇaṁ</l>
+	<l>ṇēhamaïāṇam aṇṇō aṇṇō uvarōhamaïāṇaṁ</l>
+      </lg>
+      <lg n="451">
+	<l>hiaāhintō pasaranti jāi aṇṇāi tāi vaaṇāi</l>
+	<l>ōsarasu kiṁ imēhiṁ aharantaramēttabhaṇiēhiṁ</l>
+      </lg>
+      <lg n="452">
+	<l>kaha sā sōhaggaguṇaṁ maē samaṁ vahaï ṇigghiṇa tumammi</l>
+	<l>jīa harijjaï ṇāmaṁ hariūṇa a dijjaē majjha</l>
+      </lg>
+      <lg n="453">
+	<l>sahi sāhasu sabbhāvēṇa pucchimō kiṁ asēsamahilāṇaṁ</l>
+	<l>vaḍḍhanti karattha ccia valaā daïē paütthammi</l>
+      </lg>
+      <lg n="454">
+	<l>bhamaï paridō visūraï ukkhiviuṁ sē karaṁ pasārēi</l>
+	<l>kariṇō paṅkakkhuttassa ṇēhaṇialāviā kariṇī</l>
+      </lg>
+      <lg n="455">
+	<l>raïkēlihiaṇiaṁsaṇakarakisalaaruddhaṇaaṇajualassa</l>
+	<l>ruddassa taïaṇaaṇaṁ pavvaïpariuṁviaṁ jaaï</l>
+      </lg>
+      <lg n="456">
+	<l>dhāvaï puraō pāsēsu bhamaï diṭṭhīpahammi saṇṭhāi</l>
+	<l>ṇavalaïkarassa tuha haliaütta dē paharasu varāiṁ</l>
+      </lg>
+      <lg n="457">
+	<l>kārimam āṇandavaḍaṁ bhāmijjantaṁ vahūa sahiāhiṁ</l>
+	<l>pēcchaï kumārijārō hāsummīsēhi acchīhiṁ</l>
+      </lg>
+      <lg n="458">
+	<l>saṇiaṁ saṇiaṁ laliaṅgulīa maaṇavaḍalāaṇaṇihēṇa</l>
+	<l>vandhaï dhavalavvaṇavaṭṭaaṁ va vaṇiāharē taruṇī</l>
+      </lg>
+      <lg n="459">
+	<l>raïviramalajjiāō appattaṇiaṁsaṇāu sahasa tti</l>
+	<l>ḍhakkanti piaamāliṅgaṇēṇa jahaṇaṁ kulavahūō</l>
+      </lg>
+      <lg n="460">
+	<l>pāaḍiaṁ sōhaggaṁ taṁvāē uaha gōṭṭhamajjhammi</l>
+	<l>duṭṭhavusahassa siṅgē acchiuḍaṁ kaṇḍuantīē</l>
+      </lg>
+      <lg n="461">
+	<l>ua sambhamavikkhittaṁ ramiavvaalampaḍāi asaīē</l>
+	<l>ṇavaraṅgaaṁ kuḍaṅgē dhaaṁ va diṇṇaṁ aviṇaassa</l>
+      </lg>
+      <lg n="462">
+	<l>hatthapphaṁsēṇa jaraggavī vi paṇhaaï dōhaaguṇēṇa</l>
+	<l>avalōiapaṇhuiriṁ puttaa puṇṇēhi pāvihisi</l>
+      </lg>
+      <lg n="463">
+	<l>masiṇaṁ caṅkammantī paē paē kuṇaï kīsa muhabhaṅgaṁ</l>
+	<l>ṇūṇaṁ sē mēhaliā jahaṇagaaṁ chivaï ṇahavantiṁ</l>
+      </lg>
+      <lg n="464">
+	<l>saṁvāhaṇasuharasatōsiēṇa dēntēṇa tuha karē lakkhaṁ</l>
+	<l>calaṇēṇa vikkamāiccacariam anusikkhiaṁ tissā</l>
+      </lg>
+      <lg n="465">
+	<l>pāapaḍaṇāṇa muddhē rahasavalāmōḍicuṁviavvāṇaṁ</l>
+	<l>daṁsaṇamēttapasaṇṇē cukkā si suhāṇa vahuāṇaṁ</l>
+      </lg>
+      <lg n="466">
+	<l>dē suaṇu pasia ēṇhiṁ puṇō vi sulahāi rūsiavvāiṁ</l>
+	<l>ēsā maacchi maalañchaṇujjalā galaï chaṇarāī</l>
+      </lg>
+      <lg n="467">
+	<l>āvaṇṇāi kulāiṁ do ccia jāṇanti uṇṇaïṁ ṇēuṁ</l>
+	<l>gōrīa hiaadaïō ahavā sālāhaṇaṇarindō</l>
+      </lg>
+      <lg n="468">
+	<l>ṇikkhandhadurārōhaṁ puttaa mā pāḍaliṁ samāruhasu</l>
+	<l>ārūḍhaṇivaḍiā kē imīa ṇa kaā haāsāē</l>
+      </lg>
+      <lg n="469">
+	<l>gāmaṇigharammi attā ēkka ccia pāḍalā ihaggāmē</l>
+	<l>vahupāḍalaṁ ca sīsaṁ diarassa ṇa sundaraṁ ēaṁ</l>
+      </lg>
+      <lg n="470">
+	<l>aṇṇāṇa vi honti muhē pamhaladhavalāi dīhakasaṇāi</l>
+	<l>ṇaaṇāi sundarīṇaṁ taha vi hu daṭṭhuṁ ṇa āṇanti</l>
+      </lg>
+      <lg n="471">
+	<l>haṁsēhi va tuha raṇajalaasamaabhaacaliavihalavakkhēhiṁ</l>
+	<l>parisēsiapōmmāsēhi māṇasaṁ gammaï riūhiṁ</l>
+      </lg>
+      <lg n="472">
+	<l>duggaagharammi ghariṇī rakkhantī āulattaṇaṁ païṇō</l>
+	<l>pucchiadōhalasaddhā puṇō vi uaaṁ cia kahēi</l>
+      </lg>
+      <lg n="473">
+	<l>āaṁvalōaṇāṇaṁ ōllaṁsuapāaḍōrujahaṇāṇaṁ</l>
+	<l>avaraṇhamajjirīṇaṁ kaēṇa kāmō vahaï cāvaṁ</l>
+      </lg>
+      <lg n="474">
+	<l>kē uvvariā kē iha ṇa khaṇḍiā kē ṇa luttaguruvihavā</l>
+	<l>ṇaharāi vēsiṇīō gaṇaṇārēhāu va vahanti</l>
+      </lg>
+      <lg n="475">
+	<l>virahēṇa mandarēṇa va hiaaṁ duddhōahiṁ va mahiūṇa</l>
+	<l>ummūliāi avvō amhaṁ raaṇāi va suhāiṁ</l>
+      </lg>
+      <lg n="476">
+	<l>ujjuaraē ṇa tūsaï vaṅkammi vi āamaṁ viappēi</l>
+	<l>ēttha ahavvāi maē piē piaṁ kaha ṇu kāavvaṁ</l>
+      </lg>
+      <lg n="477">
+	<l>vahuvihavilāsarasiē suraē mahilāṇa kō uvajjhāō</l>
+	<l>sikkhaï asikkhiāi vi savvō ṇēhāṇuvandhēṇa</l>
+      </lg>
+      <lg n="478">
+	<l>vaṇṇavasiē viatthasi saccaṁ cia sō tuē ṇa sambhaviō</l>
+	<l>ṇa hu honti tammi diṭṭhē sutthāvatthāi aṅgāiṁ</l>
+      </lg>
+      <lg n="479">
+	<l>āsaṇṇavivāhadiṇē ahiṇavavahusaṅgamussuamaṇassa</l>
+	<l>paḍhamaghariṇīa suraaṁ varassa hiaē ṇa saṇṭhāi</l>
+      </lg>
+      <lg n="480">
+	<l>jaï lōaṇindiaṁ jaï amaṅgalaṁ jaï vi mukkamajjāaṁ</l>
+	<l>pupphavaïdaṁsaṇaṁ taha vi dēi hiaassa ṇivvāṇaṁ</l>
+      </lg>
+      <lg n="481">
+	<l>jaï ṇa chivasi pupphavaïṁ puraō tā kīsa vāriō ṭhāsi</l>
+	<l>chittō si culaculantēhi dhāviūṇa ămha hatthēhi</l>
+      </lg>
+      <lg n="482">
+	<l>ujjāgaraakasāiagaruacchī mōhamaṇḍaṇavilakkhā</l>
+	<l>lajjaï lajjāluiṇī sā suhaa sahīṇa vi varāī</l>
+      </lg>
+      <lg n="483">
+	<l>ṇa vi taha aïgaruēṇa vi tammaï hiaē bharēṇa gabbhassa</l>
+	<l>jaha vivarīaṇihuaṇaṁ piammi sōṇhā apāvantī</l>
+      </lg>
+      <lg n="484">
+	<l>agaṇiajaṇāvavāaṁ avahatthiaguruaṇaṁ varāīē</l>
+	<l>tuha galiadaṁsaṇāsāi tīa valiuṁ ciraṁ ruṇṇaṁ</l>
+      </lg>
+      <lg n="485">
+	<l>hiaaṁ hiaē ṇihiaṁ cittālihia vva tuha muhē diṭṭhī</l>
+	<l>āliṅgaṇarahiāiṁ ṇavaraṁ jhijjanti aṅgāiṁ</l>
+      </lg>
+      <lg n="486">
+	<l>ahaaṁ viōataṇuī dusahō virahāṇalō calaṁ jīaṁ</l>
+	<l>appāhijjaü kiṁ sahi jāṇasi taṁ cēa jaṁ juttaṁ</l>
+      </lg>
+      <lg n="487">
+	<l>tuha virahujjāgaraō siviṇē vi ṇa dēi daṁsaṇasuhāi</l>
+	<l>vāhēṇa pahālōaṇaviṇōaṇaṁ sē haaṁ taṁ pi</l>
+      </lg>
+      <lg n="488">
+	<l>aṇṇāvarāhakuviō jaha taha kālēṇa gacchaï pasāaṁ</l>
+	<l>vēsattaṇāvarāhē kuviaṁ kaha taṁ pasāēmi</l>
+      </lg>
+      <lg n="489">
+	<l>dīsasi piāi jampasi sabbhāvō suhaa ēttio ccēa</l>
+	<l>phālēiūṇa hiaaṁ sāhasu kō dāvaē kassa</l>
+      </lg>
+      <lg n="490">
+	<l>uaaṁ lahiuṁ uttāṇiāṇaṇā honti kē vi savisēsaṁ</l>
+	<l>rittā ṇamanti suiraṁ rahaṭṭaghaḍia vva kāpurisā</l>
+      </lg>
+      <lg n="491">
+	<l>bhaggapiasaṅgamaṁ kēttiaṁ va jōṇhājalaṁ ṇahasarammi</l>
+	<l>candaarapaṇālaṇijharaṇivahapaḍantaṁ ṇa ṇiṭṭhāi</l>
+      </lg>
+      <lg n="492">
+	<l>sundarajuāṇajaṇasaṅkulē vi tuha daṁsaṇaṁ vimaggantī</l>
+	<l>raṇṇē va bhamaï diṭṭhī varāiāē samuvviggā</l>
+      </lg>
+      <lg n="493">
+	<l>aïkōvaṇā vi sāsū ruāviā gaavaīa sōṇhāē</l>
+	<l>pāapaḍanōṇaāē dōsu vi galiēsu valaēsu</l>
+      </lg>
+      <lg n="494">
+	<l>rōvanti vva araṇṇē dūsaharaïkiriṇaphaṁsasantattā</l>
+	<l>aïtārajhilliviruēhi pāavā gimhamajjhaṇhē</l>
+      </lg>
+      <lg n="495">
+	<l>paḍhamaṇilīṇamahuramahulōhillāliulavaddhajhaṅkāraṁ</l>
+	<l>ahimaarakiraṇaṇiuruṁvacuṁviaṁ dalaï kamalavaṇaṁ</l>
+      </lg>
+      <lg n="496">
+	<l>gōttakkhalaṇaṁ sōūṇa piaamē ajja tīa chaṇadiahē</l>
+	<l>vajjhamahisassa māla vva maṇḍaṇaṁ uaha paḍihāi</l>
+      </lg>
+      <lg n="497">
+	<l>mahamahaï malaavāō attā vārēi maṁ gharā ṇintiṁ</l>
+	<l>aṅkōllaparimalēṇa vi jō kkhu muō sō muo ccēa</l>
+      </lg>
+      <lg n="498">
+	<l>muhapēcchaō paī sē sā vi hu savisēsadaṁsaṇummaïā</l>
+	<l>dō vi kaatthā puhaïṁ amahilapurisaṁ va maṇṇanti</l>
+      </lg>
+      <lg n="499">
+	<l>khēmaṁ kattō khēmaṁ jō sō khujjaṁvaō gharaddārē</l>
+	<l>tassa kira matthaāō kō vi aṇatthō samuppaṇṇō</l>
+      </lg>
+      <lg n="500">
+	<l>rasiajaṇahiaadaïē kaïvacchalapamuhasukaïṇimmaïē</l>
+	<l>sattasaammi samattaṁ pañcamagāhāsaaṁ ēaṁ</l>
+      </lg>
+      <lg n="501">
+	<l>āucchaṇavicchāaṁ jāāi muhaṁ ṇiacchamāṇēṇa</l>
+	<l>pahiēṇa sōaṇialāviēṇa gantuṁ cia ṇa iṭṭhaṁ</l>
+      </lg>
+      <lg n="502">
+	<l>sūīvēhē musalaṁ vicchuhamāṇēṇa ḍaḍḍhalōēṇa</l>
+	<l>ēkkaggāmē vi piō samēhi acchīhi vi ṇa diṭṭhō</l>
+      </lg>
+      <lg n="503">
+	<l>ajjaṁ pi dāva ēkkaṁ mā maṁ vārēhi piasahi ruantiṁ</l>
+	<l>kalliṁ uṇa tammi gaē jaï ṇa muā tā ṇa rōissaṁ</l>
+      </lg>
+      <lg n="504">
+	<l>ēhi tti vāharantammi piaamē uaha ōṇaamuhīē</l>
+	<l>viuṇāvēḍhiajahaṇatthalāi lajjōṇaaṁ hasiaṁ</l>
+      </lg>
+      <lg n="505">
+	<l>mārēsi kaṁ ṇa muddhē imēṇa rattantatikkhavisamēṇa</l>
+	<l>bhulaācāvaviṇiggaatikkhaaraddhacchibhallēṇa</l>
+      </lg>
+      <lg n="506">
+	<l>tuha daṁsaṇē saaṇhā saddaṁ sōūṇa ṇiggaā jāiṁ</l>
+	<l>taï vōlīṇē tāiṁ paāi vōḍhavvaā jāā</l>
+      </lg>
+      <lg n="507">
+	<l>īsāmacchararahiē hi ṇivviārēhi māmi acchīhiṁ</l>
+	<l>ēṇhiṁ jaṇō jaṇam miva ṇiacchaē kuha ṇa jhijjāmō</l>
+      </lg>
+      <lg n="508">
+	<l>vāuddhaasicaavihāviōrudiṭṭhēṇa dantamaggēṇa</l>
+	<l>vahumāā tōsijjaï ṇihāṇakalasassa va muhēṇa</l>
+      </lg>
+      <lg n="509">
+	<l>hiaammi vasasi ṇa karēsi maṇṇuaṁ taha vi ṇēhabhariēhiṁ</l>
+	<l>saṅkijjasi juaïsahāvagaliadhīrēhi amhēhiṁ</l>
+      </lg>
+      <lg n="510">
+	<l>aṇṇaṁ pi kiṁ pi pāvihisi mūḍha mā tamma dukkhamēttēṇa</l>
+	<l>hiaa parāhīṇajaṇaṁ mahanta tuha kēttiaṁ ēaṁ</l>
+      </lg>
+      <lg n="511">
+	<l>vēsō si jīa paṁsula ahiaaraṁ sā hu vallahā tujjha</l>
+	<l>ia jāṇiūṇa vi maē ṇa īsiaṁ ḍaḍḍhapēmmassa</l>
+      </lg>
+      <lg n="512">
+	<l>sā āma suhaa guṇarūasōhirī āma ṇigguṇā ahaaṁ</l>
+	<l>bhaṇa tīa jō ṇa sarisō kiṁ sō savvō jaṇō maraü</l>
+      </lg>
+      <lg n="513">
+	<l>santam asantaṁ dukkham suhaṁ ca jāō gharassa jāṇanti</l>
+	<l>tā puttaa mahilāō sēsāu jarā maṇussāṇaṁ</l>
+      </lg>
+      <lg n="514">
+	<l>hasiēhi uvālambhā accuvaārēhi khijjiavvāiṁ</l>
+	<l>aṁsūhi bhaṇḍaṇāiṁ ēsō maggō sumahilāṇaṁ</l>
+      </lg>
+      <lg n="515">
+	<l>ullāvō mā dijjaü lōaviruddhaṁ ti ṇāma kāūṇa</l>
+	<l>samuhāvaḍiē kō uṇa vēsē diṭṭhiṁ ṇa pāḍēi</l>
+      </lg>
+      <lg n="516">
+	<l>sāhīṇapiaamō duggaō vi maṇṇaï kaattham appāṇaṁ</l>
+	<l>piarahiō uṇa puhaviṁ pi pāviuṁ duggao ccēa</l>
+      </lg>
+      <lg n="517">
+	<l>kiṁ ruasi kiṁ va sōasi kiṁ kuppasi suaṇu ēkkamēkkassa</l>
+	<l>pēmmaṁ visaṁ va visamaṁ sāhasu kō rumbhiuṁ taraï</l>
+      </lg>
+      <lg n="518">
+	<l>tē a juāṇā tā gāmasampaā taṁ ca amha tāruṇṇaṁ</l>
+	<l>akkhāṇaaṁ va lōō kahēi amhē vi taṁ suṇimō</l>
+      </lg>
+      <lg n="519">
+	<l>vāhōhabhariagaṇḍāharāi bhaṇiaṁ vilakkhahasirīē</l>
+	<l>ajja vi kiṁ rūsijjaï savahāvatthaṁ gaaṁ pēmmaṁ</l>
+      </lg>
+      <lg n="520">
+	<l>vaṇṇagghaatuppamuhiṁ jō maṁ aïāarēṇa cuṁvantō</l>
+	<l>ēṇhiṁ sō bhūsaṇabhūsiaṁ pi alasāaï chivantō</l>
+      </lg>
+      <lg n="521">
+	<l>ṇīlavaḍapāuaṅgi tti mā hu ṇaṁ pariharijjāsu</l>
+	<l>paṭṭaṁsuaṁ pi ṇaddhaṁ raammi avaṇijjaï ccēa</l>
+      </lg>
+      <lg n="522">
+	<l>saccaṁ kalahē kalahē suraārambhā puṇō ṇavā honti</l>
+	<l>māṇō uṇa māṇaṁsiṇi garuō pēmmaṁ viṇāsēi</l>
+      </lg>
+      <lg n="523">
+	<l>māṇummattāi maē akāraṇaṁ kāraṇaṁ kuṇantīē</l>
+	<l>addaṁsaṇēṇa pēmmaṁ viṇāsiaṁ pōḍhavāēṇa</l>
+      </lg>
+      <lg n="524">
+	<l>aṇuūlaṁ cia vōttuṁ vahuvallaha vallahē vi vēsē vi</l>
+	<l>kuviaṁ ca pasāēuṁ sikkhaï lōō tumāhintō</l>
+      </lg>
+      <lg n="525">
+	<l>lajjā cattā sīlaṁ ca khaṇḍiaṁ ajasaghōsaṇā diṇṇā</l>
+	<l>jassa kaēṇaṁ piasahi so ccēa jaṇō jaṇō jāō</l>
+      </lg>
+      <lg n="526">
+	<l>hasiaṁ aïṭṭhadantaṁ bhamiam aṇikkantadēhalīdēsaṁ</l>
+	<l>diṭṭam aṇukkhittamuhaṁ ēsō maggō kulavahūṇaṁ</l>
+      </lg>
+      <lg n="527">
+	<l>dhūlimaïlō vi paṅkaṅkiō vi taṇaraïadēhabharaṇō vi</l>
+	<l>taha vi gaïndō garuattaṇēṇa ḍhakkaṁ samuvvahaï</l>
+      </lg>
+      <lg n="528">
+	<l>karamari kīsa ṇa gammaï kō gavvō jēṇa masiṇagamaṇā si</l>
+	<l>adiṭṭhadantaṁ hasirīa jampiaṁ cōra jāṇihisi</l>
+      </lg>
+      <lg n="529">
+	<l>thōraṁsuēhi ruṇṇaṁ savattivaggēṇa pupphavaïāē</l>
+	<l>bhuasiharaṁ païṇō pēcchiūṇa siralaggatuppaliaṁ</l>
+      </lg>
+      <lg n="530">
+	<l>lōō jūraï jūraü vaaṇijjaṁ hōi hōu taṁ ṇāma</l>
+	<l>ēhi ṇimajjasu pāsē pupphavaï ṇa ēi mē ṇiddā</l>
+      </lg>
+      <lg n="531">
+	<l>jaṁ jaṁ pulaēmi disaṁ puraō lihiō vva īsasē tattha</l>
+	<l>tuha paḍimāparivāḍiṁ vahaï va saalaṁ disācakkaṁ</l>
+      </lg>
+      <lg n="532">
+	<l>ōsaraï dhuṇaï sāhaṁ khōkkhāmuhalō puṇō samullihaï</l>
+	<l>jaṁvūphalaṁ ṇa gēṇhaï bhamarō tti kaī paḍhamaḍakkō</l>
+      </lg>
+      <lg n="533">
+	<l>ṇa chivaï hattēṇa kaī kaṇḍūibhaēṇa pattalaṇiuñjē</l>
+	<l>daralaṁvigōcchakaïkacchusacchahaṁ vāṇarīhatthaṁ</l>
+      </lg>
+      <lg n="534">
+	<l>sarasā vi sūsaï ccia jāṇaï dukkhāi muddhahiaā vi</l>
+	<l>rattā vi paṇḍura ccia jāā varaī tuha viōē</l>
+      </lg>
+      <lg n="535">
+	<l>āruhaï juṇṇaaṁ khujjaaṁ pi jaṁ uaha vallarī taüsī</l>
+	<l>ṇīluppalaparimalavāsiassa saraassa sō dōsō</l>
+      </lg>
+      <lg n="536">
+	<l>uppahapahāviajaṇō paviambhiakalaalō pahaatūrō</l>
+	<l>avvō so ccēa chaṇō tēṇa viṇā gāmaḍāhō vva</l>
+      </lg>
+      <lg n="537">
+	<l>ullāvantēṇa ṇa hōi kassa pāsaṭṭhiēṇa thaḍḍēṇa</l>
+	<l>saṅkā masāṇapāavalaṁviacōrēṇa va khalēṇa</l>
+      </lg>
+      <lg n="538">
+	<l>asamattagaruakajjē ēṇhiṁ pahiē gharaṁ ṇiattantē</l>
+	<l>ṇavapāusō piucchā hasaï va kuḍaaṭṭahāsēhiṁ</l>
+      </lg>
+      <lg n="539">
+	<l>daṭṭhūṇa uṇṇamantē mēhē āmukkajīviāsāē</l>
+	<l>pahiaghariṇīa ḍimbhō ōruṇṇamuhīa saccaviō</l>
+      </lg>
+      <lg n="540">
+	<l>avihavalakkhaṇavalaaṁ ṭhāṇaṁ ṇēntō puṇō puṇō galiaṁ</l>
+	<l>sahisattho ccia māṇaṁsiṇīa valaāraō jāō</l>
+      </lg>
+      <lg n="541">
+	<l>pahiavahū vivarantaragaliajalōllē gharē aṇōllaṁ pi</l>
+	<l>uddēsaṁ aviraavāhasalilaṇivahēṇa ōllēi</l>
+      </lg>
+      <lg n="542">
+	<l>jīhāi kuṇanti piaṁ honti a hiaammi ṇivvuiṁ kāuṁ</l>
+	<l>pīḍijjantā vi rasaṁ jaṇēnti ucchū kulīṇā a</l>
+      </lg>
+      <lg n="543">
+	<l>dīsaï ṇa cūamaülaṁ attā ṇa a vāi malaagandhavahō</l>
+	<l>pattaṁ vasantamāsaṁ sāhaï ukkaṇṭhiaṁ cēa</l>
+      </lg>
+      <lg n="544">
+	<l>aṁvavaṇē bhamaraülaṁ ṇa viṇā kajjēṇa ūsuaṁ bhamaï</l>
+	<l>kattō jalaṇēṇa viṇā dhūmassa sihāu dīsanti</l>
+      </lg>
+      <lg n="545">
+	<l>daïakaraggahaluliō dhammillō sīhugandhiaṁ vaaṇaṁ</l>
+	<l>maaṇammi ēttiaṁ cia pasāhaṇaṁ haraï taruṇīṇaṁ</l>
+      </lg>
+      <lg n="546">
+	<l>gāmataruṇīu hiaaṁ haranti chēāṇa thaṇaharillīō</l>
+	<l>maaṇē kusumbharāillakañcuābharaṇamēttāō</l>
+      </lg>
+      <lg n="547">
+	<l>ālōanta disāō sasanta jambhanta ganta rōanta</l>
+	<l>mucchanta paḍanta khalanta pahia kiṁ tē paütthēṇa</l>
+      </lg>
+      <lg n="548">
+	<l>daṭṭhūṇa taruṇasuraaṁ vivihavilāsēhi karaṇasōhillaṁ</l>
+	<l>dīvō vi taggaamaṇō gaaṁ pi tēllaṁ ṇa lakkhēi</l>
+      </lg>
+      <lg n="549">
+	<l>puṇaruttakarapphālaṇam uhaataḍullihaṇapīḍaṇasaāiṁ</l>
+	<l>jūhāhivassa māē puṇō vi jaï ṇammaā sahaï</l>
+      </lg>
+      <lg n="550">
+	<l>vōḍasuṇaō vivaṇṇō attā mattā paī vi aṇṇatthō</l>
+	<l>phaḍahī vi mōḍiā mahisaēṇa kō kassa sāhēu</l>
+      </lg>
+      <lg n="551">
+	<l>sakaaggaharahasuttāṇiāṇaṇā piaï piamuhaviiṇṇaṁ</l>
+	<l>thōaṁ thōaṁ rōsōsahaṁ va ua māṇiṇī maïraṁ</l>
+      </lg>
+      <lg n="552">
+	<l>girisōttō tti bhuaṅgaṁ mahisō jīhāi lihaï santattō</l>
+	<l>mahisassa kaṇhapattharajharō tti sappō piaï lālaṁ</l>
+      </lg>
+      <lg n="553">
+	<l>pañjarasāriṁ attā ṇa ṇēsi kiṁ ēttha raïharāhintō</l>
+	<l>vīsambhajampiāiṁ ēsā lōāṇa paaḍēi</l>
+      </lg>
+      <lg n="554">
+	<l>ēddahamēttē gāmē ṇa paḍaï bhikka tti kīsa maṁ bhaṇasi</l>
+	<l>dhammia karañjabhañjaa jaṁ jīasi taṁ pi dē vahuaṁ</l>
+      </lg>
+      <lg n="555">
+	<l>jantia gulaṁ vimaggasi ṇa a mē icchāi vāhasē jantaṁ</l>
+	<l>aṇarasia kiṁ ṇa āṇasi ṇa rasēṇa viṇā gulō hōi</l>
+      </lg>
+      <lg n="556">
+	<l>pattaṇiaṁvapphaṁsā ṇhāṇuttiṇṇāi sāmalaṅgīē</l>
+	<l>jalavinduēhi cihurā ruanti vandhassa va bhaēṇa</l>
+      </lg>
+      <lg n="557">
+	<l>gāmaṅgaṇaṇiaḍiakaṇhavakkha vaḍa tujjha dūram aṇulaggō</l>
+	<l>tattillapaḍikkhaabhōiō vi gāmō ṇa uvviggō</l>
+      </lg>
+      <lg n="558">
+	<l>suppaṁ ḍaḍḍhaṁ caṇaā ṇa bhajjiā sō juā aïkkantō</l>
+	<l>attā vi gharē kuviā bhūāṇa va vāiō vaṁsō</l>
+      </lg>
+      <lg n="559">
+	<l>pisuṇēnti kāmiṇīṇaṁ jalalukkapiāvaūhaṇasuhēlliṁ</l>
+	<l>kaṇḍaïakavōlupphullaṇiccalacchīi vaaṇāi</l>
+      </lg>
+      <lg n="560">
+	<l>ahiṇavapāusarasiēsu sŏhaï sāmāiēsu diahēsu</l>
+	<l>rahasapasāriagīvāṇa ṇacciaṁ mōravundāṇaṁ</l>
+      </lg>
+      <lg n="561">
+	<l>mahisakkhandhavilaggaṁ ghōlaï siṅgāhaaṁ simisimantaṁ</l>
+	<l>āhaavīṇājhaṅkārasaddamuhalaṁ masaavundaṁ</l>
+      </lg>
+      <lg n="562">
+	<l>rēhanti kumuadalaṇiccalaṭṭhiā mattamahuaraṇihāā</l>
+	<l>sasiaraṇīsēsapaṇāsiassa gaṇṭhi vva timirassa</l>
+      </lg>
+      <lg n="563">
+	<l>uaha tarukōḍarāō ṇikkantaṁ pūsuāṇa riñchōliṁ</l>
+	<l>saraē jariō vva dumō pittaṁ va salōhiaṁ vamaï</l>
+      </lg>
+      <lg n="564">
+	<l>dhārādhuvvantamuhā laṁviavakkhā ṇiuñciaggīvā</l>
+	<l>vaïvēḍhaṇēsu kāā sūlāhiṇṇa vva dīsanti</l>
+      </lg>
+      <lg n="565">
+	<l>ṇa vi taha anālavantī hiaaṁ dūmēi māṇiṇī ahiaṁ</l>
+	<l>jaha dūraviambhiagaruarōsamajjhatthabhaṇiēhiṁ</l>
+      </lg>
+      <lg n="566">
+	<l>gandhaṁ agghāantaa pikkakalaṁvāṇa vāhabhariaccha</l>
+	<l>āsasu pahiajuāṇaa ghariṇimuhaṁ mā ṇa pēcchihisi</l>
+      </lg>
+      <lg n="567">
+	<l>gajja mahaṁ cia uvariṁ savvatthāmēṇa lōhahiaassa</l>
+	<l>jalahara laṁvālaïaṁ mā rē mārēhisi varāiṁ</l>
+      </lg>
+      <lg n="568">
+	<l>paṅkamaïlēṇa chīrēkkapāiṇā diṇṇajāṇuvaḍaṇēṇa</l>
+	<l>ānandijjaï haliō puttēṇa va sālichēttēṇa</l>
+      </lg>
+      <lg n="569">
+	<l>kaha mē pariṇaïālē khalasaṅgō hōhii tti cintantō</l>
+	<l>ōṇaamuhō sasūō ruaï va sālī tusārēṇa</l>
+      </lg>
+      <lg n="570">
+	<l>sañjhārāōtthaïō dīsaï gaaṇammi paḍivaācandō</l>
+	<l>rattaduūlantariō thaṇaṇahalēhō vva ṇavavahūē</l>
+      </lg>
+      <lg n="571">
+	<l>aï diara kiṁ ṇa pēcchasi āāsaṁ kiṁ muhā palōēsi</l>
+	<l>jāāi vāhumūlammi addhaandāṇa parivāḍiṁ</l>
+      </lg>
+      <lg n="572">
+	<l>vāāi kiṁ bhaṇijjaü kēttiamēttaṁ va likkhaē lēhē</l>
+	<l>tuha virahē jaṁ dukkhaṁ tassa tumaṁ cēa gahiatthō</l>
+      </lg>
+      <lg n="573">
+	<l>maaṇaggiṇō vva dhūmaṁ mōhaṇapicchiṁ va lōadiṭṭhīē</l>
+	<l>jōvvaṇadhaaṁ va muddhā vahaï suandhaṁ ciurabhāraṁ</l>
+      </lg>
+      <lg n="574">
+	<l>rūaṁ siṭṭhaṁ cia sē asēsapurisē ṇiattiacchēṇa</l>
+	<l>vāhōllēṇa imīē ajampamāṇēṇa vi muhēṇa</l>
+      </lg>
+      <lg n="575">
+	<l>rundāravindamandiramaarandāṇandiāliriñchōlī</l>
+	<l>jhaṇajhaṇaï kasaṇamaṇimēhala vva mahumāsalacchīē</l>
+      </lg>
+      <lg n="576">
+	<l>kassa karō vahupuṇṇapphalēkkataruṇō tuhaṁ visammihaï</l>
+	<l>thaṇapariṇāhē mammahaṇihāṇakalasē vva pārōhō</l>
+      </lg>
+      <lg n="577">
+	<l>cōrā sabhaasataṇhaṁ puṇō puṇō pēsaanti diṭṭhīō</l>
+	<l>ahirakkhiaṇihikalasē vva pōḍhavaïāthanucchaṅgē</l>
+      </lg>
+      <lg n="578">
+	<l>uvvahaï ṇavataṇaṅkurarōmañcapasāhiāi aṅgāiṁ</l>
+	<l>pāusalacchīa paōharēhi paripēlliō viñjhō</l>
+      </lg>
+      <lg n="579">
+	<l>āma vahalā vaṇālī muhalā jalaraṅkuṇō jalaṁ sisiraṁ</l>
+	<l>aṇṇaṇaīṇa vi rēvāi taha vi aṇṇē guṇā kē vi</l>
+      </lg>
+      <lg n="580">
+	<l>ēha imīa ṇiacchaha pariṇaamālūrasacchahē thaṇaē</l>
+	<l>tuṅgē sappurisamaṇōrahē vva hiaē amāantē</l>
+      </lg>
+      <lg n="581">
+	<l>hatthāhatthiṁ aham ahamiāi vāsāgamammi mēhēhiṁ</l>
+	<l>avvō kiṁ pi rahassaṁ chaṇṇaṁ pi ṇahaṅgaṇaṁ galaï</l>
+      </lg>
+      <lg n="582">
+	<l>kēttiamēttaṁ hōhii sōhaggaṁ piaamassa bhamirassa</l>
+	<l>mahilāmaaṇachuhāulakaḍakkhavikkhēvagheppantaṁ</l>
+      </lg>
+      <lg n="583">
+	<l>ṇiadhaṇiaṁ uvaūhasu kukkuḍasaddēṇa jhatti paḍivuddhō</l>
+	<l>paravasahivāsasaṅkira ṇiaē vi gharammi mā bhāsu</l>
+      </lg>
+      <lg n="584">
+	<l>kharapavaṇaraagalatthiagiriūḍāvaḍaṇabhiṇṇadēhassa</l>
+	<l>dhukkādhukkaï jīaṁ va vijjuā kālamēhassa</l>
+      </lg>
+      <lg n="585">
+	<l>mēhamahisassa ṇajjaï uarē suracāvakōḍibhiṇṇassa</l>
+	<l>kandantassa saviaṇaṁ antaṁ va palaṁvaē vijjū</l>
+      </lg>
+      <lg n="586">
+	<l>ṇavapallavaṁ visaṇṇā pahiā pēcchanti cūarukkhassa</l>
+	<l>kāmassa lōhiuppaṅgarāiaṁ hatthabhallaṁ va</l>
+      </lg>
+      <lg n="587">
+	<l>mahilāṇaṁ cia dōsō jēṇa pavāsammi gavviā purisā</l>
+	<l>dō tiṇṇi jāva ṇa maranti tā ṇa virahā samappanti</l>
+      </lg>
+      <lg n="588">
+	<l>vālaa dē vacca lahuṁ maraï varāī alaṁ vilaṁvēṇa</l>
+	<l>sā tujjha daṁsaṇēṇa vi jīvējja ṇa ēttha sandēhō</l>
+      </lg>
+      <lg n="589">
+	<l>taṁmirapasariahuavahajālōlipalīviē vaṇābhōē</l>
+	<l>kiṁsuavaṇaṁ ti kaliūṇa muddhahariṇō ṇa ṇikkamaï</l>
+      </lg>
+      <lg n="590">
+	<l>ṇihuaṇasippaṁ taha sāriāi ullāviaṁ mha gurupuraō</l>
+	<l>jaha taṁ vēlaṁ māē ṇa āṇimō kattha vaccāmō</l>
+      </lg>
+      <lg n="591">
+	<l>paccaggupphulladalullasantamaarandapāṇalēhalaō</l>
+	<l>taṁ ṇa tthi kundakaliāi jaṁ ṇa bhamarō mahaï kāuṁ</l>
+      </lg>
+      <lg n="592">
+	<l>sō kō vi guṇāisaō ṇa āṇimō māmi kundalaïāē</l>
+	<l>acchīhiṁ cia pāuṁ ahilassaï jēṇa bhamarēhiṁ</l>
+      </lg>
+      <lg n="593">
+	<l>ēkka ccia rūaguṇaṁ gāmaṇidhūā samuvvahaï</l>
+	<l>aṇimisaṇaaṇō saalō jīē dēvīkaō gāmō</l>
+      </lg>
+      <lg n="594">
+	<l>maṇṇē āsāo ccia ṇa pāviō piaamāhararasassa</l>
+	<l>tiasēhi jēṇa raaṇāarāhi amaaṁ samuddhariaṁ</l>
+      </lg>
+      <lg n="595">
+	<l>āaṇṇāaḍḍhiaṇisiabhallamammāhaāi hariṇīē</l>
+	<l>addaṁsaṇō piō hōhii tti valiuṁ ciraṁ ditthō</l>
+      </lg>
+      <lg n="596">
+	<l>visamaṭṭhiapikkēkkaṁvadaṁsaṇē tujjha sattughariṇīa</l>
+	<l>kō kō ṇa patthiō pahiāṇaṁ ḍimbhē ruantammi</l>
+      </lg>
+      <lg n="597">
+	<l>mālārī laliulluliavāhumūlēhi taruṇahiaāiṁ</l>
+	<l>ullūraï sajjullūriāi kusumāi dāvēntī</l>
+      </lg>
+      <lg n="598">
+	<l>majjhō piō kuaṇḍō pallijuāṇā savattīō</l>
+	<l>jaha jaha vaḍḍhanti thaṇā taha taha jhijjanti pañca vāhīē</l>
+      </lg>
+      <lg n="599">
+	<l>mālārīē vēllahalavāhumūlāvalōaṇasaaṇhō</l>
+	<l>aliaṁ pi bhamaï kusumagghapucchirō paṁsulajuāṇō</l>
+      </lg>
+      <lg n="600">
+	<l>rasiajaṇahiaadaïē kaïvacchalapamuhasukaïṇimmaïē</l>
+	<l>sattasaammi samattaṁ saṭṭhaṁ gāhāsaaṁ ēaṁ</l>
+      </lg>
+      <lg n="601">
+	<l>akaaṇṇua ghaṇavaṇṇaṁ ghaṇavaṇṇantariataraṇiaraṇiaraṁ</l>
+	<l>jaï rē rē vāṇīraṁ rēvāṇīraṁ pi ṇō bharasi</l>
+      </lg>
+      <lg n="602">
+	<l>mandaṁ pi ṇa āṇaï haliaṇandaṇō iha hi ḍaḍḍhagāmammi</l>
+	<l>gahavaïsuā vivajjaï avējjaē kassa sāhāmō</l>
+      </lg>
+      <lg n="603">
+	<l>ēkkakkamaparirakkhaṇapahārasamuhē kuraṅgamihuṇammi</l>
+	<l>vāhēṇa maṇṇuvialantavāhadhōaṁ dhaṇuṁ mukkaṁ</l>
+      </lg>
+      <lg n="604">
+	<l>tā suhaa vilaṁva khaṇaṁ bhaṇāmi kīa vi kaēṇa alam ahavā</l>
+	<l>aviāriakajjārambhaāriṇī maraü ṇa bhaṇissaṁ</l>
+      </lg>
+      <lg n="605">
+	<l>bhōiṇidiṇṇapahēṇaacakkhiadussikkhiō haliaüttō</l>
+	<l>ēttāhē aṇṇapahēṇaāṇa chīvōllaaṁ dēi</l>
+      </lg>
+      <lg n="606">
+	<l>paccūsamaūhāvaliparimalaṇasamūsasantavattāṇaṁ</l>
+	<l>kamalāṇa raaṇiviramē jialōasirī mahaṁmahaï</l>
+      </lg>
+      <lg n="607">
+	<l>vāuvvēlliasāhuli thaēsu phuḍadantamaṇḍalaṁ jahaṇaṁ</l>
+	<l>caḍuāraaṁ païṁ mā hu putti jaṇahāsiaṁ kuṇasu</l>
+      </lg>
+      <lg n="608">
+	<l>vīsatthahasiaparisakkiāṇa paḍhamaṁ jalañjalī diṇṇō</l>
+	<l>pacchā vahūa gahiō kuḍaṁvabhārō ṇimajjantō</l>
+      </lg>
+      <lg n="609">
+	<l>gammihisi tassa pāsaṁ sundari mā tuara vaḍḍhaü miaṅkō</l>
+	<l>duddhē duddhaṁ miva candiāi kō pēcchaï muhaṁ dē</l>
+      </lg>
+      <lg n="610">
+	<l>jaï jūraï jūraü ṇāma māmi paralōavasaṇiō lōō</l>
+	<l>taha vi valā gāmaṇiṇandaṇassa vaaṇē valaï diṭṭhī</l>
+      </lg>
+      <lg n="611">
+	<l>gēhaṁ va vittarahiaṁ ṇijjharakuharaṁ va salilasuṇṇaïaṁ</l>
+	<l>gōhaṇarahiaṁ gōṭṭhaṁ va tīa vaaṇaṁ tuha viōē</l>
+      </lg>
+      <lg n="612">
+	<l>tuha daṁsaṇēṇa jaṇiō imīa lajjāulāi aṇurāō</l>
+	<l>duggaamaṇōrahō via hiaa ccia jāi pariṇāmaṁ</l>
+      </lg>
+      <lg n="613">
+	<l>jaṁ taṇuāaï sā tuha kaēṇa kiṁ jēṇa pucchasi hasantō</l>
+	<l>aha gimhē maha paaī ēvvaṁ bhaṇiūṇa ōruṇṇā</l>
+      </lg>
+      <lg n="614">
+	<l>vaṇṇakkamarahiassa vi ēsa guṇō ṇavari cittakammassa</l>
+	<l>ṇimisaṁ pi jaṁ ṇa muñcaï piō jaṇō gāḍham uvaūḍhō</l>
+      </lg>
+      <lg n="615">
+	<l>avihattasandhivandhaṁ paḍhamarasubbhēapāṇalōhillō</l>
+	<l>uvvēlliuṁ ṇa āṇaï khaṇḍaï kaliāmuhaṁ bhamarō</l>
+      </lg>
+      <lg n="616">
+	<l>daravēvirōrujualāsu maüliacchīsu luliacihurāsu</l>
+	<l>purisāirīsu kāmō piāsu sajjāuhō hōi</l>
+      </lg>
+      <lg n="617">
+	<l>jaṁ jaṁ tē ṇa suhāaï taṁ taṁ ṇa karēmi jaṁ mam' āattaṁ</l>
+	<l>ahaaṁ cia jaṁ ṇa suhāmi suhaa taṁ kiṁ mam' āattaṁ</l>
+      </lg>
+      <lg n="618">
+	<l>vāvāravisaṁvāaṁ saalāvaavāṇa kuṇaï haalajjā</l>
+	<l>savaṇāṇa uṇō gurusaṁṇihē vi ṇa ṇiruñjhaï ṇiōaṁ</l>
+      </lg>
+      <lg n="619">
+	<l>kiṁ bhaṇaha maṁ sahīō mā mara dīsihaï sō jiantīē</l>
+	<l>kajjālāō ēsō siṇēhamaggō uṇa ṇa hōi</l>
+      </lg>
+      <lg n="620">
+	<l>ēkkallamaō diṭṭhīa maïa taha pulaïō saaṇhāē</l>
+	<l>piajāassa jaha dhaṇuṁ paḍiaṁ vāhassa hatthāō</l>
+      </lg>
+      <lg n="621">
+	<l>ṇaliṇīsu bhamasi parimalasi sattalaṁ mālaïṁ pi ṇō muasi</l>
+	<l>taralattaṇaṁ tuha ahō mahuara jaï pāḍalā haraï</l>
+      </lg>
+      <lg n="622">
+	<l>dōaṅgulaakavālaapiṇaddhasavisēsaṇīlakañcuiā</l>
+	<l>dāvēi thaṇatthalavaṇṇiaṁ va taruṇī juajaṇāṇaṁ</l>
+      </lg>
+      <lg n="623">
+	<l>rakkhēi puttaaṁ matthaēṇa ōcchōaaṁ paḍicchantī</l>
+	<l>aṁsūhi pahiaghariṇī ōllijjantaṁ ṇa lakkhēi</l>
+      </lg>
+      <lg n="624">
+	<l>saraē sarammi pahiā jalāi kandōṭṭasurahigandhāi</l>
+	<l>dhavalacchāi saaṇhā pianti daïāṇa va muhāiṁ</l>
+      </lg>
+      <lg n="625">
+	<l>abbhantarasarasāō uvariṁ pavvāavaddhapaṅkāō</l>
+	<l>caṅkammantammi jaṇē samūsasanti vva racchāō</l>
+      </lg>
+      <lg n="626">
+	<l>muhapuṇḍarīachāāi saṇṭhiē uaha rāahaṁsē vva</l>
+	<l>chaṇapiṭṭhakuṭṭaṇucchaliadhūlidhavalē thaṇē vahaï</l>
+      </lg>
+      <lg n="627">
+	<l>taha tēṇa vi sā diṭṭhā tīa vi taha tassa pēsiā diṭṭhī</l>
+	<l>jaha dōṇha vi samaaṁ cia ṇivvuttaraāi jāāi</l>
+      </lg>
+      <lg n="628">
+	<l>vāuliāparisōsaṇaṇiuñjapattalaṇasulahasaṅkēā</l>
+	<l>sōhaggakaṇaakasavaṭṭa gimha mā kaha vi jhijjihisi</l>
+      </lg>
+      <lg n="629">
+	<l>dussikkhiaraaṇapasikkhaēhi ghiṭṭhō si pattharē tāva</l>
+	<l>jā tilamēttaṁ vaṭṭasi maragaa kā tujjha mullakahā</l>
+      </lg>
+      <lg n="630">
+	<l>jaha cintēi pariaṇō āsaṅkaï jaha a tassa paḍivakkhō</l>
+	<l>vālēṇa vi gāmaṇiṇandaṇēṇa taha rakkhiā pallī</l>
+      </lg>
+      <lg n="631">
+	<l>aṇṇēsu pahia pucchasu vāhaaputtēsu pusiacammāiṁ</l>
+	<l>amhaṁ vāhajuāṇō hariṇēsu dhaṇuṁ ṇa ṇāmēi</l>
+      </lg>
+      <lg n="632">
+	<l>gaavahuvēhavvaarō puttō mē ēkkakaṇḍaviṇivāī</l>
+	<l>taha sōṇhāi pulaïō jaha kaṇḍavaraṇḍaaṁ vahaï</l>
+      </lg>
+      <lg n="633">
+	<l>viñjhāruhaṇālāvaṁ pallī mā kuṇaü gāmaṇī sasaï</l>
+	<l>paccujjiviō jaï kaha vi suṇaï tā jīviaṁ muaï</l>
+      </lg>
+      <lg n="634">
+	<l>appāhēi marantō puttaṁ pallīvaī paattēṇa</l>
+	<l>maha ṇāmēṇa jaha tumaṁ ṇa lajjasē taha karējjāsu</l>
+      </lg>
+      <lg n="635">
+	<l>aṇumaraṇapatthiāē paccāgaajīviē piaamammi</l>
+	<l>vēhavvamaṇḍaṇaṁ kulavahūa sōhaggaaṁ jāaṁ</l>
+      </lg>
+      <lg n="636">
+	<l>mahumacchiāi daṭṭhaṁ daṭṭhūṇa muhaṁ piassa sūṇōṭṭhaṁ</l>
+	<l>īsāluī pulindī rukkhacchāaṁ gaā aṇṇaṁ</l>
+      </lg>
+      <lg n="637">
+	<l>dhaṇṇā vasanti ṇīsaṅkamōhaṇē vahalapattalavaïmmi</l>
+	<l>vāandōlaṇaōṇaviavēṇugahaṇē giriggāmē</l>
+      </lg>
+      <lg n="638">
+	<l>pupphullaghaṇakalaṁvā ṇiddhōasilāalā muiamōrā</l>
+	<l>pasarantōjjharamuhalā ucchāhantē giriggāmā</l>
+      </lg>
+      <lg n="639">
+	<l>taha parimaliā gōvēṇa tēṇa hatthaṁ pi jā ṇa ōllēi</l>
+	<l>sa ccia khaḍaṇā ēṇhiṁ pēcchaha kuḍadōhiṇī jāā</l>
+      </lg>
+      <lg n="640">
+	<l>dhavalō jiaï tuha kaē dhavalassa kaē jianti giṭṭhīō</l>
+	<l>jia taṁvē amha vi jīviēṇa gōṭṭhaṁ tumāattaṁ</l>
+      </lg>
+      <lg n="641">
+	<l>agghāi chivaï cuṁvaï ṭhavēi hiaammi jaṇiarōmañcō</l>
+	<l>jāākavōlasarisaṁ pēcchaha pahiō mahuapupphaṁ</l>
+      </lg>
+      <lg n="642">
+	<l>ua ōllijjaï mōhaṁ bhuaṅgakittīa kaḍaalaggāi</l>
+	<l>ōjjharadhārāsaddhāluēṇa sīsaṁ vaṇagaēṇa</l>
+      </lg>
+      <lg n="643">
+	<l>kamalaṁ muanta mahuara pikkakaïtthāṇa gandhalōhēṇa</l>
+	<l>ālēkkhalaḍḍuaṁ pāmarō vva chiviūṇa jāṇihisi</l>
+      </lg>
+      <lg n="644">
+	<l>gijjantē maṅgalagāiāhi varagōttadiṇṇaaṇṇāē</l>
+	<l>sōuṁ va ṇiggaō uaha hontavahuāi rōmañcō</l>
+      </lg>
+      <lg n="645">
+	<l>maṇṇē āaṇṇantā āsaṇṇavivāhamaṅgaluggīaṁ</l>
+	<l>tēhi juāṇēhi samaṁ hasanti maṁ vēasakuḍuṅgā</l>
+      </lg>
+      <lg n="646">
+	<l>uagaacaütthimaṅgalahontaviōasavisēsalaggēhi</l>
+	<l>tīa varassa a sēaṁsuēhi ruṇṇaṁ va hatthēhiṁ</l>
+      </lg>
+      <lg n="647">
+	<l>ṇa a diṭṭhiṁ ṇēi muhaṁ ṇa a chiviuṁ dēi ṇā lavaï kiṁ pi</l>
+	<l>taha vi hu kiṁ pi rahassaṁ ṇavavahusaṅgō piō hōi</l>
+      </lg>
+      <lg n="648">
+	<l>aliapasuttavalantammi ṇavavarē ṇavavahūa vēvantō</l>
+	<l>saṁvēlliōrusañjamiavatthagaṇṭhiṁ gaō hatthō</l>
+      </lg>
+      <lg n="649">
+	<l>pucchijjantī ṇa bhaṇaï gahiā papphuraï cuṁviā ruaï</l>
+	<l>tuṇhikkā ṇavavahuā kaāvarāhēṇa uvaūḍhā</l>
+      </lg>
+      <lg n="650">
+	<l>tatto ccia honti kahā viasanti tahiṁ tahiṁ samappanti</l>
+	<l>kiṁ maṇṇē māucchā ēkkajuāṇō imō gāmō</l>
+      </lg>
+      <lg n="651">
+	<l>jāi vaaṇāi amhē vi jampimō tāi jampaï jaṇō vi</l>
+	<l>tāiṁ cia tēṇa pajampiāi hiaaṁ suhāvēnti</l>
+      </lg>
+      <lg n="652">
+	<l>savvāarēṇa maggaha piaṁ jaṇaṁ jaï suhēṇa vō kajjaṁ</l>
+	<l>jaṁ jassa hiaadaïaṁ taṁ ṇa suhaṁ jaṁ tahiṁ ṇa tthi</l>
+      </lg>
+      <lg n="653">
+	<l>dīsantō diṭṭhisuhō cintijjanta maṇavallahō attā</l>
+	<l>ullāvanta suisuhō piō jaṇō ṇicca ramaṇijjō</l>
+      </lg>
+      <lg n="654">
+	<l>ṭhāṇabbhaṭṭhā parigaliapīṇaā uṇṇaīa paricattā</l>
+	<l>amhē uṇa ṭhēripaōhara vva uare ccia ṇisanṇā</l>
+      </lg>
+      <lg n="655">
+	<l>paccūsāgaa rañjiadēha piālōa lōaṇāṇanda</l>
+	<l>aṇṇattakhaviasavvari ṇahabhūsaṇa diṇavaï ṇamō dē</l>
+      </lg>
+      <lg n="656">
+	<l>vivarīasuraalēhaḍa pucchasi maha kīsa gabbhasambhūiṁ</l>
+	<l>ōattē kumbhamuhē jalalavakaṇiā vi kiṁ ṭhāi</l>
+      </lg>
+      <lg n="657">
+	<l>accāsaṇṇavivāhē samaṁ jasōāi taruṇagōvīhiṁ</l>
+	<l>vaḍḍhantē mahumahaṇē saṁvandhā ṇiṇhuvijjanti</l>
+      </lg>
+      <lg n="658">
+	<l>jaṁ jaṁ ālihaï maṇō āsāvattīhi hiaaphalaammi</l>
+	<l>taṁ taṁ vālō vva vihī ṇihuaṁ hasiūṇa pamhusaï</l>
+      </lg>
+      <lg n="659">
+	<l>aṇuhuttō karaphaṁsō saalaalāpuṇṇa puṇṇadiahammi</l>
+	<l>vīāsaṅgakisaṅgaa ēṇhiṁ tuha vandimō calaṇē</l>
+      </lg>
+      <lg n="660">
+	<l>dūrantariē vi piē kaha vi ṇiattāi majjha ṇaaṇāi</l>
+	<l>hiaaṁ uṇa tēṇa samaṁ ajja vi aṇivāriaṁ bhamaï</l>
+      </lg>
+      <lg n="661">
+	<l>tassa kahākantaïē saddāaṇṇaṇasamōsariakōvē</l>
+	<l>samuhālōaṇakampiri uvaūḍhā kiṁ pavajjihisi</l>
+      </lg>
+      <lg n="662">
+	<l>bharaṇamiaṇīlasāhaggakhaliacalaṇaddhavihuavakkhaüḍā</l>
+	<l>tarusiharēsu vihaṅgā kaha kaha vi lahanti saṇṭhāṇaṁ</l>
+      </lg>
+      <lg n="663">
+	<l>aharamahupāṇaghōrilliāi jaṁ ca ramiō si savisēsaṁ</l>
+	<l>asaï alajjiri vahusikkhiri tti mā ṇāha maṇṇihisi</l>
+      </lg>
+      <lg n="664">
+	<l>khāṇēṇa a pāṇēṇa a taha gahiō maṇḍalō aḍaaṇāi</l>
+	<l>jaha jāraṁ ahiṇandaï bhukkaï gharasāmiē ēntē</l>
+      </lg>
+      <lg n="665">
+	<l>kaṇḍantēṇa akaṇḍaṁ pallīmajjhammi viaḍakōandaṁ</l>
+	<l>païmaraṇāhi vi ahiaṁ vāhēṇa ruāviā attā</l>
+      </lg>
+      <lg n="666">
+	<l>amhē ujjuasīlā piō vi piasahi viārapariōsō</l>
+	<l>ṇa hu aṇṇā kā vi gaī vāhōhā kaha pusijjantu</l>
+      </lg>
+      <lg n="667">
+	<l>dhavalō si jaï vi sundari taha vi tuē majjha rañjiaṁ hiaaṁ</l>
+	<l>rāabhariē vi hiaē suhaa ṇihittō ṇa rattō si</l>
+      </lg>
+      <lg n="668">
+	<l>cañcupuḍāhaavialiasahaārarasēṇa sittadēhassa</l>
+	<l>kīrassa maggalaggaṁ gandhandhaṁ bhamaï bhamaraülaṁ</l>
+      </lg>
+      <lg n="669">
+	<l>ēttha ṇimajjaï ēttā ēttha ahaṁ ēttha pariaṇō saalō</l>
+	<l>panthia rattīandhaa mā maha saaṇē ṇimajjihisi</l>
+      </lg>
+      <lg n="670">
+	<l>pariōsasundarāiṁ suraēsu lahanti jāi sōkkhāi</l>
+	<l>tāiṁ cia uṇa virahē khāuggiṇṇāi kīranti</l>
+      </lg>
+      <lg n="671">
+	<l>maggaṁ cia alahantō hārō pīṇuṇṇaāṇa thaṇaāṇa</l>
+	<l>uvviggō bhamaï urē jamuṇāṇaïphēṇapuñjō vva</l>
+      </lg>
+      <lg n="672">
+	<l>ēkkēṇa vi vaḍavīaṅkurēṇa saalavaṇarāimajjhammi</l>
+	<l>taha tēṇa kaō appā jaha sēsadumā talē tassa</l>
+      </lg>
+      <lg n="673">
+	<l>jē jē guṇiṇō jē jē a cāiṇō jē viaḍḍhaviṇṇāṇā</l>
+	<l>dāridda rē viakkhaṇa tāṇa tumaṁ sāṇurāō si</l>
+      </lg>
+      <lg n="674">
+	<l>jaï kōttiō si sundara saalatihīcandadaṁsaṇasuhāṇaṁ</l>
+	<l>tā masiṇaṁ mōijjantakañcuaṁ pēkkhasu muhaṁ sē</l>
+      </lg>
+      <lg n="675">
+	<l>samavisamaṇivvisēsā samantaō mandamandasañcārā</l>
+	<l>aïrā hōhinti pahā maṇōrahāṇaṁ pi dullaṅghā</l>
+      </lg>
+      <lg n="676">
+	<l>aïdīharāi vahuē sīsē dīsanti vaṁsavattāi</l>
+	<l>bhaṇiē bhaṇāmi attā tumhāṇa vi paṇḍarā puṭṭhī</l>
+      </lg>
+      <lg n="677">
+	<l>atthakkarūsaṇaṁ khaṇapasijjaṇaṁ aliavaaṇaṇivvandhō</l>
+	<l>ummaccharasantāvō puttaa paavī siṇēhassa</l>
+      </lg>
+      <lg n="678">
+	<l>pijjaï kaṇṇañjalihiṁ jaṇaravamiliaṁ pi tujjha saṁlāvaṁ</l>
+	<l>duddhaṁ jalasammiliaṁ sā vālā rāahaṁsi vva</l>
+      </lg>
+      <lg n="679">
+	<l>aï ujjuē ṇa lajjasi pucchijjantī piassa cariāiṁ</l>
+	<l>savvaṅgasurahiṇō maruvaassa kiṁ kusumariddhīhi</l>
+      </lg>
+      <lg n="680">
+	<l>muddhē apattiantī pavālaaṅkuraaṇiddhalōhiaē</l>
+	<l>ṇiddhōadhāurāē kīsa sahatthē puṇō dhuasi</l>
+      </lg>
+      <lg n="681">
+	<l>ua sindhavapavvaasacchahāi dhuatūlapuñjasarisāiṁ</l>
+	<l>sōhanti suaṇu mukkōaāi saraē siabbhāiṁ</l>
+      </lg>
+      <lg n="682">
+	<l>āucchanti sirēhi vivaliēhi ua khaḍiēhi ṇijjantā</l>
+	<l>ṇippacchimavaliapalōiēhi mahisā kuḍaṅgāi</l>
+      </lg>
+      <lg n="683">
+	<l>pusasu muhaṁ tā puttia vāhōaraṇaṁ visēsaramaṇijjaṁ</l>
+	<l>mā ēaṁ cia muhamaṇḍaṇaṁ ti sō kāhii puṇō vi</l>
+      </lg>
+      <lg n="684">
+	<l>majjhē paaṇuapaṅkaṁ avahōvāsēsu sāṇacikkhillaṁ</l>
+	<l>gāmassa sīsasīmantaaṁ va racchāmuhaṁ jāaṁ</l>
+      </lg>
+      <lg n="685">
+	<l>avaraṇhāgaajāmāuassa viuṇēi mōhaṇukkaṇṭhaṁ</l>
+	<l>vahuāi gharapalōharamajjaṇapisuṇō valaasaddō</l>
+      </lg>
+      <lg n="686">
+	<l>jujjhacavēḍāmōḍiajajjarakaṇṇassa juṇṇamallassa</l>
+	<l>kacchāvandho ccia bhīrumallahiaaṁ samukkhaṇaï</l>
+      </lg>
+      <lg n="687">
+	<l>āṇandantēna tumaṁ païṇō pahaēṇa paḍahasaddēṇa</l>
+	<l>malli ṇa lajjasi ṇaccasi dōhaggē pāaḍijjantē</l>
+      </lg>
+      <lg n="688">
+	<l>mā vaccaha vīsambhaṁ imāṇa vahucāḍuammaṇiuṇāṇaṁ</l>
+	<l>ṇivvattiakajjaparammuhāṇa suṇaāṇa va khalāṇaṁ</l>
+      </lg>
+      <lg n="689">
+	<l>aṇṇaggāmapaütthā kaḍḍhantī maṇḍalāṇa riñchōliṁ</l>
+	<l>akkhaṇḍiasōhaggā varisasaaṁ jiaü mē suṇiā</l>
+      </lg>
+      <lg n="690">
+	<l>saccaṁ sāhasu dēara taha taha caḍuāraēṇa suṇaēṇa</l>
+	<l>ṇivvattiakajjaparammuhattaṇaṁ sikkhiaṁ kattō</l>
+      </lg>
+      <lg n="691">
+	<l>ṇippaṇṇasassariddhī sacchandaṁ gāi pāmarō saraē</l>
+	<l>daliaṇavasālitaṇḍuladhavalamiaṅkāsu rāīsu</l>
+      </lg>
+      <lg n="692">
+	<l>alihijjaï paṅkaalē halālicalaṇēṇa kalamagōvīē</l>
+	<l>kēārasōarumbhaṇataṁsaṭṭhiakōmalō calaṇō</l>
+      </lg>
+      <lg n="693">
+	<l>diahē diahē sūsaï saṅkēaabhaṅgavaḍḍhiāsaṅkā</l>
+	<l>āvaṇḍurōṇaamuhī kalamēṇa samaṁ kalamagōvī</l>
+      </lg>
+      <lg n="694">
+	<l>ṇavakammiēṇa ua pāmarēṇa daṭṭhūṇa pāuhārīō</l>
+	<l>mōttavvē jōttaapaggahammi avahāsiṇī mukkā</l>
+      </lg>
+      <lg n="695">
+	<l>daṭṭhūṇa hariadīhaṁ gōsē saṇḍhāṇa jūraē haliō</l>
+	<l>asaīrahassamaggaṁ tusāradhavalē tilacchēttē</l>
+      </lg>
+      <lg n="696">
+	<l>saṅkēlliō vva ṇijjaï khaṇḍaṁ khaṇḍaṁ kaō vva pīō vva</l>
+	<l>vāsāgamammi maggō gharahuttamuhēṇa pahiēṇa</l>
+      </lg>
+      <lg n="697">
+	<l>sañjhāgahiajalañjalipaḍimāsaṅkantagōrimuhakamalaṁ</l>
+	<l>aliaṁ cia phuriōṭṭhaṁ vialiamantaṁ haraṁ ṇamaha</l>
+      </lg>
+      <lg n="698">
+	<l>ia sirihālaviraïē pāuakavvammi sattasaē</l>
+	<l>sattamasaaṁ samattaṁ gāhāṇa sahāvaramaṇijjaṁ</l>
+      </lg>
+      <lg n="699">
+	<l>ēṇhiṁ vārēi jaṇō taïā mūillaō kahiṁ va gaō</l>
+	<l>jāhē visaṁ va jāaṁ savvaṅgapahōliraṁ pēmmaṁ</l>
+      </lg>
+      <lg n="700">
+	<l>kaha taṁ pi tui ṇa ṇāaṁ jaha sā āsandiāṇa vahuāṇaṁ</l>
+	<l>kāūṇa uccavaciaṁ tuha daṁsaṇalēhaḍā paḍiā</l>
+      </lg>
+      <lg n="701">
+	<l>cōrāṇa kāmuāṇa a pāmarapahiāṇa kukkurō vaḍaï</l>
+	<l>rē ramaha vahaha vāhayaha ēttha taṇuāaē raaṇī</l>
+      </lg>
+      <lg n="702">
+	<l>aṇṇōṇṇakalakkhantarapēsiamēlīṇadiṭṭhipasarāiṁ</l>
+	<l>do ccia maṇṇē kaabhaṇḍaṇāi samaaṁ pahasiāiṁ</l>
+      </lg>
+      <lg n="703">
+	<l>suhaa iaṁ majjha sahī tujjha viōēṇa dhāriuṁ pāṇē</l>
+	<l>savvaha cia ṇa samattha tti vujjhiuṁ virama gamaṇāō</l>
+      </lg>
+      <lg n="704">
+	<l>dhaṇṇā vahirandharaā te ccia jīanti māṇusē lōē</l>
+	<l>ṇa suṇanti pisuṇavaaṇaṁ khalāṇa addhiṁ ṇa pēkkhanti</l>
+      </lg>
+      <lg n="705">
+	<l>gāmāruha mhi gāmē vasāmi ṇaaraṭṭhiiṁ ṇa āṇāmi</l>
+	<l>ṇāariāṇaṁ païṇō harēmi jā hōmi sā hōmi</l>
+      </lg>
+      <lg n="706">
+	<l>ōsara rōttuṁ cia ṇimmiāi mā pusasu mē haacchīiṁ</l>
+	<l>daṁsaṇamēttummaïēhi jēhi sīlaṁ tuha ṇa ṇāaṁ</l>
+      </lg>
+      <lg n="707">
+	<l>raṇaraṇaasuṇṇahiaō cintantō virahaduvvalaṁ jāaṁ</l>
+	<l>amuṇiaṇiavasahī sō vōlīṇō gāmamajjhēṇa</l>
+      </lg>
+      <lg n="708">
+	<l>ēttha caütthaṁ viramaï gāhāṇa saaṁ sahāvaramaṇijjaṁ</l>
+	<l>sōūṇa jaṁ ṇa laggaï hiaē mahurattaṇēṇa amiaṁ pi</l>
+      </lg>
+      <lg n="709">
+	<l>ēsō kaïṇāmaṅkiagāhāpaḍivaddhavaḍḍhiāmōō</l>
+	<l>sattasaaō samattō sālāhaṇaviraïō kōsō</l>
+      </lg>
+      <lg n="710">
+	<l>suaṇō ṇi dīsaï ccia khalabahula ḍaḍḍhajīalōammi</l>
+	<l>jaha kāasaṅkulā taha ṇa haṁsaparivāriā puhavī</l>
+      </lg>
+      <lg n="711">
+	<l>jaṁ mucchiāi ṇa suō kalaṁvagandhēṇa taṁ guṇa paḍiaṁ</l>
+	<l>iarā gajjiasaddō jīēṇa viṇā ṇa vōlantō</l>
+      </lg>
+      <lg n="712">
+	<l>pīṇapaōharalaggaṁ disāṇa pavasantajalaasamaaviiṇṇaṁ</l>
+	<l>sōhaggapaḍhamaïṇhaṁ paccāaï saraṇahapahaṁ indadhaṇuṁ</l>
+      </lg>
+      <lg n="713">
+	<l>ēttī mattammi thavā puttīmattammi laaṇā bhattī</l>
+	<l>agaīa avatthāē diahāiṁ bhittaraṁ taraï</l>
+      </lg>
+      <lg n="714">
+	<l>jaṁ asaraṇō vva ḍaḍḍhō gāmō sāhīṇavahujuāṇō vi</l>
+	<l>sambhamavisaṇṭhulāṇaṁ taṁ duccariaṁ tuha thaṇāṇaṁ</l>
+      </lg>
+      <lg n="715">
+	<l>sō vi juā māṇahaṇō tumaṁ pi māṇassa asahaṇā putti</l>
+	<l>mattacchalēṇa gammaü surāi uvariṁ pusasu hatthaṁ</l>
+      </lg>
+      <lg n="716">
+	<l>kēaïgandhahagavviāraarañjiāddaṇēhiṁ</l>
+	<l>kaṇṭhaasavalitaṇutava chaḍḍiabhavalāṇaṁ</l>
+      </lg>
+      <lg n="717">
+	<l>aha suaï diṇṇapaḍivakkhavēaṇā pasiḍhilēhi aṅgēhiṁ</l>
+	<l>ṇivvattiasuraarasāṇuvandhasuhaṇibbharaṁ vahuā</l>
+      </lg>
+      <lg n="718">
+	<l>jaï tēṇa tujjha vaaṇaṁ ṇa kaaṁ maha kāraṇēṇa a haāsē</l>
+	<l>sā kīsa khaṇḍiataḍaṁ ṇiāharaṁ dūi dummēsi</l>
+      </lg>
+      <lg n="719">
+	<l>nirmalagaganataḍāgē tārāgaṇakusumabhitētimirē</l>
+	<l>bhikaravōbālaṁ carati mr̥gāṅkō marāla iva</l>
+      </lg>
+      <lg n="720">
+	<l>diṭṭhāi jaṁ ṇa diṭṭhō saralasahāvāi jaṁ ca ṇā 'laviō</l>
+	<l>uvaārō jaṁ ṇa kaō taṁ cia kaliaṁ chaïllēhiṁ</l>
+      </lg>
+      <lg n="721">
+	<l>aviralaṇiggaapulaō paaḍiakampō pamukkasikkārō</l>
+	<l>hēmantē pahiajaṇō suraāsattō vva paḍihāi</l>
+      </lg>
+      <lg n="722">
+	<l>vahuvihavilāsabhariē suraē labbhanti jāi sōkkhāiṁ</l>
+	<l>virahammi tāi piasahi khāuggiṇṇāi kīranti</l>
+      </lg>
+      <lg n="723">
+	<l>sēullaṇiaṁvālaggasaṇhasicaassa maggam alahantō</l>
+	<l>sahi mōhaghōlirō ajja tassa hasiō maē hatthō</l>
+      </lg>
+      <lg n="724">
+	<l>dūīkajjāaṇṇaṇapaḍirōhaṁ mā karēhii imaṁ ti</l>
+	<l>utthaṅghēi va turiaṁ tissā kaṇṇuppalaṁ pulaō</l>
+      </lg>
+      <lg n="725">
+	<l>mā vaccasu vīsambhaṁ puttaa caḍuāraō imō lōō</l>
+	<l>sūīvēhō kaṇṇassa pēccha kiṁ ṇijjaï pamāṇaṁ</l>
+      </lg>
+      <lg n="726">
+	<l>amiamaaṁ cia hiaaṁ hatthā taṇhāharā saaṇhāṇaṁ</l>
+	<l>candamuhi kattha ṇivasaï amittadahaṇō tuha paāvō</l>
+      </lg>
+      <lg n="727">
+	<l>diṭṭhīa jāva pasarō tāva tumaṁ suhaa ṇivvuiṁ kuṇasi</l>
+	<l>vōlīṇadaṁsaṇō taha tavēsi jaha hōudiṭṭhēṇa</l>
+      </lg>
+      <lg n="729">
+	<l>gajjanti ghaṇā panthāṇō vahutaṇā a pasāriā sariā</l>
+	<l>ajja vi ujjuasīlē païṇō maggaṁ palōēsi</l>
+      </lg>
+      <lg n="730">
+	<l>uṇhō tti samatthijjaï ḍāhēṇa sarōruhāṇa hēmantō</l>
+	<l>cariēhi ṇajjaï jaṇō saṅgōvantō vi appāṇaṁ</l>
+      </lg>
+      <lg n="731">
+	<l>uvahāriāi samaaṁ piṇḍārē ua kahaṁ kuṇantammi</l>
+	<l>ṇavavahuāi sarōsaṁ savva ccia vachaā mukkā</l>
+      </lg>
+      <lg n="732">
+	<l>pajjāliūṇa aggiṁ muhēṇa puttia kiṇō samōsarasi</l>
+	<l>thaṇaalasapaḍiapaḍimā phuranti ṇa chivanti tē jālā</l>
+      </lg>
+      <lg n="733">
+	<l>aggiṁ abbhuttantīa putti paḍimāgaā kavōlammi</l>
+	<l>kaṇṇālaṁviapallavalacchiṁ sandhēi tē jālā</l>
+      </lg>
+      <lg n="734">
+	<l>kaha dē dhūmandhārē abbhuttaṇaṁ aggiṇō samappihaï</l>
+	<l>muhakamalacuṁvaṇālēhaḍammi pāsaṭṭhiē diarē</l>
+      </lg>
+      <lg n="735">
+	<l>āaṁvacchaṁ paalantavāham āvaddhathaṇaharukkampaṁ</l>
+	<l>asamattaṁ cia ciṭṭhaü sihiṇō abbhuttaṇam iṇaṁ tē</l>
+      </lg>
+      <lg n="736">
+	<l>chaṇapāhuṇiē 'tti kiṇō ajja vi ṇaṁ bhaṇaha aṅgasantāvaṁ</l>
+	<l>jāā amha gharillaaguṇēṇa gharasāmiṇi ccēa</l>
+      </lg>
+      <lg n="737">
+	<l>vaṇṇakkamaṁ ṇa āṇasi ṭhāṇavisuddhī vi dē ṇa ṇivvaḍiā</l>
+	<l>cittaara taha vi maggasi bhōiṇikuḍḍammi ālihiuṁ</l>
+      </lg>
+      <lg n="738">
+	<l>vialiakalākalāvō candō mittassa maṇḍalaṁ visaï</l>
+	<l>ṇissaraï tādiso ccia gaavihavaṁ kō samuddharaï</l>
+      </lg>
+      <lg n="739">
+	<l>ṇā 'haṁ dūī sundara tīē piō si ṇa amha vāvārō</l>
+	<l>sā maraï tujjha virahē ēaṁ dhammakkharaṁ bhaṇimō</l>
+      </lg>
+      <lg n="740">
+	<l>jō hōi rasāisaō suviṇaṭṭhāṇaṁ vi puṇḍaïcchūṇaṁ</l>
+	<l>kattō sō hōi rasō mōhāsāṇaṁ aṇicchūṇaṁ</l>
+      </lg>
+      <lg n="741">
+	<l>jaï vi hu dillindiliā taha vi hu mā putti ṇaggiā bhamasu</l>
+	<l>chēā ṇaarajuāṇō māaṁ dhūāi lakkhanti</l>
+      </lg>
+      <lg n="742">
+	<l>gaagaṇḍaagavaasarabhasērihasaddūlarikkhajāīṇaṁ</l>
+	<l>thaṇaā vāhavahūē abhaaṁ dāuṁ va ṇikkantā</l>
+      </lg>
+      <lg n="743">
+	<l>bhiuḍīa pulōissaṁ ṇibbhacchissaṁ paraṁmuhī hōssaṁ</l>
+	<l>jaṁ bhaṇaha taṁ karissaṁ sahīu jaï taṁ ṇa pēcchissaṁ</l>
+      </lg>
+      <lg n="744">
+	<l>jaṁ kēavēṇa pēmmaṁ jaṁ ca valā jaṁ ca atthalōhēṇa</l>
+	<l>jaṁ uvarōhaṇimittaṁ ṇamōṇamō tassa pēmmassa</l>
+      </lg>
+      <lg n="745">
+	<l>kassa ṇa saddhā garuattaṇammi païṇō pasāamāṇassa</l>
+	<l>jaï māṇabhañjaṇīō ṇa honti hēmantarāīō</l>
+      </lg>
+      <lg n="746">
+	<l>avvō tahintahiṁ cia gaaṇē bhamiūṇa vīsamantēṇa</l>
+	<l>vōhittavāasēṇa vva hāsiā ḍaḍḍhapēmmēṇa</l>
+      </lg>
+      <lg n="747">
+	<l>dē ā dumasu tumaṁ ciya mā parihara putti paḍhamadumiyaṁ ti</l>
+	<l>kiṁ kuḍḍaṁ ṇiamuhaandakantidumiaṁ ṇa lakkhēsi</l>
+      </lg>
+      <lg n="748">
+	<l>vijjanti taṇuṁ uvaṇēnti vēaṇaṁ ṇēyatāṇa khayamaggē</l>
+	<l>abbō aïṭṭhapuvvō aṇaṅgabāṇāṇa māhappō</l>
+      </lg>
+      <lg n="749">
+	<l>āmōḍaūṇa balāu hatthaṁ majjhaṁ gaō si bhō pahia</l>
+	<l>hiaāu jaï a ṇīhasi sāmatthaṁ tujjha jāṇissaṁ</l>
+      </lg>
+      <lg n="750">
+	<l>saddhā mē tujjha piyattaṇassa ahayaṁ tu taṁ ṇa yāṇāmi</l>
+	<l>dē pasiya tumaṁ ciya sikkhavēsu jaha tē piyā hōmi</l>
+      </lg>
+      <lg n="751">
+	<l>pēmmummaïyāi maē uvaūḍhō haliyaüttabuddhīē</l>
+	<l>phaṁsēmi jāva pharusō taṇapurisō gāmasīmāē</l>
+      </lg>
+      <lg n="752">
+	<l>bē maggā dharaṇiyalē māṇiṇi māṇōṇṇayāṇa purisāṇa</l>
+	<l>ahavā pāvanti siriṁ ahava bhamantā samappanti</l>
+      </lg>
+      <lg n="753">
+	<l>kattō kamalāṇa raī kattō kumuyāṇa sīalō candō</l>
+	<l>taha sajjaṇāṇa ṇēhō ṇa calaï dūraṭṭhiāṇaṁ pi</l>
+      </lg>
+      <lg n="754">
+	<l>hā hā kiṁ tēṇa kayaṁ mālaïvirahammi putti bhasalēṇaṁ</l>
+	<l>kaṅkēllikusumamajjhē jalaṇō tti samappiō appā</l>
+      </lg>
+      <lg n="755">
+	<l>ḍhaṅkharasēsō vi hu mahuarēṇa mukkō ṇa mālaīviḍavō</l>
+	<l>daraviyasiyakaliyāmōyabahalimaṁ sambharantēṇa</l>
+      </lg>
+      <lg n="756">
+	<l>samuhāgayavōlantammi sā tumē aghaḍiyaṅgasaṇṭhāṇā</l>
+	<l>rundaṁ vi gāmaracchaṁ ṇindaï taṇuaṁ ca appāṇaṁ</l>
+      </lg>
+      <lg n="757">
+	<l>samam acchanti ṇiattanti pasariyā raṇaraṇanti taddhiyahaṁ</l>
+	<l>calacitta tujjha laggā maṇōrahā tīe hiyayammi</l>
+      </lg>
+      <lg n="758">
+	<l>ḍahiūṇa sayalaraṇṇaṁ aggī samavisamalaṅghaṇuvvāyō</l>
+	<l>taḍalambantataṇēhiṁ tisiya vva ṇaïṁ samōsaraï</l>
+      </lg>
+      <lg n="759">
+	<l>sa cciya rāmēu tumaṁ paṇḍiya ṇiccaṁ alaṁ mha ramiēṇa</l>
+	<l>sabbhāvabāhirāiṁ jā jāṇaï aṭṭamaṭṭāiṁ</l>
+      </lg>
+      <lg n="760">
+	<l>raaṇāyarassa sāhēmi ṇammaē ajja mukkadakkhiṇṇā</l>
+	<l>vēḍisalayāharantēṇa miliyā jaṁ si pūrēṇa</l>
+      </lg>
+      <lg n="761">
+	<l>rakkhaï aṇaṇṇahiyaō jīvaṁ piva mahuarō payattēṇa</l>
+	<l>daraṇēntadīvidāḍhaggasacchahaṁ mālaīmaülaṁ</l>
+      </lg>
+      <lg n="762">
+	<l>taha ṇēhalāliyāṇa vi avāhirillāṇa sayalakajjēsu</l>
+	<l>jaṁ kasaṇaṁ hōi muhaṁ taṁ bhaṇṇaï kiṁ paīvāṇaṁ</l>
+      </lg>
+      <lg n="763">
+	<l>tisiyā piyaü tti maō maō vi tisiō maī karēūṇa</l>
+	<l>iya mayamihuṇaṁ tisiyaṁ piyaï ṇa salilaṁ siṇēhēṇa</l>
+      </lg>
+      <lg n="764">
+	<l>tuha sāmali dhavalacalantataralatikkhaggalōyaṇabalēṇa</l>
+	<l>mayaṇō puṇō vi icchaï harēṇa saha viggahārambhaṁ</l>
+      </lg>
+      <lg n="765">
+	<l>suhaya suhaṁ ciya kuḍali vva pēhuṇō ṇiggayassa caḍuvassa</l>
+	<l>jaṇarañjaṇiggahō tē gharammi suṇahō atihivantō</l>
+      </lg>
+      <lg n="766">
+	<l>ṇivaḍihisi suṇṇahiyaē jalaharajalapaṅkilammi maggammi</l>
+	<l>uppēkkhāgayapiyayamahatthē hatthaṁ pasārēntī</l>
+      </lg>
+      <lg n="767">
+	<l>ucchaṅgiyāe païṇā ahisāraṇapaṅkamaliṇapērantē</l>
+	<l>āsaṇṇapariyaṇō via sēa cciya dhuvaï sē pāē</l>
+      </lg>
+      <lg n="768">
+	<l>jaha laṅghēsi paravaïṁ niyayavaïṁ bharasahaṁ pi mōttūṇaṁ</l>
+	<l>taha maṇṇē kōhaliē ajjaṁ kallaṁ pi phuṭṭihasi</l>
+      </lg>
+      <lg n="769">
+	<l>aṇusōyaï haliyabahū raïkiraṇōluggapaṇḍuracchāyaṁ</l>
+	<l>raṇṇunduradantukkhuttavisamavaliyaṁ tilacchēttaṁ</l>
+      </lg>
+      <lg n="770">
+	<l>ōvālaammi sīāluāṇa vaïmūlam ullihantāṇaṁ</l>
+	<l>dimbhāṇa kaliñcayavāvaḍāṇa suṇṇō jalaï aggī</l>
+      </lg>
+      <lg n="771">
+	<l>mā mā muya parihāsaṁ dēara aṇahōraṇā varāī sā</l>
+	<l>sīyammi vi pāsijjaï puṇō vi ēsiṁ kuṇasu chāyaṁ</l>
+      </lg>
+      <lg n="772">
+	<l>kiṁ tassa pāraēṇaṁ kim aggiṇā kiṁ ca gabbhaharaēṇa</l>
+	<l>jassa ṇisammaï uarē uṇhāyantatthaṇī jāyā</l>
+      </lg>
+      <lg n="773">
+	<l>kamalāyarāṇa uṇhō hēmantō sīalō jaṇavayassa</l>
+	<l>kō kira bhiṇṇasahāvaṁ jāṇaï paramatthayaṁ lōē</l>
+      </lg>
+      <lg n="774">
+	<l>hēma.mtē himaraadhūsarassa ōasaraṇassa pahiyassa</l>
+	<l>sumariyajāyāmuhasijjirassa sīyaṁ ciya paṇaṭṭhaṁ</l>
+      </lg>
+      <lg n="775">
+	<l>uvaïsaï laḍiyāṇa kaḍḍhēi rasaṁ ṇa dēi sōttuṁ jē</l>
+	<l>jantassa juvvaṇassa ya ṇa hōi icchu cciya sahāvō</l>
+      </lg>
+      <lg n="776">
+	<l>bahuēhi jampiēhiṁ siṭṭhaṁ amha savahē karēūṇa</l>
+	<l>saddo cciya sē bhaddō bhōiṇijantē rasō ṇa tthi</l>
+      </lg>
+      <lg n="777">
+	<l>paḍhamaṁ ciya māhavapaṭṭayaṁ va ghēttūṇa ḍāhiṇō vāō</l>
+	<l>aṅkōllapaḍhamavattaṁ pahiṇḍiō gāmaracchāsu</l>
+      </lg>
+      <lg n="778">
+	<l>sō māṇō piyamuhaandadaṁsaṇē kaha thirō dharijjihaï</l>
+	<l>aṅkōllakōraāṇa vi jō phuṭṭamuhāṇa bīhēi</l>
+      </lg>
+      <lg n="779">
+	<l>kāraṇagahiō vi maē māṇō ēmēa jaṁ samōsariyō</l>
+	<l>atthakkaphulla aṅkōlla tujjha taṁ matthaē paḍaü</l>
+      </lg>
+      <lg n="780">
+	<l>rañjēha dēha rūvaṁ raēha kusumāi dēha vicchittiṁ</l>
+	<l>ṇa vi taha puhavīsassa vi halahalaō jaha vasantassa</l>
+      </lg>
+      <lg n="781">
+	<l>sisirē vaṇadavaḍaḍḍhaṁ vasantamāsammi uaha sambhūyaṁ</l>
+	<l>maṅkusakaṇṇasaricchaṁ dīsaï pattaṁ palāsassa</l>
+      </lg>
+      <lg n="782">
+	<l>dūrapaïṇṇaparimalaṁ sapallavaṁ muddhapupphapaṅguraṇaṁ</l>
+	<l>aṅgacchittaṁ piva vammahēṇa diṇṇaṁ mahusirīē</l>
+      </lg>
+      <lg n="783">
+	<l>kāraṇagahiaṁ pi imā māṇaṁ mōēi māṇiṇiaṇassa</l>
+	<l>sahayāramañjarī piyasahi vva kaṇṇē samallīṇā</l>
+      </lg>
+      <lg n="784">
+	<l>ajjaṁ ciya chaṇadiahō mā putti ruēhi ēhaï piō tti</l>
+	<l>suṇhaṁ āsāsantī paḍiyattamuhī ruvaï sāsū</l>
+      </lg>
+      <lg n="785">
+	<l>diyahēdiyahē ṇivaḍaï gihavaïdhūāṇihēṇa māucchā</l>
+	<l>saṅgahaṇaï tti vāvaü vasuhārā khujjasahayārē</l>
+      </lg>
+      <lg n="786">
+	<l>āucchaṇōvaūhaṇakaṇṭhasamōsariyabāhulaïyāē</l>
+	<l>valayāi pahiyacalaṇē bahūe ṇiyalāi va paḍanti</l>
+      </lg>
+      <lg n="787">
+	<l>uḍḍiyapāsaṁ taṇachaṇṇakandaraṁ ṇihuasaṇṭhiyāvakkhaṁ</l>
+	<l>jūhāhiva parihara muhamēttasarīyaṁ kala</l>
+      </lg>
+      <lg n="788">
+	<l>guṇasāliṇō vi kariṇō hōhaï jūhāhivattaṇaṁ kattō</l>
+	<l>ṇavasālikavalalōhilliāe viñjhaṁ muantassa</l>
+      </lg>
+      <lg n="789">
+	<l>vihiṇā aṇujjuēṇaṁ puttaya jāō kulammi paḍhamammi</l>
+	<l>jāivisuddhō bhaddō vi bandhaṇaṁ pāvaï khaṇammi</l>
+      </lg>
+      <lg n="790">
+	<l>caüpāsadiṇṇahuyavahavisamāha havēḍhaṇāpiulaṁ</l>
+	<l>ṇivvāhēuṁ jāṇaï jūhaṁ jūhāhivo ccēva</l>
+      </lg>
+      <lg n="791">
+	<l>allaggakavōlēṇa vi gayamaïṇā pattadasāvasaṇammi</l>
+	<l>ajja vi māe saṇāhaṁ gayavaïjūhaṁ dharantēṇa</l>
+      </lg>
+      <lg n="792">
+	<l>ṇa vi taha dūmēi maṇaṁ gayassa bandhō vi kariṇivirahō vi</l>
+	<l>dāṇaviōyavimuhiē jaha bhamaraülē bhamantammi</l>
+      </lg>
+      <lg n="793">
+	<l>gāmammi mōhaṇāiṁ diṇṇē khaggē vva cōrahitthāiṁ</l>
+	<l>gahavaïṇō ṇāmēṇaṁ kiyāi aṇnēṇa vi jaṇēṇa</l>
+      </lg>
+      <lg n="794">
+	<l>maliṇāiṁ aṅgāiṁ bāhiralōēṇa maṁsaluddhēṇa</l>
+	<l>hiyayaṁ hiyaēṇa viṇā ṇa dēi vāhī bhamaï haṭṭaṁ</l>
+      </lg>
+      <lg n="795">
+	<l>kaḍhiṇakharavīrapēllaṇahalaṁ va pattharaviṇiggayaggikaṇē</l>
+	<l>dhacalōāyariyavahē kasarā vi suhēṇa vaccanti</l>
+      </lg>
+      <lg n="796">
+	<l>ṇakkhamaūhēsu khaṇaṁ kusumēsu khaṇaṁ khaṇaṁ kisalaēsu</l>
+	<l>hatthēsu khaṇaṁ kusumōcciyāi lōḍāviyā bhasalā</l>
+      </lg>
+      <lg n="797">
+	<l>chēttammi jēṇa ramiyā tāō kira tassa cēya mandēi</l>
+	<l>jaï tīa imaṁ ṇisuyaṁ phuṭṭaï hiyayaṁ harisayāē</l>
+      </lg>
+      <lg n="798">
+	<l>hiyayaṁ ṇiyāmi kaḍhiṇaṁ pā hāsēṇa ghaḍiyaṁ mē</l>
+	<l>virahāṇalēṇa tattaṁ rasasittaṁ antitā phuḍaha</l>
+      </lg>
+      <lg n="799">
+	<l>aṇṇē tē kila sihiṇō siṇarasasēēṇa hunti vicchāyā</l>
+	<l>āsāiyarasasēō hōi visēsēṇa ṇēhajō dahaṇō</l>
+      </lg>
+      <lg n="800">
+	<l>antō ṇibhuaṭhṭhiapariaṇāi ōruddhadāraṇaaṇāi</l>
+	<l>gimhē ghōraṭṭaghagghararavēṇa ghōranti va gharaṭṭa</l>
+      </lg>
+      <lg n="801">
+	<l>jīhāi paraṁ libbhaï dantōṭṭhēṇaṁ ṇa tīraē gahiuṁ</l>
+	<l>aharō vva savvaṇō gōhaṇēṇa paḍhamō taṇucchēō</l>
+      </lg>
+      <lg n="802">
+	<l>jaha vēllīhi ṇa māasi jaha icchasi paravaïṁ pi laṅghēuṁ</l>
+	<l>taha ṇūṇaṁ kōhaliē ajjaṁ kalhiṁ va phullihisi</l>
+      </lg>
+      <lg n="803">
+	<l>vilāsaṇiguruṇiaṁvō tīraü calaṇēhi dōhi uvvahiuṁ</l>
+	<l>ēāī uṇa majjhō thaṇabhāraṁ kaï ṇu uvvahi</l>
+      </lg>
+      <lg n="804">
+	<l>vārijjantī ṇavakōmui tti mā putti aṅgaṇē suvasu</l>
+	<l>mā tē aṁvupisāō candō tti muhaṁ gasijjihii</l>
+      </lg>
+      <lg n="805">
+	<l>suvvantō āsi paramparāi kahakaha vi diṭṭhimiliō 'si</l>
+	<l>dē suhaa kiṁ pi jampasu piantu kaṇṇāi mē amiaṁ</l>
+      </lg>
+      <lg n="806">
+	<l>virahakisiā varāī diṇāi āsaṇṇagimhapariṇāmāiṁ</l>
+	<l>kaḍhiṇahiaō pavāsī ṇa āṇimō kaha samappihii</l>
+      </lg>
+      <lg n="807">
+	<l>rōāvia mha māē aṅgaṇapahiēṇa darapasuttēṇa</l>
+	<l>parivattasu māṇiṇi māṇiṇi tti siviṇē bhaṇantēṇa</l>
+      </lg>
+      <lg n="808">
+	<l>māṇaṁsiṇīa païṇā ṇaaṇakavōlāharappahābhiṇṇā</l>
+	<l>ujjuasuracāvaṇihā vāhōārā ciraṁ diṭṭhā</l>
+      </lg>
+      <lg n="809">
+	<l>sarahasaviṇiggaāi vi icchāi tumaṁ ṇa tīa saccaviō</l>
+	<l>sīsāhaavaliabhuaṅgavaṅkaracchē haaggāmē</l>
+      </lg>
+      <lg n="810">
+	<l>sā tuha virahē ṇikkiva sandhārijjaï sahīhi ṇiuṇāhi</l>
+	<l>caṇḍālahatthagaasaüṇia vva jīē ṇirālaṁvā</l>
+      </lg>
+      <lg n="811">
+	<l>kappāsaṁ kuppāsantarammi taï khittam itti bhaṇiūṇa</l>
+	<l>attā valā 'hirēṇaṁ thaṇāṇa maha kāriā 'vatthā</l>
+      </lg>
+      <lg n="812">
+	<l>gāīu pañcakhārimbharīu cattāri pakkalavaïllā</l>
+	<l>sampaṇṇaṁ vālāvallaraaṁ sēvā sivaṁ kuṇaü</l>
+      </lg>
+      <lg n="813">
+	<l>aṇurāaraaṇabhariaṁ kañcaṇakalasa vva taruṇithaṇavaṭṭaṁ</l>
+	<l>tassa cia muhammi kiā masimuddā maaṇarāēṇa</l>
+      </lg>
+      <lg n="814">
+	<l>vijja piāsā vahalaï ghaṇatāō khaṇakhaṇammi rōmañcō</l>
+	<l>hiaē ṇa bhāi aṇṇaṁ lajjāpatthēhi tējiā pāṇā</l>
+      </lg>
+      <lg n="815">
+	<l>gāhāṇa a gēāṇa a tantīsaddāṇa pōḍhamahilāṇa</l>
+	<l>tāṇaṁ so ccia daṇḍō jē tāṇa rasaṁ ṇa āṇanti</l>
+      </lg>
+      <lg n="816">
+	<l>vivarīaraammi sirī bamhaṁ daṭṭhūṇa ṇāhikamalatthaṁ</l>
+	<l>hariṇō dāhiṇaaṇaṁ rasāulā jhatti ḍhakkēi</l>
+      </lg>
+      <lg n="817">
+	<l>laḍahavilaāṇa lōaṇakaḍakkhavikkhēvajaṇiasandāvā</l>
+	<l>jhijjanti mahāsattā cittuvvēaṇasahā honti</l>
+      </lg>
+      <lg n="818">
+	<l>taha hasa jaha ṇa hasijjasi taha jampa jahā parappiaṁ hōi</l>
+	<l>taha jia jaha lahasi jasaṁ taha mara jaha ṇa uṇa sambhavasi</l>
+      </lg>
+      <lg n="819">
+	<l>chappaa gammasu sisiraṁ pāsākusumēhi tāva mā marasu</l>
+	<l>jīantō dacchihisi a puṇō vi riddhiṁ vasantassa</l>
+      </lg>
+      <lg n="820">
+	<l>savvattha hōi ṭhāṇaṁ rāsahamahisāṇa mēsavusahāṇaṁ</l>
+	<l>bhaddagaïndāṇam ahō mahāvaṇam ahava mahārāō</l>
+      </lg>
+      <lg n="821">
+	<l>avvō ṇa āmi chēttaṁ khajjaü sālī vi kīraṇivahēhiṁ</l>
+	<l>jāṇantā avi pahiā pucchanti puṇōpuṇō maggaṁ</l>
+      </lg>
+      <lg n="822">
+	<l>atthakkāgaadiṭṭhē vahuā jāmāduammi gurupuraō</l>
+	<l>jūraï ṇivaḍantāṇaṁ harisaviphandantavalaāṇaṁ</l>
+      </lg>
+      <lg n="823">
+	<l>acchīhi tujjha sundari bāhiradhavalēhi majjhakasaṇēhi</l>
+	<l>ēēhi kō ṇa damiō pisuṇēhi va kaṇṇalaggēhi</l>
+      </lg>
+      <lg n="824">
+	<l>ēha imīa ṇiacchaha vimhiahiaā sahī pulōēi</l>
+	<l>addāammi kavōlaṁ kavōlapaṭṭammi addāaṁ</l>
+      </lg>
+      <lg n="825">
+	<l>kaïā jāā kaïā ṇu sikkhiā māiā haakumārī</l>
+	<l>tantaṁ jāṇaï savvaṁ jañjaṁ mahilāŏ jāṇanti</l>
+      </lg>
+      <lg n="826">
+	<l>khaṇapiṭṭhadhūsaratthaṇi mahumaatambacchi kuvalaābharaṇē</l>
+	<l>kaṇṇagaacūamañjari putti tuē maṇḍiō gāmō</l>
+      </lg>
+      <lg n="827">
+	<l>maggialaddhē balamōḍicumbiē appaṇēṇa uvaṇīdē</l>
+	<l>ēkkammi piāaharē aṇṇaṇṇā honti rasahēā</l>
+      </lg>
+      <lg n="828">
+	<l>upphullalōaṇēṇaṁ kavōlabōsaṭṭamāṇasēēṇaṁ</l>
+	<l>ahaṇantēṇa vi bhaṇiā muhēṇa sē kajjaṇivvuttī</l>
+      </lg>
+      <lg n="829">
+	<l>jattha ṇa ujjāgaraō jattha ṇa īsā visūraṇaṁ māṇō</l>
+	<l>sabbhāvacāḍuaṁ jattha ṇa tthi ṇēhō tahiṁ ṇa tthi</l>
+      </lg>
+      <lg n="830">
+	<l>maha païṇā thaṇajualē pattaṁ lihiaṁ ti gavviā kīsa</l>
+	<l>ālihaï mahaṁ pi piō jaï sē kampo ccia ṇa hōi</l>
+      </lg>
+      <lg n="831">
+	<l>kaṇṇē paḍiaṁ hiaē paḍiaṁ cia ō maē abhavvāē</l>
+	<l>jāmi tti tujjha vaaṇaṁ kiṁ va ṇa sahiaṁ pavāsassa</l>
+      </lg>
+      <lg n="832">
+	<l>samapanthapatthiassa vi pahiassa khalanti puḍhamadiahammi</l>
+	<l>hiaaṭṭhiajāāguruṇiaṁvahārēṇa va paāi</l>
+      </lg>
+      <lg n="833">
+	<l>sandēsō vi ṇa lihiō lēhē pahiēṇa kattha gharatattī</l>
+	<l>aṇavaraalihiagēhiṇigōttakkharapūriē pattē</l>
+      </lg>
+      <lg n="834">
+	<l>uppēkkhāgaadaïaṅgasaṅgamuccaliaviuṇasēāē</l>
+	<l>bōlīṇō vi ṇa ṇāō paütthapaïāi hēmantō</l>
+      </lg>
+      <lg n="835">
+	<l>siviṇaaladdhapiaamapulaïuggamaṇibbharēhi aṅgēhiṁ</l>
+	<l>parirambhaṇē suhāiṁ pāvaü mā ṇaṁ pabōhēha</l>
+      </lg>
+      <lg n="836">
+	<l>vijjhāvēi païvaṁ abbhuṭṭhantīe pahiajāāē</l>
+	<l>piaamaviōadīharaṇīsahaṇīsāsariñchōlī</l>
+      </lg>
+      <lg n="837">
+	<l>jaṁ pīaṁ maṅgalavāsaṇāe patthāṇapaḍhamadiahammi</l>
+	<l>bāhasalilaṁ ṇa ciṭṭhaï taṁ cia virahē ruvantīē</l>
+      </lg>
+      <lg n="838">
+	<l>ukkaṇṭhāṇicchāā savvaṁ uṇa pariaṇaṁ ruāvēi</l>
+	<l>āambirēhi ajjhā phusiaparuṇṇēhi acchīhi</l>
+      </lg>
+      <lg n="839">
+	<l>jaha diahavirāmō ṇavasirīsagandhuddhurāṇilagghaviō</l>
+	<l>pahiaghariṇīa ṇa tahā tavēi tivvō vi majjhaṇhō</l>
+      </lg>
+      <lg n="840">
+	<l>cirapavasiadaïakahā ṇiuṇāhi sahīhi virahasahaṇatthaṁ</l>
+	<l>aliā avi avarāhā vahūe kamasō kahijjanti</l>
+      </lg>
+      <lg n="841">
+	<l>jañjaṁ paütthapaïā piaamaṇāmakkharaṁ lihaï lēhē</l>
+	<l>tantaṁ tallēhaṇiāṇusāragaliō pusaï sēō</l>
+      </lg>
+      <lg n="842">
+	<l>acchaü ṇimīliacchī mā mā vārēha piaamāsāē</l>
+	<l>tēṇa viṇā kiṁ pēcchaü ummillēhiṁ vi acchīhiṁ</l>
+      </lg>
+      <lg n="843">
+	<l>dīhuṇhā ṇīsāsā raṇaraṇaō rujjagaggiraṁ gēaṁ</l>
+	<l>piavirahē jīviavallahāṇa ēso ccia viṇōō</l>
+      </lg>
+      <lg n="844">
+	<l>jaï dēvva tuṁ pasaṇṇō mā karihisi majjha māṇusaṁ jammaṁ</l>
+	<l>jaï jammaṁ mā pēmmaṁ jaï pēmmaṁ mā jaṇē dulahē</l>
+      </lg>
+      <lg n="845">
+	<l>rāīṇa bhaṇaï lōō jā kila gimhammi honti maḍahāō</l>
+	<l>maha uṇa daïēṇa viṇā ṇa āṇimō kīsa vaḍḍhanti</l>
+      </lg>
+      <lg n="846">
+	<l>ēkkē aaṇē diahā vīē raaṇīŏ honti dīhāō</l>
+	<l>virahāaṇō apuvvō ēttha duve ccēa vaḍḍhanti</l>
+      </lg>
+      <lg n="847">
+	<l>cirajīvittaṇakaṅkhiri mā tamma rasāaṇēhi athirēhi</l>
+	<l>virahaṁ pavajja jāanti jēṇa juadīharā diahā</l>
+      </lg>
+      <lg n="848">
+	<l>ruaï ruantīe maē ōhidiṇē gaṇaï jhijjaï ahaṁ va</l>
+	<l>piavirahē māmi saajjhiāe ṇēho ccia apuvvō</l>
+      </lg>
+      <lg n="849">
+	<l>kaṇṭhaggahaṇēṇa saajjhiāe abbhāgaōvaārēṇa</l>
+	<l>vahuāe païmmi vi āgaammi sāmaṁ muhaṁ jāaṁ</l>
+      </lg>
+      <lg n="850">
+	<l>candō vi candavaaṇē muṇālabāhālaē muṇālāiṁ</l>
+	<l>indīvarāi indīvaracchi tāvēnti tuha virahē</l>
+      </lg>
+      <lg n="851">
+	<l>guruaṇaparavasa pia kiṁ bhaṇāmi tuha mandabhāiṇī ahaaṁ</l>
+	<l>ajja pavāsaṁ vajjasi vacca saaṁ cēa muṇasi karaṇijjaṁ</l>
+      </lg>
+      <lg n="852">
+	<l>vitthiṇṇaṁ mahivēḍhaṁ viulaṇiambāŏ pīṇathaṇiāō</l>
+	<l>labbhanti visālacchīŏ suhaa juvaīŏ mā tamma</l>
+      </lg>
+      <lg n="853">
+	<l>kajjaṁ viṇā vi vialantapēmmarāaṁ tumaṁ ṇiacchantī</l>
+	<l>hiaāsaṅkiaṇiadōsadummaṇā tāmaï varāī</l>
+      </lg>
+      <lg n="854">
+	<l>dūī ṇa ēi candō vi uggaō jāmiṇī vi bōlēi</l>
+	<l>savvaṁ savvattho ccia visaṇṭhulaṁ kassa kiṁ bhaṇimō</l>
+      </lg>
+      <lg n="855">
+	<l>dūī gaā cirāaï kiṁ sō maha pāsam ēhii ṇa vē 'tti</l>
+	<l>jīviamaraṇantarasaṇṭhiāe andōlaē hiaaṁ</l>
+      </lg>
+      <lg n="856">
+	<l>sō ṇā 'gaō tti pēcchaha parihāsullāvirīe dūīē</l>
+	<l>ṇūmantīa paharisō ōsaṭṭaï gaṇḍapāsēsu</l>
+      </lg>
+      <lg n="857">
+	<l>kaha ṇu gaā kaha diṭṭhō kiṁ bhaṇiaṁ kiṁ va tēṇa paḍibhaṇiaṁ</l>
+	<l>ēaṁ cia ṇa samappaï puṇaruttaṁ jampamāṇīē</l>
+      </lg>
+      <lg n="858">
+	<l>dūīmuhaandapulōirīe kiṁ bhaṇihii tti ajjhāē</l>
+	<l>piasaṅgamalaliamaṇōrahāe hiaaṁ tharatharēi</l>
+      </lg>
+      <lg n="859">
+	<l>appāhiāi tuha tēṇa jāi tāiṁ maē ṇa muṇiāi</l>
+	<l>accuṇhassāsaparikkhalantavisamakkharapaāiṁ</l>
+      </lg>
+      <lg n="860">
+	<l>sāhēntī sahi suhaaṁ khaṇēkhaṇē dūmiā si majjha kaē</l>
+	<l>sabbhāvaṇēhakaraṇijjasarisaaṁ dāva viraïaṁ tumaē</l>
+      </lg>
+      <lg n="861">
+	<l>jaṁ tuha kajjaṁ taṁ cia kajjaṁ majjha tti jaṁ saā bhaṇasi</l>
+	<l>ō dūi saccavaaṇē ajja si pāraṁ gaā tassa</l>
+      </lg>
+      <lg n="862">
+	<l>ṇavalaapaharuttatthāe taṁ kaaṁ haliavahuāē</l>
+	<l>jaṁ ajja vi juvaïjaṇō gharēgharē sikkhiuṁ mahaï</l>
+      </lg>
+      <lg n="863">
+	<l>dhaṇṇō si rē haliddaa haliasuāpīṇathaṇabharucchaṅgē</l>
+	<l>pēcchantassa vi païṇō jaha tuha kusumāi ṇivaḍanti</l>
+      </lg>
+      <lg n="864">
+	<l>saccaṁ cia kaṭṭhamaō suraṇāhō jēṇa haliadhūāē</l>
+	<l>hatthēhi kamaladalakōmalēhi cikkō ṇa pallaviō</l>
+      </lg>
+      <lg n="865">
+	<l>ēmēa akaapuṇṇā appattamaṇōrahā vivajjissaṁ</l>
+	<l>jaṇavāō vi ṇa jāō tēṇa samaṁ haliuttēṇa</l>
+      </lg>
+      <lg n="866">
+	<l>lajjāpajjattapasāhaṇāi paratattiṇippivāsāiṁ</l>
+	<l>aviṇaadiṁmōhāiṁ dhaṇṇāṇa gharē kalattāiṁ</l>
+      </lg>
+      <lg n="867">
+	<l>hasiam aviāramuddhaṁ bhamiaṁ virahiavilāsasacchāaṁ</l>
+	<l>bhaṇiaṁ sahāvasaralaṁ dhaṇṇāṇa gharē kalattāṇaṁ</l>
+      </lg>
+      <lg n="868">
+	<l>païṇā vaṇṇijjantē akkhāṇaasundarīe rūvammi</l>
+	<l>īsāmaccharagaruaṁ ghariṇī huṅkāraaṁ dēi</l>
+      </lg>
+      <lg n="869">
+	<l>vāhijjanti ṇa kassa vi rōttūṇaṁ ṇēa pāaḍijjanti</l>
+	<l>māṇaviārā kulapāliāe hiaē vilāvēnti</l>
+      </lg>
+      <lg n="870">
+	<l>ahiaṁ suṇṇāi ṇirañjaṇāi vaïrikkaruṇṇapusiāi</l>
+	<l>virahukkaṇṭhaṁ kulapāliāi sāhanti acchīiṁ</l>
+      </lg>
+      <lg n="871">
+	<l>kulapāliāe pēcchaha jōvvaṇalāaṇṇavibbhamavilāsā</l>
+	<l>pavasanti vva pavasiē ēnti vva piē gharaṁ ēntē</l>
+      </lg>
+      <lg n="872">
+	<l>païpurao ccia rabhasēṇa cumbiō dēvarō aḍaaṇāē</l>
+	<l>maha vaaṇaṁ maïrāgandhiaṁ ti hāā tuhaṁ bhaṇaï</l>
+      </lg>
+      <lg n="873">
+	<l>taha aḍaaṇāe ruṇṇaṁ païmaraṇē bāharuddhakaṇṭhīē</l>
+	<l>aṇumaraṇasaṅkiṇō jaha jārassa vi saṅkiaṁ hiaaṁ</l>
+      </lg>
+      <lg n="874">
+	<l>vāṇīrakuḍuṅguḍḍīṇasaüṇikōlāhalaṁ suṇantīē</l>
+	<l>gharakammavāvuḍāē vahūe sīanti aṅgāiṁ</l>
+      </lg>
+      <lg n="875">
+	<l>ṇōllēi aṇōllamaṇā attā maṁ gharabharammi saalammi</l>
+	<l>khaṇamēttaṁ jaha sañjhāe ṇavara ṇa va hōi vīsāmō</l>
+      </lg>
+      <lg n="876">
+	<l>ṭhāṇēṭhāṇē valiā valaṇēvalaṇē savēḍasakuḍuṅgā</l>
+	<l>ṇa gaō si amha gāmaṁ diara ṇa diṭṭhā tuē muralā</l>
+      </lg>
+      <lg n="877">
+	<l>mahuēhi kiṁ va vālaa harasi ṇiambāhi jaï vi mē siaaṁ</l>
+	<l>sāhāmi kassa raṇṇē dūrē gāmō ahaṁ ēkkā</l>
+      </lg>
+      <lg n="878">
+	<l>kālakkharadūsikkhia dhammia rē ṇimbakīḍaasariccha</l>
+	<l>dōṇṇa vi ṇiraaṇivāsō samaaṁ jaï hōi tahi hōdu</l>
+      </lg>
+      <lg n="879">
+	<l>panthaa ṇa ēttha santharam atthi maṇaṁ pattharatthalē gāmē</l>
+	<l>uṇṇaapaaharē pēkkhiūṇa jaï vasasi tā vasasu</l>
+      </lg>
+      <lg n="880">
+	<l>vihalakkhaṇaṁ tumaṁ sahi daṭṭhūṇa kuḍēṇa taralataradiṭṭhiṁ</l>
+	<l>vārapphaṁsaṇihēṇa a appā garuō tti pāḍiavihiṇṇō</l>
+      </lg>
+      <lg n="881">
+	<l>aïviulaṁ jalakumbhaṁ ghēttūṇa samāgaa mhi sahi turiaṁ</l>
+	<l>samasēasalilaṇīsāsaṇīsahā vīsamāmi khaṇaṁ</l>
+      </lg>
+      <lg n="882">
+	<l>aṇumaraṇē hasaï jaṇō rōttuṁ vi ṇa labbhaï jahēcchaṁ</l>
+	<l>tā ēttha kiṁ karissaṁ cōriaramaṇē vivajjantē</l>
+      </lg>
+      <lg n="883">
+	<l>mā putti vaṅkabhaṇiaṁ jampasu puraō tumaṁ chaüllāṇaṁ</l>
+	<l>hiaēṇa jaṁ ca bhaṇiaṁ taṁ pi haāsā viāṇanti</l>
+      </lg>
+      <lg n="884">
+	<l>vaṅkabhaṇiāi kattō kattō addhacchipēcchiavvāi</l>
+	<l>ūsasiuṁ pi ṇa tīraï chaüllaparivāriē gāmē</l>
+      </lg>
+      <lg n="885">
+	<l>tattha vi honti sahīō puttali mā ruvasu jattha diṇṇā si</l>
+	<l>tattha vi ṇiuñjalīlā tattha vi girivāhiṇī gōlā</l>
+      </lg>
+      <lg n="886">
+	<l>kassa va ṇa hōi rōsō daṭṭhūṇa piāe savvaṇaṁ aharaṁ</l>
+	<l>sabhamarakamalagghāiri vāriavāmē sahasu ēṇhiṁ</l>
+      </lg>
+      <lg n="887">
+	<l>chappattiā vi khajjaï ṇippattē putti ēttha kō dōsō</l>
+	<l>ṇiapurisē vi ramijjaï parapurisavivajjiē gāmē</l>
+      </lg>
+      <lg n="888">
+	<l>amuṇiaparapurisasuhō jampaü jaṁ kiṁ pi aṇṇaō lōō</l>
+	<l>ṇiapurisēhi vi amhē parapurisō tti ccia ramāmō</l>
+      </lg>
+      <lg n="889">
+	<l>māē gharōvaaraṇaṁ ajja khu ṇa tthi tti sāhiaṁ tumaē</l>
+	<l>tā bhaṇa kiṁ karaṇijjaṁ ēmēa ṇa vāsarō ṭhāi</l>
+      </lg>
+      <lg n="890">
+	<l>sacchandaramaṇadaṁsaṇasaṁvaḍḍhiagaruavammahavilāsaṁ</l>
+	<l>suviaḍḍhavēsavilaāramiaṁ kō vaṇṇiuṁ taraï</l>
+      </lg>
+      <lg n="891">
+	<l>sāmaṇṇasundarīṇaṁ vibbhamam āvahaï aviṇao ccēa</l>
+	<l>dhūmō vi hu pajjaliāṇaṁ mahurō hōi surabhidārūṇaṁ</l>
+      </lg>
+      <lg n="892">
+	<l>avvō kālassa gaī sō vi juā sarasakavvadullaliō</l>
+	<l>paḍhaï parāsarasaddaṁ amhē vi ṇiaṁ païṁ gamimō</l>
+      </lg>
+      <lg n="893">
+	<l>paṇamaha māṇassa halā calaṇē kiṁ dēvaēhi aṇṇēhiṁ</l>
+	<l>jassa pasāēṇa piō ghōlaï pāantapāsēsu</l>
+      </lg>
+      <lg n="894">
+	<l>aṇuṇaapasaraṁ pāapaḍanūsavaṁ rabhasacumbaṇasuhēlliṁ</l>
+	<l>ēāi a aṇṇāi a avasō vva kaō phalaï māṇō</l>
+      </lg>
+      <lg n="895">
+	<l>jaï puttali bahuēhiṁ aṇuṇaasōkkhēhi atthi dē kajjaṁ</l>
+	<l>tāva rua gēṇha māṇaṁ khaṇamēttaṁ tammi suhaammi</l>
+      </lg>
+      <lg n="896">
+	<l>āṇā aṇālavantīe kīraē dīsaē parāhuttō</l>
+	<l>ṇintammi ṇīsisijjaï putti apuvvōkkhu dē māṇō</l>
+      </lg>
+      <lg n="897">
+	<l>jañjaṁ bhaṇaha sahīō āma karissāma savvahā tantaṁ</l>
+	<l>jaï taraha rumbhiuṁ maha dhīraṁ samuhāgaē tammi</l>
+      </lg>
+      <lg n="898">
+	<l>alliaï diṭṭhiṇibbhacchiō vi vihuō vi laggaē siaē</l>
+	<l>pahaō vi cumbaï balā alajjaē kaha ṇu kuppissaṁ</l>
+      </lg>
+      <lg n="899">
+	<l>himajōacuṇṇahatthāŏ jassa dappaṁ kuṇanti rāīō</l>
+	<l>kaha tassa piassa maē tīraï māṇō halā kāuṁ</l>
+      </lg>
+      <lg n="900">
+	<l>kiṁ bhaṇaha maṁ sahīō karēhi māṇaṁ ti kiṁ tha māṇēṇa</l>
+	<l>sabbhāvavāhirē tammi majjha māṇēṇa vi ṇa kajjaṁ</l>
+      </lg>
+      <lg n="901">
+	<l>jaïā piō ṇa dīsaï bhaṇaha halā kassa kīraē māṇō</l>
+	<l>aha diṭṭhammi vi māṇō tā tassa piattaṇaṁ kattō</l>
+      </lg>
+      <lg n="902">
+	<l>jāṇimi kaāvarāhaṁ jāṇimi aliāi bhaṇaï saalāi</l>
+	<l>aṇuṇēntē uṇa jāṇē kaāvarāhaṁ va appāṇaṁ</l>
+      </lg>
+      <lg n="903">
+	<l>avarāhasahassāiṁ bharimō hiaēṇa tammi addiṭṭhē</l>
+	<l>diṭṭhammi uṇa piasahī ēkkaṁ pi hu ṇaṁ ṇa sambharimō</l>
+      </lg>
+      <lg n="904">
+	<l>bhaṇabhaṇa jañjaṁ paḍihāi tujjha tantaṁ sahāmimō amhē</l>
+	<l>asahattaṇaṁ ca jīaṁ ca vallabhē dōi ṇa ghaḍanti</l>
+      </lg>
+      <lg n="905">
+	<l>ēaṁ cia maha ṇāmaṁ bhaṇabhaṇa dē suhaa kiṁ vilakkhō si</l>
+	<l>paḍihāi jaṁ ṇa tujjha vi mamaṁ pi kiṁ dēṇa ṇāmēṇa</l>
+      </lg>
+      <lg n="906">
+	<l>suhaa muhuttaṁ suppaü jaṁ tē paḍihāi taṁ pi bhaṇṇihisi</l>
+	<l>ajja ṇa pēcchanti tuhaṁ ṇiddāgaruāi acchīi</l>
+      </lg>
+      <lg n="907">
+	<l>mā vēlavēsu bahuaṁ puttaa aliēhi gōttēhiṁ</l>
+	<l>ēsā vi jāṇaï ccia parihāsummissabhaṇiāiṁ</l>
+      </lg>
+      <lg n="908">
+	<l>aï caṇḍi kiṁ ṇa pēcchasi jaï sō vāharaï aṇṇagōttēṇa</l>
+	<l>aha dē icchaï maccharapaṇacciacchaṁ muhaṁ daṭṭhuṁ</l>
+      </lg>
+      <lg n="909">
+	<l>vēārijjasi muddhē gōttakkhaliēhi mā khu tuṁ ruvasu</l>
+	<l>kiṁ va ṇa pēcchaï aṇṇaha ēddahamēttēhi acchīhiṁ</l>
+      </lg>
+      <lg n="910">
+	<l>sōttuṁ suhaṁ ṇa labbhaï avvō pēmmassa vaṅkavisamassa</l>
+	<l>dugghaḍiamañcaassa va khaṇēkhaṇē pāapaḍaṇēṇa</l>
+      </lg>
+      <lg n="911">
+	<l>ēkkasaaṇammi sumuhī vimuhī garuēṇa māṇabandhēṇa</l>
+	<l>siviṇakalahammi hontī parammuhī sammuhī jāā</l>
+      </lg>
+      <lg n="912">
+	<l>vaḍḍhaü tā tuha gavvō bhaṇṇasi rē jaï vihaṇḍaṇaṁ vaaṇaṁ</l>
+	<l>saccaṁ ṇa ēi ṇiddā tuē viṇā dēhi ōāsaṁ</l>
+      </lg>
+      <lg n="913">
+	<l>kaavicchēō sahibhaṅgibhaṇiasabbhāviāvarāhāē</l>
+	<l>jhaḍi āpallavaï puṇō ṇaaṇakavōlēsu kōvatarū</l>
+      </lg>
+      <lg n="914">
+	<l>ummūlanti va hiaaṁ aṇuṇijjantīŏ māṇavantīō</l>
+	<l>sambhariamaṇṇuṇibbharabāhabharōrumbhiamuhīō</l>
+      </lg>
+      <lg n="915">
+	<l>ṇa vi taha takkhaṇasuamaṇṇudukkhaviaṇāŏ vi ruvanti</l>
+	<l>jaha diṭṭhammi piaamē aṇuṇijjantīŏ taruṇīŏ</l>
+      </lg>
+      <lg n="916">
+	<l>hiaē rōsukkhittaṁ pāapahāraṁ sirēṇa patthantō</l>
+	<l>ṇa haō daïō māṇaṁsiṇīe thōraṁsuaṁ ruṇṇaṁ</l>
+      </lg>
+      <lg n="917">
+	<l>piaamaviiṇṇacasaaṁ acakkhiaṁ piasahīe dēntīē</l>
+	<l>abhaṇantīe vi māṇaṁsiṇīe kahio ccia virōhō</l>
+      </lg>
+      <lg n="918">
+	<l>vaccihii sa gharaṁ sē lahihii ōāsam ēhii saāsaṁ</l>
+	<l>bhaṇihii jaṁ bhaṇiavvaṁ paccuttaṁ kiṁṇu pāvihii</l>
+      </lg>
+      <lg n="919">
+	<l>taṇuāiā varāī diahēdiahē miaṅkalēha vva</l>
+	<l>bahalapaōsēṇa tuē ṇisaṁsa andhāriamuhēṇa</l>
+      </lg>
+      <lg n="920">
+	<l>dāvantēṇa tuha muhaṁ bhumaābhaṅgammi hontaṇavasōhaṁ</l>
+	<l>akaēṇa uvakaaṁ ajja maṇṇuṇā majjha pasiacchi</l>
+      </lg>
+      <lg n="921">
+	<l>bhiuḍī ṇa kaā kaḍuaṁ ṇā 'laviaṁ aharaaṁ ṇa pajjuṭṭhaṁ</l>
+	<l>uvaūhiā ṇa ruṇṇā ēēṇa vi jāṇimō māṇaṁ</l>
+      </lg>
+      <lg n="922">
+	<l>kiṁ pi ṇa jampasi kāmaṁ bhaṇiaṁ ca karēsi taṁ tahā turiaṁ</l>
+	<l>hiaaṁ rōsuvvēaṁ ti tujjha viṇao ccia kahēi</l>
+      </lg>
+      <lg n="923">
+	<l>paripucchiā ṇa jampasi cumbijjantī balā muhaṁ harasi</l>
+	<l>parihāsamāṇavimuhē pasiacchi maṇaṁ mha dūmēsi</l>
+      </lg>
+      <lg n="924">
+	<l>aï pīṇatthaṇaütthambhiāṇaṇē suaṇu suṇasu maha vaaṇaṁ</l>
+	<l>athirammi jujjaï ṇa jōvvaṇammi māṇō piē kāduṁ</l>
+      </lg>
+      <lg n="925">
+	<l>taralacchi candavaaṇē thōratthaṇi kariarōru taṇumajjhē</l>
+	<l>dīhā ṇa samappaï sisirajāmiṇī kaha ṇu dē māṇō</l>
+      </lg>
+      <lg n="926">
+	<l>suhaā vi suṇḍarī vi hu taruṇī vi hu māṇiṇi tti ā putti</l>
+	<l>candaṇalaṭṭhi vva huaṅgadūmiā kiṁ ḍu dūmēsi</l>
+      </lg>
+      <lg n="927">
+	<l>paḍivakkhassa vi puraō samuhaṁ bhaṇiā si tēṇa pasia tti</l>
+	<l>avalambiassa māṇiṇi māṇassa a kiṁ phalaṁ aṇṇaṁ</l>
+      </lg>
+      <lg n="928">
+	<l>kaḍḍhēsi caliavalaē hatthē muñcēsi ahamuhī bāhaṁ</l>
+	<l>paḍirumbhasi ṇīsāsē bahuaṁ tē māṇaviṇṇāṇaṁ</l>
+      </lg>
+      <lg n="929">
+	<l>kajjaṁ viṇā vi kaamāṇaḍambarā pulaabhiṇṇasavvaṅgī</l>
+	<l>ujjallāliṅgaṇasōkkhalālasā putti muṇiā si</l>
+      </lg>
+      <lg n="930">
+	<l>haṁhō kiṁ va ṇa diṭṭhaṁ halā maē jīviaṁ dharantīē</l>
+	<l>sō maṁ aṇuṇēi piō ahaṁ pi aṇuṇijjimi haāsā</l>
+      </lg>
+      <lg n="931">
+	<l>tā sōkkhaṁ tāva raī tā raṇaraṇaassa ṇa tthi ōāsō</l>
+	<l>jā dukkhēkkaṇihāṇē ṇa hōi bahuvallahē pēmmaṁ</l>
+      </lg>
+      <lg n="932">
+	<l>māṇahariēhi gantuṁ ṇa tīraē sō ṇaēi avarāhī</l>
+	<l>kō vi apatthiamuṇiō ṇējjaṁ mantaṁ va āṇējja</l>
+      </lg>
+      <lg n="933">
+	<l>uvvahaï daïagahiā harōṭṭhajhijjantakōvagaarāaṁ</l>
+	<l>pāṇōsarantamaïraṁ va phalihacasaaṁ muhaṁ bālā</l>
+      </lg>
+      <lg n="934">
+	<l>gāḍhāliṅgaṇarabhasujjaammi daïē lahuṁ samōsaraï</l>
+	<l>māṇaṁsiṇīe māṇō phēllaṇabhīō vva hiaāhi</l>
+      </lg>
+      <lg n="935">
+	<l>tuṅgō thirō visālō jō sahi mē māṇapavvaō raïō</l>
+	<l>sō daïadiṭṭhivajjāsaṇīe ghāē viṇa pahuntō</l>
+      </lg>
+      <lg n="936">
+	<l>sahi viraïūṇa māṇassa majjha dhīrattaṇēṇa ōāsaṁ</l>
+	<l>piaamadaṁsaṇavihalakkhaṇammi sahasē 'tti tēṇa ōsariaṁ</l>
+      </lg>
+      <lg n="937">
+	<l>ṇahapaapasāhiaṅgō ṇiddāghummantalōaṇō ṇa tahā</l>
+	<l>jaha ṇivvaṇāharō sāmalaṅga dūmēsi maha hiaaṁ</l>
+      </lg>
+      <lg n="938">
+	<l>paccakkhamantukāraa jaï cumbasi mē imē haakavōlē</l>
+	<l>tā majjha piasahīē visēsaō kīsa taṇhāō</l>
+      </lg>
+      <lg n="939">
+	<l>taïā maha gaṇḍatthalaṇimiaṁ diṭṭhiṁ ṇa ṇēsi aṇṇattō</l>
+	<l>ēṇhiṁ sa ccēa ahaṁ tē a kavōlā ṇa sā diṭṭhī</l>
+      </lg>
+      <lg n="940">
+	<l>tāṇa guṇaggahaṇāṇaṁ tāṇ' ukkaṇṭhāṇa tassa pēmmassa</l>
+	<l>tāṇa bhaṇiāṇa sundara īrisaaṁ jāam avasāṇaṁ</l>
+      </lg>
+      <lg n="941">
+	<l>aliakuviaṁ pi kaamantuaṁ va maṁ jēsu suhaa aṇuṇēntō</l>
+	<l>tāṇa diahāṇa haraṇē ruāmi ṇa uṇō ahaṁ kuviā</l>
+      </lg>
+      <lg n="942">
+	<l>āma tuha ṇā 'varāhō piaama mē lōaṇāṇa iha dōsō</l>
+	<l>māṇāsahammi caḍulēhi vāsiō jēhi hiaammi</l>
+      </lg>
+      <lg n="943">
+	<l>kō suhaa tujjha dōsō haahiaaṁ ṇiṭṭhuraṁ majjha</l>
+	<l>pēcchasi aṇimisaṇaaṇō jampasi viṇaaṁ ṇa jampasē piṭṭhaṁ</l>
+      </lg>
+      <lg n="944">
+	<l>vacca maha ccia ēkkāe hontu ṇīsāsarōiavvāi</l>
+	<l>mā tujjha vi tīe viṇā dakkhiṇṇahaassa jāṇīantu</l>
+      </lg>
+      <lg n="945">
+	<l>aṇuvattantō amhārisaṁ jaṇaṁ āhijāīē</l>
+	<l>cintēsi uṇō hiaē aṇāhijāī suhaṁ jaaï</l>
+      </lg>
+      <lg n="946">
+	<l>huṁ ṇillajja samōsara taṁ cia aṇuṇēsu jīe dē ēaṁ</l>
+	<l>pāaṅgụṭṭhālattaarasēṇa tilaaṁ viṇimmaviaṁ</l>
+      </lg>
+      <lg n="947">
+	<l>sā vasaï tujjha hiaē sa ccia acchīsu sā a siviṇēsu</l>
+	<l>amhārisāṇa sundara ōāsō kattha pāvāṇa</l>
+      </lg>
+      <lg n="948">
+	<l>taṇhā mē tujjha piattaṇassa kaha taṁ ti ṇō hi jāṇāmō</l>
+	<l>dē suhaa tumaṁ cia sikkhavēsu jaha dē piā hōmi</l>
+      </lg>
+      <lg n="949">
+	<l>maliṇavasaṇāṇa kiavaṇiāṇaṁ āpaṇḍugaṇḍapālīṇaṁ</l>
+	<l>pupphavaïāṇa kāmō aṅgēsu kaāuhō vasaï</l>
+      </lg>
+      <lg n="950">
+	<l>pupphavaïa mhi bālaa mā civasu adīharāusō hōsi</l>
+	<l>ajjaṁ cēa marijjaü maacchi kiṁ kālaharaṇēṇa</l>
+      </lg>
+      <lg n="951">
+	<l>vāṇiaa hatthidantā kattō amhāṇa vagghakattīō</l>
+	<l>jāva luliālaamuhī gharammi parisakkaē sōṇhā</l>
+      </lg>
+      <lg n="952">
+	<l>gaṇhanti piaamāṇa vaaṇāhi haṁsīŏ visalaaddhāi</l>
+	<l>hiaāi va kusumāuhabāṇakaāṇēarandhāi</l>
+      </lg>
+      <lg n="953">
+	<l>haṁsāṇa sarēhi sirī sārijjaï aha sarāṇa haṁsēhi</l>
+	<l>aṇṇōṇṇaṁ cia ēē appāṇaṁ ṇavara garuanti</l>
+      </lg>
+      <lg n="954">
+	<l>aṇudiahakaābhōā jahajaha thaṇaā viṇinti kumarīē</l>
+	<l>tahataha laddhōāsō vva vammahō hiaam āvisaï</l>
+      </lg>
+      <lg n="955">
+	<l>kēsā paṇḍurachāā asaīsaṅgēṇa camma jajjariaṁ</l>
+	<l>cittaṁ tuha sōhaggaṁ gōdā dūittaṇaṁ kuṇaï</l>
+      </lg>
+      <lg n="956">
+	<l>ṇiṇṇiddaṁ dōbballaṁ cintā alasattaṇaṁ saṇīsasiaṁ</l>
+	<l>maha mandabhāiṇīē kaē sahi tumaṁ vi ahaha paribhavaï</l>
+      </lg>
+      <lg n="957">
+	<l>ṇiadaïadaṁsaṇūsua panthia aṇṇēṇa vaccasu pahēṇa</l>
+	<l>gharavaïdhūā dullaṁ ghavāurā ṭhāi haagāmē</l>
+      </lg>
+      <lg n="958">
+	<l>āsāiaṁ aṇṇāēṇa jēttiaṁ tā tui ṇa bahuā dhiī</l>
+	<l>uvaramasu vusaha ēṇhiṁ rakkhijjaï gēhavaïkhēttaṁ</l>
+      </lg>
+      <lg n="959">
+	<l>ucciṇasu paḍiakusumaṁ mā dhuṇa sēhāliaṁ haliasuṇhē</l>
+	<l>ēsa avasāṇavirasō sasurēṇa suō valaasaddō</l>
+      </lg>
+      <lg n="960">
+	<l>pavisantī gharadāraṁ vivaliavaaṇā vilōiūṇa pahaṁ</l>
+	<l>khandhē mōttūṇa ghaḍaṁ hāhā ṇaṭṭhō tti ruasi sahi kiṁ ti</l>
+      </lg>
+      <lg n="961">
+	<l>mā pantha rundhasu paham abēhi bālaa asēsiahirīa</l>
+	<l>amhē aṇirikkāō suṇṇaṁ gharaaṁ va akkamasi</l>
+      </lg>
+      <lg n="962">
+	<l>suvvaï samāgamissaï tujjha piō ajja paharamēttēṇa</l>
+	<l>ēmēa kiṁ pi ciṭṭhasi tā sahi sajjēsu karaṇijjaṁ</l>
+      </lg>
+      <lg n="963">
+	<l>khaṇapāhuṇiā dēarajāyā ē suhaya kiṁ tē dē haṇidā</l>
+	<l>ruaï gharōpantaphaliṇigharammi aṇuṇijjaü varāī</l>
+      </lg>
+      <lg n="964">
+	<l>pupphabharōṇamiabhūmigaasāhatarūṇa viṇṇavaṇaṁ</l>
+	<l>gōlāaḍaviaḍakuḍuṅgamahua...</l>
+      </lg>
+      <lg n="965">
+	<l>gr̥hiṇipravēśitajārē gr̥hē gr̥hē (gr̥hiṇī) sthāpitā</l>
+	<l>militāvadati(asatī?)jārau paścād gr̥hiṇī gr̥hasthaś ca</l>
+      </lg>
+      <lg n="966">
+	<l>ēkkattō ruaï piā aṇṇattō samaratūraṇigghōsō</l>
+	<l>pēmmēṇa raṇarasēṇa a bhaḍassa ḍōlāiaṁ hiaaṁ</l>
+      </lg>
+      <lg n="967">
+	<l>kēlīgōttakkhalaṇē vikuppaē kēavaṁ aāṇantī</l>
+	<l>duṭṭha uasu parihāsaṁ jāā saccaṁ cia paruṇṇā</l>
+      </lg>
+      <lg n="968">
+	<l>dē ā pasia ṇiattasu muhasasijōṇhāviluttatamaṇivahē</l>
+	<l>ahisāriāṇa vigghaṁ karēsi aṇṇāṇa vi haāsē</l>
+      </lg>
+      <lg n="969">
+	<l>aṇṇaṁ lahuattaṇaaṁ aṇṇa ccia kāi vattaṇacchāā</l>
+	<l>sāmā sāmaṇṇapaāvaïṇō rēha ccia ṇa hōi</l>
+      </lg>
+      <lg n="970">
+	<l>alasasirōmaṇi dhuttāṇa aggimō putti dhaṇasamiddhimaō</l>
+	<l>ia bhaṇiēṇa ṇaaṅgī papphullavilōaṇā jāā</l>
+      </lg>
+      <lg n="971">
+	<l>ullōllakaraaraaṇakkhaēhi tuha lōaṇēsu maha diṇṇaṁ</l>
+	<l>rattaṁsuaṁ pasāō kōvēṇa puṇō imē ṇa akkamiā</l>
+      </lg>
+      <lg n="972">
+	<l>ē ēhi dāva sundari kaṇṇaṁ dāūṇa suṇasu vaaṇijjaṁ</l>
+	<l>tujjha muhēṇa kisōari candō uamijjaï jaṇēṇa</l>
+      </lg>
+      <lg n="973">
+	<l>ēddahamēttatthaṇiā ēddahamēttēhi acchivattēhiṁ</l>
+	<l>ēddahamēttāvatthā ēddahamēttēhi diahēhiṁ</l>
+      </lg>
+      <lg n="974">
+	<l>karajuagahiajasōāthaṇamuhaviṇivēsiāharapuḍassa</l>
+	<l>sambhariapañcajaṇṇassa ṇamaha kaṇhassa rōmañcaṁ</l>
+      </lg>
+      <lg n="975">
+	<l>kā visamā dēvvagaī kiṁ dullabbhaṁ jaṇō guṇaggāhī</l>
+	<l>kiṁ sōkkhaṁ sukalattaṁ kiṁ dukkhaṁ jaṁ khalō lōō</l>
+      </lg>
+      <lg n="976">
+	<l>kivaṇāṇa dhaṇaṁ ṇāāṇa phaṇamaṇī kēsarāi sīhāṇaṁ</l>
+	<l>kulavāliāṇa a thaṇā kattō jhiyyanti amuāṇaṁ</l>
+      </lg>
+      <lg n="977">
+	<l>kēsēsu valāmōḍia tēṇa samarammi jaassirī gahiā</l>
+	<l>jaha kandarāhi vihurā tassa daḍhaṁ kaṇṭhaammi saṇṭhaviā</l>
+      </lg>
+      <lg n="978">
+	<l>khalavavahārā dīsanti dāruṇā jaha vi taha vi dhīrāṇaṁ</l>
+	<l>hiaavaassavahumaā ṇa hu vavasāā vimujjhanti</l>
+      </lg>
+      <lg n="979">
+	<l>jaṁ parihariuṁ tīraï maṇaṁ pi ṇa sundaraattaṇaguṇēṇa</l>
+	<l>aha ṇavaram assa dōsō paḍivacchēhiṁ pi paḍivaṇṇō</l>
+      </lg>
+      <lg n="980">
+	<l>jassa raṇantēuraē karē kuṇantassa maṇḍalaggalaaṁ</l>
+	<l>rasasammuhī vi sahasā parammuhī hōi riusēṇā</l>
+      </lg>
+      <lg n="981">
+	<l>jassēa vaṇō tassēa vēaṇā bhaṇaï taṁ jaṇō aliaṁ</l>
+	<l>dantakkhaaṁ kavōlē vahūe viaṇā savattīṇaṁ</l>
+      </lg>
+      <lg n="982">
+	<l>jahā gahirō jahā raaṇaṇibbharō jaha a ṇimmalacchāō</l>
+	<l>taha kiṁ vihiṇā ēsō sabāṇiō jalaṇihī ṇa kiō</l>
+      </lg>
+      <lg n="983">
+	<l>jā ṭhēraṁ va hasantī kaïvaaṇaṁvuruhavaddhaviṇivēsā</l>
+	<l>dāvēi bhuaṇamaṇḍalam aṇṇaṁ via (cia?) jaaï sā vāṇī</l>
+      </lg>
+      <lg n="984">
+	<l>jōṇhāi mahurasēṇa a viiṇṇatāruṇṇaücchuamaṇā sā</l>
+	<l>vuḍḍhā vi ṇavōḍha vva paravahū aha haraï tuha hiaaṁ</l>
+      </lg>
+      <lg n="985">
+	<l>ṭuṇṭuṇṇantō marihisi kaṇṭaakaliāi kēaïvaṇāiṁ</l>
+	<l>mālaïkusumasaricchaṁ bhamara bhamantō ṇa pāvihisi</l>
+      </lg>
+      <lg n="986">
+	<l>ṇavapuṇṇimāmiaṅkassa suhaa kō taṁ si bhaṇasu maha saccaṁ</l>
+	<l>kā sōhaggasamaggā paōsaraaṇi vva tuha ajja</l>
+      </lg>
+      <lg n="987">
+	<l>ṇihuaramaṇammi lōaṇapahammi paḍiē guruaṇamajjhammi</l>
+	<l>saalaparihārahiaā vaṇagamaṇaṁ cēa mahaï vahū</l>
+      </lg>
+      <lg n="988">
+	<l>taṁ tāṇa sirisahōararaaṇāharaṇammi hiaam ēkkarasaṁ</l>
+	<l>viṁvāharē piāṇaṁ ṇivēsiaṁ kusumavāṇēṇa</l>
+      </lg>
+      <lg n="989">
+	<l>tālā jāanti guṇā jālā dē sahiaēhi gheppanti</l>
+	<l>raïkiraṇāṇugahiāi honti kamalāi a kamalāiṁ</l>
+      </lg>
+      <lg n="990">
+	<l>tuha vallahassa gōsammi āsi aharō milāṇakamaladalō</l>
+	<l>ia ṇavavahuā sōūṇa kuṇaï vaaṇaṁ mahīsamuhaṁ</l>
+      </lg>
+      <lg n="991">
+	<l>maha dēsu rasaṁ dhammē tamavasam āsaṁ gamāgamā hara ṇē</l>
+	<l>haravahu saraṇaṁ taṁ cittamōham avasaraü mē sahasā</l>
+      </lg>
+      <lg n="992">
+	<l>rāīsu candadhavalāsu laliam āphāliūṇa jō cāvaṁ</l>
+	<l>ēkkacchattaṁ ccia kuṇaï bhuaṇarajjaṁ viambhantō</l>
+      </lg>
+      <lg n="993">
+	<l>lahiūṇa tujjha vāhupphaṁsaṁ jīē sa kō vi ullāsō</l>
+	<l>jaalacchī tuha virahē ṇa hu 'jjalā duvvalāṇaṁ sā</l>
+      </lg>
+      <lg n="994">
+	<l>vārijjantō vi uṇō sandāvakaatthiēṇa hiaēṇa</l>
+	<l>thaṇaharavaassaēṇaṁ visuddhajāī ṇa calaï sē hārō</l>
+      </lg>
+      <lg n="995">
+	<l>saalakaraṇaparavīsāmasiriviaraṇaṁ ṇa sarasakavvassa</l>
+	<l>dīsaï aha va ṇisammaï sarisaṁ aṁsaṁsamēttēṇa</l>
+      </lg>
+      <lg n="996">
+	<l>sahi ṇavaṇihuvaṇasamarammi aṅkavālīsahīe ṇiviḍāē</l>
+	<l>hārō ṇivārao ccia ucchīrantō tadā kahaṁ ramiaṁ</l>
+      </lg>
+      <lg n="997">
+	<l>sō ṇatthi ēttha gāmē jō ēaṁ mahamahantalāaṇṇaṁ</l>
+	<l>taruṇāṇaṁ hiaaluḍiṁ parisakkantiṁ ṇivārēi</l>
+      </lg>
+      <lg n="998">
+	<l>sō suddhasāmalaṅgō dhammillō kalialaliaṇiadēhō</l>
+	<l>tīē khandhāhi valaṁ gahia sarō suraasaṅgarē jaaï</l>
+      </lg>
+      <lg n="999">
+	<l>hōmi vahatthiarēhō ṇiraṅkusō aha vivēarahiō vi</l>
+	<l>siviṇē vi tumammi puṇō pattihi bhattiṁ ṇa sumarāmi</l>
+      </lg>
+      <lg n="1000">
+	<l>sajjēi surahimāsō ṇa āpaṇēi juaïjaṇalakkhasahē</l>
+	<l>ahiṇaasahaāramuhē ṇaapallavapattaṇē aṇaṅgasarē</l>
+      </lg>
+    </body>
+  </text>
+</TEI>
+
+
