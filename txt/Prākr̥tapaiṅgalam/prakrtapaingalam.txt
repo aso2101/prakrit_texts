@@ -1,8 +1,8 @@
 jō vivihamattasāarapāraṁ pattō vi vimalamaïhēlaṁ  // PrāPi.1.1ab
-paḍhamabbhāsataraṁḍō, ṇāō sō piṁgalō jaaï  // PrāPi.1.1cd [gāthā]
+paḍhamabbhāsataraṁḍō, ṇāō sō piṅgalō jaaï  // PrāPi.1.1cd [gāthā]
 
 dīhō sañjuttaparō, bindujuō pāḍiō a caraṇantē  // PrāPi.1.2ab
-sa gurū vaṁka dumattō, aṇṇō lahu hōi suddha aïkālō  // PrāPi.1.2cd [udgāthā]
+sa gurū vaṅka dumattō, aṇṇō lahu hōi suddha aïkālō  // PrāPi.1.2cd [udgāthā]
 
 jihā
 māī rūē hēō, hiṇṇō jiṇṇō a vuḍḍaō dēō  // PrāPi.1.3ab
@@ -15,7 +15,7 @@ ihikārā bindujuā, ēō suddhā a vaṇṇamiliā vi lahū  // PrāPi.1.5ab
 rahavañjaṇasañjōē, parē asēsaṁ vi hōi savihāsaṁ  // PrāPi.1.5cd [siṁhinī]
 
 māṇiṇi māṇahĩ kāĩ phala, ēō ja caraṇa paḍu kanta  // PrāPi.1.6ab
-sahaja bhuaṁgama jaï ṇamaï, kiṁ kariē maṇimanta  // PrāPi.1.6cd [dōhā]
+sahaja bhuaṅgama jaï ṇamaï, kiṁ kariē maṇimanta  // PrāPi.1.6cd [dōhā]
 
 rahavañjaṇasañjōassa jahā
 cēu sahaja tuhum̐ cañcalā, sundarihadahĩ valanta  // PrāPi.1.7ab
@@ -29,13 +29,13 @@ arērē vāhahi kānha ṇāva, chōḍi ḍagamaga kugati ṇa dēhi  // PrāPi
 taī ithi ṇadihĩ sam̐tāra dēi, jō cāhahi sō lēhi  // PrāPi.1.9cd [dōhā]
 
 jama ṇa sahaï kaṇaatulā, tila tuliaṁ addhaaddhēṇa  // PrāPi.1.10ab
-tama ṇa sahaï savaṇatulā, avachandaṁ chandabhaṁgēṇa  // PrāPi.1.10cd [gāhū]
+tama ṇa sahaï savaṇatulā, avachandaṁ chandabhaṅgēṇa  // PrāPi.1.10cd [gāhū]
 
 abuha buhāṇaṁ majjhē, kavvaṁ jō paḍhaï lakkhaṇavihūṇaṁ  // PrāPi.1.11ab
 bhūaggalaggakhaggahĩ, sīsaṁ khuḍiaṁ ṇa jāṇēi  // PrāPi.1.11cd [gāthā]
 
 ṭṭhaḍaḍhāṇaha majjhē, gaṇabhēā hōti pañca akkharaō  // PrāPi.1.12ab
-chapacatadā jahasaṁkhaṁ, chappañcacaüttidukalāsu  // PrāPi.1.12cd [gāthā]
+chapacatadā jahasaṅkhaṁ, chappañcacaüttidukalāsu  // PrāPi.1.12cd [gāthā]
 
 ṭagaṇō tērahabhēō, bhēā aṭṭhāi hōnti ṭhagaṇassa  // PrāPi.1.13ab
 ḍagaṇassa pañca bhēā tia ḍhagaṇē bē vi ṇagaṇassa  // PrāPi.1.13cd [gāthā]
@@ -50,7 +50,7 @@ dhua dhammō sāliarō tēraha bhēā chamattāṇaṁ  // PrāPi.1.15cd [gāth�
 
 aha pañcakalāṇaṁ ṇāmā
 indāsaṇa aru sūrō, cāō hīrō a sēharō kusumō  // PrāPi.1.16ab
-ahigaṇa pāpagaṇō dhua, pañcakalē piṁgalēṁ kahiō  // PrāPi.1.16cd [gāthā]
+ahigaṇa pāpagaṇō dhua, pañcakalē piṅgalēṁ kahiō  // PrāPi.1.16cd [gāthā]
 
 aha caükkalāṇaṁ ṇāmāī
 gurujua kaṇṇō guruanta karaala paōharammi gurumajjhō  // PrāPi.1.17ab
@@ -66,11 +66,11 @@ suravaï paṭavva tālā karatālāṇanda chandēṇa  // PrāPi.1.19ab
 
 aha tialagaṇa taïa patthārassa ṇāmāī
 bhāvā rasatāṁḍava ṇārīaṁ kuṇaha bhāviṇiaṁ  // PrāPi.1.20ab
-tilahugaṇassa kaïarō ia ṇāmaṁ piṁgalō kahaï  // PrāPi.1.20cd [gāhū]
+tilahugaṇassa kaïarō ia ṇāmaṁ piṅgalō kahaï  // PrāPi.1.20cd [gāhū]
 
 aha dukalāṇaṁ ṇāmāī
 ṇēurarasaṇābharaṇaṁ cāmaraphaṇimuddhakaṇaakuṁḍalaaṁ  // PrāPi.1.21ab
-vaṁkaṁ māṇasavalaaṁ hārāvali ēha guruassa  // PrāPi.1.21cd [gāthā]
+vaṅkaṁ māṇasavalaaṁ hārāvali ēha guruassa  // PrāPi.1.21cd [gāthā]
 
 bilahu ṇāmāī
 ṇiapia paramaü supiē bilhu ti samāsu kaïdiṭṭha  // PrāPi.1.22ab
@@ -89,7 +89,7 @@ uṇṇāakacakkavaī paaharathaṇaaṁ ṇarindāĩ  // PrāPi.1.25cd [gāhū]
 
 aha āiguru ṇāmāī
 paapāacaraṇajualaṁ avaru paāsēi gaṁḍavalahaddam  // PrāPi.1.26ab
-tāapiāmahadahaṇaṁ ṇēuraraïjaṁghajualēhĩ  // PrāPi.1.26cd [gāthā]
+tāapiāmahadahaṇaṁ ṇēuraraïjaṅghajualēhĩ  // PrāPi.1.26cd [gāthā]
 
 aha savvalahuassa ṇāmāī
 paḍhamaṁ ērisi vippō bīē sarapañca jāisiharēhĩ  // PrāPi.1.27ab
@@ -104,12 +104,12 @@ pakkhivirāḍamaïndahavīṇāahijakkhaamiajōhalaaṁ  // PrāPi.1.29ab
 suppaṇṇapaṇṇagāsaṇagaruḍa viāṇēhu majjhalahuēṇa  // PrāPi.1.29cd [udgāthā]
 
 bahuvivihapaharaṇēhiṁ pañcakalaō gaṇō hōi  // PrāPi.1.30ab
-gaarahaturaṁgapāikka ēhu ṇāmēṇa jāṇa caümattā  // PrāPi.1.30cd [viggāhā]
+gaarahaturaṅgapāikka ēhu ṇāmēṇa jāṇa caümattā  // PrāPi.1.30cd [viggāhā]
 
-tāḍaṁkahāraṇēurakēuraō hōti gurubhēā  // PrāPi.1.31ab
+tāḍaṅkahāraṇēurakēuraō hōti gurubhēā  // PrāPi.1.31ab
 saramērudaṁḍakāhala lahubhēā hōti ēttāĩ  // PrāPi.1.31cd [gāhū]
 
-saṁkhaṁ phullaṁ kāhala ravaṁ asēsēhĩ hōnti kaṇaalaaṁ // PrāPi.1.32ab
+saṅkhaṁ phullaṁ kāhala ravaṁ asēsēhĩ hōnti kaṇaalaaṁ // PrāPi.1.32ab
 rūaṁ ṇāṇākusumaṁ rasagandhaṁ saddaparamāṇaṁ  // PrāPi.1.32cd [gāhā]
 
 aha vaṇagaṇā
@@ -118,21 +118,21 @@ majjhalahū rō sō uṇa antagurū tō vi antalahuēṇa  // PrāPi.1.33cd [udg
 
 aha gaṇadēvatā.
 puhavījalasihikālō gaaṇaṁ sūrō a candamā ṇāō  // PrāPi.1.34ab
-gaṇa aṭṭha iṭṭhadēō jahasaṁkhaṁ piṁgalē kahiō  // PrāPi.1.34cd [gāthā]
+gaṇa aṭṭha iṭṭhadēō jahasaṅkhaṁ piṅgalē kahiō  // PrāPi.1.34cd [gāthā]
 
 magaṇa ṇagaṇa dui mitta hō bhagaṇa yagaṇa hō bhicca  // PrāPi.1.35ab
 āsīṇa jata duaü gaṇa avasiṭṭhaü ari ṇicca  // PrāPi.1.35cd [dōhā]
 
 ahaṁ gaṇaphala
 magaṇa riddhi thirakajja yagaṇa suhasampaa dijjaï  // PrāPi.1.36ab
-ragaṇa maraṇa sampalaï jagaṇa kharakiraṇa visajjaḍa़  // PrāPi.1.36cd
+ragaṇa maraṇa sampalaï jagaṇa kharakiraṇa visajjaḍa  // PrāPi.1.36cd
 tagaṇa suṇṇa phala kahaï sagaṇa sahadēsu vvāsaï // PrāPi.1.36ef
-bhagaṇa racaï maṁgala aṇēka kaï piṁgala bhāsaï  // PrāPi.1.36gh
+bhagaṇa racaï maṅgala aṇēka kaï piṅgala bhāsaï  // PrāPi.1.36gh
 jata kavva gāha dōhaï muṇahu ṇagaṇa hōi paḍhamakkharahi  // PrāPi.1.36ij
 tasu riddhi buddhi savvaī phurahi raṇa rāula duttara taraï  // PrāPi.1.36kl [chappaa]
 
 aha dugaṇa viārō
-mitta mitta dē riddhi buddhi aru maṁgala dijjaï // PrāPi.1.37ab
+mitta mitta dē riddhi buddhi aru maṅgala dijjaï // PrāPi.1.37ab
 mitta bhicca thirakajja jujjha ṇibbhaa jaa kijjaï  // PrāPi.1.37cd
 mitta āsē kajjabandha ṇahi puṇu puṇu chijjaï // PrāPi.1.37ef
 mitta hōi jaï sattu gōttabandhava pīḍijjaï  // PrāPi.1.37gh
@@ -147,48 +147,48 @@ jaï sattu mitta hō suṇṇaphala sattu bhiccahō gharaṇiṇasa // PrāPi.1.
 puṇu sattu āsē dhaṇa ṇasaï sattu sattu ṇāakka khasa  // PrāPi.1.38kl [chappaa]
 
 aha mattāṇaṁ uddiṭuṁ
-puvva juala sari aṁkā dijjasu  gurusira aṁkē sēsa maṭijjasu  // PrāPi.1.39ab
-uvaralaaṁka lakkhi kahu āṇahu  tē paridhua uddiṭṭhā jāṇahu  // PrāPi.1.39cd [aḍillā-arillā]
+puvva juala sari aṅkā dijjasu  gurusira aṅkē sēsa maṭijjasu  // PrāPi.1.39ab
+uvaralaaṅka lakkhi kahu āṇahu  tē paridhua uddiṭṭhā jāṇahu  // PrāPi.1.39cd [aḍillā-arillā]
 
-ṇaḍhē savvakalā kārijjasu  puvva juala sari aṁkā dijjasu  // PrāPi.1.40ab
-pucchalaaṁka miṭāvahi sēkha  uvarala aṁka lōpi kahu lēkha  // PrāPi.1.40cd
+ṇaḍhē savvakalā kārijjasu  puvva juala sari aṅkā dijjasu  // PrāPi.1.40ab
+pucchalaaṅka miṭāvahi sēkha  uvarala aṅka lōpi kahu lēkha  // PrāPi.1.40cd
 
-jattha jattha pāvijjaï bhāga  ēhu kahaï phura piṁgala ṇāga  // PrāPi.1.41ab
+jattha jattha pāvijjaï bhāga  ēhu kahaï phura piṅgala ṇāga  // PrāPi.1.41ab
 paramattā lēi gurutā jāi  jata lakkhahu tata lakkhahu āi  // PrāPi.1.41cd [pādākulaka]
 
 aha vaṇṇāṇaṁ uddiṭuṁ
-akkhara uppari duṇṇā, aṁkā dijjahu muṇēhu uddiṭṭhā  // PrāPi.1.42ab
-lahu uppari jō aṁkō taṁ dēi ēkkēṇa jāṇēhu  // PrāPi.1.42cd [gāthā]
+akkhara uppari duṇṇā, aṅkā dijjahu muṇēhu uddiṭṭhā  // PrāPi.1.42ab
+lahu uppari jō aṅkō taṁ dēi ēkkēṇa jāṇēhu  // PrāPi.1.42cd [gāthā]
 
 āsāṁ ṇaṭuṁ
-ṇaḍhē aṁkē bhāga karijjasu  samabhāgahĩ tahi lahu mūṇijjasu  // PrāPi.1.43ab
-visama ēka dēi vaṁṭaṇa kijjasu  piṁgala jampaï guru āṇijjasu  // PrāPi.1.43cd [aḍillā]
+ṇaḍhē aṅkē bhāga karijjasu  samabhāgahĩ tahi lahu mūṇijjasu  // PrāPi.1.43ab
+visama ēka dēi vaṁṭaṇa kijjasu  piṅgala jampaï guru āṇijjasu  // PrāPi.1.43cd [aḍillā]
 
 aha vaṇṇamēru
-akkhara saṁkhē kāḍha karu, āi anta paḍhamaka  // PrāPi.1.44ab
-sira dui aṁkē avaru bharu, sūī mēru ṇisaṁka  // PrāPi.1.44cd [dōhā]
+akkhara saṅkhē kāḍha karu, āi anta paḍhamaka  // PrāPi.1.44ab
+sira dui aṅkē avaru bharu, sūī mēru ṇisaṅka  // PrāPi.1.44cd [dōhā]
 
 aha assa patākā
-udiṭhṭhā sari aṁkā dijjasu  puvva aṁka parabharaṇa karijjasu  // PrāPi.1.45ab
-pāvala aṁka paḍhama paridijjasu  pattharasaṁkha patākā kijjasu  // PrāPi.1.45cd [aḍillā]
+udiṭhṭhā sari aṅkā dijjasu  puvva aṅka parabharaṇa karijjasu  // PrāPi.1.45ab
+pāvala aṅka paḍhama paridijjasu  pattharasaṅkha patākā kijjasu  // PrāPi.1.45cd [aḍillā]
 
 aha mattā mēru
-dui dui kāṭṭhā sari lihahu paḍhama aṁka tasu anta  // PrāPi.1.46ab
+dui dui kāṭṭhā sari lihahu paḍhama aṅka tasu anta  // PrāPi.1.46ab
 tasu āihi puṇa ēkka saü paḍhamē bē vi milanta  // PrāPi.1.46cd [dōhā]
 
-sira aṁkē tasu sira para aṁkē  uvarala kāṭṭa purahu ṇīsakē  // PrāPi.1.47ab
-mattāmēru aṁka sañcāri  bujjhahu bujjhahu jaṇa dui cāri  // PrāPi.1.47cd [pādākulaka]
+sira aṅkē tasu sira para aṅkē  uvarala kāṭṭa purahu ṇīsakē  // PrāPi.1.47ab
+mattāmēru aṅka sañcāri  bujjhahu bujjhahu jaṇa dui cāri  // PrāPi.1.47cd [pādākulaka]
 
 aha mattā patākā
-uddiṭṭhā sari aṁkā thappahu  vāmāvattē para lē luppahu  // PrāPi.1.48ab
+uddiṭṭhā sari aṅkā thappahu  vāmāvattē para lē luppahu  // PrāPi.1.48ab
 ēkka lōpa aïkka guru āṇahu  dui tiṇi lōpē dui tiṇi jāṇahu  // PrāPi.1.48cd
-matta patākā piṁgala gāva  jō pāvaï sō parahi milāva  // PrāPi.1.48ef [aḍillā+ pādākularka]
+matta patākā piṅgala gāva  jō pāvaï sō parahi milāva  // PrāPi.1.48ef [aḍillā+ pādākularka]
 
 aha vittassa lahuguruāṇaṁ
 pucchala chanda kalā kaī pucchala vaṇṇa miṭāva  // PrāPi.1.49ab
 avasiṭē guru jāṇiahu lahu jāṇivvaü tāva dōhā // PrāPi.1.49cd
 
-aha sakalapatthāra saṁkhā
+aha sakalapatthāra saṅkhā
 chabbīsā sattasaā taha sattāraha sahassāĩ  // PrāPi.1.50ab
 bāālīsaṁ lakkhaṁ tēraha kōḍī samaggāī50 // PrāPi.1.50cd [gāhū]
 
@@ -236,7 +236,7 @@ sōhā hariṇī cakkī sārasi kurarī sihī a haṁsīā  // PrāPi.1.61cd [ug
 paḍhamaṁ vī haṁsapaaṁ bīē sīhassa vikkama jāā  // PrāPi.1.62ab
 tīē gaavaraluliaṁ ahivaraluliaṁ caütthaē gāhā  // PrāPi.1.62cd [gāhā]
 
-ēkkē jē kulamantī bē ṇāakkēhĩ hōi saṁgahiṇī  // PrāPi.1.63ab
+ēkkē jē kulamantī bē ṇāakkēhĩ hōi saṅgahiṇī  // PrāPi.1.63ab
 ṇāakahīṇā raṁḍā vēsā bahuṇāakā hōi  // PrāPi.1.63cd [gāhā]
 
 tēraha lahuā vippī ēāīsēhiṁ khattiṇī bhaṇiā  // PrāPi.1.64ab
@@ -247,7 +247,7 @@ guvviṇiē guṇarahiā gāhā dōsaṁ paāsēi  // PrāPi.1.65cd [gāhā]
 
 aha viggāhā ।
 viggāhā paḍhama dalē sattāīsāī mattāī // PrāPi.1.66ab
-pacchima dalē ṇa tīsā ia jampia piṁgalēṇa ṇāēṇa  // PrāPi.1.66cd [viggāhā]
+pacchima dalē ṇa tīsā ia jampia piṅgalēṇa ṇāēṇa  // PrāPi.1.66cd [viggāhā]
 
 jahā
 parihara māṇiṇi māṇaṁ pakkhahi kusumāī ṇīvassa  // PrāPi.1.67ab
@@ -255,34 +255,34 @@ tumha kaē kharahiaō gaṇhaï guḍiādhaṇuṁ a kira kāmō  // PrāPi.1.67
 
 aha uggāhā
 puvvaddhē uttaddhē mattā tīsanti suhaa sambhaṇiā // PrāPi.1.68ab
-sō uggāhō vuttō piṁgala kaï diṭṭha saṭṭi mattaṁgō  // PrāPi.1.68cd [uggāhā]
+sō uggāhō vuttō piṅgala kaï diṭṭha saṭṭi mattaṅgō  // PrāPi.1.68cd [uggāhā]
 
 jahā
 sōūṇa jassa ṇāmaṁ aṁsū ṇaaṇāī sumuhi rundhati  // PrāPi.1.69ab
 bhaṇa vīra cēivaïṇō pakkhāmi muhaṁ kahaṁ jahicchaṁ sē  // PrāPi.1.69cd [uggāhā]
 
 aha gāhiṇī siṁhiṇī
-puvvaddha tīsa mattā, piṁgala pabhaṇēi muddhiṇi suṇēhi  // PrāPi.1.70ab
+puvvaddha tīsa mattā, piṅgala pabhaṇēi muddhiṇi suṇēhi  // PrāPi.1.70ab
 uttaddhē battīsā, gāhiṇi vivarīa siṁhiṇī bhaṇu saccaṁ  // PrāPi.1.70cd [gāhiṇī]
 
 gāhiṇī jahā
 muñcahi sundari pāaṁ appahi hasiūṇa sumuhi khaggaṁ mē  // PrāPi.1.71ab
-kappia mēcchaśarīraṁ pacchaḍa़ vaaṇāīṁ tumha dhua hammīrō  // PrāPi.1.71cd [gāhiṇī]
+kappia mēcchaśarīraṁ pacchaḍa vaaṇāīṁ tumha dhua hammīrō  // PrāPi.1.71cd [gāhiṇī]
 
 siṁhiṇī jahā
 varisaï kaṇaaha viḍhēi tappaï bhuaṇē diāṇisaṁ jaggantō // PrāPi.1.72ab
-ṇīsaṁka sāhasakō ṇidaï indaṁ a sūrabimbaṁ a  // PrāPi.1.72cd [siṁhiṇī]
+ṇīsaṅka sāhasakō ṇidaï indaṁ a sūrabimbaṁ a  // PrāPi.1.72cd [siṁhiṇī]
 
 aha khandhaā (atha skandhaka)
 caümattā aṭṭhagaṇā puvvaddhē uttaraddha hōi samarūā  // PrāPi.1.73ab
-sā khandhaā viāṇahu piṁgala pabhaṇēi muddhi bahusambhēā  // PrāPi.1.73cd [khandhaā]
+sā khandhaā viāṇahu piṅgala pabhaṇēi muddhi bahusambhēā  // PrāPi.1.73cd [khandhaā]
 
 jahā
 jaṁ jaṁ āṇēi giri raïrahacakkaparighaṭṭaṇasahaṁ haṇuā  // PrāPi.1.74ab
 taṁ taṁ līlāi ṇalō vāmakaratthaṁhiaṁ raēi samuddē  // PrāPi.1.74cd [skandhaka]
 
-ṇandaü bhaddaü sēsa saraṁga, siva bambha vāraṇa varuṇa  // PrāPi.1.75ab
-ṇīlu maaṇa tālaṁka sēharu, saru gaaṇu sarahu vimaï  // PrāPi.1.75cd
+ṇandaü bhaddaü sēsa saraṅga, siva bambha vāraṇa varuṇa  // PrāPi.1.75ab
+ṇīlu maaṇa tālaṅka sēharu, saru gaaṇu sarahu vimaï  // PrāPi.1.75cd
 khīra ṇaaru ṇaru ṇiddha ṇēhalu  // PrāPi.1.75ef
 maagalu bhōalu suddha sari, kumbha kalasa sasi jāṇa  // PrāPi.1.75gh
 sarahasēsasasahara muṇahu sattāisa khandhāṇa  // PrāPi.1.75ij [rājasēnā]
@@ -312,7 +312,7 @@ chabbīsakkhara bhamara hō guru bāisa lahu cāri  // PrāPi.1.41ab
 guru ṭuṭṭaï bē lahu vaḍhaï taṁ taṁ ṇāma viāri  // PrāPi.1.41cd [dōhā]
 
 jahā
-jā addhaṁgē pavvaī, sīsē gaṁgā jāsu  // PrāPi.1.82ab
+jā addhaṅgē pavvaī, sīsē gaṅgā jāsu  // PrāPi.1.82ab
 jō dēāṇaṁ vallahō, vandē pāaṁ tāsu  // PrāPi.1.82cd [dōhā-bhramara]
 
 bāraha lahuā vippī, taha bāīsēhiṁ khattiṇī bhaṇiā  // PrāPi.1.83ab
@@ -333,33 +333,33 @@ vimuha calia raṇa acalu, pariharia haagaavalu // PrāPi.1.87ab
 halahalia malaaṇivaï, jasu jasa tihuaṇa piaï // PrāPi.1.87cd
 varaṇasi ṇakhaï lulia, saala uvari jasu phulia  // PrāPi.1.87ef [rasikā]
 
-āikavva ukkaccha, kiu lōhaṁgiṇi maha sāru  // PrāPi.1.88ab
+āikavva ukkaccha, kiu lōhaṅgiṇi maha sāru  // PrāPi.1.88ab
 guru vaḍḍaï bi bi lahu ghaṭaï, taṁ taṁ ṇāma viāru  // PrāPi.1.88cd [dōhā]
 
-lōhaṁgiṇi haṁsīā, rēhā tālaṁki kampi gambhīrā  // PrāPi.1.89ab
+lōhaṅgiṇi haṁsīā, rēhā tālaṅki kampi gambhīrā  // PrāPi.1.89ab
 kālī kalarudāṇī ukkacchā aṭṭha ṇāmāī  // PrāPi.1.89cd [gāhā]
 
-lōhaṁgiṇi savva lahū jattha guru ēkka sā haṁsī  // PrāPi.1.90ab
+lōhaṅgiṇi savva lahū jattha guru ēkka sā haṁsī  // PrāPi.1.90ab
 jaṁ jaṁ vaḍḍaï hārō ṇāmaṁ jō jattha sō tattha [iti ukkacchā] // PrāPi.1.90cd [gāhū]
 
 aha rōlā
-paḍhama hōi caüvīsa matta antara guru juttē, piṁgala hām̐tē sēsa ṇāa taṇhi rōlā uttē  // PrāPi.1.91ab
+paḍhama hōi caüvīsa matta antara guru juttē, piṅgala hām̐tē sēsa ṇāa taṇhi rōlā uttē  // PrāPi.1.91ab
 ēggārāhā hārā rōlā chandō jujjaï, ēkkē ēkkē ṭuṭṭaï aṇṇō aṇṇō vaḍḍaï  // PrāPi.1.91cd [rōlā]
 
 jahā
 paabharu daramaru dharaṇi taraṇiraha dhullia jhampia, kamaṭhapiṭṭha ṭaraparia mēru mandara sira kampia  // PrāPi.1.92ab
 kōha calia hammīravīra gaajūha sam̐juttē, kiaü kaṭṭha hākanda mucchi, mēcchahakē puttē  // PrāPi.1.92cd [rōlā]
 
-kunda karaala mēha tālaṁka, kalarudda kōila kamalu  // PrāPi.1.93ab
+kunda karaala mēha tālaṅka, kalarudda kōila kamalu  // PrāPi.1.93ab
 indu sambhu cāmaru gaṇēsaru, sahasakkhō sēsa bhaṇa  // PrāPi.1.93cd
 ṇāarāa jampaï phaṇīsaru  // PrāPi.1.93ef
-tēraha akkhara jaṁ palaï, iggāraha vaṁkēhĩ  // PrāPi.1.93gh
+tēraha akkhara jaṁ palaï, iggāraha vaṅkēhĩ  // PrāPi.1.93gh
 akkhara akkhara jaṁ vaḍhaï, taṁ taṁ ṇāma kuṇēhi [iti rōlā] // PrāPi.1.93ij [raḍḍā]
 
 aha gandhāṇa
 dahasatta vaṇṇa paḍhama paa bhaṇaha suaṇā // PrāPi.1.94ab
 taha bīaṁmi aṭṭhārahahiṁ jamaa jua caraṇā  // PrāPi.1.94cd
-ērisi a bīa dala kuṇahu bhaṇaï piṁgalō // PrāPi.1.94ef
+ērisi a bīa dala kuṇahu bhaṇaï piṅgalō // PrāPi.1.94ef
 gandhāṇā ṇāma rūaü hō paṁḍiajaṇacittaharō  // PrāPi.1.94gh [gandhāṇa]
 
 dahasattakkhara saṁṭhavahu paḍhamacaraṇa gandhāṇa  // PrāPi.1.95ab
@@ -375,16 +375,16 @@ aha caüpaïyā
 caüpaïā chandā bhaṇaï phaṇindā, caümattā gaṇa sattā  // PrāPi.1.97ab
 pāēhi saguru kari tīsa matta dhari, caü saa asi a ṇiruttā  // PrāPi.1.97cd
 caü chanda lavijjaï ēkku ṇa kijjaï, kō jāṇaï ēhu bhēū  // PrāPi.1.97ef
-kaḍa़ piṁgala bhāsaï chanda paāsaï miaṇaaṇi amia ēhū  // PrāPi.1.97gh [caüpaïā]
+kaḍa piṅgala bhāsaï chanda paāsaï miaṇaaṇi amia ēhū  // PrāPi.1.97gh [caüpaïā]
 
 jahā
-jasu sīsahi gaṁgā gōri adhaṁgā giva pahiria phaṇihārā  // PrāPi.1.98ab
+jasu sīsahi gaṅgā gōri adhaṅgā giva pahiria phaṇihārā  // PrāPi.1.98ab
 kaṁṭhaṭṭia vīsā pindhaṇa dīsā santāria saṁsārā  // PrāPi.1.98cd
 kiraṇāvalikandā vandia candā ṇaaṇahi aṇala phurantā  // PrāPi.1.98ef
 sō sampaa dijjaü bahu suha kijjaü tumha bhavāṇīkantā  // PrāPi.1.98gh [caüpaïā]
 
 aha ghattā
-piṁgala kaī diṭṭhaü chanda ukiṭṭhaü ghatta matta bāsaṭṭi kari  // PrāPi.1.99ab
+piṅgala kaī diṭṭhaü chanda ukiṭṭhaü ghatta matta bāsaṭṭi kari  // PrāPi.1.99ab
 caümatta satta gaṇa bē vipāa bhaṇa tiṇṇi tiṇi lahu anta dhari  // PrāPi.1.99cd [ghattā]
 
 paḍhamaṁ daha bīsāmō bīē mattāĩ aṭṭhāī // PrāPi.1.100ab
@@ -392,10 +392,10 @@ tīē tēraha viraī ghattā mattāī bāsaṭṭhi  // PrāPi.1.100cd [gāhā]
 
 jahā
 raṇadakkha dakkhahaṇu jiṇṇa kusumadhaṇu andhaagandhaviṇāsakaru  // PrāPi.1.101ab
-sō rakkhaü saṁkaru asurabhaaṁkaru gōri ṇāri addhaṁga dharu  // PrāPi.1.101cd [ghattā]
+sō rakkhaü saṅkaru asurabhaaṅkaru gōri ṇāri addhaṅga dharu  // PrāPi.1.101cd [ghattā]
 
 aha ghattānanda
-sō ghattaha kulasāra kitti apāru ṇāarāa piṁgala kahaï  // PrāPi.1.102ab
+sō ghattaha kulasāra kitti apāru ṇāarāa piṅgala kahaï  // PrāPi.1.102ab
 ēāraha vīsāma ṇandaü ṇāma puṇu vi satta tēraha viraï  // PrāPi.1.102cd [ghattā]
 
 uḍḍuuṇahapaha bhamaü khagga riusīsahi jhallaü  // PrāPi.1.103ab
@@ -404,8 +404,8 @@ hammīrakajju jajjala bhaṇaha kōhāṇalamaha maï jalaü  // PrāPi.1.103ef
 sulatāṇa sīsa karavāla daï tajji kalēvara dia calaü  // PrāPi.1.103gh [chappaya]
 
 jahā
-jō vandia sira gaṁga haṇia aṇaṁga addhaṁgahi parikara dharaṇu  // PrāPi.1.104ab
-sō jōī jaṇamitta haraü duritta saṁkāharu saṁkaracaraṇu  // PrāPi.1.104cd [dhattāṇanda]
+jō vandia sira gaṅga haṇia aṇaṅga addhaṅgahi parikara dharaṇu  // PrāPi.1.104ab
+sō jōī jaṇamitta haraü duritta saṅkāharu saṅkaracaraṇu  // PrāPi.1.104cd [dhattāṇanda]
 
 aha chappaü
 chappaa chanda chaïla suṇahu akkharasañjuttaü  // PrāPi.1.105ab
@@ -433,13 +433,13 @@ chappaa chanda ērisi vi hōi kāĩ ganthi ganthi vi maraha  // PrāPi.1.107kl [
 jahā
 jahā saraa sasi bimba jahā harahāra haṁsa ṭhia  // PrāPi.1.108ab
 jahā phula sia kamala jahā sirikhaṁḍa khaṁḍa kia // PrāPi.1.108cd
-jahā gaṁga kallōla jahā rōsāṇia ruppaï  // PrāPi.1.108ef
+jahā gaṅga kallōla jahā rōsāṇia ruppaï  // PrāPi.1.108ef
 jahā duddhavara suddha phēṇa phamphāi talapphaï  // PrāPi.1.108gh
 pia pāa pasāē diṭṭhi puṇu ṇihua hasaï jaha taruṇijaṇa  // PrāPi.1.108ij
 varamanti caṁḍasara kitti tua tattha dēkkha haribambha bhaṇa  // PrāPi.1.108kl [chappaya]
 
 aha kavva lakkhaṇa
-āi anta duhu chakkalaü tiṇṇi turaṁgama majjha  // PrāPi.1.109ab
+āi anta duhu chakkalaü tiṇṇi turaṅgama majjha  // PrāPi.1.109ab
 tīē jagaṇu ki vippagaṇu kavvaha lakkhaṇa bujjha  // PrāPi.1.109cd [dōhā]
 
 caü aggala cālīsa guru ēkkakkē guru lēhu  // PrāPi.1.110ab
@@ -451,28 +451,28 @@ jasu kara phaṇivaï valaa taruṇivara taṇumaha vilasaï  // PrāPi.1.111ab
 surasari siramaha rahaï saalajaṇa durita damaṇa kara  // PrāPi.1.111ef
 hasi sasihara hara duria vihara hara atula abhaavara  // PrāPi.1.111gh [sakka]
 
-jaha jaha valaā vaḍḍihaḍa़ taha taha ṇāma kuṇēhu  // PrāPi.1.112ab
-sambhuhi saüm̐ bhaṇa bhiṁgagaṇa caüālīsa muṇēhu  // PrāPi.1.112cd [dōhā]
+jaha jaha valaā vaḍḍihaḍa taha taha ṇāma kuṇēhu  // PrāPi.1.112ab
+sambhuhi saüm̐ bhaṇa bhiṅgagaṇa caüālīsa muṇēhu  // PrāPi.1.112cd [dōhā]
 
 tā sakkō sambhō sūrō gaṁḍō khandhō vijaō dappō // PrāPi.1.113ab
-tālaṁkō samarō sīhō sīsō uttēō paḍivakkhō  // PrāPi.1.113cd
+tālaṅkō samarō sīhō sīsō uttēō paḍivakkhō  // PrāPi.1.113cd
 paridhamma marālu maïndō daṁḍō makkalu maaṇu marahō // PrāPi.1.113ef
 vāsantō kaṁṭhō mōrō bandhō bhamarō bhiṇṇamaraṭṭhō  // PrāPi.1.113gh
 
 valahadō rāō valiō mōhō santhāṇō bali mēhō // PrāPi.1.114ab
 sahasakkhō bālō dariō sarahō dambhō'hō udambhō  // PrāPi.1.114cd
-valiaṁkō turaō hariṇō andhō muddhīē taha bhiṁgō // PrāPi.1.114ef
-vatthūā ṇāmō piṁgalaṇāō jampaï chandapabandhō  // PrāPi.1.114gh [caüpaïā]
+valiaṅkō turaō hariṇō andhō muddhīē taha bhiṅgō // PrāPi.1.114ef
+vatthūā ṇāmō piṅgalaṇāō jampaï chandapabandhō  // PrāPi.1.114gh [caüpaïā]
 
 pacatālīsaha vatthuā chandē chanda viambha  // PrāPi.1.115ab
-addhā kaï piṁgala kahaï calaï ṇa harihara bambha  // PrāPi.1.115cd [dōhā]
+addhā kaï piṅgala kahaï calaï ṇa harihara bambha  // PrāPi.1.115cd [dōhā]
 
-paaha asuddhaü paṁguhīṇa khōḍaü paṇijjaï // PrāPi.1.116ab
+paaha asuddhaü paṅguhīṇa khōḍaü paṇijjaï // PrāPi.1.116ab
 mattaggala vāulaü suṇṇakala kaṇṇa suṇijjaï  // PrāPi.1.116cd
-jhalavajjia taha bahira andha laṁkāraha rahiaü // PrāPi.1.116ef
+jhalavajjia taha bahira andha laṅkāraha rahiaü // PrāPi.1.116ef
 vulaü chanda uṭṭavaṇa attha viṇu dubbala kahiaü  // PrāPi.1.116gh
 ḍēraü haṭṭakkharahiṁ hōi kāṇā guṇa savvahĩ rahia  // PrāPi.1.116ij
-savvaṁgasuddha samarūaguṇa chappaa dōsa piṁgalu kahia  // PrāPi.1.116kl [chappaa]
+savvaṅgasuddha samarūaguṇa chappaa dōsa piṅgalu kahia  // PrāPi.1.116kl [chappaa]
 
 vippa hōi battīsa khatti bēāla kahijjasu  // PrāPi.1.117ab
 aṭhatālisa lahu vēsa sēsa suddaü salahijjasu  // PrāPi.1.117cd
@@ -482,14 +482,14 @@ chahabisa ullālahi ēkka kaï biṇṇi pāa chappaa muṇahu  // PrāPi.1.117i
 samavaṇṇa sarisa samadōsaguṇa ṇāma aïhattari pari muṇahu [chappa // PrāPi.1.117kl
 
 aha ullāla lakkhaṇa
-tiṇṇi turaṁgama tiala taha chaha caütia taha anta  // PrāPi.1.118ab
+tiṇṇi turaṅgama tiala taha chaha caütia taha anta  // PrāPi.1.118ab
 aïma ullālā uṭṭavahu bihu dala chappaṇa manta  // PrāPi.1.118cd [dōhā]
 
 jahā
-jāā jā addhaṁga sīsa gaṁgā lōlantī // PrāPi.1.119ab
+jāā jā addhaṅga sīsa gaṅgā lōlantī // PrāPi.1.119ab
 savvāhā pūranti savva dukkhā tōlantī  // PrāPi.1.119cd
 ṇāā rāā hāra dīsa vāsā bhāsantā // PrāPi.1.119ef
-vēālā jā saṁga ṇacca duṭṭhā ṇāsantā  // PrāPi.1.119gh
+vēālā jā saṅga ṇacca duṭṭhā ṇāsantā  // PrāPi.1.119gh
 ṇācantā kantā ucchavvē tālē bhūmī kampalē  // PrāPi.1.119ij
 jā diḍhē mōkkhā pāvijjē sō tumhāṇaṁ sukkha dē  // PrāPi.1.119kl [chappaa]
 
@@ -501,17 +501,17 @@ ajaa bēāsī akkharaü guru sattari ravirēha  // PrāPi.1.121ab
 ēkkakkhara vaḍha guru ghaṭaï dudui lahuā dēha  // PrāPi.1.121cd [dōhā]
 
 ajaa vijaü bali kaṇṇa vīra bēāla vihaṇṇaru // PrāPi.1.122ab
-makkalu hari hara bambha indu candaṇa susuhaṁkaru  // PrāPi.1.122cd
+makkalu hari hara bambha indu candaṇa susuhaṅkaru  // PrāPi.1.122cd
 sāṇa sīha sadūla kumma kōila khara kuñjaru // PrāPi.1.122ef
-maaṇa maccha tālaṁka sēsa sāraṁga paōharu  // PrāPi.1.122gh
-tā kunda kamalu vāraṇa bhasala sarahu jaṁgama sara bi lahaï  // PrāPi.1.122ij
-susaru samaru sārasu saraa chappaa ṇāma piṁgalu kaï  // PrāPi.1.122kl
+maaṇa maccha tālaṅka sēsa sāraṅga paōharu  // PrāPi.1.122gh
+tā kunda kamalu vāraṇa bhasala sarahu jaṅgama sara bi lahaï  // PrāPi.1.122ij
+susaru samaru sārasu saraa chappaa ṇāma piṅgalu kaï  // PrāPi.1.122kl
 
 mēru maaru maa siddhi buddhi karaalu kamalāaru // PrāPi.1.123ab
 dhavala maṇaü dhua kaṇaü kisaṇu rañjaṇu mēhāaru  // PrāPi.1.123cd
-gimha garuḍa sasi sūra salla ṇavaraṁga maṇōharu // PrāPi.1.123ef
+gimha garuḍa sasi sūra salla ṇavaraṅga maṇōharu // PrāPi.1.123ef
 gaaṇu raaṇu ṇaru hīru bhamaru sēharu kusumāaru // PrāPi.1.123gh
-tā dippu saṁkha vasu sadda muṇi ṇāarāa piṁgalu kahaï  // PrāPi.1.123ij
+tā dippu saṅkha vasu sadda muṇi ṇāarāa piṅgalu kahaï  // PrāPi.1.123ij
 chappaa ṇāma ēhattarihi chanda āra patthari lahaï  // PrāPi.1.123kl
 
 jattē savvahi hōi lahu addha visajjahu tāma  // PrāPi.1.124ab
@@ -539,14 +539,14 @@ sukaï pharṇidaha kaṁṭhaha vala, sōlahamattaṁ pāākulaaṁ  // PrāPi.
 
 jahā
 sēra ēka jaï pāvaüm̐ dhittā, maṁḍā vīsa pakāvaüm̐ ṇittā  // PrāPi.1.130ab
-ṭaṁku ēka jaü saïndhava pāā, jō haü raṁka sōi haü rāā  // PrāPi.1.130cd [pādākulaka]
+ṭaṅku ēka jaü saïndhava pāā, jō haü raṅka sōi haü rāā  // PrāPi.1.130cd [pādākulaka]
 
 caübōlā chanda
 sōlaha mattaha bē vi pamāṇahu, bīa caütthahĩ cāridahā  // PrāPi.1.131ab
 mattaha saṭṭhi samaggala jāṇahu, cāri paā caübōla kahā  // PrāPi.1.131cd
 
 jahā
-rē dhaṇi mattamaaṁgaagāmiṇi, khañjaṇalōaṇi candamuhī  // PrāPi.1.132ab
+rē dhaṇi mattamaaṅgaagāmiṇi, khañjaṇalōaṇi candamuhī  // PrāPi.1.132ab
 cañcala juvvaṇa jāta ṇa jāṇahi, chaïla samappaï kāī ṇahī  // PrāPi.1.132cd [caübōlā]
 
 paa bīa bāraha ṭhavahu
@@ -560,7 +560,7 @@ visama tikala saṁṭhavahu tiṇṇi pāikka karahu laï // PrāPi.1.134ab
 anta ṇarinda ki vippa paḍhama bē matta avara paï  // PrāPi.1.134cd
 samapaa tia pāikka savvalahu anta visajjahu // PrāPi.1.134ef
 caüṭhā caraṇa vicāri ēka lahu kahia lijjahu  // PrāPi.1.134gh
-ima pañca pāa uṭṭavaṇa kaï vatthu ṇāma piṁgala kuṇaï  // PrāPi.1.134ij
+ima pañca pāa uṭṭavaṇa kaï vatthu ṇāma piṅgala kuṇaï  // PrāPi.1.134ij
 ṭhavi dōsahīṇa dōhā caraṇa rāasēṇa raḍḍaha bhaṇaï  // PrāPi.1.134kl
 
 jahā
@@ -571,7 +571,7 @@ citta maṇōbhavasara haṇaï, dūra digantara kanta  // PrāPi.1.135gh
 kima pari appaü vārihaü, ima paripalia duranta  // PrāPi.1.135ij [rājasēnā]
 
 karahī ṇandā mōhiṇī cārusēṇi taha bhadda  // PrāPi.1.136ab
-rāasēṇa tālaṁka pia satta vatthu ṇipphanda  // PrāPi.1.136cd
+rāasēṇa tālaṅka pia satta vatthu ṇipphanda  // PrāPi.1.136cd
 
 paḍhama tīa pañcama paaha tēraha mattā jāsu  // PrāPi.1.137ab
 bīa caüttha ēgārahahĩ karahi bhaṇijjaï tāsu  // PrāPi.1.137cd
@@ -596,9 +596,9 @@ rājasēnā lakṣaṇa]
 paḍhama tīa pañcama paaha matta paṇṇaraha pajattha  // PrāPi.1.142ab
 sama bāraha aru ēkkadaha rāasēṇu bhaṇu tattha  // PrāPi.1.142cd
 
-[tālaṁkinī lakṣaṇa]
+[tālaṅkinī lakṣaṇa]
 paḍhama tīa pañcama paaha mattā sōlaha jāsu  // PrāPi.1.143ab
-sama bāraha aru ēkkadaha tālaṁkiṇi bhaṇu tāsu  // PrāPi.1.143cd [iti raḍḍā prakaraṇam]
+sama bāraha aru ēkkadaha tālaṅkiṇi bhaṇu tāsu  // PrāPi.1.143cd [iti raḍḍā prakaraṇam]
 
 (padmāvatī chandaḥ)
 bhaṇu paümāvattī ṭhāṇaṁ ṭhāṇaṁ caümattā gaṇa aṭṭhāā // PrāPi.1.144ab
@@ -607,7 +607,7 @@ jaï palaï paōhara kimaï maṇōhara pīḍaï taha ṇāakkaguṇō  // Prā
 piaraha santāsaï kaï uvvāsaï ia caṁḍālacaritta gaṇē  // PrāPi.1.144gh
 
 jahā
-bhaa bhajjia vaṁgā bhaṁgu kaliṁgā tēlaṁgā raṇa mukki calē  // PrāPi.1.145ab
+bhaa bhajjia vaṅgā bhaṅgu kaliṅgā tēlaṅgā raṇa mukki calē  // PrāPi.1.145ab
 marahaṭṭhā dhiṭṭhā laggia kaṭṭhā sōhā bhaa pāa palē  // PrāPi.1.145cd
 campāraṇa kampā pavvaa jhampā ātthā ātthī jīva harē  // PrāPi.1.145ef
 kāsīsara rāṇā kiaü paāṇā vijjāhara bhaṇa mantivarē  // PrāPi.1.145gh
@@ -628,19 +628,19 @@ diga maga ṇaha andhāra dhūli sūraha raha jhampaï  // PrāPi.1.147gh
 diga maga ṇaha andhāra āṇa khurasāṇaka āllā  // PrāPi.1.147ij
 daramari damasi vipakkha māru, ḍhillī maham̐ ḍhāllā  // PrāPi.1.147kl [kuṁḍaliyā]
 
-[atha gaganāṁgacchandaḥ]
-paa paa ṭhavahu jāṇi gaaṇaṁgaü matta vihūsiṇā // PrāPi.1.149ab
+[atha gaganāṅgacchandaḥ]
+paa paa ṭhavahu jāṇi gaaṇaṅgaü matta vihūsiṇā // PrāPi.1.149ab
 bhāaü bīsa kalaa saraaggala lahu gurusēsiṇā  // PrāPi.1.149cd
 paḍhamahi matta cāri gaṇa kijjahu gaṇaha paāsiō // PrāPi.1.149ef
 bīsakkhara saala paaha pia guru anta paāsiō  // PrāPi.1.149gh
 
 paḍhamahi cakkalu hōi gaṇa antahi dijjahu hāru  // PrāPi.1.150ab
-bīsakkhara gaaṇaṁga bhaṇu matta pacīsa viāru  // PrāPi.1.150cd
+bīsakkhara gaaṇaṅga bhaṇu matta pacīsa viāru  // PrāPi.1.150cd
 
 jahā
 bhañjia malaa cōlavaï ṇipalia gañjia guñjarā // PrāPi.1.151ab
 mālavarāa malaagiri lukkia parihari kuñjarā  // PrāPi.1.151cd
-khurāsāṇa khuhia raṇa maham̐ laṁghia muhia sāarā // PrāPi.1.151ef
+khurāsāṇa khuhia raṇa maham̐ laṅghia muhia sāarā // PrāPi.1.151ef
 hammīra calia hārava palia riugaṇaha kāarā  // PrāPi.1.151gh
 
 [atha dvipadīchandaḥ]
@@ -651,7 +651,7 @@ sarasaï laïa pasāu taha puhavī karahi kaïtta kaïaṇā // PrāPi.1.153ab
 mahuaracaraṇa anta laï dijjahu dōaï muṇahu buhaaṇā  // PrāPi.1.153cd
 
 chakkalu muha saṁṭhāvi kaï cakkalu pañca ṭhavēhu  // PrāPi.1.154ab
-antahi ēkkaḍa़ hāra daï dōaï chanda kahēhu  // PrāPi.1.154cd
+antahi ēkkaḍa hāra daï dōaï chanda kahēhu  // PrāPi.1.154cd
 
 jahā
 dāṇava dēva bē vi dukkantaü girivara sihara kampiō // PrāPi.1.155ab
@@ -696,7 +696,7 @@ malaagiri kuhara dhari pavaṇa vaha, sahava kaha suṇa sahi ṇiala ṇahi kan
 [mālā chanda]
 paḍhama caraṇa sasivaaṇi miaṇaaṇi ṇava diagaṇa // PrāPi.1.164ab
 paala puṇa vi taha raaṇa ṭhavahu antaē kaṇṇō  // PrāPi.1.164cd
-piṁgala ṇāa bhaṇantā mālā sēsaṁ pi gāhamma  // PrāPi.1.164ef
+piṅgala ṇāa bhaṇantā mālā sēsaṁ pi gāhamma  // PrāPi.1.164ef
 
 paḍhama hōi ṇava vippagaṇa jōhala kaṇṇa ṭhavēhu  // PrāPi.1.165ab
 gāhā addhā anta daï mālā chanda kahēhu  // PrāPi.1.165cd
@@ -710,7 +710,7 @@ pattharavittharahialā pialā ṇialaṁ ṇa āvēi  // PrāPi.1.166ef [mālā]
 culiālā jaï dēha kimu dōhā uppara mattaha pañcaï  // PrāPi.1.167ab
 paa paa uppara saṁṭhavahu suddha kusumagaṇa antaha dijjaï  // PrāPi.1.167cd
 
-dōhā saṁkhā saṁṭhahu umpari pañcaï matta  // PrāPi.1.168ab
+dōhā saṅkhā saṁṭhahu umpari pañcaï matta  // PrāPi.1.168ab
 aṭṭhadahuppari bīsa dui culiālā ukkhitta  // PrāPi.1.168cd
 
 jahā
@@ -719,7 +719,7 @@ jīvaṇa cāhasi mukkha jaï pariharu ghara jaï bahuguṇajuttaü [culiālā /
 
 [atha sōṭuā chandaḥ ]
 sō sōraṭṭhaü jāṇa, jaṁ dōhā viparīa ṭhia  // PrāPi.1.170ab
-paa paa jamaka vakhāṇa, ṇāarāa piṁgala kahia  // PrāPi.1.170cd
+paa paa jamaka vakhāṇa, ṇāarāa piṅgala kahia  // PrāPi.1.170cd
 
 jahā
 sō māṇia puṇavanta, jāsu bhatta paṁḍia taṇaa  // PrāPi.1.171ab
@@ -727,7 +727,7 @@ jāsu ghariṇi guṇavanti, sō vi puhavi saggaha ṇilaa  // PrāPi.1.171cd [s
 
 [atha hākali chandaḥ]
 sagaṇā bhagaṇā diagaṇaī, matta caüddaha paa palaī  // PrāPi.1.172ab
-saṁṭhaï vaṁkō viraha tahā hākali rūaü ēhu kahā  // PrāPi.1.172cd
+saṁṭhaï vaṅkō viraha tahā hākali rūaü ēhu kahā  // PrāPi.1.172cd
 
 matta caüddaha paḍhama dala ēāraha vaṇṇēhi  // PrāPi.1.173ab
 duha akkhara uttara dalahi hākali chanda kahēhi  // PrāPi.1.173cd [dōhā]
@@ -746,7 +746,7 @@ sō sambhu ēu tuha subbha dēu  // PrāPi.1.176cd [madhubhāra]
 
 [atha ābhīracchandaḥ]
 gāraha matta karīja anta paōhara dīja // PrāPi.1.177ab
-ēhu suchanda ahīra jaṁghaï piṁgala vīra  // PrāPi.1.177cd
+ēhu suchanda ahīra jaṅghaï piṅgala vīra  // PrāPi.1.177cd
 
 jahā
 sundari gujjari ṇāri lōaṇa dīha visāri  // PrāPi.1.178ab
@@ -756,12 +756,12 @@ pīṇa paōharabhāra lōlaï mōttiahāra  // PrāPi.1.178cd [ahīra]
 kuntaaru dhaṇuddharu haavaru chakkalu bi bi pāikka dalē // PrāPi.1.179ab
 battīsaha mattaha paa supasiddhaü jāṇaha buhaaṇa hiaatalē  // PrāPi.1.179cd
 saübīsa aṭhaggala kala sampuṇṇaü rūaü phaṇi bhāsia bhuaṇē // PrāPi.1.179ef
-daṁḍaala ṇiruttaü guru sañjuttaü piṁgala aṁ japanta maṇē  // PrāPi.1.179gh
+daṁḍaala ṇiruttaü guru sañjuttaü piṅgala aṁ japanta maṇē  // PrāPi.1.179gh
 
 jahā
 rāaha bhaggantā dia laggantā parihari haa gaa ghara ghariṇī // PrāPi.1.180ab
 lōrahĩ bharu saravaru paa paru parikaru lōṭṭaī piṭṭaï taṇu dharaṇī  // PrāPi.1.180cd
-puṇu uṭṭhaï sambhali kara dantaṁguli bāla taṇaa kara jamala karē // PrāPi.1.180ef
+puṇu uṭṭhaï sambhali kara dantaṅguli bāla taṇaa kara jamala karē // PrāPi.1.180ef
 kāsīsara rāā ṇēhalu kāā karu māā puṇu thappi dharē  // PrāPi.1.180gh [daṁḍakala]
 
 sira dēha caü matta, lahu ēka kara anta  // PrāPi.1.181ab
@@ -782,19 +782,19 @@ jahā
 haṇu ujjara gujjara rāabalaṁ, dala dalia calia marahaṭṭhabalaṁ  // PrāPi.1.185ab
 bala mōlia mālavarāakulā, kula ujjala kalaculi kaṇṇa phulā  // PrāPi.1.185cd [siṁhāvalōka]
 
-[atha plavaṁgamacchandaḥ]
+[atha plavaṅgamacchandaḥ]
 jattha paḍhama chaa matta paappaa dijjaē, pañcamatta caümatta gaṇā ṇahi kijjaē // PrāPi.1.186ab
-sambhali anta lahū guru ēkkaka cāhaē, muddhi paaṁgama chanda viakkhaṇa sōhaē  // PrāPi.1.186cd
+sambhali anta lahū guru ēkkaka cāhaē, muddhi paaṅgama chanda viakkhaṇa sōhaē  // PrāPi.1.186cd
 
-paa paa āihi guruā piṁgala pabhaṇēi saala ṇibbhantī  // PrāPi.1.187ab
-chanda pavaṁgama diṭṭhō mattāṇaṁ ēkabīsantī  // PrāPi.1.187cd [gāhā]
+paa paa āihi guruā piṅgala pabhaṇēi saala ṇibbhantī  // PrāPi.1.187ab
+chanda pavaṅgama diṭṭhō mattāṇaṁ ēkabīsantī  // PrāPi.1.187cd [gāhā]
 
 tikkalu caükala pañcakala tia gaṇa dūra karēhu  // PrāPi.1.187aab
 chakkalu tiṇi palanta jēhi lahu guru anta muṇēhu 187 kā // PrāPi.1.187acd [dōhā]
 
 jahā
 ṇaccaï cañcala vijjuliā sahi jāṇaē, mammaha khagga kiṇīsaï jalaharasāṇaē  // PrāPi.1.188ab
-phulla kalambaa ambara ḍambara dīsaē, pāusa pāu ghaṇāghaṇa sumuhi varīsaē  // PrāPi.1.188cd [plavaṁgama]
+phulla kalambaa ambara ḍambara dīsaē, pāusa pāu ghaṇāghaṇa sumuhi varīsaē  // PrāPi.1.188cd [plavaṅgama]
 
 [atha līlāvatīcchandaḥ]
 guru lahu ṇahi ṇimma ṇimma ṇahi akkhara palaï paōhara visama samaṁ // PrāPi.1.189ab
@@ -811,11 +811,11 @@ mahi lāi paṭṭaï riusira ṭuṭṭaï jakkhaṇa vīra hamīra calē  // P
 [atha harigītā chandaḥ]
 gaṇa cāri pañcakkala ṭhavijjasu bīa ṭhāmahi chakkalō // PrāPi.1.191ab
 paa paaha antahi guru karijjasu vaṇṇaṇēṇa susavvalō  // PrāPi.1.191cd
-daha cāri dukkaḍa़ dahadu māṇahu matta ṭhāisa pāaō // PrāPi.1.191ef
-harigīa chanda pasiddha jāṇahu piṁgalēṇa paāsiō  // PrāPi.1.191gh
+daha cāri dukkaḍa dahadu māṇahu matta ṭhāisa pāaō // PrāPi.1.191ef
+harigīa chanda pasiddha jāṇahu piṅgalēṇa paāsiō  // PrāPi.1.191gh
 
 bīē chakkalu ṭhāvi kahu cāri pañcakkala dēhu  // PrāPi.1.192ab
-bāraha uttara matta saü māṇasu aṁga ṭhavēhu  // PrāPi.1.192cd
+bāraha uttara matta saü māṇasu aṅga ṭhavēhu  // PrāPi.1.192cd
 
 jahā
 gaa gaahi dukkia taraṇi lukkia turaa turaahi jujjhiā // PrāPi.1.193ab
@@ -823,17 +823,17 @@ raha rahahi mīlia dharaṇi pīḍia appa para ṇahi bujjhiā  // PrāPi.1.193
 bala milia āia patti dhāiu kampa girivarasīharā // PrāPi.1.193ef
 ucchalaï sāara dīṇa kāara vaïra vaḍḍia dīharā  // PrāPi.1.193gh [harigītā]
 
-[atha tribhaṁgī chanda]
+[atha tribhaṅgī chanda]
 paḍhamaṁ daha rahaṇaṁ aṭṭhavi rahaṇaṁ puṇu vasu rahaṇaṁ rasarahaṇaṁ // PrāPi.1.194ab
 antē guru sōhaï mahiala mōhaï siddha sarāhaï varataruṇaṁ  // PrāPi.1.194cd
 jaï palaï paōhara kimaï maṇōhara haraï kalēvara tāsu kaī // PrāPi.1.194ef
-tibbhaṁgī chandaṁ sukkhāṇandaṁ bhaṇaï pharṇidō vimalamaī  // PrāPi.1.194gh
+tibbhaṅgī chandaṁ sukkhāṇandaṁ bhaṇaï pharṇidō vimalamaī  // PrāPi.1.194gh
 
 jahāṁ
-sira kijjia gaṁgaṁ gōri adhaṁgaṁ haṇiaaṇaṁgaṁ puradahaṇaṁ // PrāPi.1.195ab
+sira kijjia gaṅgaṁ gōri adhaṅgaṁ haṇiaaṇaṅgaṁ puradahaṇaṁ // PrāPi.1.195ab
 kiaphaṇivaïhāraṁ tihuaṇasāraṁ vandiachāraṁ riumahaṇaṁ  // PrāPi.1.195cd
 surasēviacaraṇaṁ muṇigaṇasaraṇaṁ bhavabhaaharaṇaṁ sūladharaṁ // PrāPi.1.195ef
-sāṇandiavaaṇaṁ sundaraṇaaṇaṁ girivarasaaṇaṁ ṇamaha haraṁ  // PrāPi.1.195gh [tribhaṁgī]
+sāṇandiavaaṇaṁ sundaraṇaaṇaṁ girivarasaaṇaṁ ṇamaha haraṁ  // PrāPi.1.195gh [tribhaṅgī]
 
 [atha durmilā chandaḥ]
 tīsa dui mattaha ēri sam̐juttaha buhaaṇa rāa bhaṇanti ṇarā // PrāPi.1.196ab
@@ -848,7 +848,7 @@ jahā
 jaï kijjia dhālā jiṇṇu ṇivālā bhāṭuntā piṭṭēta calē // PrāPi.1.198ab
 bhañjāvia cīṇā dapyahi hīṇā lōhāvala hākanda palē  // PrāPi.1.198cd
 āḍḍā uḍḍāvia kittī pāvia mōḍia mālavarāabalē // PrāPi.1.198ef
-tēlaṁgā bhaggia bahuriṇa laggia kāsīrāā ja khaṇa calē  // PrāPi.1.198gh [durmilā]
+tēlaṅgā bhaggia bahuriṇa laggia kāsīrāā ja khaṇa calē  // PrāPi.1.198gh [durmilā]
 
 [atha hīracchandaḥ]
 ṇāa pabhaṇa tiṇṇi chagaṇa anta karahi jōhalaṁ // PrāPi.1.199ab
@@ -860,13 +860,13 @@ hāra supia bhaṇa vippagaṇa tīē bhiṇṇa sarīra  // PrāPi.1.200ab
 jōhala antē saṁṭhavahu tēisa mattaha hīra  // PrāPi.1.200cd [dōhā]
 
 jahā
-dhikkadalaṇa thōṁgadalaṇa taka taruṇa riṁgaē // PrāPi.1.201ab
-ṇaṁ ṇa ṇu kaṭa diṁga dukaṭa raṁga cala turaṁga ē  // PrāPi.1.201cd
+dhikkadalaṇa thōṅgadalaṇa taka taruṇa riṅgaē // PrāPi.1.201ab
+ṇaṁ ṇa ṇu kaṭa diṅga dukaṭa raṅga cala turaṅga ē  // PrāPi.1.201cd
 dhūli dhavala hakka sabala pakkhipabala pattiē  // PrāPi.1.201ef
 kaṇṇa calaï kumma lalaï bhummi bharaï kittiē  // PrāPi.1.201gh [hīra]
 
 [atha jalaharaṇacchandaḥ]
-paa paḍhama palaï jahĩ suṇahi kamalamuhi daha vasu puṇu vasu viraḍa़ karē // PrāPi.1.202ab
+paa paḍhama palaï jahĩ suṇahi kamalamuhi daha vasu puṇu vasu viraḍa karē // PrāPi.1.202ab
 saba paa muṇi diagaṇa dia virama sagaṇa siriphaṇivaï bhaṇa sukaïvarē  // PrāPi.1.202cd
 daha tiguṇa karahi kala puṇa vi dhari juala ēma pari pariṭhaü caücaraṇā // PrāPi.1.202ef
 jaï palaï kavahu guru kavahu ṇa pariharu buhaaṇa maṇaharu jalaharaṇā  // PrāPi.1.202gh
@@ -899,7 +899,7 @@ caüsandhihi cālīsa kala daha gaṇa tattha muṇēhu  // PrāPi.1.207ab
 paahara vajjia hē supia maaṇaharāĩ kuṇēhu  // PrāPi.1.207cd
 
 [atha marahaṭṭhā chandaḥ]
-ēhu chanda sulakkhaṇa bhaṇaï viakkhaṇa jampaï piṁgala ṇāu // PrāPi.1.208ab
+ēhu chanda sulakkhaṇa bhaṇaï viakkhaṇa jampaï piṅgala ṇāu // PrāPi.1.208ab
 visamaï daha akkhara puṇu aṭṭhakkhara puṇu ēgāraha ṭhāu  // PrāPi.1.208cd
 gaṇa āihi chakkalu pañca caükkulu anta guru lahu dēhu // PrāPi.1.208ef
 saü sōlaha aggala matta samaggala bhaṇa marahaṭṭhā ēhu 208 // PrāPi.1.208gh
@@ -907,8 +907,8 @@ saü sōlaha aggala matta samaggala bhaṇa marahaṭṭhā ēhu 208 // PrāPi.1
 jahā
 jasu mitta dhaṇēsā sasura girīsā taha vihu pindhaṇa dīsa // PrāPi.1.209ab
 jaï amiaha kandā ṇialahi candā taha vihu bhōaṇa vīsa  // PrāPi.1.209cd
-jaï kaṇaa suraṁgā gōri adhaṁgā taha vihu ḍākiṇi saṁga // PrāPi.1.209ef
-jō jasa hi diāvā dēva sahāvā kabahu ṇa hō tasu bhaṁga  // PrāPi.1.209gh
+jaï kaṇaa suraṅgā gōri adhaṅgā taha vihu ḍākiṇi saṅga // PrāPi.1.209ef
+jō jasa hi diāvā dēva sahāvā kabahu ṇa hō tasu bhaṅga  // PrāPi.1.209gh
 
 
 
@@ -963,7 +963,7 @@ hē piē lēkkhiē  // PrāPi.2.13ab
 akkharē tiṇṇi rē  // PrāPi.2.13cd
 
 jahā
-saṁkarō saṁkarō  // PrāPi.2.14ab
+saṅkarō saṅkarō  // PrāPi.2.14ab
 pāu ṇō pāu ṇō  // PrāPi.2.14cd [priyā]
 
 śaśī chandaḥ
@@ -979,7 +979,7 @@ sahiō kahiō  // PrāPi.2.17cd
 
 jahā
 sasiṇā raaṇī  // PrāPi.2.18ab
-paḍa़ṇā taruṇī  // PrāPi.2.18cd [ramaṇa]
+paḍaṇā taruṇī  // PrāPi.2.18cd [ramaṇa]
 
 pañcāla chandaḥ
 takkāra jaṁ didu  // PrāPi.2.19ab
@@ -987,7 +987,7 @@ pañcāla ukviṭṭha  // PrāPi.2.19cd
 
 jahā
 sō dēu sukkhāī // PrāPi.2.20ab
-saṁghāri dukkhāĩ  // PrāPi.2.20cd
+saṅghāri dukkhāĩ  // PrāPi.2.20cd
 
 mr̥gēndra chandaḥ
 ṇarēnda ṭhavēhu  // PrāPi.2.21ab
@@ -1003,7 +1003,7 @@ mandara sundara  // PrāPi.2.23cd
 
 jahā
 sō hara tōhara  // PrāPi.2.24ab
-saṁkaṭa saṁhara  // PrāPi.2.24cd [mandara]
+saṅkaṭa saṁhara  // PrāPi.2.24cd [mandara]
 
 kamala chandaḥ
 kamala pabhaṇa  // PrāPi.2.25ab
@@ -1054,7 +1054,7 @@ jā bhattibhattā dhammakkacittā  // PrāPi.2.36ab
 sā hōi ṇārī dhaṇṇā piārī  // PrāPi.2.36cd [hārī]
 
 haṁsa chandaḥ
-piṁgala dihrō bha i siṭṭhō  // PrāPi.2.37ab
+piṅgala dihrō bha i siṭṭhō  // PrāPi.2.37ab
 kaṇṇadu dijjō haṁsa muṇijjō  // PrāPi.2.37cd
 
 jahā
@@ -1074,7 +1074,7 @@ bārāhā mattā jaṁ kaṇṇā tiṇṇā hōttaṁ  // PrāPi.2.41ab
 hārā chakkā bandhō sēsā rāā chandō  // PrāPi.2.41cd
 
 jahā
-jujjhantī uddāmē kālikā saṁgāmē  // PrāPi.2.42ab
+jujjhantī uddāmē kālikā saṅgāmē  // PrāPi.2.42ab
 ṇaccantī hammārō dūrittā saṁhārō  // PrāPi.2.42cd [sēsa]
 
 tilla (tilakā) chandaḥ
@@ -1113,13 +1113,13 @@ jahā
 rāā jahā luddha paṁḍīa sō muddha  // PrāPi.2.51ab
 kittī karē rakkha sō vāda uppakkha  // PrāPi.2.51cd [manthāṇa=manthāna]
 
-śaṁkhanārī chandaḥ
-khaḍāvaṇṇabaddhō bhuaṁgāpaaddhō  // PrāPi.2.52ab
-paā pāa cārī kahī saṁkhaṇārī  // PrāPi.2.52cd
+śaṅkhanārī chandaḥ
+khaḍāvaṇṇabaddhō bhuaṅgāpaaddhō  // PrāPi.2.52ab
+paā pāa cārī kahī saṅkhaṇārī  // PrāPi.2.52cd
 
 jahā
 guṇā jassa suddhā vaha rūamuddhā  // PrāPi.2.53ab
-gharē vitta jaggā mahī tāsu saggā  // PrāPi.2.53cd [saṁkhaṇārī śaṁkhanārī]
+gharē vitta jaggā mahī tāsu saggā  // PrāPi.2.53cd [saṅkhaṇārī śaṅkhanārī]
 
 mālatī chandaḥ
 dhaaṁ sara bīa maṇīguṇa tīa  // PrāPi.2.54ab
@@ -1193,13 +1193,13 @@ jahā
 jēṇa jiṇṇu khatti vaṁsa riṭṭi muṭṭi kēsi kaṁsa  // PrāPi.2.71ab
 bāṇapāṇi kaṭṭiēu sōu tumha sukkha dēu  // PrāPi.2.71cd [mallikā]
 
-tuṁga chandaḥ
-taralaṇaaṇi tuṁgō paḍhamarasa suraṁgō  // PrāPi.2.72ab
+tuṅga chandaḥ
+taralaṇaaṇi tuṅgō paḍhamarasa suraṅgō  // PrāPi.2.72ab
 ṇagaṇa juala baddhō guru juala pasiddhō  // PrāPi.2.72cd
 
 jahā
 kamalabhamarajīvō saalabhuaṇadīvō  // PrāPi.2.73ab
-daliatimiraḍimbō uaï taraṇibimbō  // PrāPi.2.73cd [tuṁga]
+daliatimiraḍimbō uaï taraṇibimbō  // PrāPi.2.73cd [tuṅga]
 
 kamala chandaḥ
 paḍhama gaṇa vippaō bihu taha ṇarindaō // PrāPi.2.74ab
@@ -1217,13 +1217,13 @@ jahā
 muṁḍamālā galā kaṁṭhiā ṇāarāā bhuā saṁṭhiā  // PrāPi.2.77ab
 vagghachālā kiā vāsaṇā caṁḍiā pāu siṁhāsaṇā  // PrāPi.2.77cd [mahālakṣmī]
 
-sāraṁgikā chandaḥ
+sāraṅgikā chandaḥ
 diavara kaṇṇō saaṇaṁ, paa paa mattāgaṇaṇaṁ  // PrāPi.2.78ab
 sura muṇi mattā lahiaṁ sahi saragikkā kahiaṁ  // PrāPi.2.78cd
 
 jahā
 hariṇasarissā ṇaaṇā kamalasarissā vaaṇā  // PrāPi.2.79ab
-juajaṇacittāhariṇī piasahi diṭṭhā taruṇī  // PrāPi.2.79cd [sāraṁgikā]
+juajaṇacittāhariṇī piasahi diṭṭhā taruṇī  // PrāPi.2.79cd [sāraṅgikā]
 
 pāittā chandaḥ
 kuntī puttā jua lahiaṁ tīē vipyō dhua kahi  // PrāPi.2.80ab
@@ -1267,7 +1267,7 @@ vāantā mandā sīā vāā, kampantā gāākantā ṇā ā.  // PrāPi.2.89cd [
 
 daśākṣaraprastāra
 jasu āi hattha viāṇiō taha bē paōhara jāṇiō  // PrāPi.2.90ab
-guru anta piṁgala jampiō saï chanda sañjuta thappiō  // PrāPi.2.90cd
+guru anta piṅgala jampiō saï chanda sañjuta thappiō  // PrāPi.2.90cd
 
 jahā
 tuha jāhi sundari appaṇā, paritajji dujjaṇathappaṇā  // PrāPi.2.91ab
@@ -1312,7 +1312,7 @@ sōlaha mattaha pāa ṭhavījē, dugguru antahi bandhu kahījē  // PrāPi.2.10
 
 jahā
 paṁḍavavaṁsahi jamma dharījē, sampaa ajjia dhammaka dijjē  // PrāPi.2.101ab
-sōu juhidvira saṁkaṭa pāvā, dēvaka likhaa kēṇa miṭāvā  // PrāPi.2.101cd [bandhu]
+sōu juhidvira saṅkaṭa pāvā, dēvaka likhaa kēṇa miṭāvā  // PrāPi.2.101cd [bandhu]
 
 sumukhī chandaḥ
 diavara hāra lahū jualā, valaa pariṭria hatthaalā  // PrāPi.2.102ab
@@ -1327,8 +1327,8 @@ cāmara kāhala jugga ṭhavījē, hāra lahū jua tattha dharījē  // PrāPi.2
 kaṇṇagaṇā paa anta karījē, dōdhaa chanda phaṇī pabhaṇījē  // PrāPi.2.104cd
 
 jahā
-piṁga jaṭāvali ṭhāvia gaṁgā, dhāria ṇāari jēṇa adhaṁgā  // PrāPi.2.105ab
-candakalā jasu sīsahi ṇōkkhā, sō tuha saṁkara dijjaü mōkkhā  // PrāPi.2.105cd [dōdhaka]
+piṅga jaṭāvali ṭhāvia gaṅgā, dhāria ṇāari jēṇa adhaṅgā  // PrāPi.2.105ab
+candakalā jasu sīsahi ṇōkkhā, sō tuha saṅkara dijjaü mōkkhā  // PrāPi.2.105cd [dōdhaka]
 
 śālinī chandaḥ
 kaṇṇō duṇṇō hāra ēkkō visajjē, sallā kaṇṇā gandha kaṇṇā suṇijjē  // PrāPi.2.106ab
@@ -1359,7 +1359,7 @@ kuntīputtā, pañcā diṇṇā jāṇīā, antē kantā ēkkā hārā māṇī
 pāā pāā mattā diṭṭhā bāīsā, mālattī chandā jampantā ṇāēsā  // PrāPi.2.112cd
 
 jahā
-ṭhāmā ṭhāmā hatthī jūhā dēkkhīā, ṇīlā mēhā mērū siṁgā pakkhīā  // PrāPi.2.113ab
+ṭhāmā ṭhāmā hatthī jūhā dēkkhīā, ṇīlā mēhā mērū siṅgā pakkhīā  // PrāPi.2.113ab
 vīrāhatthā aggē khaggā rājantā, ṇīlā mēhā majjhē vijjū ṇaccantā  // PrāPi.2.113cd [mālatī]
 
 indravajrā chandaḥ
@@ -1380,10 +1380,10 @@ visuddhadēhā dhaṇamanta ṇēhā kuṇanti kē babbara sagga hā  // PrāPi.
 
 upajāti chandaḥ
 inda uvindā ēkka karijjasu, caüaggala daha ṇāma muṇijjasu  // PrāPi.2.118ab
-samajāihi samaakkhara dijjasu, piṁgala bhaṇa uvajāihi kijjasu  // PrāPi.2.118cd [aḍillā]
+samajāihi samaakkhara dijjasu, piṅgala bhaṇa uvajāihi kijjasu  // PrāPi.2.118cd [aḍillā]
 
 caü akkharakē patthara kijjasu, inda uvindā guru lahu bujjhasu  // PrāPi.2.119ab
-majjhahĩ caüdaha hō uvajāi, piṁgala jampaï kitti vōlāi  // PrāPi.2.119cd [aḍillā+pajjhaṭikā]
+majjhahĩ caüdaha hō uvajāi, piṅgala jampaï kitti vōlāi  // PrāPi.2.119cd [aḍillā+pajjhaṭikā]
 
 jahā
 bālō kumārō sa chamuṁḍadhārī, upyāahīṇā haüm̐ ēkka ṇārī  // PrāPi.2.120ab
@@ -1397,19 +1397,19 @@ cārī kaṇṇā pāē diṇṇā savvāsārā, pāāantē dijjē kantā cārī
 chaṇṇāvēā mattā gaṇṇā cārī pāā, vijjāhārā jampē sārā ṇāārāā  // PrāPi.2.122cd
 
 jahā
-jāsū kaṁṭhā vīsā dīsā sīsā gaṁgā, ṇāārāā kijjē hārā gōrī aṁgā  // PrāPi.2.123ab
+jāsū kaṁṭhā vīsā dīsā sīsā gaṅgā, ṇāārāā kijjē hārā gōrī aṅgā  // PrāPi.2.123ab
 gattē cammā mārū kāmā lijjē kittī, sōī dēō sukkhaṁ dēō tumhā bhattī  // PrāPi.2.123cd [vidyādhara]
 
-bhujaṁgaprayāta chandaḥ
+bhujaṅgaprayāta chandaḥ
 dhaō cāmarō rūaō sēsa sārō, ṭhaē kaṁṭhaē muddhaē jattha hārō  // PrāPi.2.124ab
-caücchanda kijjē tahā suddhadēhaṁ, bhuaṁgāpaā paē bīsa rēhaṁ  // PrāPi.2.124cd
+caücchanda kijjē tahā suddhadēhaṁ, bhuaṅgāpaā paē bīsa rēhaṁ  // PrāPi.2.124cd
 
-ahiṁgaṇa cāri pasiddhā sōlahacaraṇēṇa piṁgalō bhaṇaï  // PrāPi.2.125ab
-tīṇi saā bīsaggala mattāsaṁkhā samaggāi  // PrāPi.2.125cd [gāhā]
+ahiṅgaṇa cāri pasiddhā sōlahacaraṇēṇa piṅgalō bhaṇaï  // PrāPi.2.125ab
+tīṇi saā bīsaggala mattāsaṅkhā samaggāi  // PrāPi.2.125cd [gāhā]
 
 jahā
-mahā matta māaṁga pāē ṭhavīā, tahā tikkha bāṇā kaḍakkhē dharīā  // PrāPi.2.126ab
-bhuā pāsa bhōhā dhaṇūhā samāṇā, ahō ṇāarī kāmarāassa sēṇā  // PrāPi.2.126cd [bhujaṁgaprayāta]
+mahā matta māaṅga pāē ṭhavīā, tahā tikkha bāṇā kaḍakkhē dharīā  // PrāPi.2.126ab
+bhuā pāsa bhōhā dhaṇūhā samāṇā, ahō ṇāarī kāmarāassa sēṇā  // PrāPi.2.126cd [bhujaṅgaprayāta]
 
 lakṣmīdhara chandaḥ
 hāra gandhā tahā kaṇṇa gandhā uṇō, kaṇṇa saddā tahā tō guruā gaṇō  // PrāPi.2.127ab
@@ -1417,23 +1417,23 @@ cāri jōhā gaṇā ṇāarāā bhaṇō, ēhu rūēṇa lacchīharō sō muṇ
 
 jahā
 bhañjiā mālavā gañjiā kaṇṇalā, jiṇṇiā gujjarā luṁṭhiā kuñjarā  // PrāPi.2.128ab
-vaṁgalā bhaṁgalā āḍḍiā māḍḍiā, macchaā kampiā kittiā thappiā  // PrāPi.2.128cd [lakṣmīdhara]
+vaṅgalā bhaṅgalā āḍḍiā māḍḍiā, macchaā kampiā kittiā thappiā  // PrāPi.2.128cd [lakṣmīdhara]
 
 tōṭaka chandaḥ
 sagaṇā dhua cāri palanti jahī, bhaṇa sōlaha matta virāma kahī  // PrāPi.2.129ab
-taha piṁgaliaṁ bhaṇiaṁ uciaṁ, iha tōṭaa chanda varaṁ raaṁ  // PrāPi.2.129cd
+taha piṅgaliaṁ bhaṇiaṁ uciaṁ, iha tōṭaa chanda varaṁ raaṁ  // PrāPi.2.129cd
 
 jahā
 cala gujjara kuñjara tajji mahī, tua babbara jīvaṇa ajju ṇahī  // PrāPi.2.130ab
 jaï kuppia kaṇṇa ṇarēndavarā, raṇa kō hari kō hara vajjaharā  // PrāPi.2.130cd
 
-sāraṁgarūpaka chandaḥ
-jā cāri takkāra sambhēa ukkiṭṭha, sāraṁgarūakka sō piṁgalē diṭṭha  // PrāPi.2.131ab
+sāraṅgarūpaka chandaḥ
+jā cāri takkāra sambhēa ukkiṭṭha, sāraṅgarūakka sō piṅgalē diṭṭha  // PrāPi.2.131ab
 jā tīa vīsāma sañjutta pāēhi ṇā jāṇiē kanti aṇṇāṇṇabhāēhi  // PrāPi.2.131cd
 
 jahā
 rē gōḍa thakkantu tē hathijūhāi, pallaṭṭi jujjhantu pāikkavūhāi  // PrāPi.2.132ab
-kāsīsa rāā sarāsāraaggēṇa kī hatthi kī patti kī vīravaggēṇa  // PrāPi.2.132cd [sāraṁgarūpaka]
+kāsīsa rāā sarāsāraaggēṇa kī hatthi kī patti kī vīravaggēṇa  // PrāPi.2.132cd [sāraṅgarūpaka]
 
 maüktikadāma chandaḥ
 paōhara cāri pasiddhaha tāma, ti tēraha mattaha mōttiadāma  // PrāPi.2.133ab
@@ -1445,7 +1445,7 @@ kuhūrava tāra duranta vasanta, ki ṇiddaa kāma ki ṇihaa kanta  // PrāPi.2
 
 mōdaka chandaḥ
 tōṭaa chanda virīa ṭhavijjasu, mōdaa chandaa ṇāma karijjasu  // PrāPi.2.135ab
-cāri gaṇā bhagaṇā supasiddhaü, piṁgala jampaï kittihi luddhaü  // PrāPi.2.135cd
+cāri gaṇā bhagaṇā supasiddhaü, piṅgala jampaï kittihi luddhaü  // PrāPi.2.135cd
 
 jahā
 gajjaü mēha ki ambara sāvara, phullaü ṇīva ki bullara bhammara  // PrāPi.2.136ab
@@ -1461,7 +1461,7 @@ sasaharatilaa galagarala, vitaraü mahu abhimata vara  // PrāPi.2.138cd [tarala
 
 sundarī chandaḥ
 ṇagaṇa cāmara gandhajuā ṭhavē, camara sallajuā jaï sambhavē  // PrāPi.2.139ab
-ragaṇa ēkka paantahi lakkhiā, sumuhi sundari piṁgaladakkhiā  // PrāPi.2.139cd
+ragaṇa ēkka paantahi lakkhiā, sumuhi sundari piṅgaladakkhiā  // PrāPi.2.139cd
 
 jahā
 vahaï dakkhiṇa mārua sīalā ravaï pañcama kōmala kōilā  // PrāPi.2.140ab
@@ -1481,7 +1481,7 @@ paa antaha pāi guru jua kijjē, sahi tāraa chandaha ṇāma bhaṇijjē  // Pr
 
 jahā
 ṇava mañjari lijjia cūaha gāchē, pariphullia kēsu ṇaā vaṇa āchē  // PrāPi.2.144ab
-jaḍa़ ēsthi digantara jāihi kantā, kia vammaha ṇatthi ki ṇatthi vasantā  // PrāPi.2.144cd [tāraka]
+jaḍa ēsthi digantara jāihi kantā, kia vammaha ṇatthi ki ṇatthi vasantā  // PrāPi.2.144cd [tāraka]
 
 kanda chandaḥ
 dhaā tūra hārō puṇō tūra hārēṇa, guru sadda kijjē a ēkkā taārēṇa  // PrāPi.2.145ab
@@ -1491,16 +1491,16 @@ jahā
 ṇa rē kaṁsa jāṇēhi hō ēkka bālā i, haūm̐ dēvaīputta tō vaṁsakālāi  // PrāPi.2.147ab
 tahā gēṇhu kaṁsō jaṇāṇandakandēṇa, jahā hatti diṭṭhō ṇiāṇārivindēṇa  // PrāPi.2.147cd [kanda]
 
-paṁkāvalī chandaḥ
+paṅkāvalī chandaḥ
 cāmara paḍhamahi pāpa gaṇō dhua, salla caraṇa gaṇa ṭhāvahi taṁ jua  // PrāPi.2.148ab
-sōlaha kalaa paē paa jāṇia, piṁgala pabhaṇaï paṁkaavālia  // PrāPi.2.148cd
+sōlaha kalaa paē paa jāṇia, piṅgala pabhaṇaï paṅkaavālia  // PrāPi.2.148cd
 
 jahā
 jō jaṇa jaṇamaü sō guṇamantaü, jē kara para uaāra hasantaü  // PrāPi.2.149ab
-jē puṇa para uaāra virujjhaü, tāsu jaṇaṇi ki ṇa thakkaḍa़ vañjhaü  // PrāPi.2.149cd [paṁkāvalī]
+jē puṇa para uaāra virujjhaü, tāsu jaṇaṇi ki ṇa thakkaḍa vañjhaü  // PrāPi.2.149cd [paṅkāvalī]
 
 caturdaśākṣarakhastāra
-kaṇṇō païjja paḍhamē jagaṇō a bīē, antē turaṁga saaṇō yaa tattha pāē  // PrāPi.2.150ab
+kaṇṇō païjja paḍhamē jagaṇō a bīē, antē turaṅga saaṇō yaa tattha pāē  // PrāPi.2.150ab
 uttā vasantatilaā phaṇiṇā kiṭṭhā, chēā paḍhanti sarasā sukaïndadiṭṭhā  // PrāPi.2.150cd
 
 jahā
@@ -1523,9 +1523,9 @@ jahā
 tua dēva durittagaṇāharaṇā caraṇā, jaï pāvaü candakalābharaṇā saraṇā  // PrāPi.2.155ab
 paripūjaü tējjia lōbha maṇā bhavaṇā suha dē maha sōkaviṇāsamaṇā samaṇā  // PrāPi.2.155cd [bhamarāvalī]
 
-sāraṁgikā chandaḥ
+sāraṅgikā chandaḥ
 kaṇṇā diṇṇā sattā antē ēkā hārā māṇīā // PrāPi.2.156ab
-paṇṇārāhā hārā sāraṁgikkā chandā jāṇīā  // PrāPi.2.156cd
+paṇṇārāhā hārā sāraṅgikkā chandā jāṇīā  // PrāPi.2.156cd
 tīsā mattā pāē pattā bhōīrāā jampantā // PrāPi.2.156ef
 chandā kijjē kittī lijjē sūṇī matthā kampantā  // PrāPi.2.156gh
 
@@ -1535,7 +1535,7 @@ hatthījūhā sajjā huā pāē bhūmī kampantā lēhī dēhī chōḍō āḍ�
 
 cāmara chandaḥ
 cāmarassa bīsa matta tīṇī matta aggalā, aṭṭa hāra satta sāra ṭhāi ṭhāi ṇimmalā  // PrāPi.2.158ab
-āi anta hāra sāra kāmiṇī muṇijjaē, akkharā dahāi pañca piṁgalē bhaṇijjaē  // PrāPi.2.158cd
+āi anta hāra sāra kāmiṇī muṇijjaē, akkharā dahāi pañca piṅgalē bhaṇijjaē  // PrāPi.2.158cd
 
 jahā
 jhatti jōha sajja hōha gajja vajja taṁ khaṇā, rōsa ratta savva gatta hakka dijja bhīsaṇā  // PrāPi.2.159ab
