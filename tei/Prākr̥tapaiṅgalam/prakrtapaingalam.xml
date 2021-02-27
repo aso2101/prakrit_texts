@@ -1,0 +1,2128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0" n="PrāPi">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Prākr̥tapaiṅgalam</title>
+        <respStmt>
+          <persName key="name person ao">Andrew Ollett</persName>
+          <resp>Creation of machine-readable text</resp>
+        </respStmt>
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>Prakrit Digital Texts Project</authority>
+        <availability status="restricted">
+          <p>Distributed under a <ref target="https://creativecommons.org/licenses/by-sa/4.0/" type="url">Creative Commons Attribution-ShareAlike 4.0</ref> license.</p>
+	  <!-- further information here? !-->
+        </availability>
+        <date>2021</date>
+      </publicationStmt>
+
+      <notesStmt>
+      </notesStmt>
+
+      <sourceDesc>
+	<listBibl>
+	  <biblStruct xml:id="V">
+	    <monogr>
+	      <editor xml:lang="hin-Latn">
+		<name>
+		  <forename>Bhōlāśaṁkara</forename>
+		  <surname>Vyāsa</surname>
+		</name>
+	      </editor>
+	      <title level="m" type="main" xml:lang="san-Latn">Prākr̥tapaiṅgalam</title>
+	      <title level="m" type="subtype" xml:lang="hin-Latn">Saṁpādita Pāṭha, Pāṭhāṁtara, Hindī Anuvāda, Vyākhyā, Ṭippaṇī, Tīna Saṁskr̥ta Ṭīkāyēṁ Aur Śabdakōṣa Sahita</title>
+	      <imprint>
+		<publisher xml:lang="hin-Latn">Prākr̥ta Grantha Pariṣad</publisher>
+		<pubPlace xml:lang="hin-Latn">Ahamadābāda</pubPlace>
+		<date when="2004">2004</date>
+	      </imprint>
+	    </monogr>
+	  </biblStruct>
+	</listBibl>
+      </sourceDesc>
+    </fileDesc>
+
+    <encodingDesc>
+      <editorialDecl>
+      </editorialDecl>
+    </encodingDesc>
+
+    <revisionDesc>
+    </revisionDesc>
+
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+	<pb n="1"/>
+	<lg n="1" met="gāthā">
+	  <l>jō vivihamattasāarapāraṁ pattō vi vimalamaïhēlaṁ ।</l>
+	  <l>paḍhamabbhāsataraṁḍō<caesura/> ṇāō sō piṁgalō jaaï ॥</l>
+	</lg>
+	<pb n="2"/>
+	<lg n="2" met="udgāthā">
+	  <l>dīhō sañjuttaparō<caesura/> bindujuō pāḍiō a caraṇantē ।</l>
+	  <l>sa gurū vaṁka dumattō<caesura/> aṇṇō lahu hōi suddha aïkālō ॥</l>
+	</lg>
+	<lg n="3" met="gāthā">
+	  <label>jihā</label>
+	  <l>māī rūē hēō<caesura/> hiṇṇō jiṇṇō a vuḍḍaō dēō ।</l>
+	  <l>sambhuṁ kāmantī sā<caesura/> gōrī gahilattaṇaṁ kuṇaï ॥</l>
+	</lg>
+	<pb n="3"/>
+	<lg n="4" met="gāthā">
+	  <l>katthavi sañjuttaparō<caesura/> vaṇṇō lahu hōi daṁsaṇēṇa jahā ।</l>
+	  <l>parilhasaï cittadhijjaṁ<caesura/> taruṇikaḍakkhammi ṇivvuttam ॥</l>
+	</lg>
+	<pb n="4"/>
+	<lg n="5" met="siṁhinī">
+	  <l>ihikārā bindujuā<caesura/> ēō suddhā a vaṇṇamiliā vi lahū ।</l>
+	  <l>rahavañjaṇasañjōē<caesura/> parē asēsaṁ vi hōi savihāsaṁ ॥</l>
+	</lg>
+	<lg n="6" met="dōhā">
+	  <l>māṇiṇi māṇahĩ kāĩ phala<caesura/> ēō ja caraṇa paḍu kanta ।</l>
+	  <l>sahaja bhuaṁgama jaï ṇamaï<caesura/> kiṁ kariē maṇimanta ॥</l>
+	</lg>
+	<pb n="5"/>
+	<lg n="7" met="dōhā">
+	  <label>rahavañjaṇasañjōassa jahā</label>
+	  <l>cēu sahaja tuhum̐ cañcalā<caesura/> sundarihadahĩ valanta ।</l>
+	  <l>paa uṇa ghallasi khullaṇā<caesura/> kīlasi uṇa ulhasanta ॥</l>
+	</lg>
+	<pb n="6"/>
+	<lg n="8" met="gāthā">
+	  <l>jaï dīhō vi a vaṇṇō<caesura/> lahu jīhā paḍhaï hōi sō vi lahū ।</l>
+	  <l>vaṇṇō vi turiapaḍhiō<caesura/> dāttiṇṇi vi ēka jāṇēhu ॥</l>
+	</lg>
+	<lg n="9" met="dōhā">
+	  <label>jahā</label>
+	  <l>arērē vāhahi kānha ṇāva<caesura/> chōḍi ḍagamaga kugati ṇa dēhi ।</l>
+	  <l>taī ithi ṇadihĩ sam̐tāra dēi<caesura/> jō cāhahi sō lēhi ॥</l>
+	</lg>
+	<pb n="7"/>
+	<lg n="10" met="gāhū">
+	  <l>jama ṇa sahaï kaṇaatulā<caesura/> tila tuliaṁ addhaaddhēṇa ।</l>
+	  <l>tama ṇa sahaï savaṇatulā<caesura/> avachandaṁ chandabhaṁgēṇa ॥</l>
+	</lg>
+	<lg n="11" met="gāthā">
+	  <l>abuha buhāṇaṁ majjhē<caesura/> kavvaṁ jō paḍhaï lakkhaṇavihūṇaṁ ।</l>
+	  <l>bhūaggalaggakhaggahĩ<caesura/> sīsaṁ khuḍiaṁ ṇa jāṇēi ॥</l>
+	</lg>
+	<pb n="8"/>
+	<lg n="12" met="gāthā">
+	  <l>ṭṭhaḍaḍhāṇaha majjhē<caesura/> gaṇabhēā hōti pañca akkharaō ।</l>
+	  <l>chapacatadā jahasaṁkhaṁ<caesura/> chappañcacaüttidukalāsu ॥</l>
+	</lg>
+	<lg n="13" met="gāthā">
+	  <l>ṭagaṇō tērahabhēō<caesura/> bhēā aṭṭhāi hōnti ṭhagaṇassa ।</l>
+	  <l>ḍagaṇassa pañca bhēā tia ḍhagaṇē bē vi ṇagaṇassa ॥</l>
+	</lg>
+	<pb n="9"/>
+	<lg n="14" met="gāthā">
+	  <label>aha patthārō</label>
+	  <l>paḍhama guru hēṭṭhaṭhāṇē<caesura/> lahuā pariṭhavahu appabuddhīē ।</l>
+	  <l>sarisā sarisā pantī<caesura/> uvvariā gurulahū dēhu ॥</l>
+	</lg>
+	<lg n="15" met="gāthā">
+	  <label>aha chakalapatthārē gaṇāṇaṁ ṇāmāī</label>
+	  <l>hara sasi sūrō sakkō sēsō ahi kamala bambha kali candō ।</l>
+	  <l>dhua dhammō sāliarō tēraha bhēā chamattāṇaṁ ॥</l>
+	</lg>
+	<pb n="10"/>
+	<lg n="16" met="gāthā">
+	  <label>aha pañcakalāṇaṁ ṇāmā</label>
+	  <l>indāsaṇa aru sūrō<caesura/> cāō hīrō a sēharō kusumō ।</l>
+	  <l>ahigaṇa pāpagaṇō dhua<caesura/> pañcakalē piṁgalēṁ kahiō ॥</l>
+	</lg>
+	<lg n="17" met="gāthā">
+	  <label>aha caükkalāṇaṁ ṇāmāī</label>
+	  <l>gurujua kaṇṇō guruanta karaala paōharammi gurumajjhō ।</l>
+	  <l>āiguru vvasucaraṇō vipyō savvēhi lahuēhĩ ॥</l>
+	</lg>
+	<lg n="18" met="gāthā">
+	  <label>aha tiṇṇakalāṇaṁ ṇāmāī</label>
+	  <l>dhaa ciṇha cira cirālaa tōmaratumbūrupatta cuamālā ।</l>
+	  <l>rasavāsapavaṇavalaaṁ lahuālambēṇa jāṇēhu ॥</l>
+	</lg>
+	<pb n="11"/>
+	<lg n="19" met="gāhū">
+	  <label>aha tialagaṇa [dui patthārassa ṇāmāī</label>
+	  <l>suravaï paṭavva tālā karatālāṇanda chandēṇa ।</l>
+	  <l>ṇivvāṇaṁ sasamudaṁ tūraṁ ēha pyamāṇēṇa ॥</l>
+	</lg>
+	<lg n="20" met="gāhū">
+	  <label>aha tialagaṇa taïa patthārassa ṇāmāī</label>
+	  <l>bhāvā rasatāṁḍava ṇārīaṁ kuṇaha bhāviṇiaṁ ।</l>
+	  <l>tilahugaṇassa kaïarō ia ṇāmaṁ piṁgalō kahaï ॥</l>
+	</lg>
+	<lg n="21" met="gāthā">
+	  <label>aha dukalāṇaṁ ṇāmāī</label>
+	  <l>ṇēurarasaṇābharaṇaṁ cāmaraphaṇimuddhakaṇaakuṁḍalaaṁ ।</l>
+	  <l>vaṁkaṁ māṇasavalaaṁ hārāvali ēha guruassa ॥</l>
+	</lg>
+	<lg n="22" met="gāhū">
+	  <label>bilahu ṇāmāī</label>
+	  <l>ṇiapia paramaü supiē bilhu ti samāsu kaïdiṭṭha ।</l>
+	  <l>aha caümattaha ṇāmaṁ phaṇirāō païgaṇaṁ bhaṇaï ॥</l>
+	</lg>
+	<lg n="23" met="gāthā">
+	  <l>suraalaaṁ gurujualaṁ kaṇṇasamāṇēṇa rasiarasalaggaṁ ।</l>
+	  <l>maṇaharaṇa sumaïlambia lahalahiaṁ tā suvaṇṇēṇa ॥</l>
+	</lg>
+	<pb n="12"/>
+	<lg n="24" met="gāthā">
+	  <label>aha antaguru ṇāmāī</label>
+	  <l>karapāṇikamalahatthaṁ bāhū bhuadaṁḍapaharaṇaasaṇiaṁ ।</l>
+	  <l>gaabharaṇaraaṇaṇāṇābhuabharaṇaṁ hōti supasiddhaṁ ॥</l>
+	</lg>
+	<lg n="25" met="gāhū">
+	  <label>aha majjhaguru ṇāmāī</label>
+	  <l>bhuavaïasaṇaragaavaï vasuhāhivarajjugōvālō ।</l>
+	  <l>uṇṇāakacakkavaī paaharathaṇaaṁ ṇarindāĩ ॥</l>
+	</lg>
+	<lg n="26" met="gāthā">
+	  <label>aha āiguru ṇāmāī</label>
+	  <l>paapāacaraṇajualaṁ avaru paāsēi gaṁḍavalahaddam ।</l>
+	  <l>tāapiāmahadahaṇaṁ ṇēuraraïjaṁghajualēhĩ ॥</l>
+	</lg>
+	<lg n="27" met="gāthā">
+	  <label>aha savvalahuassa ṇāmāī</label>
+	  <l>paḍhamaṁ ērisi vippō bīē sarapañca jāisiharēhĩ ।</l>
+	  <l>diavaraparamōpāē hōi caükkēṇa lahuēṇa ॥</l>
+	</lg>
+	<pb n="13"/>
+	<lg n="28" met="gāthā">
+	  <label>aha pañcakalāṇaṁ āilahuassa ṇāmāī</label>
+	  <l>suṇarindaahiakuñjarugaavarudantāi danti aha mēhō ।</l>
+	  <l>ērāvaïtārāvaïgaaṇaṁ jhampaṁ ta lampēṇa ॥</l>
+	</lg>
+	<lg n="29" met="udgāthā">
+	  <label>aha majjhala assa (ṇāmāī)</label>
+	  <l>pakkhivirāḍamaïndahavīṇāahijakkhaamiajōhalaaṁ ।</l>
+	  <l>suppaṇṇapaṇṇagāsaṇagaruḍa viāṇēhu majjhalahuēṇa ॥</l>
+	</lg>
+	<lg n="30" met="viggāhā">
+	  <l>bahuvivihapaharaṇēhiṁ pañcakalaō gaṇō hōi ।</l>
+	  <l>gaarahaturaṁgapāikka ēhu ṇāmēṇa jāṇa caümattā ॥</l>
+	</lg>
+	<lg n="31" met="gāhū">
+	  <l>tāḍaṁkahāraṇēurakēuraō hōti gurubhēā ।</l>
+	  <l>saramērudaṁḍakāhala lahubhēā hōti ēttāĩ ॥</l>
+	</lg>
+	<pb n="14"/>
+	<lg n="32" met="gāhā">
+	  <l>saṁkhaṁ phullaṁ kāhala ravaṁ asēsēhĩ hōnti kaṇaalaaṁ।</l>
+	  <l>rūaṁ ṇāṇākusumaṁ rasagandhaṁ saddaparamāṇaṁ ॥</l>
+	</lg>
+	<lg n="33" met="udgāthā">
+	  <label>aha vaṇagaṇā</label>
+	  <l>mō tigurū ṇō tilahū lahuguruāīṁ yabhā ja majjhagurū ।</l>
+	  <l>majjhalahū rō sō uṇa antagurū tō vi antalahuēṇa ॥</l>
+	</lg>
+	<lg n="34" met="gāthā">
+	  <label>aha gaṇadēvatā.</label>
+	  <l>puhavījalasihikālō gaaṇaṁ sūrō a candamā ṇāō ।</l>
+	  <l>gaṇa aṭṭha iṭṭhadēō jahasaṁkhaṁ piṁgalē kahiō ॥</l>
+	</lg>
+	<pb n="15"/>
+	<lg n="35" met="dōhā">
+	  <l>magaṇa ṇagaṇa dui mitta hō bhagaṇa yagaṇa hō bhicca ।</l>
+	  <l>āsīṇa jata duaü gaṇa avasiṭṭhaü ari ṇicca ॥</l>
+	</lg>
+	<lg n="36" met="chappaa">
+	  <label>ahaṁ gaṇaphala</label>
+	  <l>magaṇa riddhi thirakajja yagaṇa suhasampaa dijjaï ।</l>
+	  <l>ragaṇa maraṇa sampalaï jagaṇa kharakiraṇa visajjaḍa़ ॥</l>
+	  <l>tagaṇa suṇṇa phala kahaï sagaṇa sahadēsu vvāsaï</l>
+	  <l>bhagaṇa racaï maṁgala aṇēka kaï piṁgala bhāsaï ॥</l>
+	  <l>jata kavva gāha dōhaï muṇahu ṇagaṇa hōi paḍhamakkharahi ।</l>
+	  <l>tasu riddhi buddhi savvaī phurahi raṇa rāula duttara taraï ॥</l>
+	</lg>
+	<pb n="16"/>
+	<lg n="37" met="chappaa">
+	  <label>aha dugaṇa viārō</label>
+	  <l>mitta mitta dē riddhi buddhi aru maṁgala dijjaï</l>
+	  <l>mitta bhicca thirakajja jujjha ṇibbhaa jaa kijjaï ।</l>
+	  <l>mitta āsē kajjabandha ṇahi puṇu puṇu chijjaï</l>
+	  <l>mitta hōi jaï sattu gōttabandhava pīḍijjaï ॥</l>
+	  <l>aru bhicca mitta sava kajjahō bhicca bhicca āatti cala</l>
+	  <l>sava bhicca uāsē dhaṇu ṇasaï bhicca vaïri hākanda phala ॥</l>
+	</lg>
+	<lg n="38" met="chappaa">
+	  <l>uāsīṇa jaï mitta kajja kichu manda dikhāvaï</l>
+	  <l>uāsīṇa jaï bhicca savva āatti calāvaï ।</l>
+	  <l>uāsīṇa uāsē mandabhala kichu ṇahi dakkhia</l>
+	  <l>āsīṇa jaï sattu gōtta vaïriu kaï lakkhia ।</l>
+	  <l>jaï sattu mitta hō suṇṇaphala sattu bhiccahō gharaṇiṇasa</l>
+	  <l>puṇu sattu āsē dhaṇa ṇasaï sattu sattu ṇāakka khasa ॥</l>
+	</lg>
+	<pb n="17"/>
+	<lg n="39" met="aḍillā-arillā">
+	  <label>aha mattāṇaṁ uddiṭuṁ</label>
+	  <l>puvva juala sari aṁkā dijjasu । gurusira aṁkē sēsa maṭijjasu ।</l>
+	  <l>uvaralaaṁka lakkhi kahu āṇahu । tē paridhua uddiṭṭhā jāṇahu ॥</l>
+	</lg>
+	<lg n="40">
+	  <l>ṇaḍhē savvakalā kārijjasu । puvva juala sari aṁkā dijjasu ।</l>
+	  <l>pucchalaaṁka miṭāvahi sēkha । uvarala aṁka lōpi kahu lēkha ॥</l>
+	</lg>
+	<lg n="41" met="pādākulaka">
+	  <l>jattha jattha pāvijjaï bhāga । ēhu kahaï phura piṁgala ṇāga ।</l>
+	  <l>paramattā lēi gurutā jāi । jata lakkhahu tata lakkhahu āi ॥</l>
+	</lg>
+	<pb n="18"/>
+	<lg n="42" met="gāthā">
+	  <label>aha vaṇṇāṇaṁ uddiṭuṁ</label>
+	  <l>akkhara uppari duṇṇā<caesura/> aṁkā dijjahu muṇēhu uddiṭṭhā ।</l>
+	  <l>lahu uppari jō aṁkō taṁ dēi ēkkēṇa jāṇēhu ॥</l>
+	</lg>
+	<pb n="19"/>
+	<lg n="43" met="aḍillā">
+	  <label>āsāṁ ṇaṭuṁ</label>
+	  <l>ṇaḍhē aṁkē bhāga karijjasu । samabhāgahĩ tahi lahu mūṇijjasu ।</l>
+	  <l>visama ēka dēi vaṁṭaṇa kijjasu । piṁgala jampaï guru āṇijjasu ॥</l>
+	</lg>
+	<pb n="20"/>
+	<lg n="44" met="dōhā">
+	  <label>aha vaṇṇamēru</label>
+	  <l>akkhara saṁkhē kāḍha karu<caesura/> āi anta paḍhamaka ।</l>
+	  <l>sira dui aṁkē avaru bharu<caesura/> sūī mēru ṇisaṁka ॥</l>
+	</lg>
+	<pb n="21"/>
+	<pb n="22"/>
+	<lg n="45" met="aḍillā">
+	  <label>aha assa patākā</label>
+	  <l>udiṭhṭhā sari aṁkā dijjasu । puvva aṁka parabharaṇa karijjasu ।</l>
+	  <l>pāvala aṁka paḍhama paridijjasu । pattharasaṁkha patākā kijjasu ॥</l>
+	</lg>
+	<lg n="46" met="dōhā">
+	  <label>aha mattā mēru</label>
+	  <l>dui dui kāṭṭhā sari lihahu paḍhama aṁka tasu anta ।</l>
+	  <l>tasu āihi puṇa ēkka saü paḍhamē bē vi milanta ॥</l>
+	</lg>
+	<lg n="47" met="pādākulaka">
+	  <l>sira aṁkē tasu sira para aṁkē । uvarala kāṭṭa purahu ṇīsakē ।</l>
+	  <l>mattāmēru aṁka sañcāri । bujjhahu bujjhahu jaṇa dui cāri ॥</l>
+	</lg>
+	<pb n="23"/>
+	<pb n="24"/>
+	<lg n="48" met="aḍillā+ pādākularka">
+	  <label>aha mattā patākā</label>
+	  <l>uddiṭṭhā sari aṁkā thappahu । vāmāvattē para lē luppahu ।</l>
+	  <l>ēkka lōpa aïkka guru āṇahu । dui tiṇi lōpē dui tiṇi jāṇahu ।</l>
+	  <l>matta patākā piṁgala gāva । jō pāvaï sō parahi milāva ॥</l>
+	</lg>
+	<lg n="49">
+	  <label>aha vittassa lahuguruāṇaṁ</label>
+	  <l>pucchala chanda kalā kaī pucchala vaṇṇa miṭāva ।</l>
+	  <l>avasiṭē guru jāṇiahu lahu jāṇivvaü tāva ॥।dōhā।</l>
+	</lg>
+	<pb n="25"/>
+	<pb n="26"/>
+	<lg n="50" met="gāhū">
+	  <label>aha sakalapatthāra saṁkhā</label>
+	  <l>chabbīsā sattasaā taha sattāraha sahassāĩ ।</l>
+	  <l>bāālīsaṁ lakkhaṁ tēraha kōḍī samaggāī॥50॥</l>
+	</lg>
+	<pb n="27"/>
+	<lg n="51" met="raḍḍā">
+	  <label>aha gāhāpaaraṇaṁ (atha gāthāprakaraṇam)</label>
+	  <l>hōi gāhū matta caüaṇṇa gāhāi sattāvaṇī ।</l>
+	  <l>taha viggāha palaṭṭi kijjaï uggāhaü saṭṭhi kala ॥</l>
+	  <l>gāhiṇī a bāsaṭṭi kijjaï ।</l>
+	  <l>taha vi palaṭṭaï siṁhiṇī bē aggala hō sahi ।</l>
+	  <l>sattarūa aṇṇōṇṇa gaṇa khandha matta caüsaṭṭhi ॥</l>
+	</lg>
+	<pb n="28"/>
+	<lg n="52" met="gāhū">
+	  <label>aha gāhū</label>
+	  <l>puvvaddhē uttaddhē sattaggala matta vīsā ।</l>
+	  <l>chaṭṭhamagaṇa paamajjhē gāhū mēru vva jualāĩ ।52॥</l>
+	</lg>
+	<lg n="53" met="gāhū">
+	  <label>jahā</label>
+	  <l>candō candaṇa hārō tāva a rūaṁ paāsanti ।</l>
+	  <l>caṁḍēsaravarakittī jāva ṇa appaṁ ṇidaṁsēi ॥</l>
+	</lg>
+	<pb n="29"/>
+	<lg n="54" met="gāhā">
+	  <label>aha gāhā</label>
+	  <l>paḍhamaṁ bāraha mattā bīē aṭṭhārahēhĩ sañjuttā ।</l>
+	  <l>jaha paḍhamaṁ taha tīaṁ dahapañca vihūsiā gāhā ॥</l>
+	</lg>
+	<lg n="55" met="gāhā">
+	  <label>jahā</label>
+	  <l>jēṇa viṇā ṇa jivijjaï aṇuṇijjaï sō kaāvarāhō vi ।</l>
+	  <l>pattē vi ṇaaraḍāhē bhaṇa kassa ṇa vallahō aggī ॥</l>
+	</lg>
+	<pb n="30"/>
+	<lg n="56" met="gāhā">
+	  <l>sattagaṇā dīhantā jō ṇa lahū chaṭṭha ṇēha jō visamē ।</l>
+	  <l>taha gāhē vi a addhē chaṭhē lahuaṁ viāṇēhu ॥</l>
+	</lg>
+	<lg n="57" met="gāhā">
+	  <l>savvāē gāhāē sattāvaṇṇāi hōti mattāī।</l>
+	  <l>puvvaddhami a tīsā sattāīsā paradami ॥</l>
+	</lg>
+	<lg n="58" met="gāhā">
+	  <l>sattāīsā hārā sallā jassaṁmi tiṇṇi rēhāī।</l>
+	  <l>sā gāhāṇaṁ gāhā āā tīsakkharā lacchī ॥</l>
+	</lg>
+	<pb n="31"/>
+	<lg n="59" met="gāhā">
+	  <l>tīsakkharāhĩ lacchī savvē vandanti hōi vikkhāā ।</l>
+	  <l>hāsaï ēvaṁ ēkkaṁ vaṇṇaṁ tā kuṇaha ṇāmāī ॥</l>
+	</lg>
+	<lg n="60" met="lacchī">
+	  <l>lacchī riddhī buddhī lajjā vijjā khamā a dēhīā ।</l>
+	  <l>gōrī dhāī cuṇṇā chāā kantī mahāmāī ॥</l>
+	</lg>
+	<lg n="61" met="uggāhā">
+	  <l>kittī siddhī māṇī rāmā gāhiṇī visā a vāsīā ।</l>
+	  <l>sōhā hariṇī cakkī sārasi kurarī sihī a haṁsīā ॥</l>
+	</lg>
+	<pb n="32"/>
+	<lg n="62" met="gāhā">
+	  <l>paḍhamaṁ vī haṁsapaaṁ bīē sīhassa vikkama jāā ।</l>
+	  <l>tīē gaavaraluliaṁ ahivaraluliaṁ caütthaē gāhā ॥</l>
+	</lg>
+	<lg n="63" met="gāhā">
+	  <l>ēkkē jē kulamantī bē ṇāakkēhĩ hōi saṁgahiṇī ।</l>
+	  <l>ṇāakahīṇā raṁḍā vēsā bahuṇāakā hōi ॥</l>
+	</lg>
+	<lg n="64" met="gāhā">
+	  <l>tēraha lahuā vippī ēāīsēhiṁ khattiṇī bhaṇiā ।</l>
+	  <l>sattāīsā vēsī sēsā sā suddiṇī hōi ॥</l>
+	</lg>
+	<pb n="33"/>
+	<lg n="65" met="gāhā">
+	  <l>jā paḍhama tīa pañcama sattama ṭhāṇē ṇa hōi gurumajjhā ।</l>
+	  <l>guvviṇiē guṇarahiā gāhā dōsaṁ paāsēi ॥</l>
+	</lg>
+	<lg n="66" met="viggāhā">
+	  <label>aha viggāhā ।</label>
+	  <l>viggāhā paḍhama dalē sattāīsāī mattāī।</l>
+	  <l>pacchima dalē ṇa tīsā ia jampia piṁgalēṇa ṇāēṇa ॥</l>
+	</lg>
+	<pb n="34"/>
+	<lg n="67" met="viggāhā">
+	  <label>jahā</label>
+	  <l>parihara māṇiṇi māṇaṁ pakkhahi kusumāī ṇīvassa ।</l>
+	  <l>tumha kaē kharahiaō gaṇhaï guḍiādhaṇuṁ a kira kāmō ॥</l>
+	</lg>
+	<lg n="68" met="uggāhā">
+	  <label>aha uggāhā</label>
+	  <l>puvvaddhē uttaddhē mattā tīsanti suhaa sambhaṇiā।</l>
+	  <l>sō uggāhō vuttō piṁgala kaï diṭṭha saṭṭi mattaṁgō ॥</l>
+	</lg>
+	<pb n="35"/>
+	<lg n="69" met="uggāhā">
+	  <label>jahā</label>
+	  <l>sōūṇa jassa ṇāmaṁ aṁsū ṇaaṇāī sumuhi rundhati ।</l>
+	  <l>bhaṇa vīra cēivaïṇō pakkhāmi muhaṁ kahaṁ jahicchaṁ sē ॥</l>
+	</lg>
+	<lg n="70" met="gāhiṇī">
+	  <label>aha gāhiṇī siṁhiṇī</label>
+	  <l>puvvaddha tīsa mattā<caesura/> piṁgala pabhaṇēi muddhiṇi suṇēhi ।</l>
+	  <l>uttaddhē battīsā<caesura/> gāhiṇi vivarīa siṁhiṇī bhaṇu saccaṁ ॥</l>
+	</lg>
+	<pb n="36"/>
+	<lg n="71" met="gāhiṇī">
+	  <label>gāhiṇī jahā</label>
+	  <l>muñcahi sundari pāaṁ appahi hasiūṇa sumuhi khaggaṁ mē ।</l>
+	  <l>kappia mēcchaśarīraṁ pacchaḍa़ vaaṇāīṁ tumha dhua hammīrō ॥</l>
+	</lg>
+	<lg n="72" met="siṁhiṇī">
+	  <label>siṁhiṇī jahā</label>
+	  <l>varisaï kaṇaaha viḍhēi tappaï bhuaṇē diāṇisaṁ jaggantō।</l>
+	  <l>ṇīsaṁka sāhasakō ṇidaï indaṁ a sūrabimbaṁ a ॥</l>
+	</lg>
+	<pb n="37"/>
+	<lg n="73" met="khandhaā">
+	  <label>aha khandhaā (atha skandhaka)</label>
+	  <l>caümattā aṭṭhagaṇā puvvaddhē uttaraddha hōi samarūā ।</l>
+	  <l>sā khandhaā viāṇahu piṁgala pabhaṇēi muddhi bahusambhēā ॥</l>
+	</lg>
+	<lg n="74" met="skandhaka">
+	  <label>jahā</label>
+	  <l>jaṁ jaṁ āṇēi giri raïrahacakkaparighaṭṭaṇasahaṁ haṇuā ।</l>
+	  <l>taṁ taṁ līlāi ṇalō vāmakaratthaṁhiaṁ raēi samuddē ॥</l>
+	</lg>
+	<pb n="38"/>
+	<lg n="75" met="rājasēnā">
+	  <l>ṇandaü bhaddaü sēsa saraṁga<caesura/> siva bambha vāraṇa varuṇa ।</l>
+	  <l>ṇīlu maaṇa tālaṁka sēharu<caesura/> saru gaaṇu sarahu vimaï ॥</l>
+	  <l>khīra ṇaaru ṇaru ṇiddha ṇēhalu ॥</l>
+	  <l>maagalu bhōalu suddha sari<caesura/> kumbha kalasa sasi jāṇa ।</l>
+	  <l>sarahasēsasasahara muṇahu sattāisa khandhāṇa ॥</l>
+	</lg>
+	<lg n="76" met="dōhā">
+	  <l>caü lahu katthavi pasara jahiṁ sō sahi ṇandaü jāṇa ।</l>
+	  <l>guru ṭuṭṭaï bi bi lahu vaḍhaï taṁ taṁ ṇāma viāṇa ॥</l>
+	</lg>
+	<lg n="77" met="nanda-skandhaka">
+	  <label>jahā</label>
+	  <l>candā kundā kāsā<caesura/> hārā hīrā tilōaṇā kēlāsā ।</l>
+	  <l>jēttā jēttā sēttā tēttā kāsīsa jiṇṇiā tē kittī ॥.</l>
+	</lg>
+	<pb n="39"/>
+	<lg n="78" met="dōhā">
+	  <label>aha dōhā</label>
+	  <l>tēraha mattā paḍhama paa<caesura/> puṇu ēārahĩ dēha ।</l>
+	  <l>puṇu tēraha ēārahaï<caesura/> dōhā lakkhaṇa ēha ॥</l>
+	</lg>
+	<lg n="79" met="dōhā">
+	  <label>jahā</label>
+	  <l>suraaru surahī parasamaṇi<caesura/> ṇahi vīrēśa samāṇa ।</l>
+	  <l>ō vakkala ō kaṭhiṇataṇu<caesura/> ō pasu ō pāsāṇa ॥</l>
+	</lg>
+	<pb n="40"/>
+	<lg n="80" met="raḍā">
+	  <l>bhamaru bhāmaru sarahu sēvāṇa<caesura/> maṁḍūka makkaḍu karahu ।</l>
+	  <l>ṇaru marālu maagalu paōharu<caesura/> balu vāṇaru tiṇṇi kalu ॥</l>
+	  <l>kaccha maccha sahūla ahivaru ।</l>
+	  <l>vaghya virāḍaü suṇaha taha<caesura/> undura sappapamāṇa ।</l>
+	  <l>guru ṭuṭṭaï bē lahu vaḍhaï<caesura/> taṁ taṁ ṇāma viāṇa ॥</l>
+	</lg>
+	<lg n="41" met="dōhā">
+	  <l>chabbīsakkhara bhamara hō guru bāisa lahu cāri ।</l>
+	  <l>guru ṭuṭṭaï bē lahu vaḍhaï taṁ taṁ ṇāma viāri ॥</l>
+	</lg>
+	<lg n="82" met="dōhā-bhramara">
+	  <label>jahā</label>
+	  <l>jā addhaṁgē pavvaī<caesura/> sīsē gaṁgā jāsu ।</l>
+	  <l>jō dēāṇaṁ vallahō<caesura/> vandē pāaṁ tāsu ॥</l>
+	</lg>
+	<pb n="41"/>
+	<lg n="83" met="gāhā">
+	  <l>bāraha lahuā vippī<caesura/> taha bāīsēhiṁ khattiṇī bhaṇiā ।</l>
+	  <l>battīsa hōi bēsī<caesura/> jā iarā suddiṇī hōī ॥</l>
+	</lg>
+	<lg n="84" met="gāhā">
+	  <l>jassā paḍhamahiṁ tīō<caesura/> jagaṇā dīsanti pāa pāēṇa ।</l>
+	  <l>caṁḍālaha ghararahiā<caesura/> dōhā dōsaṁ paāsēi ॥</l>
+	</lg>
+	<lg n="85" met="dōhā">
+	  <l>chakkalu cakkalu tiṇi kalu ēma pari visama paanti ।</l>
+	  <l>sama pāhĩ antakka kalu ṭhavi dōhā ṇibhanti ॥</l>
+	</lg>
+	<pb n="42"/>
+	<lg n="86" met="rasikā">
+	  <l>diavaragaṇa dhari juala<caesura/> puṇa via tialahu paala</l>
+	  <l>ima vihi vihu chaü paaṇi<caesura/> jima suhaï susasi raaṇi</l>
+	  <l>iha rasiaü miaṇaaṇi<caesura/> ēadaha kala gaagamaṇi ॥</l>
+	</lg>
+	<lg n="87" met="rasikā">
+	  <label>jahā</label>
+	  <l>vimuha calia raṇa acalu<caesura/> pariharia haagaavalu</l>
+	  <l>halahalia malaaṇivaï<caesura/> jasu jasa tihuaṇa piaï</l>
+	  <l>varaṇasi ṇakhaï lulia<caesura/> saala uvari jasu phulia ॥</l>
+	</lg>
+	<pb n="43"/>
+	<lg n="88" met="dōhā">
+	  <l>āikavva ukkaccha<caesura/> kiu lōhaṁgiṇi maha sāru ।</l>
+	  <l>guru vaḍḍaï bi bi lahu ghaṭaï<caesura/> taṁ taṁ ṇāma viāru ॥</l>
+	</lg>
+	<lg n="89" met="gāhā">
+	  <l>lōhaṁgiṇi haṁsīā<caesura/> rēhā tālaṁki kampi gambhīrā ।</l>
+	  <l>kālī kalarudāṇī ukkacchā aṭṭha ṇāmāī ॥</l>
+	</lg>
+	<pb n="44"/>
+	<lg n="90" met="gāhū">
+	  <l>lōhaṁgiṇi savva lahū jattha guru ēkka sā haṁsī ।</l>
+	  <l>jaṁ jaṁ vaḍḍaï hārō ṇāmaṁ jō jattha sō tattha ॥[iti ukkacchā]</l>
+	</lg>
+	<lg n="91" met="rōlā">
+	  <label>aha rōlā</label>
+	  <l>paḍhama hōi caüvīsa matta antara guru juttē<caesura/> piṁgala hām̐tē sēsa ṇāa taṇhi rōlā uttē ।</l>
+	  <l>ēggārāhā hārā rōlā chandō jujjaï<caesura/> ēkkē ēkkē ṭuṭṭaï aṇṇō aṇṇō vaḍḍaï ॥</l>
+	</lg>
+	<pb n="45"/>
+	<lg n="92" met="rōlā">
+	  <label>jahā</label>
+	  <l>paabharu daramaru dharaṇi taraṇiraha dhullia jhampia<caesura/> kamaṭhapiṭṭha ṭaraparia mēru mandara sira kampia ।</l>
+	  <l>kōha calia hammīravīra gaajūha sam̐juttē<caesura/> kiaü kaṭṭha hākanda mucchi<caesura/> mēcchahakē puttē ॥</l>
+	</lg>
+	<pb n="46"/>
+	<pb n="47"/>
+	<lg n="93" met="raḍḍā">
+	  <l>kunda karaala mēha tālaṁka<caesura/> kalarudda kōila kamalu ।</l>
+	  <l>indu sambhu cāmaru gaṇēsaru<caesura/> sahasakkhō sēsa bhaṇa ॥</l>
+	  <l>ṇāarāa jampaï phaṇīsaru ।</l>
+	  <l>tēraha akkhara jaṁ palaï<caesura/> iggāraha vaṁkēhĩ ।</l>
+	  <l>akkhara akkhara jaṁ vaḍhaï<caesura/> taṁ taṁ ṇāma kuṇēhi ॥[iti rōlā]</l>
+	</lg>
+	<lg n="94" met="gandhāṇa">
+	  <label>aha gandhāṇa</label>
+	  <l>dahasatta vaṇṇa paḍhama paa bhaṇaha suaṇā</l>
+	  <l>taha bīaṁmi aṭṭhārahahiṁ jamaa jua caraṇā ।</l>
+	  <l>ērisi a bīa dala kuṇahu bhaṇaï piṁgalō</l>
+	  <l>gandhāṇā ṇāma rūaü hō paṁḍiajaṇacittaharō ॥</l>
+	</lg>
+	<lg n="95" met="dōhā">
+	  <l>dahasattakkhara saṁṭhavahu paḍhamacaraṇa gandhāṇa ।</l>
+	  <l>bīakkhara puṇu jamaa daï aṭṭhārahaï viāṇa ॥</l>
+	</lg>
+	<pb n="48"/>
+	<lg n="96" met="gandhāṇa">
+	  <label>jahā</label>
+	  <l>kaṇṇa calatē kumma calaï puṇuvi asaraṇā ।</l>
+	  <l>kumma calatē mahi calaï bhuaṇabhaakaraṇā ।</l>
+	  <l>mahi a calatē mahiharu taha a suraaṇā</l>
+	  <l>cakkavaï calatē calaï cakka taha tihuaṇā ॥</l>
+	</lg>
+	<lg n="97" met="caüpaïā">
+	  <label>aha caüpaïyā</label>
+	  <l>caüpaïā chandā bhaṇaï phaṇindā<caesura/> caümattā gaṇa sattā ।</l>
+	  <l>pāēhi saguru kari tīsa matta dhari<caesura/> caü saa asi a ṇiruttā ।</l>
+	  <l>caü chanda lavijjaï ēkku ṇa kijjaï<caesura/> kō jāṇaï ēhu bhēū ।</l>
+	  <l>kaḍa़ piṁgala bhāsaï chanda paāsaï miaṇaaṇi amia ēhū ॥</l>
+	</lg>
+	<pb n="49"/>
+	<lg n="98" met="caüpaïā">
+	  <label>jahā</label>
+	  <l>jasu sīsahi gaṁgā gōri adhaṁgā giva pahiria phaṇihārā ।</l>
+	  <l>kaṁṭhaṭṭia vīsā pindhaṇa dīsā santāria saṁsārā ॥</l>
+	  <l>kiraṇāvalikandā vandia candā ṇaaṇahi aṇala phurantā ।</l>
+	  <l>sō sampaa dijjaü bahu suha kijjaü tumha bhavāṇīkantā ॥</l>
+	</lg>
+	<pb n="50"/>
+	<lg n="99" met="ghattā">
+	  <label>aha ghattā</label>
+	  <l>piṁgala kaī diṭṭhaü chanda ukiṭṭhaü ghatta matta bāsaṭṭi kari ।</l>
+	  <l>caümatta satta gaṇa bē vipāa bhaṇa tiṇṇi tiṇi lahu anta dhari ॥</l>
+	</lg>
+	<lg n="100" met="gāhā">
+	  <l>paḍhamaṁ daha bīsāmō bīē mattāĩ aṭṭhāī।</l>
+	  <l>tīē tēraha viraī ghattā mattāī bāsaṭṭhi ॥</l>
+	</lg>
+	<lg n="101" met="ghattā">
+	  <label>jahā</label>
+	  <l>raṇadakkha dakkhahaṇu jiṇṇa kusumadhaṇu andhaagandhaviṇāsakaru ।</l>
+	  <l>sō rakkhaü saṁkaru asurabhaaṁkaru gōri ṇāri addhaṁga dharu ॥</l>
+	</lg>
+	<pb n="51"/>
+	<lg n="102" met="ghattā">
+	  <label>aha ghattānanda</label>
+	  <l>sō ghattaha kulasāra kitti apāru ṇāarāa piṁgala kahaï ।</l>
+	  <l>ēāraha vīsāma ṇandaü ṇāma puṇu vi satta tēraha viraï ॥</l>
+	</lg>
+	<lg n="103" met="chappaya">
+	  <l>uḍḍuuṇahapaha bhamaü khagga riusīsahi jhallaü ।</l>
+	  <l>pakkhara pakkhara ṭhēlli palli pavvaa apphālā ॥</l>
+	  <l>hammīrakajju jajjala bhaṇaha kōhāṇalamaha maï jalaü ।</l>
+	  <l>sulatāṇa sīsa karavāla daï tajji kalēvara dia calaü ॥</l>
+	</lg>
+	<lg n="104" met="dhattāṇanda">
+	  <label>jahā</label>
+	  <l>jō vandia sira gaṁga haṇia aṇaṁga addhaṁgahi parikara dharaṇu ।</l>
+	  <l>sō jōī jaṇamitta haraü duritta saṁkāharu saṁkaracaraṇu ॥</l>
+	</lg>
+	<pb n="52"/>
+	<lg n="105">
+	  <label>aha chappaü</label>
+	  <l>chappaa chanda chaïla suṇahu akkharasañjuttaü ।</l>
+	  <l>ēāraha tasu viraï ta puṇu tēraha ṇibbhantaü ॥</l>
+	  <l>bē mattā dhari paḍhama ta puṇu caü caü kala kijjaï ।</l>
+	  <l>majjhaṭṭhia gaṇa pañca hēṭṭha biṇṇa vi lahu dijjaï ॥</l>
+	  <l>ulāla viraï bē paṇṇaraha mattā aṭṭhāisa sōi ।</l>
+	  <l>ēma bhaṇaha muṇaha chappaa paa aṇahā itthi ṇa kimpi hōi ॥</l>
+	</lg>
+	<lg n="106" met="chappaya">
+	  <label>jahā</label>
+	  <l>pindhaü diḍha saṇṇāha vāha uppara pakkhara daï ।</l>
+	  <l>bandhu samadi raṇa dhasaü sāmi hammīra vaaṇa laï ॥</l>
+	  <pb n="53"/>
+	  <l>uḍḍuuṇahapaha bhamaü khagga riusīsahi jhallaü ।</l>
+	  <l>pakkhara pakkhara ṭhēlli palli pavvaa apphālā ॥</l>
+	  <l>hammīrakajju jajjala bhaṇaha kōhāṇalamaha maï jalaü ।</l>
+	  <l>sulatāṇa sīsa karavāla daï tajji kalēvara dia calaü ॥</l>
+	</lg>
+	<pb n="54"/>
+	<lg n="107" met="chappaya">
+	  <l>paa paa talaü ṇibaddha matta caübīsaha kijjaï ।</l>
+	  <l>akkhara ḍambara sarisa chanda ia suddha bhaṇijjaï ॥</l>
+	  <l>āihi chakkalu hōi cāri caükalaü ṇiruttaü ।</l>
+	  <l>dukkala anta ṇibaddha sēsa kaï vatthu ṇivuttaü ।</l>
+	  <l>bāvaṇṇa saü vi mattaha muṇahu ullālaü sahiaü guṇaha ।</l>
+	  <l>chappaa chanda ērisi vi hōi kāĩ ganthi ganthi vi maraha ॥</l>
+	</lg>
+	<pb n="55"/>
+	<lg n="108" met="chappaya">
+	  <label>jahā</label>
+	  <l>jahā saraa sasi bimba jahā harahāra haṁsa ṭhia ।</l>
+	  <l>jahā phula sia kamala jahā sirikhaṁḍa khaṁḍa kia॥</l>
+	  <l>jahā gaṁga kallōla jahā rōsāṇia ruppaï ।</l>
+	  <l>jahā duddhavara suddha phēṇa phamphāi talapphaï ॥</l>
+	  <l>pia pāa pasāē diṭṭhi puṇu ṇihua hasaï jaha taruṇijaṇa ।</l>
+	  <l>varamanti caṁḍasara kitti tua tattha dēkkha haribambha bhaṇa ॥</l>
+	</lg>
+	<pb n="56"/>
+	<lg n="109" met="dōhā">
+	  <label>aha kavva lakkhaṇa</label>
+	  <l>āi anta duhu chakkalaü tiṇṇi turaṁgama majjha ।</l>
+	  <l>tīē jagaṇu ki vippagaṇu kavvaha lakkhaṇa bujjha ॥</l>
+	</lg>
+	<lg n="110" met="dōhā">
+	  <l>caü aggala cālīsa guru ēkkakkē guru lēhu ।</l>
+	  <l>jō guruhīṇaü sakka sō ṇāma ggahaṇa kuṇēhu ॥</l>
+	</lg>
+	<lg n="111" met="sakka">
+	  <label>jahā</label>
+	  <l>jasu kara phaṇivaï valaa taruṇivara taṇumaha vilasaï ।</l>
+	  <l>ṇaaṇa aṇala gala garala vimala sasahara sira ṇivasaï ॥</l>
+	  <l>surasari siramaha rahaï saalajaṇa durita damaṇa kara ।</l>
+	  <l>hasi sasihara hara duria vihara hara atula abhaavara ॥</l>
+	</lg>
+	<pb n="57"/>
+	<lg n="112" met="dōhā">
+	  <l>jaha jaha valaā vaḍḍihaḍa़ taha taha ṇāma kuṇēhu ।</l>
+	  <l>sambhuhi saüm̐ bhaṇa bhiṁgagaṇa caüālīsa muṇēhu ॥</l>
+	</lg>
+	<lg n="113">
+	  <l>tā sakkō sambhō sūrō gaṁḍō khandhō vijaō dappō</l>
+	  <l>tālaṁkō samarō sīhō sīsō uttēō paḍivakkhō ।</l>
+	  <l>paridhamma marālu maïndō daṁḍō makkalu maaṇu marahō</l>
+	  <l>vāsantō kaṁṭhō mōrō bandhō bhamarō bhiṇṇamaraṭṭhō ॥</l>
+	</lg>
+	<lg n="114" met="caüpaïā">
+	  <l>valahadō rāō valiō mōhō santhāṇō bali mēhō</l>
+	  <l>sahasakkhō bālō dariō sarahō dambhō'hō udambhō ।</l>
+	  <l>valiaṁkō turaō hariṇō andhō muddhīē taha bhiṁgō</l>
+	  <l>vatthūā ṇāmō piṁgalaṇāō jampaï chandapabandhō ॥</l>
+	</lg>
+	<lg n="115" met="dōhā">
+	  <l>pacatālīsaha vatthuā chandē chanda viambha ।</l>
+	  <l>addhā kaï piṁgala kahaï calaï ṇa harihara bambha ॥</l>
+	</lg>
+	<pb n="58"/>
+	<lg n="116" met="chappaa">
+	  <l>paaha asuddhaü paṁguhīṇa khōḍaü paṇijjaï</l>
+	  <l>mattaggala vāulaü suṇṇakala kaṇṇa suṇijjaï ।</l>
+	  <l>jhalavajjia taha bahira andha laṁkāraha rahiaü</l>
+	  <l>vulaü chanda uṭṭavaṇa attha viṇu dubbala kahiaü ॥</l>
+	  <l>ḍēraü haṭṭakkharahiṁ hōi kāṇā guṇa savvahĩ rahia ।</l>
+	  <l>savvaṁgasuddha samarūaguṇa chappaa dōsa piṁgalu kahia ॥</l>
+	</lg>
+	<pb n="59"/>
+	<lg n="117">
+	  <l>vippa hōi battīsa khatti bēāla kahijjasu ।</l>
+	  <l>aṭhatālisa lahu vēsa sēsa suddaü salahijjasu ॥</l>
+	  <l>caüaggala paü bīsa matta chāṇavaï ṭhavijjasu ।</l>
+	  <l>pacatālīsaha ṇāma kavvalakkhaṇaha karijjasu ॥</l>
+	  <l>chahabisa ullālahi ēkka kaï biṇṇi pāa chappaa muṇahu ।</l>
+	  <l>samavaṇṇa sarisa samadōsaguṇa ṇāma aïhattari pari muṇahu ॥[chappa</l>
+	</lg>
+	<lg n="118" met="dōhā">
+	  <label>aha ullāla lakkhaṇa</label>
+	  <l>tiṇṇi turaṁgama tiala taha chaha caütia taha anta ।</l>
+	  <l>aïma ullālā uṭṭavahu bihu dala chappaṇa manta ॥</l>
+	</lg>
+	<pb n="60"/>
+	<lg n="119" met="chappaa">
+	  <label>jahā</label>
+	  <l>jāā jā addhaṁga sīsa gaṁgā lōlantī</l>
+	  <l>savvāhā pūranti savva dukkhā tōlantī ।</l>
+	  <l>ṇāā rāā hāra dīsa vāsā bhāsantā</l>
+	  <l>vēālā jā saṁga ṇacca duṭṭhā ṇāsantā ॥</l>
+	  <l>ṇācantā kantā ucchavvē tālē bhūmī kampalē ।</l>
+	  <l>jā diḍhē mōkkhā pāvijjē sō tumhāṇaṁ sukkha dē ॥</l>
+	</lg>
+	<lg n="120" met="dōhā">
+	  <l>caüālisa guru kavvakē chahabīsaü ullāla ।</l>
+	  <l>jaṁ guru ṭuṭṭaï lahu vaḍhaï ēhattari patthāra ॥</l>
+	</lg>
+	<pb n="61"/>
+	<lg n="121" met="dōhā">
+	  <label>[atha śālmalī prastāra]</label>
+	  <l>ajaa bēāsī akkharaü guru sattari ravirēha ।</l>
+	  <l>ēkkakkhara vaḍha guru ghaṭaï dudui lahuā dēha ॥</l>
+	</lg>
+	<lg n="122">
+	  <l>ajaa vijaü bali kaṇṇa vīra bēāla vihaṇṇaru</l>
+	  <l>makkalu hari hara bambha indu candaṇa susuhaṁkaru ।</l>
+	  <l>sāṇa sīha sadūla kumma kōila khara kuñjaru</l>
+	  <l>maaṇa maccha tālaṁka sēsa sāraṁga paōharu ॥</l>
+	  <l>tā kunda kamalu vāraṇa bhasala sarahu jaṁgama sara bi lahaï ।</l>
+	  <l>susaru samaru sārasu saraa chappaa ṇāma piṁgalu kaï ॥</l>
+	</lg>
+	<lg n="123">
+	  <l>mēru maaru maa siddhi buddhi karaalu kamalāaru</l>
+	  <l>dhavala maṇaü dhua kaṇaü kisaṇu rañjaṇu mēhāaru ।</l>
+	  <l>gimha garuḍa sasi sūra salla ṇavaraṁga maṇōharu</l>
+	  <l>gaaṇu raaṇu ṇaru hīru bhamaru sēharu kusumāaru</l>
+	  <l>tā dippu saṁkha vasu sadda muṇi ṇāarāa piṁgalu kahaï ।</l>
+	  <l>chappaa ṇāma ēhattarihi chanda āra patthari lahaï ॥</l>
+	</lg>
+	<pb n="62"/>
+	<lg n="124" met="dōhā">
+	  <l>jattē savvahi hōi lahu addha visajjahu tāma ।</l>
+	  <l>taha vi visajjahu ēkkasaru ēhi pamāṇē ṇāma ॥iti ṣaṭpadaprakaraṇam ।</l>
+	</lg>
+	<lg n="125">
+	  <label>aha pajjhaḍiā</label>
+	  <l>caümatta karaha gaṇa cāri ṭhāī<caesura/> ṭhavi anta paōhara pāī pāī।</l>
+	  <l>caüsaṭṭhi matta pajjharaï indu<caesura/> sama cāri pāa pajjhaḍia chandu ॥</l>
+	</lg>
+	<lg n="126" met="pajjhaḍiā">
+	  <label>jahā</label>
+	  <l>jē gañjia gōḍāhivaï rāu<caesura/> udaṁḍa āḍḍa jasu bhaa palāu ।</l>
+	  <l>guruvikkama vikkama jiṇia jujjha<caesura/> tā kaṇṇa parakkama kōi bujjha ॥</l>
+	</lg>
+	<pb n="63"/>
+	<lg n="127">
+	  <label>aha aḍillā</label>
+	  <l>sōlaha mattā pāu alillaha<caesura/> bē vi jamakkā bhēu aḍillaha ।</l>
+	  <l>hō ṇa paōhara kimpi aḍillaha<caesura/> anta supia bhaṇa chandu aḍillaha ॥</l>
+	</lg>
+	<lg n="128" met="aḍillā">
+	  <label>jahā</label>
+	  <l>jiṇi āsāvari dēsā diṇhaü<caesura/> sutthira ḍāhararajjā liṇhaü ।</l>
+	  <l>kālañjara jiṇī kittī thappia<caesura/> dhaṇu āvajjia dhammaka appia ॥</l>
+	</lg>
+	<pb n="64"/>
+	<lg n="129">
+	  <label>pādākulaka chanda</label>
+	  <l>lahu guru ēkka ṇiama ṇahi jēhā<caesura/> paa paa lakkhaü uttamarēhā ।</l>
+	  <l>sukaï pharṇidaha kaṁṭhaha vala<caesura/> sōlahamattaṁ pāākulaaṁ ॥</l>
+	</lg>
+	<lg n="130" met="pādākulaka">
+	  <label>jahā</label>
+	  <l>sēra ēka jaï pāvaüm̐ dhittā<caesura/> maṁḍā vīsa pakāvaüm̐ ṇittā ।</l>
+	  <l>ṭaṁku ēka jaü saïndhava pāā<caesura/> jō haü raṁka sōi haü rāā ॥</l>
+	</lg>
+	<pb n="65"/>
+	<lg n="131">
+	  <label>caübōlā chanda</label>
+	  <l>sōlaha mattaha bē vi pamāṇahu<caesura/> bīa caütthahĩ cāridahā ।</l>
+	  <l>mattaha saṭṭhi samaggala jāṇahu<caesura/> cāri paā caübōla kahā ॥</l>
+	</lg>
+	<lg n="132" met="caübōlā">
+	  <label>jahā</label>
+	  <l>rē dhaṇi mattamaaṁgaagāmiṇi<caesura/> khañjaṇalōaṇi candamuhī ।</l>
+	  <l>cañcala juvvaṇa jāta ṇa jāṇahi<caesura/> chaïla samappaï kāī ṇahī ॥</l>
+	</lg>
+	<pb n="66"/>
+	<lg n="133" met="rājasēnā">
+	  <label>paa bīa bāraha ṭhavahu</label>
+	  <l>tīa ṭhāi dahapañca jāṇahu</l>
+	  <l>cārima ēggārahahĩ</l>
+	  <l>pañcamē hi daha pañca āṇahu</l>
+	  <l>aṭṭhā saṭṭhī pūravahu<caesura/> aggē dōhā dēhu ।</l>
+	  <l>rāasēṇa supasiddha ia raḍḍa bhaṇijjaï ēhu ॥</l>
+	</lg>
+	<lg n="134">
+	  <l>visama tikala saṁṭhavahu tiṇṇi pāikka karahu laï</l>
+	  <l>anta ṇarinda ki vippa paḍhama bē matta avara paï ।</l>
+	  <l>samapaa tia pāikka savvalahu anta visajjahu</l>
+	  <l>caüṭhā caraṇa vicāri ēka lahu kahia lijjahu ॥</l>
+	  <l>ima pañca pāa uṭṭavaṇa kaï vatthu ṇāma piṁgala kuṇaï ।</l>
+	  <l>ṭhavi dōsahīṇa dōhā caraṇa rāasēṇa raḍḍaha bhaṇaï ॥</l>
+	</lg>
+	<pb n="67"/>
+	<lg n="135" met="rājasēnā">
+	  <label>jahā</label>
+	  <l>bhamaï mahuara phulla aravinda<caesura/> ṇava kēsukāṇaṇa julia ।</l>
+	  <l>savvadēsa pikarāva vullia<caesura/> siala pavaṇa lahu vahaï ॥</l>
+	  <l>malaakuhara ṇavavalli pēllia ।</l>
+	  <l>citta maṇōbhavasara haṇaï<caesura/> dūra digantara kanta ।</l>
+	  <l>kima pari appaü vārihaü<caesura/> ima paripalia duranta ॥</l>
+	</lg>
+	<lg n="136">
+	  <l>karahī ṇandā mōhiṇī cārusēṇi taha bhadda ।</l>
+	  <l>rāasēṇa tālaṁka pia satta vatthu ṇipphanda ॥</l>
+	</lg>
+	<lg n="137">
+	  <l>paḍhama tīa pañcama paaha tēraha mattā jāsu ।</l>
+	  <l>bīa caüttha ēgārahahĩ karahi bhaṇijjaï tāsu ॥</l>
+	</lg>
+	<pb n="68"/>
+	<lg n="138">
+	  <label>[nandā lakṣaṇa</label>
+	  <l>paḍhama tīa pañcama paaha matta hōi daha cāri ।</l>
+	  <l>bīa caüttha ēgārahahĩ ṇanda bhaṇiñja viāri ॥</l>
+	</lg>
+	<lg n="139">
+	  <label>[mōhinī lakṣaṇa</label>
+	  <l>paḍhama tīa pañcama paaha ṇava daha mattā jāsu ।</l>
+	  <l>bīa caüttha ēgārahahiṁ taṁ mōhiṇī muṇiāsu ॥</l>
+	</lg>
+	<lg n="140">
+	  <label>[cārusēnā lakṣaṇa</label>
+	  <l>paḍhama tīa pañcama paaha matta paṇṇaraha jāsu ।</l>
+	  <l>bīa caütha ēārahahĩ cārusēṇi muṇiāsu ॥</l>
+	</lg>
+	<lg n="141">
+	  <label>bhidrā lakṣaṇa]</label>
+	  <l>paḍhama tīa pañcama paaha mattā dahapañcāi ।</l>
+	  <l>bīa caütthē bārahahĩ bhadda ṇāma kahiāi ॥</l>
+	</lg>
+	<lg n="142">
+	  <label>rājasēnā lakṣaṇa]</label>
+	  <l>paḍhama tīa pañcama paaha matta paṇṇaraha pajattha ।</l>
+	  <l>sama bāraha aru ēkkadaha rāasēṇu bhaṇu tattha ॥</l>
+	</lg>
+	<pb n="69"/>
+	<lg n="143" met="iti raḍḍā prakaraṇam">
+	  <label>[tālaṁkinī lakṣaṇa]</label>
+	  <l>paḍhama tīa pañcama paaha mattā sōlaha jāsu ।</l>
+	  <l>sama bāraha aru ēkkadaha tālaṁkiṇi bhaṇu tāsu ॥</l>
+	</lg>
+	<lg n="144">
+	  <label>(padmāvatī chandaḥ)</label>
+	  <l>bhaṇu paümāvattī ṭhāṇaṁ ṭhāṇaṁ caümattā gaṇa aṭṭhāā।</l>
+	  <l>dhua kaṇṇō karaalu vippō caraṇō pāē pāa ukiṭṭhāā ॥</l>
+	  <l>jaï palaï paōhara kimaï maṇōhara pīḍaï taha ṇāakkaguṇō ।</l>
+	  <l>piaraha santāsaï kaï uvvāsaï ia caṁḍālacaritta gaṇē ॥</l>
+	</lg>
+	<lg n="145">
+	  <label>jahā</label>
+	  <l>bhaa bhajjia vaṁgā bhaṁgu kaliṁgā tēlaṁgā raṇa mukki calē ।</l>
+	  <l>marahaṭṭhā dhiṭṭhā laggia kaṭṭhā sōhā bhaa pāa palē ॥</l>
+	  <l>campāraṇa kampā pavvaa jhampā ātthā ātthī jīva harē ।</l>
+	  <l>kāsīsara rāṇā kiaü paāṇā vijjāhara bhaṇa mantivarē ॥</l>
+	</lg>
+	<pb n="70"/>
+	<lg n="146">
+	  <label>[atha kuṁḍaliyā chanda]</label>
+	  <l>dōhā lakkhaṇa paḍhama paḍhi kavvaha addha ṇirutta ।</l>
+	  <l>kuṁḍaliā buhaaṇa muṇahu ulālē sañjutta ।</l>
+	  <l>ullālē sañjutta jamaka suddhaü salahijjaï ।</l>
+	  <l>caüālaha saü matta sukaï diḍhabandhu kahijjaï ।</l>
+	  <l>caālaha saü matta jāsu taṇu bhūṣaṇa sōhā ।</l>
+	  <l>ēma kuṁḍaliā jāṇahu paḍhama jaha paḍhiaï dōhā ॥</l>
+	</lg>
+	<pb n="71"/>
+	<lg n="147" met="kuṁḍaliyā">
+	  <label>jahā</label>
+	  <l>ḍhāllā māria ḍhilli maham̐ mucchi. mēcchasarīra ।</l>
+	  <l>pura jajjallā mantivara calia vīra hammīra ॥</l>
+	  <l>calia vīra hammīra pāabhara mēiṇi kampaī ।</l>
+	  <l>diga maga ṇaha andhāra dhūli sūraha raha jhampaï ॥</l>
+	  <l>diga maga ṇaha andhāra āṇa khurasāṇaka āllā ।</l>
+	  <l>daramari damasi vipakkha māru<caesura/> ḍhillī maham̐ ḍhāllā ॥</l>
+	</lg>
+	<pb n="72"/>
+	<lg n="149">
+	  <label>[atha gaganāṁgacchandaḥ]</label>
+	  <l>paa paa ṭhavahu jāṇi gaaṇaṁgaü matta vihūsiṇā</l>
+	  <l>bhāaü bīsa kalaa saraaggala lahu gurusēsiṇā ॥</l>
+	  <l>paḍhamahi matta cāri gaṇa kijjahu gaṇaha paāsiō</l>
+	  <l>bīsakkhara saala paaha pia guru anta paāsiō ॥</l>
+	</lg>
+	<lg n="150">
+	  <l>paḍhamahi cakkalu hōi gaṇa antahi dijjahu hāru ।</l>
+	  <l>bīsakkhara gaaṇaṁga bhaṇu matta pacīsa viāru ॥</l>
+	</lg>
+	<pb n="73"/>
+	<lg n="151">
+	  <label>jahā</label>
+	  <l>bhañjia malaa cōlavaï ṇipalia gañjia guñjarā</l>
+	  <l>mālavarāa malaagiri lukkia parihari kuñjarā ।</l>
+	  <l>khurāsāṇa khuhia raṇa maham̐ laṁghia muhia sāarā</l>
+	  <l>hammīra calia hārava palia riugaṇaha kāarā ॥</l>
+	</lg>
+	<lg n="152">
+	  <label>[atha dvipadīchandaḥ]</label>
+	  <l>āiga indu jattha hō paḍhamahi dijjaï tiṇi dhaṇuharaṁ</l>
+	  <l>taha pāikajuala parisaṁṭhavahu vivihacittasundaraṁ ॥</l>
+	</lg>
+	<lg n="153">
+	  <l>sarasaï laïa pasāu taha puhavī karahi kaïtta kaïaṇā</l>
+	  <l>mahuaracaraṇa anta laï dijjahu dōaï muṇahu buhaaṇā ॥</l>
+	</lg>
+	<pb n="74"/>
+	<lg n="154">
+	  <l>chakkalu muha saṁṭhāvi kaï cakkalu pañca ṭhavēhu ।</l>
+	  <l>antahi ēkkaḍa़ hāra daï dōaï chanda kahēhu ॥</l>
+	</lg>
+	<lg n="155" met="dōaï = dvipadī">
+	  <label>jahā</label>
+	  <l>dāṇava dēva bē vi dukkantaü girivara sihara kampiō</l>
+	  <l>haagaapāaghāa utaü dhūlihi gaaṇa jhampiō ॥</l>
+	</lg>
+	<lg n="156">
+	  <label>[atha jhullaṇa-jhūlanā-chandaḥ]</label>
+	  <l>paḍhama daha dijjiā puṇa vi taha kijjiā<caesura/> puṇa vi daha satta taha viraï jāā ।</l>
+	  <l>ēma pari bi bihu dala<caesura/> matta satatīsa pala<caesura/> ēhu kahu jhulaṇā ṇāarāā ॥</l>
+	</lg>
+	<pb n="75"/>
+	<lg n="157">
+	  <label>jahā</label>
+	  <l>sahasa maamatta gaa lākha lakha pakkharia</l>
+	  <l>sāhi dui sāji khēlanta gindū ।</l>
+	  <l>kōppi pia jāhi taha thappi jasu vimala mahi</l>
+	  <l>jiṇaï ṇahi kōi tuha tuluka hindū ॥</l>
+	</lg>
+	<pb n="76"/>
+	<lg n="158">
+	  <label>[khañjā chandaḥ]</label>
+	  <l>dhua dharia diavara ṇava gaṇa kamalaṇaaṇi</l>
+	  <l>buhaaṇa maṇa suhaï ju jima sasi raaṇi sōhaē ।</l>
+	  <l>puṇa via viraï bihu paa gaavaragamaṇi</l>
+	  <l>ragaṇa para phaṇivaï bhaṇa sumaru buhaaṇa mōhaē ॥</l>
+	</lg>
+	<lg n="159">
+	  <l>bihu dala ṇava pala vippagaṇa jōhala anta ṭhavēhu ।</l>
+	  <l>matta iālisa khañja paa dahagaṇa tattha muṇēhu ॥</l>
+	</lg>
+	<pb n="77"/>
+	<lg n="160">
+	  <label>jahā</label>
+	  <l>ahi lalaï mahi calaï giri khasaï hara khalaï</l>
+	  <l>sasi ghumaï amia vamaï muala jivi uṭṭaē ।</l>
+	  <l>puṇu dhasaï puṇu khasaï puṇu lalaï puṇu ghumaï</l>
+	  <l>puṇu vamaï jivia viviha pari samara diṭṭhaē ॥[khañjā</l>
+	</lg>
+	<lg n="161">
+	  <label>[atha sikhā-śikhā-chanda].</label>
+	  <l>sasivaaṇi gaagamaṇi paa paa dia chagaṇa paahara saha sikkha ।</l>
+	  <l>paḍha paḍhama bi biha lahu paali diagaṇa sahia juala dala bhaṇaï sa sikkha ॥</l>
+	</lg>
+	<pb n="78"/>
+	<lg n="162" met="gāhū">
+	  <l>matta aṭhāisa paḍhamē bīē battīsa mattāī।</l>
+	  <l>paa paa antē lahuā suddhā sikkhā viāṇēhu ॥</l>
+	</lg>
+	<lg n="163">
+	  <label>jahā</label>
+	  <l>phulia mahu bhamara bahu raaṇipahu<caesura/> kiraṇa lahu avaaru vasanta ।</l>
+	  <l>malaagiri kuhara dhari pavaṇa vaha<caesura/> sahava kaha suṇa sahi ṇiala ṇahi kanta ॥[śikhā</l>
+	</lg>
+	<pb n="79"/>
+	<lg n="164">
+	  <label>[mālā chanda]</label>
+	  <l>paḍhama caraṇa sasivaaṇi miaṇaaṇi ṇava diagaṇa</l>
+	  <l>paala puṇa vi taha raaṇa ṭhavahu antaē kaṇṇō ।</l>
+	  <l>piṁgala ṇāa bhaṇantā mālā sēsaṁ pi gāhamma ॥</l>
+	</lg>
+	<lg n="165">
+	  <l>paḍhama hōi ṇava vippagaṇa jōhala kaṇṇa ṭhavēhu ।</l>
+	  <l>gāhā addhā anta daï mālā chanda kahēhu ॥</l>
+	</lg>
+	<pb n="80"/>
+	<lg n="166" met="mālā">
+	  <label>jahā;</label>
+	  <l>barisa jala bhamaï ghaṇa gaaṇa siala pavaṇa maṇaharaṇa</l>
+	  <l>kaṇaapiari ṇacaï vijuri phulliā ṇīvā ।</l>
+	  <l>pattharavittharahialā pialā ṇialaṁ ṇa āvēi ॥</l>
+	</lg>
+
+	<lg n="167">
+	  <label>[culiālā chandaḥ]</label>
+	  <l>culiālā jaï dēha kimu dōhā uppara mattaha pañcaï ।</l>
+	  <l>paa paa uppara saṁṭhavahu suddha kusumagaṇa antaha dijjaï ॥</l>
+	</lg>
+	<pb n="81"/>
+	<lg n="168">
+	  <l>dōhā saṁkhā saṁṭhahu umpari pañcaï matta ।</l>
+	  <l>aṭṭhadahuppari bīsa dui culiālā ukkhitta ॥</l>
+	</lg>
+	<lg n="169">
+	  <label>jahā</label>
+	  <l>rāā luddha samāja khala bahu kalahāriṇi sēvaka dhuttaü ।</l>
+	  <l>jīvaṇa cāhasi mukkha jaï pariharu ghara jaï bahuguṇajuttaü ॥[culiālā</l>
+	</lg>
+	<lg n="170">
+	  <label>[atha sōṭuā chandaḥ ]</label>
+	  <l>sō sōraṭṭhaü jāṇa<caesura/> jaṁ dōhā viparīa ṭhia ।</l>
+	  <l>paa paa jamaka vakhāṇa<caesura/> ṇāarāa piṁgala kahia ॥</l>
+	</lg>
+	<lg n="171" met="sōraṭhā">
+	  <label>jahā</label>
+	  <l>sō māṇia puṇavanta<caesura/> jāsu bhatta paṁḍia taṇaa ।</l>
+	  <l>jāsu ghariṇi guṇavanti<caesura/> sō vi puhavi saggaha ṇilaa ॥</l>
+	</lg>
+	<pb n="82"/>
+	<lg n="172">
+	  <label>[atha hākali chandaḥ]</label>
+	  <l>sagaṇā bhagaṇā diagaṇaī<caesura/> matta caüddaha paa palaī ।</l>
+	  <l>saṁṭhaï vaṁkō viraha tahā hākali rūaü ēhu kahā ॥</l>
+	</lg>
+	<lg n="173" met="dōhā">
+	  <l>matta caüddaha paḍhama dala ēāraha vaṇṇēhi ।</l>
+	  <l>duha akkhara uttara dalahi hākali chanda kahēhi ॥</l>
+	</lg>
+	<lg n="174" met="hākali">
+	  <label>jahā</label>
+	  <l>uccaü chāaṇa vimala dharā taruṇī ghariṇī viṇaaparā ।</l>
+	  <l>vittaka pūrala muddaharā varisā samaā sukkhakarā ॥</l>
+	</lg>
+	<pb n="83"/>
+	<lg n="175">
+	  <label>[atha madhubhāracchanda]</label>
+	  <l>jasu palaï sakkha paaharaha ēka ।</l>
+	  <l>caümatta bē vi mahubhāra ēvi ॥</l>
+	</lg>
+	<lg n="176" met="madhubhāra">
+	  <label>jahā</label>
+	  <l>jasu canda sīsa pindhaṇaha dīsa ।</l>
+	  <l>sō sambhu ēu tuha subbha dēu ॥</l>
+	</lg>
+	<pb n="84"/>
+	<lg n="177">
+	  <label>[atha ābhīracchandaḥ]</label>
+	  <l>gāraha matta karīja anta paōhara dīja।</l>
+	  <l>ēhu suchanda ahīra jaṁghaï piṁgala vīra ॥</l>
+	</lg>
+	<lg n="178" met="ahīra">
+	  <label>jahā</label>
+	  <l>sundari gujjari ṇāri lōaṇa dīha visāri ।</l>
+	  <l>pīṇa paōharabhāra lōlaï mōttiahāra ॥</l>
+	</lg>
+	<lg n="179">
+	  <label>[atha daṇḍakacchandaḥ</label>
+	  <l>kuntaaru dhaṇuddharu haavaru chakkalu bi bi pāikka dalē</l>
+	  <l>battīsaha mattaha paa supasiddhaü jāṇaha buhaaṇa hiaatalē ।</l>
+	  <l>saübīsa aṭhaggala kala sampuṇṇaü rūaü phaṇi bhāsia bhuaṇē</l>
+	  <l>daṁḍaala ṇiruttaü guru sañjuttaü piṁgala aṁ japanta maṇē ॥</l>
+	</lg>
+	<pb n="85"/>
+	<lg n="180" met="daṁḍakala">
+	  <label>jahā</label>
+	  <l>rāaha bhaggantā dia laggantā parihari haa gaa ghara ghariṇī</l>
+	  <l>lōrahĩ bharu saravaru paa paru parikaru lōṭṭaī piṭṭaï taṇu dharaṇī ।</l>
+	  <l>puṇu uṭṭhaï sambhali kara dantaṁguli bāla taṇaa kara jamala karē</l>
+	  <l>kāsīsara rāā ṇēhalu kāā karu māā puṇu thappi dharē ॥</l>
+	</lg>
+	<pb n="86"/>
+	<lg n="181">
+	  <l>sira dēha caü matta<caesura/> lahu ēka kara anta ।</l>
+	  <l>kuntēkka tasu majjha<caesura/> dīpakka sō bujjha ॥</l>
+	</lg>
+	<lg n="182">
+	  <label>jahā</label>
+	  <l>jasu hattha karavāla vippakkhakulakāla ।</l>
+	  <l>sira sōha vara chatta sampuṇṇasasimatta ॥[dīpaka</l>
+	</lg>
+	<lg n="183">
+	  <label>[atha siṁhāvalōkacchandaḥ]</label>
+	  <l>gaṇa vippa sagaṇa dhari paaha paaṁ<caesura/> bhaṇa siṁhaalōaṇa chanda varaṁ ।</l>
+	  <l>guṇi gaṇa maṇa bujjhahu ṇāa bhaṇā<caesura/> ṇahi jagaṇu ṇa bhagaṇu ṇa kaṇṇa gaṇā ॥</l>
+	</lg>
+	<pb n="87"/>
+	<lg n="184">
+	  <l>vippa sagaṇa paa bē vi gaṇa anta visajjahi hāra ।</l>
+	  <l>pacchā hēri kaïtta karu sōlaha kala patthāra ॥</l>
+	</lg>
+	<lg n="185" met="siṁhāvalōka">
+	  <label>jahā</label>
+	  <l>haṇu ujjara gujjara rāabalaṁ<caesura/> dala dalia calia marahaṭṭhabalaṁ ।</l>
+	  <l>bala mōlia mālavarāakulā<caesura/> kula ujjala kalaculi kaṇṇa phulā ॥</l>
+	</lg>
+	<lg n="186">
+	  <label>[atha plavaṁgamacchandaḥ]</label>
+	  <l>jattha paḍhama chaa matta paappaa dijjaē<caesura/> pañcamatta caümatta gaṇā ṇahi kijjaē।</l>
+	  <l>sambhali anta lahū guru ēkkaka cāhaē<caesura/> muddhi paaṁgama chanda viakkhaṇa sōhaē ॥</l>
+	</lg>
+	<pb n="88"/>
+	<lg n="187" met="gāhā">
+	  <l>paa paa āihi guruā piṁgala pabhaṇēi saala ṇibbhantī ।</l>
+	  <l>chanda pavaṁgama diṭṭhō mattāṇaṁ ēkabīsantī ॥</l>
+	</lg>
+	<lg n="187a" met="dōhā">
+	  <l>tikkalu caükala pañcakala tia gaṇa dūra karēhu ।</l>
+	  <l>chakkalu tiṇi palanta jēhi lahu guru anta muṇēhu ॥187 kā</l>
+	</lg>
+	<lg n="188" met="plavaṁgama">
+	  <label>jahā</label>
+	  <l>ṇaccaï cañcala vijjuliā sahi jāṇaē<caesura/> mammaha khagga kiṇīsaï jalaharasāṇaē ।</l>
+	  <l>phulla kalambaa ambara ḍambara dīsaē<caesura/> pāusa pāu ghaṇāghaṇa sumuhi varīsaē ॥</l>
+	</lg>
+	<lg n="189">
+	  <label>[atha līlāvatīcchandaḥ]</label>
+	  <l>guru lahu ṇahi ṇimma ṇimma ṇahi akkhara palaï paōhara visama samaṁ</l>
+	  <l>jahi kahum̐ ṇahi ṇimmaha tarala turaa jimi parasa vidisa disa agamagamaṁ ।</l>
+	  <l>gaṇa pañca caükkala palaï ṇirantara anta sagaṇa dhua kanta gaṇaṁ</l>
+	  <l>paricalaï supari pari līla lilāvaï kala battīsa visāmakaraṁ ॥</l>
+	</lg>
+	<pb n="89"/>
+	<lg n="190" met="līlāvatī">
+	  <label>jahā</label>
+	  <l>ghara laggaï aggi jalaï dhaha dhaha kaï diga maga ṇahapaha aṇala bharē</l>
+	  <l>sava dīsa pasari pāikka lulaï dhaṇi thaṇahara jahaṇa diāva karē ।</l>
+	  <l>bhaa lukkia thakkia vahari taruṇijaṇa bhaïrava bhēria sadda palē</l>
+	  <l>mahi lāi paṭṭaï riusira ṭuṭṭaï jakkhaṇa vīra hamīra calē ॥</l>
+	</lg>
+	<pb n="90"/>
+	<lg n="191">
+	  <label>[atha harigītā chandaḥ]</label>
+	  <l>gaṇa cāri pañcakkala ṭhavijjasu bīa ṭhāmahi chakkalō</l>
+	  <l>paa paaha antahi guru karijjasu vaṇṇaṇēṇa susavvalō ।</l>
+	  <l>daha cāri dukkaḍa़ dahadu māṇahu matta ṭhāisa pāaō</l>
+	  <l>harigīa chanda pasiddha jāṇahu piṁgalēṇa paāsiō ॥</l>
+	</lg>
+	<lg n="192">
+	  <l>bīē chakkalu ṭhāvi kahu cāri pañcakkala dēhu ।</l>
+	  <l>bāraha uttara matta saü māṇasu aṁga ṭhavēhu ॥</l>
+	</lg>
+	<lg n="193" met="harigītā">
+	  <label>jahā</label>
+	  <l>gaa gaahi dukkia taraṇi lukkia turaa turaahi jujjhiā</l>
+	  <l>raha rahahi mīlia dharaṇi pīḍia appa para ṇahi bujjhiā ।</l>
+	  <l>bala milia āia patti dhāiu kampa girivarasīharā</l>
+	  <l>ucchalaï sāara dīṇa kāara vaïra vaḍḍia dīharā ॥</l>
+	</lg>
+	<pb n="91"/>
+	<lg n="194">
+	  <label>[atha tribhaṁgī chanda]</label>
+	  <l>paḍhamaṁ daha rahaṇaṁ aṭṭhavi rahaṇaṁ puṇu vasu rahaṇaṁ rasarahaṇaṁ</l>
+	  <l>antē guru sōhaï mahiala mōhaï siddha sarāhaï varataruṇaṁ ।</l>
+	  <l>jaï palaï paōhara kimaï maṇōhara haraï kalēvara tāsu kaī</l>
+	  <l>tibbhaṁgī chandaṁ sukkhāṇandaṁ bhaṇaï pharṇidō vimalamaī ॥</l>
+	</lg>
+	<lg n="195" met="tribhaṁgī">
+	  <label>jahāṁ</label>
+	  <l>sira kijjia gaṁgaṁ gōri adhaṁgaṁ haṇiaaṇaṁgaṁ puradahaṇaṁ</l>
+	  <l>kiaphaṇivaïhāraṁ tihuaṇasāraṁ vandiachāraṁ riumahaṇaṁ ।</l>
+	  <l>surasēviacaraṇaṁ muṇigaṇasaraṇaṁ bhavabhaaharaṇaṁ sūladharaṁ</l>
+	  <l>sāṇandiavaaṇaṁ sundaraṇaaṇaṁ girivarasaaṇaṁ ṇamaha haraṁ ॥</l>
+	</lg>
+	<pb n="92"/>
+	<lg n="196">
+	  <label>[atha durmilā chandaḥ]</label>
+	  <l>tīsa dui mattaha ēri sam̐juttaha buhaaṇa rāa bhaṇanti ṇarā</l>
+	  <l>visama tia ṭhāmahi ērisa bhāahi paa paa dīsaï kaṇṇa gharā ।</l>
+	  <l>tā daha paḍhama ḍhāvē aṭṭha aṁ tīa caüddaha kia ṇilaō</l>
+	  <l>jō ērisi chandē tihuaṇavandē sō jaṇa bujjhaü dummilaō ॥</l>
+	</lg>
+	<lg n="197" met="dōhā">
+	  <l>daha vasu caüdaha viraha karu visama kaṇṇa gaṇa dēhu ।</l>
+	  <l>antara vippa païkka gaṇa dummila chanda kahēhu ॥</l>
+	</lg>
+	<lg n="198" met="durmilā">
+	  <label>jahā</label>
+	  <l>jaï kijjia dhālā jiṇṇu ṇivālā bhāṭuntā piṭṭēta calē</l>
+	  <l>bhañjāvia cīṇā dapyahi hīṇā lōhāvala hākanda palē ।</l>
+	  <l>āḍḍā uḍḍāvia kittī pāvia mōḍia mālavarāabalē</l>
+	  <l>tēlaṁgā bhaggia bahuriṇa laggia kāsīrāā ja khaṇa calē ॥</l>
+	</lg>
+	<pb n="93"/>
+	<lg n="199">
+	  <label>[atha hīracchandaḥ]</label>
+	  <l>ṇāa pabhaṇa tiṇṇi chagaṇa anta karahi jōhalaṁ</l>
+	  <l>hāra ṭhavia puṇu vi supia vippagaṇahi savvalaṁ ।</l>
+	  <l>tiṇi dharahi bē vi karahi anta ragaṇa lakkhaē</l>
+	  <l>kōi jaṇaï dappa bhaṇaï hīra sukaï pakkhaē ॥</l>
+	</lg>
+	<lg n="200" met="dōhā">
+	  <l>hāra supia bhaṇa vippagaṇa tīē bhiṇṇa sarīra ।</l>
+	  <l>jōhala antē saṁṭhavahu tēisa mattaha hīra ॥</l>
+	</lg>
+	<lg n="201" met="hīra">
+	  <label>jahā</label>
+	  <l>dhikkadalaṇa thōṁgadalaṇa taka taruṇa riṁgaē</l>
+	  <l>ṇaṁ ṇa ṇu kaṭa diṁga dukaṭa raṁga cala turaṁga ē ।</l>
+	  <l>dhūli dhavala hakka sabala pakkhipabala pattiē ।</l>
+	  <l>kaṇṇa calaï kumma lalaï bhummi bharaï kittiē ॥</l>
+	</lg>
+	<pb n="94"/>
+	<lg n="202">
+	  <label>[atha jalaharaṇacchandaḥ]</label>
+	  <l>paa paḍhama palaï jahĩ suṇahi kamalamuhi daha vasu puṇu vasu viraḍa़ karē</l>
+	  <l>saba paa muṇi diagaṇa dia virama sagaṇa siriphaṇivaï bhaṇa sukaïvarē ।</l>
+	  <l>daha tiguṇa karahi kala puṇa vi dhari juala ēma pari pariṭhaü caücaraṇā</l>
+	  <l>jaï palaï kavahu guru kavahu ṇa pariharu buhaaṇa maṇaharu jalaharaṇā ॥</l>
+	</lg>
+	<lg n="203" met="gāhū">
+	  <l>battīsa hōi mattā antē sagaṇāĩ ṭhāvēhi ।</l>
+	  <l>savva lahū jaï guruā<caesura/> ēkkō vā bē vi pāēhi ॥</l>
+	</lg>
+	<lg n="204" met="jalaharaṇa">
+	  <label>jahā</label>
+	  <l>khura khura khudi khudi mahi ghaghara rakha kalaï ṇaṇaṇagidi kari turaa calē</l>
+	  <l>ṭaṭaṭagidi palaï ṭapu dhasaï dharaṇi dhara cakamaka kara bahu disi camalē ।</l>
+	  <pb n="95"/>
+	  <l>calu damaki damaki dalu cala païkabalu ghulaki ghulaki karivara laliā</l>
+	  <l>vada maṇusaala karaï vipakha hiaa sala hamira vīra jaba raṇa caliā ॥</l>
+	</lg>
+	<lg n="205">
+	  <label>[atha maaṇaharā chandaḥ]</label>
+	  <l>pia bhaṇami maṇōharu palli paōharu suhava suhāva susiddha khaṇō thira karahi maṇō</l>
+	  <l>jaï rāa vivattiu aṇusara khattia kaṭṭhikaē bahi chanda bhaṇō jima khalaï riṇō ।</l>
+	  <l>bi bi salla pahillia turaa vahillia haa gaa paa pasaranta dharā guru sajjikarā</l>
+	  <l>jaï jaggi ṇiruttaü dahagaṇajuttaü caü sandhihi cālīsa dharā bhaṇu maaṇaharā ॥</l>
+	</lg>
+	<pb n="96"/>
+	<lg n="206">
+	  <l>bē vi matta sira ṭhāvi kahu valaā anta ṭhavēhu ।</l>
+	  <l>ṇava caükala gaṇa majjha dhari maaṇaharāĩ karēhu ॥</l>
+	</lg>
+	<lg n="207">
+	  <label>jahā</label>
+	  <l>jiṇi kaṁsa viṇāsia kitti paāsia muṭṭhi ariṭṭi viṇāsa karē giri hattha dharē</l>
+	  <l>jamalajjuṇa bhañjia paabhara gañjia kālia kula saṁhāra karē jasa bhuaṇa bharē ।</l>
+	  <l>cāṇūra vihaṁḍia ṇiakula maṁḍia rāhāmuha mahupāṇa karē jimi bhamaravarē</l>
+	  <l>sō tumha ṇarāaṇa viṣpaparāaṇa cittaha cintia dēu varā bhaabhīaharā ॥</l>
+	</lg>
+	<lg n="207">
+	  <l>caüsandhihi cālīsa kala daha gaṇa tattha muṇēhu ।</l>
+	  <l>paahara vajjia hē supia maaṇaharāĩ kuṇēhu ॥</l>
+	</lg>
+	<pb n="97"/>
+	<lg n="208">
+	  <label>[atha marahaṭṭhā chandaḥ]</label>
+	  <l>ēhu chanda sulakkhaṇa bhaṇaï viakkhaṇa jampaï piṁgala ṇāu</l>
+	  <l>visamaï daha akkhara puṇu aṭṭhakkhara puṇu ēgāraha ṭhāu ।</l>
+	  <l>gaṇa āihi chakkalu pañca caükkulu anta guru lahu dēhu</l>
+	  <l>saü sōlaha aggala matta samaggala bhaṇa marahaṭṭhā ēhu ।208॥</l>
+	</lg>
+	<lg n="209">
+	  <label>jahā</label>
+	  <l>jasu mitta dhaṇēsā sasura girīsā taha vihu pindhaṇa dīsa</l>
+	  <l>jaï amiaha kandā ṇialahi candā taha vihu bhōaṇa vīsa ।</l>
+	  <l>jaï kaṇaa suraṁgā gōri adhaṁgā taha vihu ḍākiṇi saṁga</l>
+	  <l>jō jasa hi diāvā dēva sahāvā kabahu ṇa hō tasu bhaṁga ॥</l>
+	</lg>
+	<pb n="98"/>
+	<ab>
+	  <label>[ukta mātrika chandōṁ kī anukramaṇikā]</label>
+	  <p>gāhū, gāhā, vigāhā, uggāhā, gāhiṇī, sīhiṇī, khandhā, dōhā, ukkacchā, rōlā, gandhāṇa,
+	  caüpaïā, ghattā, ghattāṇanda, chapyāā, pajjhaḍiā, aḍillā, pāāulaaṁ, caübōlā, ṇaüpaa, paümāvattī,
+	  kuṁḍaliā, gaaṇaṁgaü, dōaī, jhulaṇā, khañjapaa, sikkhā, mālā, culiālā, sōraddhā, hākali,
+	  mahuāra, mahāru, daṁḍaaru, dīpaka, siṁhālōa, pavaṁgā, līlāvaï, harigīā, tiabhaṁgī, dummilā, hīrō,
+	  janaharaṇī, maaṇaharā, marahaṭṭhā pacatālīsa dharā ।</p>
+	</ab>
+	<traïler>iti mattāvitta paricchēō ।</traïler>
+      </div>
+      <div n="2">
+	<pb n="99"/>
+	<head>aha vaṇṇavittāṇi</head>
+	<lg n="1">
+	  <l>sī (śrī) sō।</l>
+	  <l>jaṁ gō ॥</l>
+	</lg>
+	<lg n="2">
+	  <label>jahā</label>
+	  <l>gōrī ।</l>
+	  <l>rakkhō ॥</l>
+	</lg>
+	<lg n="3">
+	  <l>dīhā bīhā।</l>
+	  <l>kāmō rāmō ॥</l>
+	</lg>
+	<lg n="4" met="kāma">
+	  <label>jahā</label>
+	  <l>jujjhē tujhē।</l>
+	  <l>subbhaṁ dēū ॥</l>
+	</lg>
+	<pb n="100"/>
+	<lg n="5">
+	  <label>madhu chandaḥ</label>
+	  <l>lahu jua।</l>
+	  <l>mahu hua ॥</l>
+	</lg>
+	<lg n="6">
+	  <label>jahā</label>
+	  <l>hara hara ।</l>
+	  <l>mama mala ॥(madhu)</l>
+	</lg>
+	<lg n="7">
+	  <label>mahī chandaḥ</label>
+	  <l>lagō jahī।</l>
+	  <l>mahī kahī ॥</l>
+	</lg>
+	<lg n="8" met="mahī">
+	  <label>jahā</label>
+	  <l>saī umā ।</l>
+	  <l>rakhō tumā ॥</l>
+	</lg>
+	<lg n="9">
+	  <label>sāru chandaḥ</label>
+	  <l>sāru ēha ।</l>
+	  <l>gō vi rēha ॥</l>
+	</lg>
+	<pb n="101"/>
+	<lg n="10" met="sāru">
+	  <label>jahā</label>
+	  <l>sambhu ēu।</l>
+	  <l>subbha dēu ॥</l>
+	</lg>
+	<lg n="11">
+	  <label>tryakṣara chanda<caesura/> tālī chandaḥ</label>
+	  <l>tālī ē jāṇīē ।</l>
+	  <l>gō kaṇṇō tivvaṇṇō ॥</l>
+	</lg>
+	<lg n="12" met="tālī">
+	  <label>jahā</label>
+	  <l>tumhāṇaṁ amhāṇaṁ ।</l>
+	  <l>caṁḍēsō rakkhē sō ॥</l>
+	</lg>
+	<lg n="13">
+	  <label>priyā chanda:</label>
+	  <l>hē piē lēkkhiē ।</l>
+	  <l>akkharē tiṇṇi rē ॥</l>
+	</lg>
+	<pb n="102"/>
+	<lg n="14" met="priyā">
+	  <label>jahā</label>
+	  <l>saṁkarō saṁkarō ।</l>
+	  <l>pāu ṇō pāu ṇō ॥</l>
+	</lg>
+	<lg n="15">
+	  <label>śaśī chandaḥ</label>
+	  <l>sasī yō jaṇīyō ।</l>
+	  <l>phaṇidō bhaṇīō ॥</l>
+	</lg>
+	<lg n="16" met="śaśī">
+	  <l>bhavāṇī hasantī।</l>
+	  <l>durittaṁ harantī ॥</l>
+	</lg>
+	<pb n="103"/>
+	<lg n="17">
+	  <label>ramaṇa chandaḥ</label>
+	  <l>sagaṇō ramaṇō ।</l>
+	  <l>sahiō kahiō ॥</l>
+	</lg>
+	<lg n="18" met="ramaṇa">
+	  <label>jahā</label>
+	  <l>sasiṇā raaṇī ।</l>
+	  <l>paḍa़ṇā taruṇī ॥</l>
+	</lg>
+	<lg n="19">
+	  <label>pañcāla chandaḥ</label>
+	  <l>takkāra jaṁ didu ।</l>
+	  <l>pañcāla ukviṭṭha ॥</l>
+	</lg>
+	<lg n="20">
+	  <label>jahā</label>
+	  <l>sō dēu sukkhāī।</l>
+	  <l>saṁghāri dukkhāĩ ॥</l>
+	</lg>
+	<pb n="104"/>
+	<lg n="21">
+	  <label>mr̥gēndra chandaḥ</label>
+	  <l>ṇarēnda ṭhavēhu ।</l>
+	  <l>miēnda kahēhu ॥</l>
+	</lg>
+	<lg n="22" met="mr̥gēndra">
+	  <label>jahā</label>
+	  <l>duranta vasanta ।</l>
+	  <l>sa kanta diganta ॥</l>
+	</lg>
+	<lg n="23">
+	  <label>mandara chandaḥ</label>
+	  <l>bhō jahi sō sahi।</l>
+	  <l>mandara sundara ॥</l>
+	</lg>
+	<lg n="24" met="mandara">
+	  <label>jahā</label>
+	  <l>sō hara tōhara ।</l>
+	  <l>saṁkaṭa saṁhara ॥</l>
+	</lg>
+	<lg n="25">
+	  <label>kamala chandaḥ</label>
+	  <l>kamala pabhaṇa ।</l>
+	  <l>sumuhi ṇagaṇa ॥</l>
+	</lg>
+	<pb n="105"/>
+	<lg n="26" met="kamala">
+	  <label>jahā</label>
+	  <l>sundara ।</l>
+	  <l>ramaṇa gamaṇa ।</l>
+	  <l>kamaṇa kamaṇa ॥</l>
+	</lg>
+	<lg n="27">
+	  <label>caturakṣara chanda<caesura/> tīrṇā chanda:</label>
+	  <l>cārī hārā aṭṭhā kālā ।</l>
+	  <l>bīē kaṇṇā jāṇē tiṇṇā ॥</l>
+	</lg>
+	<lg n="28" met="tīrṇā">
+	  <l>jāā māā puttō dhuttō ।</l>
+	  <l>iṇṇē jāṇī kijjē juttō ॥</l>
+	</lg>
+	<lg n="29">
+	  <label>dhārī chandaḥ</label>
+	  <l>vaṇṇa cāri muddhi dhāri ।</l>
+	  <l>biṇi hāra dō vi sāra ॥</l>
+	</lg>
+	<pb n="106"/>
+	<lg n="30" met="dhārī">
+	  <label>jahā</label>
+	  <l>dēu dēu subbha dēu।</l>
+	  <l>jāsu sīsa canda dīsa ॥</l>
+	</lg>
+	<lg n="31">
+	  <label>nagāṇikā chandaḥ</label>
+	  <l>paōharō guruttarō ।</l>
+	  <l>ṇagāṇiā sa jāṇiā ॥</l>
+	</lg>
+	<lg n="32" met="nagāṇikā">
+	  <label>jahā</label>
+	  <l>sarassaī pasaṇṇa hō ।</l>
+	  <l>kavittaā phurantaā ॥</l>
+	</lg>
+	<lg n="33">
+	  <label>pañcākṣara prastāra<caesura/> sarvaguru saṁmōhā chandaḥ</label>
+	  <l>saṁmōhārūaṁ diṭṭhō sō bhūaṁ ।</l>
+	  <l>bē kaṇṇā hārā bhūantāsārā ॥</l>
+	</lg>
+	<pb n="107"/>
+	<lg n="34" met="saṁmōhā">
+	  <label>jahā</label>
+	  <l>udaṁḍā caṇḍī dūrittākhaṇḍī ।</l>
+	  <l>tallākā sākkhaṁ dēū mē mōkkham ॥</l>
+	</lg>
+	<lg n="35">
+	  <label>hārī chandaḥ</label>
+	  <l>āīhi antē hārē sajuttē ।</l>
+	  <l>majhakkagandhō hārī a chandō ॥</l>
+	</lg>
+	<lg n="36" met="hārī">
+	  <label>jahā</label>
+	  <l>jā bhattibhattā dhammakkacittā ।</l>
+	  <l>sā hōi ṇārī dhaṇṇā piārī ॥</l>
+	</lg>
+	<lg n="37">
+	  <label>haṁsa chandaḥ</label>
+	  <l>piṁgala dihrō bha i siṭṭhō ।</l>
+	  <l>kaṇṇadu dijjō haṁsa muṇijjō ॥</l>
+	</lg>
+	<pb n="108"/>
+	<lg n="38" met="haṁsa">
+	  <label>jahā</label>
+	  <l>sō maha kantā dūra digantā ।</l>
+	  <l>pāusa āvē cēu calāvē ॥</l>
+	</lg>
+	<lg n="39">
+	  <label>yamaka chandaḥ</label>
+	  <l>supiagaṇa sarasa guṇa ।</l>
+	  <l>saraha gaṇa jamaa bhaṇa ॥</l>
+	</lg>
+	<lg n="40" met="yamaka">
+	  <label>jahā</label>
+	  <l>pavaṇa vaha sarira daha ।</l>
+	  <l>maaṇa haṇa tavaï maṇa ॥</l>
+	</lg>
+	<lg n="41">
+	  <label>ṣaḍakṣara chandaḥprastāra; śēṣa chandaḥ</label>
+	  <l>bārāhā mattā jaṁ kaṇṇā tiṇṇā hōttaṁ ।</l>
+	  <l>hārā chakkā bandhō sēsā rāā chandō ॥</l>
+	</lg>
+	<pb n="109"/>
+	<lg n="42" met="sēsa">
+	  <label>jahā</label>
+	  <l>jujjhantī uddāmē kālikā saṁgāmē ।</l>
+	  <l>ṇaccantī hammārō dūrittā saṁhārō ॥</l>
+	</lg>
+	<lg n="43">
+	  <label>tilla (tilakā) chandaḥ</label>
+	  <l>pia tilla dhuaṁ sagaṇēṇa juaṁ।</l>
+	  <l>chaha vaṇṇa paō kala aṭṭha dhaō ॥</l>
+	</lg>
+	<lg n="44" met="tila (kā)">
+	  <label>jahā</label>
+	  <l>pia bhatti piā guṇavanta suā ।</l>
+	  <l>dhaṇajutta gharā bahu sukkhakarā ॥</l>
+	</lg>
+	<lg n="45">
+	  <label>vijjōhā chandaḥ</label>
+	  <l>akkharā jē chaā pāa pāa dviā ।</l>
+	  <l>matta pañcāduṇā bipiṇa jōhā gaṇā ॥</l>
+	</lg>
+	<pb n="110"/>
+	<lg n="46" met="vijjōhā) (vimōhā ?)">
+	  <label>jahā</label>
+	  <l>kaṁsasaṁhāraṇā pakkhisañcāraṇā ।</l>
+	  <l>dēvaīḍibhaā dēu mē ṇibbhaā ॥</l>
+	</lg>
+	<lg n="47">
+	  <label>caturaṁsā chandaḥ</label>
+	  <l>ṭhaü caüraṁsā phaṇivaï bhāsā ।</l>
+	  <l>diavara kaṇṇō phularasavaṇṇō ॥</l>
+	</lg>
+	<lg n="48">
+	  <label>jahā</label>
+	  <l>gaüriakantā abhiṇaü santā ।</l>
+	  <l>jaī parasaṇṇā dia mahi dhaṇṇā ॥</l>
+	</lg>
+	<lg n="49" met="caturaṁsā">
+	  <label>jahā vā</label>
+	  <l>bhuaṇaaṇandō tihuaṇakandō।</l>
+	  <l>bhamarasavaṇṇō sa jaaï kaṇhō ॥</l>
+	</lg>
+	<pb n="111"/>
+	<lg n="50">
+	  <label>manthāna chandaḥ</label>
+	  <l>kāmāvaārēṇa advēṇa pāēṇa ।</l>
+	  <l>mattā dahā suddha manthāṇa sō buddha 50॥</l>
+	</lg>
+	<lg n="51" met="manthāṇa=manthāna">
+	  <label>jahā</label>
+	  <l>rāā jahā luddha paṁḍīa sō muddha ।</l>
+	  <l>kittī karē rakkha sō vāda uppakkha ॥</l>
+	</lg>
+	<lg n="52">
+	  <label>śaṁkhanārī chandaḥ</label>
+	  <l>khaḍāvaṇṇabaddhō bhuaṁgāpaaddhō ।</l>
+	  <l>paā pāa cārī kahī saṁkhaṇārī ॥</l>
+	</lg>
+	<lg n="53" met="saṁkhaṇārī śaṁkhanārī">
+	  <label>jahā</label>
+	  <l>guṇā jassa suddhā vaha rūamuddhā ।</l>
+	  <l>gharē vitta jaggā mahī tāsu saggā ॥</l>
+	</lg>
+	<pb n="112"/>
+	<lg n="54">
+	  <label>mālatī chandaḥ</label>
+	  <l>dhaaṁ sara bīa maṇīguṇa tīa ।</l>
+	  <l>daī lahu anta sa mālaï kanta ॥</l>
+	</lg>
+	<lg n="55" met="mālaï mālatī">
+	  <label>jahā</label>
+	  <l>karā pasaranta bahū guṇavanta ।</l>
+	  <l>paphullia kunda ugō sahi canda ॥</l>
+	</lg>
+	<lg n="56">
+	  <label>damanaka chandaḥ</label>
+	  <l>diavara kia bhaṇahi supia ।</l>
+	  <l>damaṇaa guṇi phaṇivaï bhaṇi ॥</l>
+	</lg>
+	<pb n="113"/>
+	<lg n="57" met="damaṇaka = damanaka">
+	  <label>jahā</label>
+	  <l>kamalaṇaaṇi amiavaaṇi ।</l>
+	  <l>taruṇi dharaṇi milaï supuṇi ॥</l>
+	</lg>
+	<lg n="58">
+	  <label>saptākṣara prastarā<caesura/> samānikā chandaḥ</label>
+	  <l>cāri hāra kijjahī tiṇi gandha dijjahī ।</l>
+	  <l>satta akkharā ṭhiā sā samāṇiā piā 58॥</l>
+	</lg>
+	<lg n="59" met="samāṇiā samānikā">
+	  <label>jahā</label>
+	  <l>kuñjarā calantaā pavvaā palantaā ।</l>
+	  <l>kummapiṭṭi kampaē dhūli sūra jhampaē ।59॥</l>
+	</lg>
+	<pb n="114"/>
+	<lg n="60">
+	  <label>suvāsa chandaḥ</label>
+	  <l>bhaṇaü suvāsaü lahu suvisēsaü ।</l>
+	  <l>raci caü mattaha bha lahaï antaha ॥</l>
+	</lg>
+	<lg n="61" met="suvāsa">
+	  <label>jahā</label>
+	  <l>gurujaṇabhattaü bahu guṇajuttaü ।</l>
+	  <l>jasu jia puttaü sa i puṇavantaü ॥</l>
+	</lg>
+	<lg n="62">
+	  <label>karahañca chandaḥ</label>
+	  <l>caraṇa gaṇa vipya paḍhama laï thapya ।</l>
+	  <l>jagaṇa tasu anta muṇahu karahañca ॥</l>
+	</lg>
+	<lg n="63" met="karahañca">
+	  <label>jahā</label>
+	  <l>jivaü jaha ēha tajaü gēi dēha ।</l>
+	  <l>ramaṇa jaï sō i viraha jaṇu hōi ॥</l>
+	</lg>
+	<pb n="115"/>
+	<lg n="64">
+	  <label>śīrṣarūpaka chandaḥ</label>
+	  <l>sattā dīhā jāṇēhī kaṇṇā tī gō māṇēhī ।</l>
+	  <l>cāuddāhā mattāṇā sīsārūō chandāṇā ॥</l>
+	</lg>
+	<lg n="65" met="sīsarūpaka śīrṣarūpaka">
+	  <label>jahā</label>
+	  <l>candā kundā ē kāsā hārā hīrā ē haṁsā ।</l>
+	  <l>jē jē sattā vaṇṇīā tumhā kittī jiṇṇīā ॥</l>
+	</lg>
+	<lg n="66">
+	  <label>aṣṭākṣaraprastāra vidyunmālā:</label>
+	  <l>vijjūmālā mattā sōlā<caesura/> pāē kaṇṇā cārī lōlā ।</l>
+	  <l>ēaṁ aṁ cārī pāā<caesura/> bhattī khattī ṇāārāā ॥</l>
+	</lg>
+	<pb n="116"/>
+	<lg n="67" met="vidyunmālā">
+	  <label>jahā</label>
+	  <l>ummattā jōhā dukkantā vippakkhā majjhē lukvantā ।</l>
+	  <l>ṇikantā jantā dhāvantā ṇibbhantī kittī pāvantā ॥</l>
+	</lg>
+	<lg n="68">
+	  <label>pramāṇikā chandaḥ</label>
+	  <l>lahū guru nirantarā pamāṇiā aṭhakkharā ।</l>
+	  <l>pamāṇi dūṇa kijjiē ṇarāa sō bhaṇijjaē ॥</l>
+	</lg>
+	<lg n="69" met="pramāṇikā">
+	  <label>jahā</label>
+	  <l>ṇisumbhasumbhakhaṁḍiṇī girīsagēhamaṁḍiṇī ।</l>
+	  <l>paaṁḍamuṁḍakhaṁḍiā pasaṇṇa hōu caṁḍiā ॥</l>
+	</lg>
+	<lg n="70">
+	  <label>mallikā chandaḥ</label>
+	  <l>hāragandhabandhurēṇa diṭu aṭṭha aksarēṇa ।</l>
+	  <l>bārahāi matta jāṇa malliā suchanda māṇa ॥</l>
+	</lg>
+	<pb n="117"/>
+	<lg n="71" met="mallikā">
+	  <label>jahā</label>
+	  <l>jēṇa jiṇṇu khatti vaṁsa riṭṭi muṭṭi kēsi kaṁsa ।</l>
+	  <l>bāṇapāṇi kaṭṭiēu sōu tumha sukkha dēu ॥</l>
+	</lg>
+	<lg n="72">
+	  <label>tuṁga chandaḥ</label>
+	  <l>taralaṇaaṇi tuṁgō paḍhamarasa suraṁgō ।</l>
+	  <l>ṇagaṇa juala baddhō guru juala pasiddhō ॥</l>
+	</lg>
+	<lg n="73" met="tuṁga">
+	  <label>jahā</label>
+	  <l>kamalabhamarajīvō saalabhuaṇadīvō ।</l>
+	  <l>daliatimiraḍimbō uaï taraṇibimbō ॥</l>
+	</lg>
+	<lg n="74">
+	  <label>kamala chandaḥ</label>
+	  <l>paḍhama gaṇa vippaō bihu taha ṇarindaō।</l>
+	  <l>guru sahia antiṇā kamala ima bhantiṇā ॥</l>
+	</lg>
+	<pb n="118"/>
+	<lg n="75" met="kamala">
+	  <label>jahā</label>
+	  <l>sa jaaī jaṇadaṇā asurakulamaddaṇā ।</l>
+	  <l>garuḍavaravāhaṇā balibhuaṇacāhaṇā ॥</l>
+	</lg>
+	<lg n="76">
+	  <label>navākṣaraprastāra<caesura/> mahālakṣmī chandaḥ</label>
+	  <l>diṭu jōhā gaṇā tiṇṇiā<caesura/> ṇāarāēṇa jā viṇṇiā ।</l>
+	  <l>māsa addhēṇa pāa ṭṭhiaṁ jāṇa muddhē mahālacchiaṁ ॥</l>
+	</lg>
+	<lg n="77" met="mahālakṣmī">
+	  <label>jahā</label>
+	  <l>muṁḍamālā galā kaṁṭhiā ṇāarāā bhuā saṁṭhiā ।</l>
+	  <l>vagghachālā kiā vāsaṇā caṁḍiā pāu siṁhāsaṇā ॥</l>
+	</lg>
+	<pb n="119"/>
+	<lg n="78">
+	  <label>sāraṁgikā chandaḥ</label>
+	  <l>diavara kaṇṇō saaṇaṁ<caesura/> paa paa mattāgaṇaṇaṁ ।</l>
+	  <l>sura muṇi mattā lahiaṁ sahi saragikkā kahiaṁ ॥</l>
+	</lg>
+	<lg n="79" met="sāraṁgikā">
+	  <label>jahā</label>
+	  <l>hariṇasarissā ṇaaṇā kamalasarissā vaaṇā ।</l>
+	  <l>juajaṇacittāhariṇī piasahi diṭṭhā taruṇī ॥</l>
+	</lg>
+	<lg n="80">
+	  <label>pāittā chandaḥ</label>
+	  <l>kuntī puttā jua lahiaṁ tīē vipyō dhua kahi ।</l>
+	  <l>antē hārō jaha jaṇiaṁ taṁ pāittā phaṇibhaṇiaṁ ॥</l>
+	</lg>
+	<pb n="120"/>
+	<lg n="81" met="pāittā">
+	  <label>jahā</label>
+	  <l>phullā ṇīvā bhama bhamarā diṭṭhā mēhā jalasamalā ।</l>
+	  <l>ṇaccē vijjū piasahiā āvē kantā kahu kahiā ॥</l>
+	</lg>
+	<lg n="82">
+	  <label>kamala chandaḥ</label>
+	  <l>sarasagaṇaramaṇiā diavara jua paliā ।</l>
+	  <l>guru dharia païpaō dahakalaa kamalaō ॥</l>
+	</lg>
+	<lg n="83" met="kamala">
+	  <label>jahā</label>
+	  <l>cala kamalaṇaaṇiā khaliathaṇavasaṇiā ।</l>
+	  <l>hasaï paraṇialiā asaï dhua vahuliā ॥</l>
+	</lg>
+	<pb n="121"/>
+	<lg n="84">
+	  <label>bimba chandaḥ</label>
+	  <l>raaï phaṇi bimba ēsō gurujuala savvasēsō ।</l>
+	  <l>sirahi dia majjha rāō guṇaha guṇiē sahāō ॥</l>
+	</lg>
+	<lg n="85">
+	  <label>jahā</label>
+	  <l>calaï cala vitta ēsō ṇasaï taruṇattavēsō ।</l>
+	  <l>supurusaguṇēṇa baddhā thira rahaï kitti suddhā ॥[bimba</l>
+	</lg>
+	<lg n="86">
+	  <label>tōmara chandaḥ</label>
+	  <l>jasu āi hattha viāṇa taha bē paōhara jāṇa ।</l>
+	  <l>pabhaṇēi ṇāaṇarinda ima māṇu tōmara chanda ॥</l>
+	</lg>
+	<lg n="87" met="tōmara">
+	  <label>jahā</label>
+	  <l>cali cūa kōilasāva mahumāsa pañcama gāva ।</l>
+	  <l>maṇa majjha vammaha tāva ṇahu kanta añja vi āva ॥</l>
+	</lg>
+	<pb n="122"/>
+	<lg n="88">
+	  <label>rūpamālā chandaḥ</label>
+	  <l>ṇāārāā jampē sārā ē<caesura/> cārī kaṇṇā antē hārā ē ।</l>
+	  <l>aṭṭhārāhā mattā pāāē<caesura/> rūāmālā chandā jampīē ॥</l>
+	</lg>
+	<lg n="89" met="rūpamālā">
+	  <label>jahā</label>
+	  <l>jaṁ ṇaccē vijjū mēhandhārā pamphullā ṇīpā saddē mōrā ।</l>
+	  <l>vāantā mandā sīā vāā<caesura/> kampantā gāākantā ṇā ā. ॥</l>
+	</lg>
+	<lg n="90">
+	  <label>daśākṣaraprastāra<caesura/> saṁyutāchandaḥ</label>
+	  <l>jasu āi hattha viāṇiō taha bē paōhara jāṇiō ।</l>
+	  <l>guru anta piṁgala jampiō saï chanda sañjuta thappiō ॥</l>
+	</lg>
+	<pb n="123"/>
+	<lg n="91">
+	  <label>jahā</label>
+	  <l>tuha jāhi sundari appaṇā<caesura/> paritajji dujjaṇathappaṇā ।</l>
+	  <l>viasanta kēaïsampuḍā ṇahu ēvi āvia vappuḍā ॥</l>
+	</lg>
+	<lg n="92">
+	  <label>campakamālā chandaḥ</label>
+	  <l>hāra ṭhavījē kāhaladujjē kuntia puttā ē gurujuttā ।</l>
+	  <l>hattha karījē hāra ṭhavījē campaamālā chanda kahījē ॥</l>
+	</lg>
+	<pb n="124"/>
+	<lg n="93" met="campakamālā">
+	  <label>jahā</label>
+	  <l>1</l>
+	  <l>ōggarabhattā rambhaapattā<caesura/> gāika ghittā duddhasajuttā ।</l>
+	  <l>mōiṇimacchā ṇālicagacchā<caesura/> dijjaï kantā khā puṇavantā ॥</l>
+	</lg>
+	<lg n="94">
+	  <label>sāravatī chandaḥ</label>
+	  <l>dīha lahū jua dīha lahū<caesura/> sāravaī dhua chanda kahū ।</l>
+	  <l>anta paōhara ṭhāi dhaā<caesura/> cāhaha matta virāma kaā ॥</l>
+	</lg>
+	<lg n="95" met="sāravatī">
+	  <label>jahā</label>
+	  <l>putta pavitta bahuta dhaṇā<caesura/> bhatti kuṭumbiṇi suddhamaṇā ।</l>
+	  <l>hakka tarāsaï bhicca gaṇā kō kara babbara sagga maṇā ॥</l>
+	</lg>
+	<pb n="125"/>
+	<lg n="96">
+	  <label>suṣamā chandaḥ</label>
+	  <l>kaṇṇō paḍhamō hatthō jualō<caesura/> kaṇṇō tialō hatthō caüthō ।</l>
+	  <l>sōlā kalaā chakkā valaā<caesura/> ēsā susamā diṭṭhā susamā ॥</l>
+	</lg>
+	<lg n="97" met="suṣamā">
+	  <label>jahā</label>
+	  <l>bhōhā kavilā uccā ṇialā<caesura/> majjhē pialā ṇēttā jualā ।</l>
+	  <l>rukkhā vaaṇā dantā viralā<caesura/> kēsē jiviā tākā pialā ॥</l>
+	</lg>
+	<lg n="98">
+	  <label>amr̥tagati chandaḥ</label>
+	  <l>diavara hāra pialiā<caesura/> puṇa vi taha ṭṭhia kariā ।</l>
+	  <l>vasu lahu bē gurusahiā<caesura/> amiagaī dhua kahiā ॥</l>
+	</lg>
+	<lg n="99" met="amr̥tagati">
+	  <label>jahā</label>
+	  <l>saraasudhāaravaaṇā viaasarōruhaṇaaṇā ।</l>
+	  <l>maagalakuñjaragamaṇī piasahi di8ia taruṇī ॥</l>
+	</lg>
+	<pb n="126"/>
+	<lg n="100">
+	  <label>ēkādaśākṣara prastāra<caesura/> 'bandhu chandaḥ</label>
+	  <l>ṇīla saruaha ēha karījē<caesura/> tiṇṇī bhaāgaṇa jattha bhaṇījē ।</l>
+	  <l>sōlaha mattaha pāa ṭhavījē<caesura/> dugguru antahi bandhu kahījē ॥</l>
+	</lg>
+	<lg n="101" met="bandhu">
+	  <label>jahā</label>
+	  <l>paṁḍavavaṁsahi jamma dharījē<caesura/> sampaa ajjia dhammaka dijjē ।</l>
+	  <l>sōu juhidvira saṁkaṭa pāvā<caesura/> dēvaka likhaa kēṇa miṭāvā ॥</l>
+	</lg>
+	<lg n="102">
+	  <label>sumukhī chandaḥ</label>
+	  <l>diavara hāra lahū jualā<caesura/> valaa pariṭria hatthaalā ।</l>
+	  <l>paa kala cōdaha jampa ahī<caesura/> kaïvara jāṇaï sō sumuhī ॥</l>
+	</lg>
+	<pb n="127"/>
+	<lg n="103" met="sumukhī">
+	  <label>jahā</label>
+	  <l>aïvala jōvvaṇadēhadhaṇā<caesura/> siviaṇasōara bandhuaṇā ।</l>
+	  <l>avasaü kālapurī gamaṇā parihara babbara pāpa maṇā ॥</l>
+	</lg>
+	<lg n="104">
+	  <label>dōdhaka chandaḥ</label>
+	  <l>cāmara kāhala jugga ṭhavījē<caesura/> hāra lahū jua tattha dharījē ।</l>
+	  <l>kaṇṇagaṇā paa anta karījē<caesura/> dōdhaa chanda phaṇī pabhaṇījē ॥</l>
+	</lg>
+	<lg n="105" met="dōdhaka">
+	  <label>jahā</label>
+	  <l>piṁga jaṭāvali ṭhāvia gaṁgā<caesura/> dhāria ṇāari jēṇa adhaṁgā ।</l>
+	  <l>candakalā jasu sīsahi ṇōkkhā<caesura/> sō tuha saṁkara dijjaü mōkkhā ॥</l>
+	</lg>
+	<pb n="128"/>
+	<lg n="106">
+	  <label>śālinī chandaḥ</label>
+	  <l>kaṇṇō duṇṇō hāra ēkkō visajjē<caesura/> sallā kaṇṇā gandha kaṇṇā suṇijjē ।</l>
+	  <l>bīsā rēhā pāa pāē gaṇijjē<caesura/> sapyārāē sāliṇī sā muṇijjē ॥</l>
+	</lg>
+	<lg n="107">
+	  <label>jahām̐</label>
+	  <l>raṁḍā caṁḍā dikkhidā dhammadārā<caesura/> majjaṁ maṁsa pijjaē khajjaē a ।</l>
+	  <l>bhikkhā bhōjjaṁ cammakhaṁḍaṁ ca sajjā<caesura/> kōlō dhammō kassa ṇō bhādi rammō ॥</l>
+	</lg>
+	<lg n="108">
+	  <label>damanaka chandaḥ</label>
+	  <l>diavarajua lahu jualaṁ<caesura/> paa paa paalia vala।</l>
+	  <l>caü paa caü vasu kalaaṁ<caesura/> damaṇaa phaṇi bhaṇa laliaṁ ॥</l>
+	</lg>
+	<pb n="129"/>
+	<lg n="109" met="damanaka">
+	  <label>jahā</label>
+	  <l>pariṇaasasaharavaaṇaṁ vimalakamaladalaṇaaṇaṁ ।</l>
+	  <l>vihiaasurakuladalaṇaṁ<caesura/> paṇamaha sirimahumahaṇaṁ ॥</l>
+	</lg>
+	<lg n="110">
+	  <label>sēnikā chandaḥ</label>
+	  <l>tāla ṇandaē samuddatūraā<caesura/> jōhalēṇa chanda pūraā ।</l>
+	  <l>gārahāī akkharā jāṇiā<caesura/> ṇāarāa jampa ēa sēṇiā ॥</l>
+	</lg>
+	<lg n="111">
+	  <label>jahā</label>
+	  <l>jhatti pattipāa bhūmi kampiā<caesura/> ṭapyu di khēha sūra jhampiā ।</l>
+	  <l>gōḍarāa jiṇi māṇa mōliā<caesura/> kāmarūarāavandi chōḍiā ॥[sēnikā</l>
+	</lg>
+	<lg n="112">
+	  <label>mālatī chandaḥ</label>
+	  <l>kuntīputtā<caesura/> pañcā diṇṇā jāṇīā<caesura/> antē kantā ēkkā hārā māṇīā ।</l>
+	  <l>pāā pāā mattā diṭṭhā bāīsā<caesura/> mālattī chandā jampantā ṇāēsā ॥</l>
+	</lg>
+	<pb n="130"/>
+	<lg n="113" met="mālatī">
+	  <label>jahā</label>
+	  <l>ṭhāmā ṭhāmā hatthī jūhā dēkkhīā<caesura/> ṇīlā mēhā mērū siṁgā pakkhīā ।</l>
+	  <l>vīrāhatthā aggē khaggā rājantā<caesura/> ṇīlā mēhā majjhē vijjū ṇaccantā ॥</l>
+	</lg>
+	<lg n="114">
+	  <label>indravajrā chandaḥ</label>
+	  <l>dijjē taārā jualā paēsuṁ<caesura/> antē ṇarēndō guru jugga sēsaṁ ।</l>
+	  <l>jampē pharṇidā dhua indavajjā<caesura/> mattā dahā aṭṭha samā susajjā ॥</l>
+	</lg>
+	<lg n="115">
+	  <label>jahā</label>
+	  <l>mantaṁ ṇa tantaṁ ṇahu kimpi jāṇē<caesura/> jhāṇaṁ ca ṇō kimpi guruppasāō ।</l>
+	  <l>majjaṁ piāmō mahilaṁ ramāmō<caesura/> mōkkhaṁ vajāmō kulamaggalaggā ॥indravajrā]</l>
+	</lg>
+	<pb n="131"/>
+	<lg n="116">
+	  <label>upēndravajā chandaḥ</label>
+	  <l>ṇarēnda ēkkā taaṇā susajjā<caesura/> paōharā kaṇṇa gaṇā muṇijjā ।</l>
+	  <l>uvindavajjā phaṇirāadiṭṭhā<caesura/> padati chēā suhavaṇṇasiṭṭhā ॥</l>
+	</lg>
+	<lg n="117" met="upēndravajrā">
+	  <label>jahā</label>
+	  <l>sudhammacittā guṇamanta puttā<caesura/> sukammarattā viṇaā kalattā ।</l>
+	  <l>visuddhadēhā dhaṇamanta ṇēhā kuṇanti kē babbara sagga hā ॥</l>
+	</lg>
+	<lg n="118" met="aḍillā">
+	  <label>upajāti chandaḥ</label>
+	  <l>inda uvindā ēkka karijjasu<caesura/> caüaggala daha ṇāma muṇijjasu ।</l>
+	  <l>samajāihi samaakkhara dijjasu<caesura/> piṁgala bhaṇa uvajāihi kijjasu ॥</l>
+	</lg>
+	<lg n="119" met="aḍillā+pajjhaṭikā">
+	  <l>caü akkharakē patthara kijjasu<caesura/> inda uvindā guru lahu bujjhasu ।</l>
+	  <l>majjhahĩ caüdaha hō uvajāi<caesura/> piṁgala jampaï kitti vōlāi ॥</l>
+	</lg>
+	<pb n="132"/>
+	<lg n="120" met="upajāti">
+	  <label>jahā</label>
+	  <l>bālō kumārō sa chamuṁḍadhārī<caesura/> upyāahīṇā haüm̐ ēkka ṇārī ।</l>
+	  <l>ahaṇṇisaṁ khāhi visaṁ bhikhārī<caesura/> gaī bhavittī kila kā hamārī ॥</l>
+	</lg>
+	<lg n="121" met="vidyunmālā">
+	  <l>kittī vāṇī mālā sālā<caesura/> haṁsī māā jāā bālā ।</l>
+	  <l>addā bhaddā pammā rāmā<caesura/> riddhī buddhī tāsū ṇāmā ॥[</l>
+	</lg>
+	<lg n="122">
+	  <label>dvādaśākṣara prastāra<caesura/> vidyādhara chandaḥ</label>
+	  <l>cārī kaṇṇā pāē diṇṇā savvāsārā<caesura/> pāāantē dijjē kantā cārī hārā ।</l>
+	  <l>chaṇṇāvēā mattā gaṇṇā cārī pāā<caesura/> vijjāhārā jampē sārā ṇāārāā ॥</l>
+	</lg>
+	<lg n="123" met="vidyādhara">
+	  <label>jahā</label>
+	  <l>jāsū kaṁṭhā vīsā dīsā sīsā gaṁgā<caesura/> ṇāārāā kijjē hārā gōrī aṁgā ।</l>
+	  <l>gattē cammā mārū kāmā lijjē kittī<caesura/> sōī dēō sukkhaṁ dēō tumhā bhattī ॥</l>
+	</lg>
+	<pb n="133"/>
+	<lg n="124">
+	  <label>bhujaṁgaprayāta chandaḥ</label>
+	  <l>dhaō cāmarō rūaō sēsa sārō<caesura/> ṭhaē kaṁṭhaē muddhaē jattha hārō ।</l>
+	  <l>caücchanda kijjē tahā suddhadēhaṁ<caesura/> bhuaṁgāpaā paē bīsa rēhaṁ ॥</l>
+	</lg>
+	<lg n="125" met="gāhā">
+	  <l>ahiṁgaṇa cāri pasiddhā sōlahacaraṇēṇa piṁgalō bhaṇaï ।</l>
+	  <l>tīṇi saā bīsaggala mattāsaṁkhā samaggāi ॥</l>
+	</lg>
+	<lg n="126" met="bhujaṁgaprayāta">
+	  <label>jahā</label>
+	  <l>mahā matta māaṁga pāē ṭhavīā<caesura/> tahā tikkha bāṇā kaḍakkhē dharīā ।</l>
+	  <l>bhuā pāsa bhōhā dhaṇūhā samāṇā<caesura/> ahō ṇāarī kāmarāassa sēṇā ॥</l>
+	</lg>
+	<lg n="127">
+	  <label>lakṣmīdhara chandaḥ</label>
+	  <l>hāra gandhā tahā kaṇṇa gandhā uṇō<caesura/> kaṇṇa saddā tahā tō guruā gaṇō ।</l>
+	  <l>cāri jōhā gaṇā ṇāarāā bhaṇō<caesura/> ēhu rūēṇa lacchīharō sō muṇō ॥</l>
+	</lg>
+	<pb n="134"/>
+	<lg n="128" met="lakṣmīdhara">
+	  <label>jahā</label>
+	  <l>bhañjiā mālavā gañjiā kaṇṇalā<caesura/> jiṇṇiā gujjarā luṁṭhiā kuñjarā ।</l>
+	  <l>vaṁgalā bhaṁgalā āḍḍiā māḍḍiā<caesura/> macchaā kampiā kittiā thappiā ॥</l>
+	</lg>
+	<lg n="129">
+	  <label>tōṭaka chandaḥ</label>
+	  <l>sagaṇā dhua cāri palanti jahī<caesura/> bhaṇa sōlaha matta virāma kahī ।</l>
+	  <l>taha piṁgaliaṁ bhaṇiaṁ uciaṁ<caesura/> iha tōṭaa chanda varaṁ raaṁ ॥</l>
+	</lg>
+	<lg n="130">
+	  <label>jahā</label>
+	  <l>cala gujjara kuñjara tajji mahī<caesura/> tua babbara jīvaṇa ajju ṇahī ।</l>
+	  <l>jaï kuppia kaṇṇa ṇarēndavarā<caesura/> raṇa kō hari kō hara vajjaharā ॥</l>
+	</lg>
+	<pb n="135"/>
+	<lg n="131">
+	  <label>sāraṁgarūpaka chandaḥ</label>
+	  <l>jā cāri takkāra sambhēa ukkiṭṭha<caesura/> sāraṁgarūakka sō piṁgalē diṭṭha ।</l>
+	  <l>jā tīa vīsāma sañjutta pāēhi ṇā jāṇiē kanti aṇṇāṇṇabhāēhi ॥</l>
+	</lg>
+	<lg n="132" met="sāraṁgarūpaka">
+	  <label>jahā</label>
+	  <l>rē gōḍa thakkantu tē hathijūhāi<caesura/> pallaṭṭi jujjhantu pāikkavūhāi ।</l>
+	  <l>kāsīsa rāā sarāsāraaggēṇa kī hatthi kī patti kī vīravaggēṇa ॥</l>
+	</lg>
+	<lg n="133">
+	  <label>maüktikadāma chandaḥ</label>
+	  <l>paōhara cāri pasiddhaha tāma<caesura/> ti tēraha mattaha mōttiadāma ।</l>
+	  <l>ṇa puvvahi hāru ṇa dijjaï anta<caesura/> bihū saa aggala chappaṇa matta ॥</l>
+	</lg>
+	<lg n="134" met="maüktikadāma">
+	  <label>jahā</label>
+	  <l>kaā bhaü duvvari tējji garāsa<caesura/> khaṇē khaṇa jāṇia accha ṇisāsa ।</l>
+	  <l>kuhūrava tāra duranta vasanta<caesura/> ki ṇiddaa kāma ki ṇihaa kanta ॥</l>
+	</lg>
+	<pb n="136"/>
+	<lg n="135">
+	  <label>mōdaka chandaḥ</label>
+	  <l>tōṭaa chanda virīa ṭhavijjasu<caesura/> mōdaa chandaa ṇāma karijjasu ।</l>
+	  <l>cāri gaṇā bhagaṇā supasiddhaü<caesura/> piṁgala jampaï kittihi luddhaü ॥</l>
+	</lg>
+	<lg n="136">
+	  <label>jahā</label>
+	  <l>gajjaü mēha ki ambara sāvara<caesura/> phullaü ṇīva ki bullara bhammara ।</l>
+	  <l>ēkkaü jīa parāhiṇa ammaha<caesura/> kī laü pāusa kīlaü vammaha ॥[mōdaka</l>
+	</lg>
+	<lg n="137">
+	  <label>taralanayanī :</label>
+	  <l>ṇagaṇa gaṇa kaï caügaṇa<caesura/> sukaï kamalamuhi phaṇi bhaṇa ।</l>
+	  <l>taralaṇaaṇi sava karu lahu<caesura/> sava guru javaü ṇivari kahu ॥</l>
+	</lg>
+	<lg n="138" met="taralanayanī">
+	  <label>jahā</label>
+	  <l>kamalavaaṇa tiṇaaṇa hara<caesura/> girivarasaaṇa tisuladhara ।</l>
+	  <l>sasaharatilaa galagarala<caesura/> vitaraü mahu abhimata vara ॥</l>
+	</lg>
+	<pb n="137"/>
+	<lg n="139">
+	  <label>sundarī chandaḥ</label>
+	  <l>ṇagaṇa cāmara gandhajuā ṭhavē<caesura/> camara sallajuā jaï sambhavē ।</l>
+	  <l>ragaṇa ēkka paantahi lakkhiā<caesura/> sumuhi sundari piṁgaladakkhiā ॥</l>
+	</lg>
+	<lg n="140" met="sundarī">
+	  <label>jahā</label>
+	  <l>vahaï dakkhiṇa mārua sīalā ravaï pañcama kōmala kōilā ।</l>
+	  <l>mahuarā mahupāṇa bahūsarā<caesura/> bhamaï sundari māhava sambhavā ॥</l>
+	</lg>
+	<lg n="141">
+	  <label>trayōdaśākṣara prastāra<caesura/> māyā chandaḥ</label>
+	  <l>kaṇṇā duṇṇā cāmara sallā jualā jaṁ bīhā dīhā gandhaajuggā paalā taṁ ।</l>
+	  <l>antē kantā cāmara hārā suhakāā bāīsā mattā guṇajuttā bhaṇu māā ॥</l>
+	</lg>
+	<pb n="138"/>
+	<lg n="142" met="māyā">
+	  <label>jahā</label>
+	  <l>ē atthīrā dēvakhu sarīrā gharu jāā<caesura/> bittā puttā sōara mittā savu māā ।</l>
+	  <l>kāhē lāgī babbara vēlāvasi mujjhē<caesura/> ēkkā kittī kijjaï juttī jaï sujjhē ॥</l>
+	</lg>
+	<lg n="143">
+	  <label>tāraka chandaḥ</label>
+	  <l>ṭhaï āi lahū jua pāa karījē<caesura/> guru sallajuā bhagaṇā jua dījē ।</l>
+	  <l>paa antaha pāi guru jua kijjē<caesura/> sahi tāraa chandaha ṇāma bhaṇijjē ॥</l>
+	</lg>
+	<lg n="144" met="tāraka">
+	  <label>jahā</label>
+	  <l>ṇava mañjari lijjia cūaha gāchē<caesura/> pariphullia kēsu ṇaā vaṇa āchē ।</l>
+	  <l>jaḍa़ ēsthi digantara jāihi kantā<caesura/> kia vammaha ṇatthi ki ṇatthi vasantā ॥</l>
+	</lg>
+	<pb n="139"/>
+	<lg n="145">
+	  <label>kanda chandaḥ</label>
+	  <l>dhaā tūra hārō puṇō tūra hārēṇa<caesura/> guru sadda kijjē a ēkkā taārēṇa ।</l>
+	  <l>kaīsā kalā kandu jampijja ṇāēṇa asō hōi cō aggalā savva pāēṇa ॥</l>
+	</lg>
+	<lg n="147" met="kanda">
+	  <label>jahā</label>
+	  <l>ṇa rē kaṁsa jāṇēhi hō ēkka bālā i<caesura/> haūm̐ dēvaīputta tō vaṁsakālāi ।</l>
+	  <l>tahā gēṇhu kaṁsō jaṇāṇandakandēṇa<caesura/> jahā hatti diṭṭhō ṇiāṇārivindēṇa ॥</l>
+	</lg>
+	<lg n="148">
+	  <label>paṁkāvalī chandaḥ</label>
+	  <l>cāmara paḍhamahi pāpa gaṇō dhua<caesura/> salla caraṇa gaṇa ṭhāvahi taṁ jua ।</l>
+	  <l>sōlaha kalaa paē paa jāṇia<caesura/> piṁgala pabhaṇaï paṁkaavālia ॥</l>
+	</lg>
+	<pb n="140"/>
+	<lg n="149" met="paṁkāvalī">
+	  <label>jahā</label>
+	  <l>jō jaṇa jaṇamaü sō guṇamantaü<caesura/> jē kara para uaāra hasantaü ।</l>
+	  <l>jē puṇa para uaāra virujjhaü<caesura/> tāsu jaṇaṇi ki ṇa thakkaḍa़ vañjhaü ॥</l>
+	</lg>
+	<lg n="150">
+	  <label>caturdaśākṣarakhastāra<caesura/> vasantatilakā</label>
+	  <l>kaṇṇō païjja paḍhamē jagaṇō a bīē<caesura/> antē turaṁga saaṇō yaa tattha pāē ।</l>
+	  <l>uttā vasantatilaā phaṇiṇā kiṭṭhā<caesura/> chēā paḍhanti sarasā sukaïndadiṭṭhā ॥</l>
+	</lg>
+	<pb n="141"/>
+	<lg n="151">
+	  <label>jahā</label>
+	  <l>jē tīa tikkhacalacakkhutihāadivā<caesura/> tē kāma canda mahu pañcama māraṇijjā ।</l>
+	  <l>jēsaṁ uṇō ṇivaḍiā saalā vi diṭṭhī<caesura/> ciṭunti tē tilajalañjalidāṇajōggā ॥</l>
+	</lg>
+	<lg n="152">
+	  <label>cakrapada chandaḥ</label>
+	  <l>sambhaṇia caraṇa gaṇa palia muhō<caesura/> saṁṭhavia puṇavi diavarajualō ।</l>
+	  <l>jaṁ karaalagaṇa paa paa muṇiō<caesura/> cakkapaa pabhaṇa phaṇivaï bhaṇiō ॥</l>
+	</lg>
+	<lg n="153" met="cakrapada">
+	  <label>jahā</label>
+	  <l>khañjaṇajuala ṇaaṇavara upamā<caesura/> cārukaṇaalaï bhuajua susamā ।</l>
+	  <l>phulakamalamuhi gaavaragamaṇī<caesura/> kassa sukiaphala vihi gaḍhu taruṇī ॥</l>
+	</lg>
+	<pb n="142"/>
+	<lg n="154">
+	  <label>pañcadaśākṣaraprastāra<caesura/> bhramarāvalī chandaḥ</label>
+	  <l>kara pañca pasiddha viladdhavaraṁ raaṇaṁ<caesura/> pabhaṇanti maṇōhara chandavaraṁ raaṇaṁ ।</l>
+	  <l>guru pañca dahā lahu ērisiaṁ raïaṁ<caesura/> bhamarāvali chanda pasiddha kiaṁ ṭhaviaṁ ॥</l>
+	</lg>
+	<lg n="155" met="bhamarāvalī">
+	  <label>jahā</label>
+	  <l>tua dēva durittagaṇāharaṇā caraṇā<caesura/> jaï pāvaü candakalābharaṇā saraṇā ।</l>
+	  <l>paripūjaü tējjia lōbha maṇā bhavaṇā suha dē maha sōkaviṇāsamaṇā samaṇā ॥</l>
+	</lg>
+	<lg n="156">
+	  <label>sāraṁgikā chandaḥ</label>
+	  <l>kaṇṇā diṇṇā sattā antē ēkā hārā māṇīā</l>
+	  <l>paṇṇārāhā hārā sāraṁgikkā chandā jāṇīā ।</l>
+	  <l>tīsā mattā pāē pattā bhōīrāā jampantā</l>
+	  <l>chandā kijjē kittī lijjē sūṇī matthā kampantā ॥</l>
+	</lg>
+	<pb n="143"/>
+	<lg n="157">
+	  <label>jahā</label>
+	  <l>mattā jōhā vaḍḍē kōhā appāappī gavvīā rōsārattā savvā gattā sā bhallā uṭṭhīā ।</l>
+	  <l>hatthījūhā sajjā huā pāē bhūmī kampantā lēhī dēhī chōḍō āḍḍō savvā sūrā jampantā ॥</l>
+	</lg>
+	<lg n="158">
+	  <label>cāmara chandaḥ</label>
+	  <l>cāmarassa bīsa matta tīṇī matta aggalā<caesura/> aṭṭa hāra satta sāra ṭhāi ṭhāi ṇimmalā ।</l>
+	  <l>āi anta hāra sāra kāmiṇī muṇijjaē<caesura/> akkharā dahāi pañca piṁgalē bhaṇijjaē ॥</l>
+	</lg>
+	<lg n="159">
+	  <label>jahā</label>
+	  <l>jhatti jōha sajja hōha gajja vajja taṁ khaṇā<caesura/> rōsa ratta savva gatta hakka dijja bhīsaṇā ।</l>
+	  <l>dhāi āi khagga pāi dāṇavā calantaā<caesura/> vīrapāa ṇāarāa kampa bhūtalantaā ॥</l>
+	</lg>
+      </div>
+    </body>
+  </text>
+</TEI>
