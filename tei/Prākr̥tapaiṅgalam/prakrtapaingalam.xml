@@ -1590,12 +1590,12 @@
 	<lg n="58">
 	  <label>saptākṣara prastarā<caesura/> samānikā chandaḥ</label>
 	  <l>cāri hāra kijjahī tiṇi gandha dijjahī ।</l>
-	  <l>satta akkharā ṭhiā sā samāṇiā piā 58॥</l>
+	  <l>satta akkharā ṭhiā sā samāṇiā piā ॥</l>
 	</lg>
 	<lg n="59" met="samāṇiā samānikā">
 	  <label>jahā</label>
 	  <l>kuñjarā calantaā pavvaā palantaā ।</l>
-	  <l>kummapiṭṭi kampaē dhūli sūra jhampaē ।59॥</l>
+	  <l>kummapiṭṭi kampaē dhūli sūra jhampaē ॥</l>
 	</lg>
 	<pb n="114"/>
 	<lg n="60">
@@ -1730,10 +1730,10 @@
 	  <l>raaï phaṇi bimba ēsō gurujuala savvasēsō ।</l>
 	  <l>sirahi dia majjha rāō guṇaha guṇiē sahāō ॥</l>
 	</lg>
-	<lg n="85">
+	<lg n="85" met="bimba">
 	  <label>jahā</label>
 	  <l>calaï cala vitta ēsō ṇasaï taruṇattavēsō ।</l>
-	  <l>supurusaguṇēṇa baddhā thira rahaï kitti suddhā ॥[bimba</l>
+	  <l>supurusaguṇēṇa baddhā thira rahaï kitti suddhā ॥</l>
 	</lg>
 	<lg n="86">
 	  <label>tōmara chandaḥ</label>

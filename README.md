@@ -36,6 +36,7 @@ The abbreviations mostly follow those of the *Comprehensive and Critical Diction
 - **Līlā.x**: *Līlāvaī* of Kautūhala, *verse* (`//lg[@n='x']`)
 - **PāiLaNā.x**: *Pāiyalacchīnāmamālā* of Dhanapāla, *verse* (`//lg[@n='x']`)
 - **PaumaCaVi.x.y**: *Paümacariyaṁ* of Vimala Sūri, *chapter*.*verse* (`//div[@type='chapter'][@n='x']/lg[@n='y']`)
+- **PrāPi.x.y**: *Prākr̥tapiṅgalam*, *chapter*.*verse* (`//div[@type='chapter'][@n='x']/lg[@n='y']`)
 - **SamarāKa.x.y**: *Samarādityakathā* of Haribhadra, *page*.*line* (`//pb[@n='x']`, `//lb[@n='y'])
     - Note that I used the Ahmedabad edition of 1982, so the references in CCDPL (based on Jacobi's edition) will not compute.
 - **Sētu.x.y**: *Sētubandha* of Pravarasēna, *chapter*.*verse* (`//div[@type='canto'][@n='x']//lg[@type='stanza'][@n='y']`)
