@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JA-06">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Br̥hKapp">
   <teiHeader xml:lang="eng">
     <fileDesc>
       <titleStmt>
-	<title>Br̥hatkalpa</title>
+	<title xml:lang="pra-Latn">Baḍḍakappō</title>
+	<title xml:lang="san-Latn">Br̥hatkalpaḥ</title>
       	<principal><persName ref="http://viaf.org/viaf/372149294434280521495">Andrew Ollett</persName></principal>
       	<respStmt>
       	  <persName xml:id="AO">Andrew Ollett</persName> 
@@ -158,7 +159,7 @@
 	</div>
 	<div type="section" n="34">
 	  <p>bhikkhū ya ahigaraṇaṁ kaṭṭu taṁ ahigaraṇaṁ viōsavittā viōsaviyapāhuḍē, icchāē parō āḍhāējjā, icchāē parō nō āḍhāējjā, icchāē parō abbhuṭṭhējjā icchāē parō nō abbhuṭṭhējjā, icchāē parō vandijjā icchāē parō nō vandijjā, icchāē parō sambhuñjējjā icchāē parō nō sambhuñjējjā, icchāē parō saṁvasējjā icchāē parō nō saṁvasējjā, icchāē parō uvasamējjā icchāē parō nō uvasamējjā.</p>
-	  <p>jō uvasamaï tassa atthi ārāhaṇā, jō na uvasamaï tassa natthi ārāhaṇā, tamhā appaṇā cēva uvasamiyavvaṁ । sē kimāhu ? bhantē uvasamasāraṁ sāmaṇṇaṁ.</p>
+	  <p>jō uvasamaï tassa atthi ārāhaṇā, jō na uvasamaï tassa natthi ārāhaṇā, tamhā appaṇā cēva uvasamiyavvaṁ । sē kimāhu ? bhantē uvasamasāraṁ sāmaṇṇaṁ.</p>
 	</div>
 	<div type="section" n="35">
 	  <p>nō kappaï nigganthāṇa vā nigganthīṇa vā vāsāvāsāsu cāraē.</p>
@@ -227,7 +228,7 @@
 	  <p>uvassayassa antō vagaḍāē sīōdagaviyaḍakumbhē vā usiṇōdagaviyaḍakumbhē vā uvanivikkhattē siyā nō kappaï nigganthāṇa vā nigganthīṇa vā ahālandamavi vatthaē, huratthā ya uvassayaṁ paḍilēhamāṇē nō labhējjā, ēvaṁ sē kappaï ēgarāyāō vā, durāyāō vā paraṁ vatthaē, jē tattha ēgarāyāō vā durāyāō vā paraṁ vasati sē santarā chēē vā parihārē vā.</p>
 	</div>
 	<div type="section" n="56">
-	  <p>uvassayassa antō vagaḍāē savvarāīē jōī jhiyāējjā, nō kappaï nigganthāṇa vā nigganthīṇa vā ahālandamavi vatthaē, huratthā ya uvassayaṁ paḍilēhamāṇē nō labhējjā, ēvaṁ sē kappaï ēgarāyaṁ vā durāyaṁ vā vatthaē, jē tattha ēgarāyāō vā durāyāō vā paraṁ vasati sē santarā chēē vā parihārē vā.</p>
+	  <p>uvassayassa antō vagaḍāē savvarāīē jōī jhiyāējjā, nō kappaï nigganthāṇa vā nigganthīṇa vā ahālandamavi vatthaē, huratthā ya uvassayaṁ paḍilēhamāṇē nō labhējjā, ēvaṁ sē kappaï ēgarāyaṁ vā durāyaṁ vā vatthaē, jē tattha ēgarāyāō vā durāyāō vā paraṁ vasati sē santarā chēē vā parihārē vā.</p>
 	</div>
 	<div type="section" n="57">
 	  <p>uvassayassa antō vagaḍāē savvarāīē paīvē dippējjā, nō kappaï nigganthāṇa vā nigganthīṇa vā ahālandamavi vatthaē, huratthā ya uvassayaṁ paḍilēhamāṇē nō labhējjā, ēvaṁ sē kappaï ēgarāyaṁ vā durāyaṁ vā vatthaē, jē tattha paraṁ jāva sē santarā chēē vā parihārē vā.</p>

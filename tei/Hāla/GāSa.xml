@@ -1,10 +1,10 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0" n="">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0" n="GāSa">
   <teiHeader xml:lang="eng">
     <fileDesc>
       <titleStmt>
-        <title type="main">Sattasaī</title>
-        <author>Hāla</author>
+        <title type="main" xml:lang="pra-Latn">Sattasaī</title>
+        <author xml:lang="pra-Latn">Hālō</author>
 	<principal>
 	  <persName ref="http://viaf.org/viaf/372149294434280521495">
 	    <forename>Andrew</forename>
@@ -4089,5 +4089,3 @@
     </body>
   </text>
 </TEI>
-
-

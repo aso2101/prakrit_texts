@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0" n="">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0" n="Dhutt">
   <teiHeader xml:lang="eng">
     <fileDesc>
       <titleStmt>
-        <title type="main">Dhūrtākhyānam</title>
-        <author>Haribhadrasūri</author>
+        <title type="main" xml:lang="pra-Latn">Dhuttakkhāṇaṁ</title>
+        <author xml:lang="pra-Latn">Haribhaddō</author>
 	<respStmt>
 	  <resp>Typed up by</resp>
 	  <persName>
@@ -70,8 +70,8 @@
     <body>
       <div type="chapter">
 	<lg n="1" xml:id="Dhutt.1.1">
-	  <l>namiūṇa jiṇa-var'indē tiyasēsara-vandiē dhuya-kilēsē</l>
-	  <l>viusajaṇa-bōhaṇ'atthaṁ dhuttakkhāṇaṁ pavakkhāmi</l>
+	  <l>namiūṇa jiṇa-var’indē tiyasēsara-vandiē dhuya-kilēsē</l>
+	  <l>viusajaṇa-bōhaṇatthaṁ dhuttakkhāṇaṁ pavakkhāmi</l>
 	</lg>
 	<lg n="2" xml:id="Dhutt.1.2">
 	  <l>laliya-samiddha-jaṇavayā atthi purī surapuriṁ visēsantī</l>
@@ -82,20 +82,20 @@
 	  <l>mahuyari-gaṇōvagīyaṁ ujjāṇaṁ nandaṇa-saricchaṁ</l>
 	</lg>
 	<lg n="4" xml:id="Dhutt.1.4">
-	  <l>tatth' ujjāṇa-gihammī nāṇāviha-rūva-kamma-ṇijjuttā</l>
+	  <l>tatth’ujjāṇa-gihammī nāṇāviha-rūva-kamma-ṇijjuttā</l>
 	  <l>dhuttāṇa sayāṇēgā samāgayā kaha vi hiṇḍantā</l>
 	</lg>
 	<lg n="5" xml:id="Dhutt.1.5">
-	  <l>māyā-ṇiyaḍi-pahāṇā akajja-ṇicc'ujjuyā niraṇukampā</l>
-	  <l>thī-bāla-vuḍḍha-vīsattha-ghāiṇō vañcaṇ'ēkkaparā</l>
+	  <l>māyā-ṇiyaḍi-pahāṇā akajja-ṇicc’ujjuyā niraṇukampā</l>
+	  <l>thī-bāla-vuḍḍha-vīsattha-ghāiṇō vañcaṇ’ēkkaparā</l>
 	</lg>
 	<lg n="6" xml:id="Dhutt.1.6">
-	  <l>dhūv'añjaṇa-jōgēhi ya ōsōyaṇi-thambhaṇīhiṁ vijjāhiṁ</l>
-	  <l>sara-vaṇṇa-bhēya-kusalā tēsi pahū pañc' imē kamasō</l>
+	  <l>dhūv’añjaṇa-jōgēhi ya ōsōyaṇi-thambhaṇīhiṁ vijjāhiṁ</l>
+	  <l>sara-vaṇṇa-bhēya-kusalā tēsi pahū pañc’ imē kamasō</l>
 	</lg>
 	<lg n="7" xml:id="Dhutt.1.7">
 	  <l>mūlasiri kaṇḍarīō ēlāsāḍhō sasō ya khaṇḍavaṇā</l>
-	  <l>ēkk'ēkkassa ya tēsiṁ dhuttāṇaṁ pañca-pañcasayā</l>
+	  <l>ēkk’ēkkassa ya tēsiṁ dhuttāṇaṁ pañca-pañcasayā</l>
 	</lg>
 	<lg n="8" xml:id="Dhutt.1.8">
 	  <l>dhuttīṇaṁ pañcasayā khaṇḍavaṇāē ya navari parivārō</l>
@@ -111,11 +111,11 @@
 	</lg>
 	<lg n="11" xml:id="Dhutt.1.11">
 	  <l>ēyārisammi kālē tē dhuttā sīya-vaddalābhihayā</l>
-	  <l>bhukkh'attā bēnti tahiṁ kō amhaṁ dējja bhattaṁ ti</l>
+	  <l>bhukkh’attā bēnti tahiṁ kō amhaṁ dējja bhattaṁ ti</l>
 	</lg>
 	<lg n="12" xml:id="Dhutt.1.12">
 	  <l>aha bhaṇaï mūladēvō jaṁ jēṇa suyaṁ va samaṇubhūyaṁ vā</l>
-	  <l>sō taṁ kahēu savvaṁ miliyāṇ' ēyāṇa dhuttāṇaṁ</l>
+	  <l>sō taṁ kahēu savvaṁ miliyāṇ’ ēyāṇa dhuttāṇaṁ</l>
 	</lg>
 	<lg n="13" xml:id="Dhutt.1.13">
 	  <l>jō taṁ na pattiējjā asacca-vayaṇaṁ ti tēṇa savvēsiṁ</l>
@@ -139,7 +139,7 @@
 	</lg>
 	<lg n="18" xml:id="Dhutt.1.18">
 	  <l>taruṇattaṇammi ahayaṁ icchiya-suha-sampayaṁ ahilasantō</l>
-	  <l>dhārā-dharaṇ'aṭṭhāē sāmi-gihaṁ patthiō suiraṁ</l>
+	  <l>dhārā-dharaṇ’aṭṭhāē sāmi-gihaṁ patthiō suiraṁ</l>
 	</lg>
 	<lg n="19" xml:id="Dhutt.1.19">
 	  <l>chatta-kamaṇḍalu-hatthō panthaṁ vāhēmi gahiya-pacchayaṇō</l>
@@ -147,14 +147,14 @@
 	</lg>
 	<lg n="20" xml:id="Dhutt.1.20">
 	  <l>mēham iva gulagulintaṁ pabhinna-karaḍā-muhaṁ mahāmattaṁ</l>
-	  <l>daṭṭhūṇa vaṇagay'indaṁ bhaēṇa vēvanta-gattō haṁ</l>
+	  <l>daṭṭhūṇa vaṇagay’indaṁ bhaēṇa vēvanta-gattō haṁ</l>
 	</lg>
 	<lg n="21" xml:id="Dhutt.1.21">
 	  <l>attāṇō ya asaraṇō kattha nilukkāmi haṁ ti cintantō</l>
 	  <l>tō sahasā ya aïgaō kamaṇḍaluṁ maraṇa-bhayabhīō</l>
 	</lg>
 	<lg n="22" xml:id="Dhutt.1.22">
-	  <l>aha sō vi matta-hatthī ūsaviya-karō sarōsa-ratt'acchō</l>
+	  <l>aha sō vi matta-hatthī ūsaviya-karō sarōsa-ratt’acchō</l>
 	  <l>majjhāṇumagga-laggō kamaṇḍaluṁ aïgaō sigghaṁ</l>
 	</lg>
 	<lg n="23" xml:id="Dhutt.1.23">
@@ -163,15 +163,15 @@
 	</lg>
 	<lg n="24" xml:id="Dhutt.1.24">
 	  <l>gīvāe niggaō haṁ hatthī vi mamāṇumaggaō nintō</l>
-	  <l>laggō vāl'agg'antē kuṇḍiya-gīvāe chiddammi</l>
+	  <l>laggō vāl’agg’antē kuṇḍiya-gīvāe chiddammi</l>
 	</lg>
 	<lg n="25" xml:id="Dhutt.1.25">
 	  <l>aham avi ya navari puraō gaṅgaṁ pēcchāmi raṅgira-taraṅgaṁ</l>
-	  <l>phēṇa-ṇiyar'aṭṭahāsaṁ vaṇagaya-danta-kkhaya-taḍ'aggaṁ</l>
+	  <l>phēṇa-ṇiyar’aṭṭahāsaṁ vaṇagaya-danta-kkhaya-taḍ’aggaṁ</l>
 	</lg>
 	<lg n="26" xml:id="Dhutt.1.26">
 	  <l>ummī-sahassa-paüraṁ jhasa-mayara-ggāha-kumma-pariyariyaṁ</l>
-	  <l>juvaï-hiyaya vv' agāhaṁ uyahi vva sudūra-parapāraṁ</l>
+	  <l>juvaï-hiyaya vv’ agāhaṁ uyahi vva sudūra-parapāraṁ</l>
 	</lg>
 	<lg n="27" xml:id="Dhutt.1.27">
 	  <l>paham annaṁ alahantō tō haṁ isu-vēya-vāhiṇiṁ sigghaṁ</l>
@@ -179,7 +179,7 @@
 	</lg>
 	<lg n="28" xml:id="Dhutt.1.28">
 	  <l>tō sāmi-gihaṁ gantuṁ chuha-taṇhā-parisahēhiṁ sahamāṇō</l>
-	  <l>chammāsā sīsēṇaṁ dharēmi dhārā-dhar'aṭṭhāē</l>
+	  <l>chammāsā sīsēṇaṁ dharēmi dhārā-dhar’aṭṭhāē</l>
 	</lg>
 	<lg n="29" xml:id="Dhutt.1.29">
 	  <l>dhārēūṇa ya dhāraṁ payaō ahivandiūṇa mahasēṇaṁ</l>
@@ -199,11 +199,11 @@
 	</lg>
 	<lg n="33" xml:id="Dhutt.1.33">
 	  <l>suhuma-cchiddēṇa kamaṇḍalāo kaha niggaō ahaṁ sō ya</l>
-	  <l>niggantuṁ vaṇahatthī vāl'agg'antē kahaṁ laggō</l>
+	  <l>niggantuṁ vaṇahatthī vāl’agg’antē kahaṁ laggō</l>
 	</lg>
 	<lg n="34" xml:id="Dhutt.1.34">
 	  <l>kaha gaṅgā uttiṇṇā bāhāhiṁ maē sudūra-parapārā</l>
-	  <l>kaha chammāsaṁ dhariyā bhukkhiya-tisiēṇ' udaya-dhārā</l>
+	  <l>kaha chammāsaṁ dhariyā bhukkhiya-tisiēṇ’ udaya-dhārā</l>
 	</lg>
 	<lg n="35" xml:id="Dhutt.1.35">
 	  <l>aha bhaṇaï kaṇḍarīō jaṁ summaï bhārahē purāṇē ya</l>
@@ -226,16 +226,16 @@
 	  <l>antaṁ jassa na pattā vāsa-sahassēṇa divvēṇa</l>
 	</lg>
 	<lg n="40" xml:id="Dhutt.1.40">
-	  <l>liṅgaṁ mahappamāṇaṁ kaha māyaṁ tass' umā-sarīrammi</l>
+	  <l>liṅgaṁ mahappamāṇaṁ kaha māyaṁ tass’ umā-sarīrammi</l>
 	  <l>ēvaṁ jaï kuṇḍiyāē hatthī māō tti kō dōsō</l>
 	</lg>
 	<lg n="41" xml:id="Dhutt.1.41">
-	  <l>annaṁ ca imaṁ suvvaï risiṇā vāsēṇa bhārahē 'bhihiyaṁ</l>
+	  <l>annaṁ ca imaṁ suvvaï risiṇā vāsēṇa bhārahē ’bhihiyaṁ</l>
 	  <l>jaha vēṇu-pavva-majjhē kīyaga-bhāiya-sayaṁ jāyaṁ</l>
 	</lg>
 	<lg n="42" xml:id="Dhutt.1.42">
 	  <l>kīō vaṁsō bhaṇṇaï tahiṁ jāyā kīyaga tti bhaṇṇanti</l>
-	  <l>kaha tēsiṁ uppattī virāḍa-rāy'agga-mahisīē</l>
+	  <l>kaha tēsiṁ uppattī virāḍa-rāy’agga-mahisīē</l>
 	</lg>
 	<lg n="43" xml:id="Dhutt.1.43">
 	  <l>tīē vi natthi puttō tō sā risi-āsamammi risim ēkkaṁ</l>
@@ -278,16 +278,16 @@
 	  <l>chammāsaṁ kuṇḍiyāē vimōhiō vaṇagaō saccaṁ</l>
 	</lg>
 	<lg n="53" xml:id="Dhutt.1.53">
-	  <l>laggō vāl'agg'antē hatthī ahayaṁ ca niggaō kaha nu</l>
+	  <l>laggō vāl’agg’antē hatthī ahayaṁ ca niggaō kaha nu</l>
 	  <l>jaṁ bhaṇasi taṁ suṇējjasu purāṇa-sui-āgayaṁ vayaṇaṁ</l>
 	</lg>
 	<lg n="54" xml:id="Dhutt.1.54">
-	  <l>viṇhū jagassa kattā sō kira ēg'aṇṇavammi lōgammi</l>
+	  <l>viṇhū jagassa kattā sō kira ēg’aṇṇavammi lōgammi</l>
 	  <l>āgāsa-bhūmi-māruya-tasa-thāvara-jalaṇa-rahiyammi</l>
 	</lg>
 	<lg n="55" xml:id="Dhutt.1.55">
 	  <l>naṭṭha-ṇarāsura-tiriē tārā-sasi-sūra-virahiē lōē</l>
-	  <l>tappaï tavaṁ aṇantō jala-sayaṇa-gaō acint'appā</l>
+	  <l>tappaï tavaṁ aṇantō jala-sayaṇa-gaō acint’appā</l>
 	</lg>
 	<lg n="56" xml:id="Dhutt.1.56">
 	  <l>tassa kira paṅkaya-tthō bambhō nāhīe paüma-gabbhāō</l>
@@ -295,7 +295,7 @@
 	</lg>
 	<lg n="57" xml:id="Dhutt.1.57">
 	  <l>ēvaṁ kamaṇḍalu-gīvāe niggaō jaï tumaṁ gaya-samaṁ pi</l>
-	  <l>hatthī vāl'agg'antē laggō tō ēttha kim ajuttaṁ</l>
+	  <l>hatthī vāl’agg’antē laggō tō ēttha kim ajuttaṁ</l>
 	</lg>
 	<lg n="58" xml:id="Dhutt.1.58">
 	  <l>jaṁ pi ya bhaṇasi guṇāgara kuṇḍiya-gīvāe niggaō kim ahaṁ</l>
@@ -306,7 +306,7 @@
 	  <l>tō khuhiyā tiyasa-gaṇā bhaṇanti kaha hōjja sē vigghaṁ</l>
 	</lg>
 	<lg n="60" xml:id="Dhutt.1.60">
-	  <l>tō bhaṇaï suravar'indō thī-lōlō pasuvaī-vivāhammi</l>
+	  <l>tō bhaṇaï suravar’indō thī-lōlō pasuvaī-vivāhammi</l>
 	  <l>aggīkamma-ṇiuttō daṭṭhūṇa umaṁ lhasiya-cēlaṁ</l>
 	</lg>
 	<lg n="61" xml:id="Dhutt.1.61">
@@ -318,7 +318,7 @@
 	  <l>kō itthīhiṁ na khuhiō muttūṇa jiṇaṁ mahāvīraṁ</l>
 	</lg>
 	<lg n="63" xml:id="Dhutt.1.63">
-	  <l>gōyama-vasiṭṭha-pārāsarō ya jamayaggi-kāsavō-'gatthī</l>
+	  <l>gōyama-vasiṭṭha-pārāsarō ya jamayaggi-kāsavō-’gatthī</l>
 	  <l>ahayaṁ ca surāhivaī harō harī tihuyaṇa-variṭṭhā</l>
 	</lg>
 	<lg n="64" xml:id="Dhutt.1.64">
@@ -334,16 +334,16 @@
 	  <l>gantuṁ vibhussa puraō divvaṁ naṭṭaṁ payāsēi</l>
 	</lg>
 	<lg n="67" xml:id="Dhutt.1.67">
-	  <l>jahaṇ'uvvahaṇa-bhamirayā ucchāliya-hāra-manthar'ucchōhā</l>
-	  <l>ghaṇa-masiṇ'aṁsiya-thaṇahara-m-ukkampiya-pēlava-dugullā</l>
+	  <l>jahaṇ’uvvahaṇa-bhamirayā ucchāliya-hāra-manthar’ucchōhā</l>
+	  <l>ghaṇa-masiṇ’aṁsiya-thaṇahara-m-ukkampiya-pēlava-dugullā</l>
 	</lg>
 	<lg n="68" xml:id="Dhutt.1.68">
-	  <l>laliya-paṇay'aṅgalaṭṭhī sakaḍakkh'ubbhēya-bhuya-layā-juyalā</l>
+	  <l>laliya-paṇay’aṅgalaṭṭhī sakaḍakkh’ubbhēya-bhuya-layā-juyalā</l>
 	  <l>rēhaï paṇaccamāṇī pavaṇēriya-campaya-laya vva</l>
 	</lg>
 	<lg n="69" xml:id="Dhutt.1.69">
-	  <l>daṭṭhūṇa naccamāṇiṁ bambhā ēg'indiō vva saṁvuttō</l>
-	  <l>nijjhāi aṇimis'acchō sēs'indiya-mukka-vāvārō</l>
+	  <l>daṭṭhūṇa naccamāṇiṁ bambhā ēg’indiō vva saṁvuttō</l>
+	  <l>nijjhāi aṇimis’acchō sēs’indiya-mukka-vāvārō</l>
 	</lg>
 	<lg n="70" xml:id="Dhutt.1.70">
 	  <l>nāūṇa tassa bhāvaṁ tō sā saṅgaya-maṇōhara-suvēsā</l>
@@ -354,7 +354,7 @@
 	  <l>taṁ daṭṭhūṇa sataṇhō karēi bīyaṁ taō vayaṇaṁ</l>
 	</lg>
 	<lg n="72" xml:id="Dhutt.1.72">
-	  <l>ēttō 'varēṇa taïyaṁ caütthayaṁ kuṇaï uttarēṇaṁ sō</l>
+	  <l>ēttō ’varēṇa taïyaṁ caütthayaṁ kuṇaï uttarēṇaṁ sō</l>
 	  <l>uḍḍhaṁ uppaïyāē pañcama-vayaṇaṁ uvari-huttaṁ</l>
 	</lg>
 	<lg n="73" xml:id="Dhutt.1.73">
@@ -363,11 +363,11 @@
 	</lg>
 	<lg n="74" xml:id="Dhutt.1.74">
 	  <l>tō bambhā parikuviō dāhiṇa-hattha-ppaēsiṇīē u</l>
-	  <l>uvvaṭṭēi nilāḍē asarisa-rōs'uṭṭhiyaṁ sēyaṁ</l>
+	  <l>uvvaṭṭēi nilāḍē asarisa-rōs’uṭṭhiyaṁ sēyaṁ</l>
 	</lg>
 	<lg n="75" xml:id="Dhutt.1.75">
-	  <l>tatth' uppannō sēē balavantō sēyakuṇḍalī nāma</l>
-	  <l>bambhēṇ' āṇattēṇaṁ ukkhittō saṅkarō tēṇaṁ</l>
+	  <l>tatth’ uppannō sēē balavantō sēyakuṇḍalī nāma</l>
+	  <l>bambhēṇ’ āṇattēṇaṁ ukkhittō saṅkarō tēṇaṁ</l>
 	</lg>
 	<lg n="76" xml:id="Dhutt.1.76">
 	  <l>tō sō bhaya-sambhantō nāsantō bayariyāsamē pattō</l>
@@ -382,11 +382,11 @@
 	  <l>taṁ ruhiram aṅgulīē pasuvaïṇā ḍōhiyaṁ navariṁ</l>
 	</lg>
 	<lg n="79" xml:id="Dhutt.1.79">
-	  <l>bambhāṇa-sira-kavālē kēsava-ruhir'aṅgulīe ruddassa</l>
+	  <l>bambhāṇa-sira-kavālē kēsava-ruhir’aṅgulīe ruddassa</l>
 	  <l>tō rattakuṇḍaliṇarō tiṇhaṁ sañjōgaō jāō</l>
 	</lg>
 	<lg n="80" xml:id="Dhutt.1.80">
-	  <l>sō ruddēṇ' āṇattō pajujjhiō sēyakuṇḍalīe samaṁ</l>
+	  <l>sō ruddēṇ’ āṇattō pajujjhiō sēyakuṇḍalīe samaṁ</l>
 	  <l>jujjhantāṇaṁ tāṇaṁ vāsa-sahassaṁ aïkkantaṁ</l>
 	</lg>
 	<lg n="81" xml:id="Dhutt.1.81">
@@ -394,8 +394,8 @@
 	  <l>dinnō sakkassa narō sūrassa samappiō bīō</l>
 	</lg>
 	<lg n="82" xml:id="Dhutt.1.82">
-	  <l>bhaṇiyā bhāraha-kālē bhāraha-jujjhassa kāraṇ'aṭṭhāē</l>
-	  <l>bharah'avayāra-kālē uvaṇijjaha maṇuya-lōyammi</l>
+	  <l>bhaṇiyā bhāraha-kālē bhāraha-jujjhassa kāraṇ’aṭṭhāē</l>
+	  <l>bharah’avayāra-kālē uvaṇijjaha maṇuya-lōyammi</l>
 	</lg>
 	<lg n="83" xml:id="Dhutt.1.83">
 	  <l>tō kālē sampattē sūrō kuntīe rūva-ummattō</l>
@@ -418,20 +418,20 @@
 	  <l>bhaṇiō kaha tē uyahī tiṇṇō haṇuyanta sō bhaṇaï</l>
 	</lg>
 	<p xml:lang="san-Latn">bhavati cātra ślōkaḥ:</p>
-	<lg n="87-1">
+	<lg n="87-1" xml:lang="san-Latn">
 	  <l>tava prasādāt tava ca prasādād bhartuś ca tē dēvi tava prasādāt</l>
 	  <l>sādhūnatē yēna pituḥ prasādāt tīrṇō mayā gōṣpadavat samudraḥ</l>
 	</lg>
 	<lg n="88" xml:id="Dhutt.1.88">
 	  <l>jaï tēṇa samuttiṇṇō tiriēṇa mahōyahī duruttārō</l>
-	  <l>tō kiṁ taē nar'uttama na hōjja gaṅgā samuttiṇṇā</l>
+	  <l>tō kiṁ taē nar’uttama na hōjja gaṅgā samuttiṇṇā</l>
 	</lg>
 	<lg n="89" xml:id="Dhutt.1.89">
 	  <l>jaṁ bhaṇasi kaha nu dhārā chammāsā dhāriyā sirēṇa maē</l>
 	  <l>ēttha vi mē suṇa hēuṁ diyāi-sui-āgayaṁ vayaṇaṁ</l>
 	</lg>
 	<lg n="90" xml:id="Dhutt.1.90">
-	  <l>lōga-hiy'aṭṭhāē kira gaṅgā abbhatthiyā suravarēhiṁ</l>
+	  <l>lōga-hiy’aṭṭhāē kira gaṅgā abbhatthiyā suravarēhiṁ</l>
 	  <l>avayarasu maṇuya-lōyaṁ saggāō bhaṇaï sā tāhē</l>
 	</lg>
 	<lg n="91" xml:id="Dhutt.1.91">
@@ -440,10 +440,10 @@
 	</lg>
 	<lg n="92" xml:id="Dhutt.1.92">
 	  <l>divvaṁ vāsa-sahassaṁ jaï dhariyā jaṇhavī umā-vaïṇā</l>
-	  <l>tō kaha na dharēsi tumaṁ chammāsaṁ sirēṇ' udaya-dhārā</l>
+	  <l>tō kaha na dharēsi tumaṁ chammāsaṁ sirēṇ’ udaya-dhārā</l>
 	</lg>
 	<lg n="93" xml:id="Dhutt.1.93">
-	  <l>uttama-purisō si tumaṁ vinnāṇ'āgama-guṇēhiṁ sampuṇṇō</l>
+	  <l>uttama-purisō si tumaṁ vinnāṇ’āgama-guṇēhiṁ sampuṇṇō</l>
 	  <l>niggaya-jasō mahappā vikkhāō jīva-lōyammi</l>
 	</lg>
       </div>
@@ -457,24 +457,24 @@
 	  <l>ammā-pii-duddantō rōsēṇa gharāo nikkhantō</l>
 	</lg>
 	<lg n="3" xml:id="Dhutt.2.3">
-	  <l>parihiṇḍantō ya ahaṁ pattō dēs'anta-saṇṭhiyaṁ gāmaṁ</l>
+	  <l>parihiṇḍantō ya ahaṁ pattō dēs’anta-saṇṭhiyaṁ gāmaṁ</l>
 	  <l>gō-mahisa-ajā-ēlaya-khara-karaha-samāulaṁ muiyaṁ</l>
 	</lg>
 	<lg n="4" xml:id="Dhutt.2.4">
-	  <l>ārām'ujjāṇa-vaṇēhiṁ sōhiyaṁ kusuma-phala-samiddhēhiṁ</l>
+	  <l>ārām’ujjāṇa-vaṇēhiṁ sōhiyaṁ kusuma-phala-samiddhēhiṁ</l>
 	  <l>ayalāpuri-sāricchaṁ bahu-ghara-saya-saṅkulaṁ rammaṁ</l>
 	</lg>
 	<lg n="5" xml:id="Dhutt.2.5">
-	  <l>tassa bahumajjha-dēsē pēcchaṁ vaḍapāyavaṁ maṇ'abhirāmaṁ</l>
+	  <l>tassa bahumajjha-dēsē pēcchaṁ vaḍapāyavaṁ maṇ’abhirāmaṁ</l>
 	  <l>mēha-ṇiuramba-bhūyaṁ saüṇa-sahassāṇa āvāsaṁ</l>
 	</lg>
 	<lg n="6" xml:id="Dhutt.2.6">
-	  <l>tassa ya hēṭṭhē jakkhō kamaladal'akkhō guṇēhiṁ parikiṇṇō</l>
+	  <l>tassa ya hēṭṭhē jakkhō kamaladal’akkhō guṇēhiṁ parikiṇṇō</l>
 	  <l>sannihiya-pāḍihērō dēi varaṁ sō vara-tthīṇaṁ</l>
 	</lg>
 	<lg n="7" xml:id="Dhutt.2.7">
 	  <l>jakkhassa tassa jattā vaṭṭaï bahujaṇa-samāulā muiyā</l>
-	  <l>tatth' ēi jaṇō muiō dhūva-balī-puppha-hattha-gaō</l>
+	  <l>tatth’ ēi jaṇō muiō dhūva-balī-puppha-hattha-gaō</l>
 	</lg>
 	<lg n="8" xml:id="Dhutt.2.8">
 	  <l>ṇhāya-pasāhiya-jimiō savvālaṅkāra-bhūsiya-sarīrō</l>
@@ -485,7 +485,7 @@
 	  <l>jakkhassa kamē namiuṁ ramamāṇē ghōḍahē pēcchaṁ</l>
 	</lg>
 	<lg n="10" xml:id="Dhutt.2.10">
-	  <l>sannaddha-baddha-kavayā gahiy'āuha-paharaṇā ya aïbahulā</l>
+	  <l>sannaddha-baddha-kavayā gahiy’āuha-paharaṇā ya aïbahulā</l>
 	  <l>kalayala-ravaṁ karēntā paḍiyā cōrā navari tattha</l>
 	</lg>
 	<lg n="11" xml:id="Dhutt.2.11">
@@ -502,7 +502,7 @@
 	</lg>
 	<lg n="14" xml:id="Dhutt.2.14">
 	  <l>sā ayagarēṇa ghatthā sō vi ya ḍhēṅkīe navari ōiliō</l>
-	  <l>sā tatth' ēva nilīṇā tuṅgē vaḍapāyavē viulē</l>
+	  <l>sā tatth’ ēva nilīṇā tuṅgē vaḍapāyavē viulē</l>
 	</lg>
 	<lg n="15" xml:id="Dhutt.2.15">
 	  <l>tassa ahē khandhārō navari ṭhiō rāiṇō ya matta-gaō</l>
@@ -525,7 +525,7 @@
 	  <l>sagaḍassa īdarō viva khōḍī viva mahiyalē paḍiyā</l>
 	</lg>
 	<lg n="20" xml:id="Dhutt.2.20">
-	  <l>aha bhaṇaï nara-var'indō phālijjaü ēsa ayagarō viulō</l>
+	  <l>aha bhaṇaï nara-var’indō phālijjaü ēsa ayagarō viulō</l>
 	  <l>ēyassa vi mā majjhē māṇusa-tiriyaṁ ca hōjjāhi</l>
 	</lg>
 	<lg n="21" xml:id="Dhutt.2.21">
@@ -534,18 +534,18 @@
 	</lg>
 	<lg n="22" xml:id="Dhutt.2.22">
 	  <l>hī hī ahō mahallaṁ ti cibbhaḍaṁ jāva jampaē rāyā</l>
-	  <l>tō ghōḍayā vi ramiuṁ navari ṭhiy'āōjja-vaṁsa-karā</l>
+	  <l>tō ghōḍayā vi ramiuṁ navari ṭhiy’āōjja-vaṁsa-karā</l>
 	</lg>
 	<lg n="23" xml:id="Dhutt.2.23">
 	  <l>niggantuṁ ca pavattō vālukkāō taō jaṇa-samūhō</l>
 	  <l>jaha salabhāṇa ya sēṇā rēppha-bilāō viṇikkhamaï</l>
 	</lg>
 	<lg n="24" xml:id="Dhutt.2.24">
-	  <l>namiūṇa nara-var'indaṁ tō sō sacaüppaō jaṇō savvō</l>
+	  <l>namiūṇa nara-var’indaṁ tō sō sacaüppaō jaṇō savvō</l>
 	  <l>niya-ṇiya-ṭhāṇāiṁ gaō ahaṁ pi pattō imaṁ nayariṁ</l>
 	</lg>
 	<lg n="25" xml:id="Dhutt.2.25">
-	  <l>ēyaṁ mē aṇubhūyaṁ paccakkham ih' ēva māṇusē lōē</l>
+	  <l>ēyaṁ mē aṇubhūyaṁ paccakkham ih’ ēva māṇusē lōē</l>
 	  <l>jō mē na pattiyāyaï dhuttāṇaṁ dēu sō bhuttiṁ</l>
 	</lg>
 	<lg n="26" xml:id="Dhutt.2.26">
@@ -553,12 +553,12 @@
 	  <l>paḍibhaṇaï kaṇḍarīō gāmō kaha cibbhaḍē māō</l>
 	</lg>
 	<lg n="27" xml:id="Dhutt.2.27">
-	  <l>paḍibhaṇaï ēlasāḍhō purāṇa-bhāraha-suīsu diṭṭh'atthō</l>
+	  <l>paḍibhaṇaï ēlasāḍhō purāṇa-bhāraha-suīsu diṭṭh’atthō</l>
 	  <l>kiṁ tuha viṇhupurāṇaṁ kaṇṇa-sui-pahaṁ na pattaṁ tē</l>
 	</lg>
 	<lg n="28" xml:id="Dhutt.2.28">
 	  <l>puvviṁ āsi jagam iṇaṁ pañcamahābhūya-vajjiyaṁ gahiraṁ</l>
-	  <l>ēg'aṇṇavaṁ jalēṇaṁ mahappamāṇaṁ tahiṁ aṇḍaṁ</l>
+	  <l>ēg’aṇṇavaṁ jalēṇaṁ mahappamāṇaṁ tahiṁ aṇḍaṁ</l>
 	</lg>
 	<lg n="29" xml:id="Dhutt.2.29">
 	  <l>vīī-paramparēṇaṁ ghōlantaṁ acchiuṁ sucira-kālaṁ</l>
@@ -573,23 +573,23 @@
 	  <l>kahiyaṁ suyam-aṇubhūyaṁ makkaṇḍēṇaṁ ca anna-juē</l>
 	</lg>
 	<lg n="32" xml:id="Dhutt.2.32">
-	  <l>sō kila jug'anta-samaē uyaēṇ' ēg'aṇṇavī-kaē lōē</l>
+	  <l>sō kila jug’anta-samaē uyaēṇ’ ēg’aṇṇavī-kaē lōē</l>
 	  <l>vīī-paramparēṇaṁ ghōlintō uyaya-majjhammi</l>
 	</lg>
 	<lg n="33" xml:id="Dhutt.2.33">
 	  <l>pēcchaï gaya-tasathāvara-paṇaṭṭha-sura-ṇara-tirikkhajōṇīyaṁ</l>
-	  <l>ēg'aṇṇavaṁ jagam iṇaṁ pañcamahābhūya-pabbhaṭṭhaṁ</l>
+	  <l>ēg’aṇṇavaṁ jagam iṇaṁ pañcamahābhūya-pabbhaṭṭhaṁ</l>
 	</lg>
 	<lg n="34" xml:id="Dhutt.2.34">
 	  <l>ēvaṁ-vihē jagammī pēcchaï naggōhapāyavaṁ aha sō</l>
 	  <l>mandaragiri vva tuṅgaṁ mahāsamuddaṁ va vitthiṇṇaṁ</l>
 	</lg>
 	<lg n="35" xml:id="Dhutt.2.35">
-	  <l>khandhammi tassa sayaṇaṁ acchaï tahiṁ bālaō maṇ'abhirāmō</l>
-	  <l>sampuṇṇa-sarīr'uyaō miu-maddava-kuñciya-suēsō</l>
+	  <l>khandhammi tassa sayaṇaṁ acchaï tahiṁ bālaō maṇ’abhirāmō</l>
+	  <l>sampuṇṇa-sarīr’uyaō miu-maddava-kuñciya-suēsō</l>
 	</lg>
 	<lg n="36" xml:id="Dhutt.2.36">
-	  <l>hatthō pasāriō sē risiṇā ēh'ēhi vaccha bhaṇiō ya</l>
+	  <l>hatthō pasāriō sē risiṇā ēh’ēhi vaccha bhaṇiō ya</l>
 	  <l>khandhē mamaṁ vilaggasu mā marihisi uyaya-vāhīē</l>
 	</lg>
 	<lg n="37" xml:id="Dhutt.2.37">
@@ -598,7 +598,7 @@
 	</lg>
 	<lg n="38" xml:id="Dhutt.2.38">
 	  <l>divvaṁ vāsa-sahassaṁ kucchīē sō risī paribhamantō</l>
-	  <l>antaṁ na c'ēva pattō viṇiggaō risivarō tattō</l>
+	  <l>antaṁ na c’ēva pattō viṇiggaō risivarō tattō</l>
 	</lg>
 	<lg n="39" xml:id="Dhutt.2.39">
 	  <l>jaï dārayassa uyarē sasurāsura-māṇusaṁ jayaṁ māyaṁ</l>
@@ -613,11 +613,11 @@
 	  <l>vuttō tassa ya uyarē sasēla-vaṇa-kāṇaṇā puhaī</l>
 	</lg>
 	<lg n="42" xml:id="Dhutt.2.42">
-	  <l>aha bhaṇaï kaṇḍarīō cibbhaḍa-pasu-ayagar'āi-majjhammi</l>
+	  <l>aha bhaṇaï kaṇḍarīō cibbhaḍa-pasu-ayagar’āi-majjhammi</l>
 	  <l>acchantō kaha na maō ēyaṁ mē pattiyāvēha</l>
 	</lg>
 	<lg n="43" xml:id="Dhutt.2.43">
-	  <l>bhaṇaï ya ēlāsāḍhō taddiyasaṁ c'ēya niggaō taṁ si</l>
+	  <l>bhaṇaï ya ēlāsāḍhō taddiyasaṁ c’ēya niggaō taṁ si</l>
 	  <l>puhaī kaha na vivajjaï vasudēva-suyassa pōṭṭa-tthā</l>
 	</lg>
 	<lg n="44" xml:id="Dhutt.2.44">
@@ -641,24 +641,24 @@
 	  <l>pavisēhi majjha uyarē jā pēccha savibbhamaṁ puhaïṁ</l>
 	</lg>
 	<lg n="49" xml:id="Dhutt.2.49">
-	  <l>maha c'ēva samuppannō jala-sayaṇē nāhi-ṇiggaē paümē</l>
+	  <l>maha c’ēva samuppannō jala-sayaṇē nāhi-ṇiggaē paümē</l>
 	  <l>bambhāṇa taṁ na sōhasi guru-puraō ēttiyaṁ vōttuṁ</l>
 	</lg>
 	<p>avi ya</p>
 	<lg n="50" xml:id="Dhutt.2.50">
-	  <l>jassa pabhāvēṇ' ummilliyāiṁ taṁ c'ēva kaha kayagghāiṁ</l>
+	  <l>jassa pabhāvēṇ’ ummilliyāiṁ taṁ c’ēva kaha kayagghāiṁ</l>
 	  <l>kumuyāiṁ atta-sambhāviyāiṁ candaṁ uvahasanti</l>
 	</lg>
 	<lg n="51" xml:id="Dhutt.2.51">
 	  <l>aha bhaṇaï kaṇḍarīō pōrāṇa-suīsu kattha ya suyaṁ tē</l>
-	  <l>ḍhēṅkī mahappamāṇā jass' uyarē ēttiyaṁ māyaṁ</l>
+	  <l>ḍhēṅkī mahappamāṇā jass’ uyarē ēttiyaṁ māyaṁ</l>
 	</lg>
 	<lg n="52" xml:id="Dhutt.2.52">
 	  <l>paribhaṇaï ēlasāḍhō dōvaï-dēvī-sayaṁvarē pattā</l>
 	  <l>jaha kira dhaṇuṁ paviṭṭhā mahihara-ṇāgā ya aggī ya</l>
 	</lg>
 	<lg n="53" xml:id="Dhutt.2.53">
-	  <l>dupaya-ṇar'indassa dhaṇuṁ sumahallaṁ dēvayā-pariggahiyaṁ</l>
+	  <l>dupaya-ṇar’indassa dhaṇuṁ sumahallaṁ dēvayā-pariggahiyaṁ</l>
 	  <l>jō āruhiō vindhaï vāmē acchimmi sūyariyaṁ</l>
 	</lg>
 	<lg n="54" xml:id="Dhutt.2.54">
@@ -674,11 +674,11 @@
 	  <l>cakkaṁ naṅgala-musalaṁ mandara-mērū ya pakkhittā</l>
 	</lg>
 	<lg n="57" xml:id="Dhutt.2.57">
-	  <l>sandhēi tō vi jāhē tā sasi-sūr'aggi-uyahi-sēlā ya</l>
+	  <l>sandhēi tō vi jāhē tā sasi-sūr’aggi-uyahi-sēlā ya</l>
 	  <l>pakkhittā savva cciya vasuhā aha dhaṇu-harē tammi</l>
 	</lg>
 	<lg n="58" xml:id="Dhutt.2.58">
-	  <l>addh'aṅgula-mēttē kira asandhiē kēsavēṇa bāṇaṁ sō</l>
+	  <l>addh’aṅgula-mēttē kira asandhiē kēsavēṇa bāṇaṁ sō</l>
 	  <l>pāēṇa vi mōyaviuṁ tāhē paḍiō saha-dhaṇū ṇaṁ</l>
 	</lg>
 	<lg n="59" xml:id="Dhutt.2.59">
@@ -690,12 +690,12 @@
 	  <l>laddhā dōvaï-kannā vīra-paḍāgaṁ harantēṇa</l>
 	</lg>
 	<lg n="61" xml:id="Dhutt.2.61">
-	  <l>jaï taṁ mahalla-dhaṇuyaṁ nāg'aggi-gayā ya aïgayā jattha</l>
-	  <l>tō kaha na hōi ḍhēṅkī mahaī jatth' ēttiyaṁ māyaṁ</l>
+	  <l>jaï taṁ mahalla-dhaṇuyaṁ nāg’aggi-gayā ya aïgayā jattha</l>
+	  <l>tō kaha na hōi ḍhēṅkī mahaī jatth’ ēttiyaṁ māyaṁ</l>
 	</lg>
 	<lg n="62" xml:id="Dhutt.2.62">
 	  <l>rāmāyaṇē vi suvvaï sīyā-haraṇē jaḍāu-giddhō tti</l>
-	  <l>paṅkh'āuhō mahappā jujjhēṇaṁ rāmaṇassa ṭhiō</l>
+	  <l>paṅkh’āuhō mahappā jujjhēṇaṁ rāmaṇassa ṭhiō</l>
 	</lg>
 	<lg n="63" xml:id="Dhutt.2.63">
 	  <l>tēṇa vi sē ruṭṭhēṇaṁ candāhāsēṇa lūḍiyā paṅkhā</l>
@@ -710,11 +710,11 @@
 	  <l>sīyā-paütti-hēuṁ hiṇḍantō āgaō tahiyaṁ</l>
 	</lg>
 	<lg n="66" xml:id="Dhutt.2.66">
-	  <l>cintēi ya haṇuyantō ahō girī ēsa unnaō 'īva</l>
-	  <l>ētth' āruhiūṇa ahaṁ pulaēmi samantaō vasuhaṁ</l>
+	  <l>cintēi ya haṇuyantō ahō girī ēsa unnaō ’īva</l>
+	  <l>ētth’ āruhiūṇa ahaṁ pulaēmi samantaō vasuhaṁ</l>
 	</lg>
 	<lg n="67" xml:id="Dhutt.2.67">
-	  <l>saṁlattō ya khagēṇaṁ kō 'si tumaṁ ērisēṇa vēsēṇa</l>
+	  <l>saṁlattō ya khagēṇaṁ kō ’si tumaṁ ērisēṇa vēsēṇa</l>
 	  <l>sō bhaṇaï rāma-dūō ahaṁ ti sīyaṁ gavēsāmi</l>
 	</lg>
 	<lg n="68" xml:id="Dhutt.2.68">
@@ -722,11 +722,11 @@
 	  <l>tēlōkka-ḍāmarēṇaṁ laṅkāpura-paṭṭaṇaṁ nīyā</l>
 	</lg>
 	<lg n="69" xml:id="Dhutt.2.69">
-	  <l>mā bhamasu araṇṇāiṁ sīyā-dēvīe maggaṇ'aṭṭhāē</l>
+	  <l>mā bhamasu araṇṇāiṁ sīyā-dēvīe maggaṇ’aṭṭhāē</l>
 	  <l>daharaha-suyassa sigghaṁ gantūṇa piyaṁ nivēēhi</l>
 	</lg>
 	<lg n="70" xml:id="Dhutt.2.70">
-	  <l>aham avi sīy'aṭṭhāē jujjhantō nisiyarāhivēṇ' ēvaṁ</l>
+	  <l>aham avi sīy’aṭṭhāē jujjhantō nisiyarāhivēṇ’ ēvaṁ</l>
 	  <l>asiṇā duvē vi paṅkhē chēttūṇa ajaṅgamō mukkō</l>
 	</lg>
 	<lg n="71" xml:id="Dhutt.2.71">
@@ -735,19 +735,19 @@
 	</lg>
 	<lg n="72" xml:id="Dhutt.2.72">
 	  <l>sōūṇa dūya-vayaṇaṁ tō sē jāyā puṇaṇṇavā paṅkhā</l>
-	  <l>āyāsēṇ' uppaïō gaō ya saggaṁ niruvasaggaṁ</l>
+	  <l>āyāsēṇ’ uppaïō gaō ya saggaṁ niruvasaggaṁ</l>
 	</lg>
-	bhavati cātra ślōkaḥ:
-	<lg n="73" xml:id="Dhutt.2.73">
+	<p xml:lang="san-Latn"><s>bhavati cātra ślōkaḥ</s></p>
+	<lg n="73" xml:id="Dhutt.2.73" xml:lang="san-Latn">
 	  <l>ākhyāsyati khagaḥ svargē pitur daśarathasya mē</l>
-	  <l>ēkastrīparipālyē 'pi na rāmaḥ śaktum arhati</l>
+	  <l>ēkastrīparipālyē ’pi na rāmaḥ śaktum arhati</l>
 	</lg>
 	<lg n="74" xml:id="Dhutt.2.74">
-	  <l>mandara-sihar'āgārō jaï āsi jaḍāu khahayarō giddhō</l>
+	  <l>mandara-sihar’āgārō jaï āsi jaḍāu khahayarō giddhō</l>
 	  <l>tā kaha na hōi ḍhēṅkī kaṇḍariya mahappamāṇāō</l>
 	</lg>
 	<lg n="75" xml:id="Dhutt.2.75">
-	  <l>ēlāsāḍhēṇ' ēvaṁ kaṇḍariō jampiō bhaṇaï tāhē</l>
+	  <l>ēlāsāḍhēṇ’ ēvaṁ kaṇḍariō jampiō bhaṇaï tāhē</l>
 	  <l>ēlāsāḍha iyāṇiṁ kahēhi jaṁ tē samaṇubhūyaṁ</l>
 	</lg>
       </div>
@@ -789,7 +789,7 @@
 	  <l>cōrā sāmatthēuṁ rattiṁ paḍiyā mama gihammi</l>
 	</lg>
 	<lg n="10" xml:id="Dhutt.3.10">
-	  <l>sannaddha-baddha-paṭṭēhiṁ tēhiṁ gahiy'āuha-ppahārēhiṁ</l>
+	  <l>sannaddha-baddha-paṭṭēhiṁ tēhiṁ gahiy’āuha-ppahārēhiṁ</l>
 	  <l>kaya-sīha-ṇāya-bōlēhiṁ vēḍhiyaṁ majjha vara-bhavaṇaṁ</l>
 	</lg>
 	<lg n="11" xml:id="Dhutt.3.11">
@@ -801,8 +801,8 @@
 	  <l>tō bhaṇḍaṇam āḍhattaṁ cōrāṇa mahanta-bhīsaṇayaṁ</l>
 	</lg>
 	<lg n="13" xml:id="Dhutt.3.13">
-	  <l>satt'aṭṭha-dasa-duvālasa ahayaṁ ēkkēṇa sara-pahārēṇaṁ</l>
-	  <l>jattō valāmi tattō pēsēmi jam'ālayaṁ cōrē</l>
+	  <l>satt’aṭṭha-dasa-duvālasa ahayaṁ ēkkēṇa sara-pahārēṇaṁ</l>
+	  <l>jattō valāmi tattō pēsēmi jam’ālayaṁ cōrē</l>
 	</lg>
 	<lg n="14" xml:id="Dhutt.3.14">
 	  <l>tō cōrāṇa sayaṁ mē muhutta-mēttēṇa ghāiyaṁ tahiyaṁ</l>
@@ -813,16 +813,16 @@
 	  <l>bayarīē ṭhaviūṇaṁ musiūṇa gharaṁ gayā cōrā</l>
 	</lg>
 	<lg n="16" xml:id="Dhutt.3.16">
-	  <l>sa-ruhira-sa-kuṇḍalaṁ ciya sīsaṁ mē bayari-taruvar'ārūḍhaṁ</l>
+	  <l>sa-ruhira-sa-kuṇḍalaṁ ciya sīsaṁ mē bayari-taruvar’ārūḍhaṁ</l>
 	  <l>vīsattham aṇuvviggaṁ khāyaï bōrē kasakasassa</l>
 	</lg>
 	<lg n="17" xml:id="Dhutt.3.17">
-	  <l>taṁ sīsaṁ sūr'uyaē diṭṭhaṁ lōēṇa bayari-uvarimmi</l>
+	  <l>taṁ sīsaṁ sūr’uyaē diṭṭhaṁ lōēṇa bayari-uvarimmi</l>
 	  <l>bayarāiṁ khāyantaṁ ēsa sa-jīō tti kāūṇa</l>
 	</lg>
 	<lg n="18" xml:id="Dhutt.3.18">
 	  <l>majjhaṁ aṅgōvaṅgā jaṇēṇa piṇḍēvi mēliyā turiyaṁ</l>
-	  <l>jāō puṇō vi tō 'haṁ niruvahaya-sarīra-lāyaṇṇō</l>
+	  <l>jāō puṇō vi tō ’haṁ niruvahaya-sarīra-lāyaṇṇō</l>
 	</lg>
 	<lg n="19" xml:id="Dhutt.3.19">
 	  <l>ēyaṁ mē aṇubhūyaṁ sayam ēva imammi māṇusē lōē</l>
@@ -833,8 +833,8 @@
 	  <l>jaṁ pōrāṇa-suīē bhāraha-rāmāyaṇē āyaṁ</l>
 	</lg>
 	<lg n="21" xml:id="Dhutt.3.21">
-	  <l>jamayaggī āsi risī pattī tass' āsi rēṇuyā nāmaṁ</l>
-	  <l>tīē sīlavaīē namanti kusum'atthiē rukkhā</l>
+	  <l>jamayaggī āsi risī pattī tass’ āsi rēṇuyā nāmaṁ</l>
+	  <l>tīē sīlavaīē namanti kusum’atthiē rukkhā</l>
 	</lg>
 	<lg n="22" xml:id="Dhutt.3.22">
 	  <l>diṭṭhō ya ṇāe rāyā assāvahiō maṇō ya sē khuhiō</l>
@@ -850,7 +850,7 @@
 	</lg>
 	<lg n="25" xml:id="Dhutt.3.25">
 	  <l>iya hōu tti pabhaṇiē jāyā sā takkhaṇēṇa sajjīvā</l>
-	  <l>jaï sabbhūyaṁ ēyaṁ tumaṁ pi jīvō 'si taṁ saccaṁ</l>
+	  <l>jaï sabbhūyaṁ ēyaṁ tumaṁ pi jīvō ’si taṁ saccaṁ</l>
 	</lg>
 	<lg n="26" xml:id="Dhutt.3.26">
 	  <l>rāyā vi jarāsandhō samara-parakkama-payāva-vikkhāō</l>
@@ -862,27 +862,27 @@
 	</lg>
 	<lg n="28" xml:id="Dhutt.3.28">
 	  <l>sāmatthēuṁ surēhiṁ tilōttamā tēsiṁ vaha-ṇimittaṁ tu</l>
-	  <l>nimmaviyā tila-mēttaṁ ēkk'ēkka-surassa ghēttūṇaṁ</l>
+	  <l>nimmaviyā tila-mēttaṁ ēkk’ēkka-surassa ghēttūṇaṁ</l>
 	</lg>
 	<lg n="29" xml:id="Dhutt.3.29">
 	  <l>aṅgōvaṅga-su-y-aṅgaya-lāvaṇṇa-guṇāgarā aṇōvammā</l>
 	  <l>kamalāgara-vatthavvā lacchi vva sayaṁ samuttiṇṇā</l>
 	</lg>
 	<lg n="30" xml:id="Dhutt.3.30">
-	  <l>viṇay'ōṇāmiya-gattā sara-sāmala-vikaya-kamala-dala-ṇayaṇā</l>
-	  <l>namiūṇa sura-samūhaṁ mahur'ullāvā samullavaï</l>
+	  <l>viṇay’ōṇāmiya-gattā sara-sāmala-vikaya-kamala-dala-ṇayaṇā</l>
+	  <l>namiūṇa sura-samūhaṁ mahur’ullāvā samullavaï</l>
 	</lg>
 	<lg n="31" xml:id="Dhutt.3.31">
 	  <l>jaṁ kāyavvaṁ taṁ āṇavēha dēvēhiṁ jampiyaṁ iṇamō</l>
 	  <l>sunda-ṇisundā sura-sattha-kaṇṭayā tē samuddharasu</l>
 	</lg>
 	<lg n="32" xml:id="Dhutt.3.32">
-	  <l>iya hōu tti ya bhaṇiuṁ tilottamā gēṇhiuṁ sur'āṇattiṁ</l>
+	  <l>iya hōu tti ya bhaṇiuṁ tilottamā gēṇhiuṁ sur’āṇattiṁ</l>
 	  <l>pattā khaṇēṇa ya tahiṁ sunda-ṇisundāsurā jattha</l>
 	</lg>
 	<lg n="33" xml:id="Dhutt.3.33">
-	  <l>hār'addhahāra-kēūra-bhūsiyā jaṇa-maṇ'ussava-bbhūyā</l>
-	  <l>vithaḍ'unnaya-thaṇa-vaṭṭā dō vi jaṇē tē palōbhēi</l>
+	  <l>hār’addhahāra-kēūra-bhūsiyā jaṇa-maṇ’ussava-bbhūyā</l>
+	  <l>vithaḍ’unnaya-thaṇa-vaṭṭā dō vi jaṇē tē palōbhēi</l>
 	</lg>
 	<lg n="34" xml:id="Dhutt.3.34">
 	  <l>tō tē mayaṇa-vasagayā tīe kaē jujjhiuṁ aha pavattā</l>
@@ -898,7 +898,7 @@
 	  <l>tō kaha tujjha vi aṅgā lāijjantā na laggējjā</l>
 	</lg>
 	<lg n="37" xml:id="Dhutt.3.37">
-	  <l>annāṇ' aṅgāvayavā jaï laggā saṁmilissiyā santā</l>
+	  <l>annāṇ’ aṅgāvayavā jaï laggā saṁmilissiyā santā</l>
 	  <l>tō sasarīrāvayavā bhaṇasu tuhaṁ kiṁ na lagganti</l>
 	</lg>
 	<lg n="38" xml:id="Dhutt.3.38">
@@ -910,8 +910,8 @@
 	  <l>gahiuṁ samuṭṭhiyaṁ tō tēṇāvi tala-ppahārēṇaṁ</l>
 	</lg>
 	<lg n="40" xml:id="Dhutt.3.40">
-	  <l>saya-sikkarō kaō sō jaṇaṇī sē daṭṭhuṁ taṁ païṇṇ'aṅgaṁ</l>
-	  <l>bhattu-sayāsē gantuṁ vilavaï sōg'āurā kaluṇaṁ</l>
+	  <l>saya-sikkarō kaō sō jaṇaṇī sē daṭṭhuṁ taṁ païṇṇ’aṅgaṁ</l>
+	  <l>bhattu-sayāsē gantuṁ vilavaï sōg’āurā kaluṇaṁ</l>
 	</lg>
 	<lg n="41" xml:id="Dhutt.3.41">
 	  <l>daṭṭhuṁ niyaya-kalattaṁ rōyantiṁ bahuvihāiṁ kandantiṁ</l>
@@ -939,11 +939,11 @@
 	</lg>
 	<lg n="47" xml:id="Dhutt.3.47">
 	  <l>dasamuha-rāma-balāṇaṁ dōṇha vi bhaḍa-vāyayaṁ vahantāṇaṁ</l>
-	  <l>saṅgāmammi palaggē haṇahaṇaṁ sadd'āulē ghōrē</l>
+	  <l>saṅgāmammi palaggē haṇahaṇaṁ sadd’āulē ghōrē</l>
 	</lg>
 	<lg n="48" xml:id="Dhutt.3.48">
-	  <l>mandōyari-daïya-bhaḍ'ukkaḍēhiṁ n'ēgāiṁ vāṇara-sayāiṁ</l>
-	  <l>asi-parasu-addhacanda-ppahāra-chinn'aṅga-m-aṅgāiṁ</l>
+	  <l>mandōyari-daïya-bhaḍ’ukkaḍēhiṁ n’ēgāiṁ vāṇara-sayāiṁ</l>
+	  <l>asi-parasu-addhacanda-ppahāra-chinn’aṅga-m-aṅgāiṁ</l>
 	</lg>
 	<lg n="49" xml:id="Dhutt.3.49">
 	  <l>sattī-pahara-ṇiruddhē mahiyali paḍiyammi lakkhaṇa-kumārē</l>
@@ -954,7 +954,7 @@
 	  <l>nissallō tti pabhāvā jhaḍitti sattī vi nissariyā</l>
 	</lg>
 	<lg n="51" xml:id="Dhutt.3.51">
-	  <l>jē nisiyara-kuddh'ugghāēhiṁ samarammi abhihayā pavayā</l>
+	  <l>jē nisiyara-kuddh’ugghāēhiṁ samarammi abhihayā pavayā</l>
 	  <l>sañchinna-bhinna-gattā tē vi ya savvē samāsatthā</l>
 	</lg>
 	<lg n="52" xml:id="Dhutt.3.52">
@@ -967,15 +967,15 @@
 	</lg>
 	<lg n="54" xml:id="Dhutt.3.54">
 	  <l>himasēla-guha-gayāiṁ dō vi mahāmēhuṇaṁ nisēvanti</l>
-	  <l>divvaṁ vāsa-sahassaṁ girisuya sasibhūsaṇō c'ēva</l>
+	  <l>divvaṁ vāsa-sahassaṁ girisuya sasibhūsaṇō c’ēva</l>
 	</lg>
 	<lg n="55" xml:id="Dhutt.3.55">
 	  <l>taṁ sōūṇa paüttiṁ dēvā kira tihuyaṇammi ādannā</l>
-	  <l>savv'āyarēṇa miliuṁ gabbh'uvaghāyaṁ vicintanti</l>
+	  <l>savv’āyarēṇa miliuṁ gabbh’uvaghāyaṁ vicintanti</l>
 	</lg>
 	<lg n="56" xml:id="Dhutt.3.56">
 	  <l>suiraṁ sāmatthēuṁ tihuyaṇa-ujjōya-kāraō jalaṇō</l>
-	  <l>mahur'akkhara-vayaṇa-payampiēhiṁ bhaṇiō suragaṇēhiṁ</l>
+	  <l>mahur’akkhara-vayaṇa-payampiēhiṁ bhaṇiō suragaṇēhiṁ</l>
 	</lg>
 	<lg n="57" xml:id="Dhutt.3.57">
 	  <l>ēkkassa vi tā kīraï kajjaṁ abbhatthiēhiṁ jiya-lōē</l>
@@ -983,7 +983,7 @@
 	</lg>
 	<lg n="58" xml:id="Dhutt.3.58">
 	  <l>jassa ya kaēṇa savvē dēvā cintōvahiṁ samōiṇṇā</l>
-	  <l>tassa ya jattēṇa tumaṁ huyavaha ēkkō samatthō 'si</l>
+	  <l>tassa ya jattēṇa tumaṁ huyavaha ēkkō samatthō ’si</l>
 	</lg>
 	<lg n="59" xml:id="Dhutt.3.59">
 	  <l>pavisittu guhā-vivarē hara-puraō appayaṁ payaṁsēsu</l>
@@ -994,7 +994,7 @@
 	  <l>iharā vi umā-vaïṇō kiṁ puṇa ēyārisē bhāvē</l>
 	</lg>
 	<lg n="61" xml:id="Dhutt.3.61">
-	  <l>nara-sira-kavāla-māl'āulassa khaṭṭaṅga-vagga-hatthassa</l>
+	  <l>nara-sira-kavāla-māl’āulassa khaṭṭaṅga-vagga-hatthassa</l>
 	  <l>jassa raī pēya-vaṇē kō tassa jaṇō samalliyaï</l>
 	</lg>
 	<lg n="62" xml:id="Dhutt.3.62">
@@ -1010,11 +1010,11 @@
 	  <l>kō jāṇaï kiṁ mē hōhii tti mā saṅkaḍē chuhaha</l>
 	</lg>
 	<lg n="65" xml:id="Dhutt.3.65">
-	  <l>ētth'antarē ya bhaṇiō sappaṇayaṁ bahuyalōyaṇēṇ' ēvaṁ</l>
+	  <l>ētth’antarē ya bhaṇiō sappaṇayaṁ bahuyalōyaṇēṇ’ ēvaṁ</l>
 	  <l>savva-surāṇaṁ vayaṇaṁ huyavaha iṇamō nisāmēhi</l>
 	</lg>
 	<lg n="66" xml:id="Dhutt.3.66">
-	  <l>mā bhāhi umā-vaïṇō huyavaha jēṇ' ērisō umā-sattō</l>
+	  <l>mā bhāhi umā-vaïṇō huyavaha jēṇ’ ērisō umā-sattō</l>
 	  <l>gaya-turaya-purisa-damaṇō kiṁ ca imō āgamō na suō</l>
 	</lg>
 	<lg n="67" xml:id="Dhutt.3.67">
@@ -1035,14 +1035,14 @@
 	</lg>
 	<lg n="71" xml:id="Dhutt.3.71">
 	  <l>abbhāsatthaṁ daṭṭhuṁ mahadēvō uṭṭhiō samārūḍhō</l>
-	  <l>huṁ huṁ umāe bhaṇiō uddhuya-liṅgō 'ṇalaṁ bhaṇaï</l>
+	  <l>huṁ huṁ umāe bhaṇiō uddhuya-liṅgō ’ṇalaṁ bhaṇaï</l>
 	</lg>
 	<lg n="72" xml:id="Dhutt.3.72">
 	  <l>uṭṭha(?) ni-y-añciya-vayaṇaṁ piba rēyaṁ mā karēhi vikkhēvaṁ</l>
 	  <l>ruddēṇa huyavahō ghaḍaghaḍassa tō pāiō rēyaṁ</l>
 	</lg>
 	<lg n="73" xml:id="Dhutt.3.73">
-	  <l>uyara-gaēṇa ya rēēṇa sō palitt'aggiṇā va ḍajjhantō</l>
+	  <l>uyara-gaēṇa ya rēēṇa sō palitt’aggiṇā va ḍajjhantō</l>
 	  <l>muya-maraṇō sambhantō kaha kaha vi mahōyahiṁ pattō</l>
 	</lg>
 	<lg n="74" xml:id="Dhutt.3.74">
@@ -1050,11 +1050,11 @@
 	  <l>uggāliyammi rēē tāhē jalaṇō samāsatthō</l>
 	</lg>
 	<lg n="75" xml:id="Dhutt.3.75">
-	  <l>tappabhiiṁ ciya summaï jaṇa-sui-vāy'āgayaṁ imaṁ vayaṇaṁ</l>
+	  <l>tappabhiiṁ ciya summaï jaṇa-sui-vāy’āgayaṁ imaṁ vayaṇaṁ</l>
 	  <l>rēya-pabhāvā kira sāgarammi rayaṇāṇa uppattī</l>
 	</lg>
 	<lg n="76" xml:id="Dhutt.3.76">
-	  <l>lavaṇa-jalāō aggī nīl'uppala-surahi-kamala-gandh'aḍḍhaṁ</l>
+	  <l>lavaṇa-jalāō aggī nīl’uppala-surahi-kamala-gandh’aḍḍhaṁ</l>
 	  <l>saram ēgaṁ gantuṁ jē rēya-visēsaṁ samuggilaï</l>
 	</lg>
 	<lg n="77" xml:id="Dhutt.3.77">
@@ -1062,36 +1062,36 @@
 	  <l>chakkira accharasāō taṁ paüma-saraṁ samōiṇṇā</l>
 	</lg>
 	<lg n="78" xml:id="Dhutt.3.78">
-	  <l>tā majjium āḍhattā tammi sarē nayaṇa-maṇ'abhirāmammi</l>
+	  <l>tā majjium āḍhattā tammi sarē nayaṇa-maṇ’abhirāmammi</l>
 	  <l>majjantīṇaṁ jōṇīsu tāṇa bīyaṁ aṇupaviṭṭhaṁ</l>
 	</lg>
 	<lg n="79" xml:id="Dhutt.3.79">
-	  <l>paüma-sarē majjittā puṇar avi tā jōis'ālayaṁ pattā</l>
+	  <l>paüma-sarē majjittā puṇar avi tā jōis’ālayaṁ pattā</l>
 	  <l>païdivasaṁ ciya tāsiṁ chaṇha vi parivaḍḍhaē uyaraṁ</l>
 	</lg>
 	<lg n="80" xml:id="Dhutt.3.80">
-	  <l>kāl'antarēṇa kēṇa ya samayaṁ ciya tā tahiṁ pasūyāō</l>
-	  <l>ēkk'ēkkam uttim'aṅgaṁ bāh'ūru-sarīra-ruṇḍāiṁ</l>
+	  <l>kāl’antarēṇa kēṇa ya samayaṁ ciya tā tahiṁ pasūyāō</l>
+	  <l>ēkk’ēkkam uttim’aṅgaṁ bāh’ūru-sarīra-ruṇḍāiṁ</l>
 	</lg>
 	<lg n="81" xml:id="Dhutt.3.81">
-	  <l>tā tā vi vimhiya-maṇā daṁsanti parōppar'ēkka-m-ēkkassa</l>
+	  <l>tā tā vi vimhiya-maṇā daṁsanti parōppar’ēkka-m-ēkkassa</l>
 	  <l>pēcchasu acchēram iṇaṁ lōgammi abhūya-puvvaṁ tu</l>
 	</lg>
 	<lg n="82" xml:id="Dhutt.3.82">
-	  <l>bāh'ūrū ya sarīraṁ sīsāṇi ya niyaya-ṇiyaya-ṭhāṇēsu</l>
+	  <l>bāh’ūrū ya sarīraṁ sīsāṇi ya niyaya-ṇiyaya-ṭhāṇēsu</l>
 	  <l>laggāiṁ takkhaṇa cciya mahasēṇō chammuhō jāō</l>
 	</lg>
 	<lg n="83" xml:id="Dhutt.3.83">
-	  <l>kōmārabambhayārī n'icchaï maṇasā vi juvaï-sañjōyaṁ</l>
+	  <l>kōmārabambhayārī n’icchaï maṇasā vi juvaï-sañjōyaṁ</l>
 	  <l>savva-jaṇammi pagāsō dakkhiṇa-dēsē ṭhiō raṇṇē</l>
 	</lg>
 	<lg n="84" xml:id="Dhutt.3.84">
-	  <l>caüsu ya disāsu jahiyaṁ dhāvaï lōgō bhavantara-dis'aṭṭhā</l>
-	  <l>sīsēṇa ya chammāsaṁ dharēi dhāraṁ bar'aṭṭhāē</l>
+	  <l>caüsu ya disāsu jahiyaṁ dhāvaï lōgō bhavantara-dis’aṭṭhā</l>
+	  <l>sīsēṇa ya chammāsaṁ dharēi dhāraṁ bar’aṭṭhāē</l>
 	</lg>
 	<lg n="85" xml:id="Dhutt.3.85">
-	  <l>jaï mahasēṇ'aṅgāiṁ piha-gabbha-viṇiggayāiṁ laggāiṁ</l>
-	  <l>tō tujjha na laggējjā tāiṁ kim ēg'uyara-vatthāiṁ</l>
+	  <l>jaï mahasēṇ’aṅgāiṁ piha-gabbha-viṇiggayāiṁ laggāiṁ</l>
+	  <l>tō tujjha na laggējjā tāiṁ kim ēg’uyara-vatthāiṁ</l>
 	</lg>
 	<lg n="86" xml:id="Dhutt.3.86">
 	  <l>chinnā nāsā kaṇṇō ya laggaē lōya-viiyam ēyaṁ pi</l>
@@ -1099,7 +1099,7 @@
 	</lg>
 	<lg n="87" xml:id="Dhutt.3.87">
 	  <l>tō bhaṇaï ēlasāḍhō purisō kaha chinnaēṇa sīsēṇaṁ</l>
-	  <l>bhukkh'attō bayarāiṁ khāēuṁ sakkaē kaha nu</l>
+	  <l>bhukkh’attō bayarāiṁ khāēuṁ sakkaē kaha nu</l>
 	</lg>
 	<lg n="88" xml:id="Dhutt.3.88">
 	  <l>bhaṇaï sasō rāhū kira sīsa-cchinnō jayammi sui-vāō</l>
@@ -1149,7 +1149,7 @@
       <div type="chapter" n="4">
 	<lg n="1" xml:id="Dhutt.4.1">
 	  <l>aha bhaṇaï sasō ahayaṁ niyayaṁ chēttaṁ gaō saraya-kālē</l>
-	  <l>gāmāō dūratthaṁ taṁ chēttaṁ girivar'āsannē</l>
+	  <l>gāmāō dūratthaṁ taṁ chēttaṁ girivar’āsannē</l>
 	</lg>
 	<lg n="2" xml:id="Dhutt.4.2">
 	  <l>chēttammi ya acchantō tattō pavvayavarāo ōyariuṁ</l>
@@ -1157,7 +1157,7 @@
 	</lg>
 	<lg n="3" xml:id="Dhutt.4.3">
 	  <l>tharatharatharanta-gattō hāhā gahiō maēṇa cintantō</l>
-	  <l>vivalāium acayantō paribhamami tahiṁ tahiṁ c'ēva</l>
+	  <l>vivalāium acayantō paribhamami tahiṁ tahiṁ c’ēva</l>
 	</lg>
 	<lg n="4" xml:id="Dhutt.4.4">
 	  <l>bhī-uvviggēṇa maē diṭṭhō tila-pāyavō aïmahallō</l>
@@ -1181,7 +1181,7 @@
 	</lg>
 	<lg n="9" xml:id="Dhutt.4.9">
 	  <l>gaya-bhaya-santatta-maṇō ahayaṁ puṇa-jāyaō tti mannantō</l>
-	  <l>kahakaha vi tila-dumāō divas'avasāṇē samōiṇṇō</l>
+	  <l>kahakaha vi tila-dumāō divas’avasāṇē samōiṇṇō</l>
 	</lg>
 	<lg n="10" xml:id="Dhutt.4.10">
 	  <l>kusiō diiṁ ca kāuṁ bhariō tēllassa sō maē hatthī</l>
@@ -1200,8 +1200,8 @@
 	  <l>jō na u pattiyaï mahaṁ sō dēu mahāyaṇē bhattaṁ</l>
 	</lg>
 	<lg n="14" xml:id="Dhutt.4.14">
-	  <l>savva-kalā-patt'aṭṭhā bhaṇaï sasaṁ khaṇḍavāṇaī dhuttī</l>
-	  <l>atth' ēsa āgamō mē bhāraha-rāmāyaṇē ya suō</l>
+	  <l>savva-kalā-patt’aṭṭhā bhaṇaï sasaṁ khaṇḍavāṇaī dhuttī</l>
+	  <l>atth’ ēsa āgamō mē bhāraha-rāmāyaṇē ya suō</l>
 	</lg>
 	<lg n="15" xml:id="Dhutt.4.15">
 	  <l>khaṇḍā sasēṇa bhaṇiyā bhāraha-rāmāyaṇē purāṇē vā</l>
@@ -1245,16 +1245,16 @@
 	  <l>bhārēṇa vi taṁ jimiō bhāra-sayaṁ kiṁ na bhakkhēsi</l>
 	</lg>
 	<lg n="25" xml:id="Dhutt.4.25">
-	  <l>suvvaï ya kumbhayaṇṇō sutta-viuddh'uṭṭhiō niyaya-kālaṁ</l>
-	  <l>sō piyaï ghaḍa-sahassaṁ khāyaï n'ēgē nara-saē ya</l>
+	  <l>suvvaï ya kumbhayaṇṇō sutta-viuddh’uṭṭhiō niyaya-kālaṁ</l>
+	  <l>sō piyaï ghaḍa-sahassaṁ khāyaï n’ēgē nara-saē ya</l>
 	</lg>
 	<lg n="26" xml:id="Dhutt.4.26">
-	  <l>jaï piyaï kumbhayaṇṇō sutta-viuddh'uṭṭhiō ghaḍa-sahassaṁ</l>
+	  <l>jaï piyaï kumbhayaṇṇō sutta-viuddh’uṭṭhiō ghaḍa-sahassaṁ</l>
 	  <l>dasahiṁ ghaḍaēhiṁ kiṁ sasa kiṁ pannāsaṁ na pīyā tē</l>
 	</lg>
 	<lg n="27" xml:id="Dhutt.4.27">
 	  <l>annaṁ ca imaṁ suvvaï purāṇa-sui-ṇiggayaṁ imaṁ vayaṇaṁ</l>
-	  <l>asurāṇa jaha vah'atthā agatthiṇā sāyarō pīō</l>
+	  <l>asurāṇa jaha vah’atthā agatthiṇā sāyarō pīō</l>
 	</lg>
 	<lg n="28" xml:id="Dhutt.4.28">
 	  <l>saggāō avaïṇṇā gaṅgā hara-jaḍa-viṇiggayā santī</l>
@@ -1290,10 +1290,10 @@
 	</lg>
 	<lg n="36" xml:id="Dhutt.4.36">
 	  <l>viṇayā kira guru-bhārā dāsattē parama-dukkhiyā jāyā</l>
-	  <l>tatth' ēva sā pasūyā tīsē aṇḍa-ttayaṁ jāyaṁ</l>
+	  <l>tatth’ ēva sā pasūyā tīsē aṇḍa-ttayaṁ jāyaṁ</l>
 	</lg>
 	<lg n="37" xml:id="Dhutt.4.37">
-	  <l>dāsattaṇa-mōkkh'aṭṭhā bhindaï tatth' ēgam aṇḍayaṁ viṇayā</l>
+	  <l>dāsattaṇa-mōkkh’aṭṭhā bhindaï tatth’ ēgam aṇḍayaṁ viṇayā</l>
 	  <l>tattha kila aṇḍayammī jāyā vicchū asampuṇṇā</l>
 	</lg>
 	<lg n="38" xml:id="Dhutt.4.38">
@@ -1302,14 +1302,14 @@
 	</lg>
 	<lg n="39" xml:id="Dhutt.4.39">
 	  <l>muccējja parāhīṇattaṇassa ahaṁ nāma dāsa-ṇāmassa</l>
-	  <l>kaha vi durāsāe maē aṇḍaṁ bhinn'atthiē bhinnaṁ</l>
+	  <l>kaha vi durāsāe maē aṇḍaṁ bhinn’atthiē bhinnaṁ</l>
 	</lg>
 	<lg n="40" xml:id="Dhutt.4.40">
 	  <l>addhii-laddhāē vilaviūṇa āsā-ṇibaddha-hiyayāē</l>
-	  <l>kaïhi vi divasēhiṁ taō puṇō vi biiy'aṇḍayaṁ bhinnaṁ</l>
+	  <l>kaïhi vi divasēhiṁ taō puṇō vi biiy’aṇḍayaṁ bhinnaṁ</l>
 	</lg>
 	<lg n="41" xml:id="Dhutt.4.41">
-	  <l>biiy'aṇḍammi aṇūrū jāō kila sō vi māyaraṁ bhaṇaï</l>
+	  <l>biiy’aṇḍammi aṇūrū jāō kila sō vi māyaraṁ bhaṇaï</l>
 	  <l>ammō tumhēhi imaṁ kim akālē aṇḍayaṁ bhinnaṁ</l>
 	</lg>
 	<lg n="42" xml:id="Dhutt.4.42">
@@ -1322,7 +1322,7 @@
 	</lg>
 	<lg n="44" xml:id="Dhutt.4.44">
 	  <l>raha-sārahī aṇūrū ṭhaviō sūrēṇa jō jagē aruṇō</l>
-	  <l>sayam ēva ya viṇayāē kamēṇa taï'aṇḍayaṁ bhinnaṁ</l>
+	  <l>sayam ēva ya viṇayāē kamēṇa taï’aṇḍayaṁ bhinnaṁ</l>
 	</lg>
 	<lg n="45" xml:id="Dhutt.4.45">
 	  <l>ahikula-bhaya-sañjaṇaṇō jaṇavaya-vimhāvaṇō mahāghōrō</l>
@@ -1349,11 +1349,11 @@
 	  <l>kattha piyā badarī-āsamammi garuḍō gaō tahiyaṁ</l>
 	</lg>
 	<lg n="51" xml:id="Dhutt.4.51">
-	  <l>badar'āsamammi gantuṁ garuḍō pāēsu nivaḍiō piuṇō</l>
-	  <l>viyal'indiēṇa tēṇa vi phāsēṇ' uvalakkhiō puttō</l>
+	  <l>badar’āsamammi gantuṁ garuḍō pāēsu nivaḍiō piuṇō</l>
+	  <l>viyal’indiēṇa tēṇa vi phāsēṇ’ uvalakkhiō puttō</l>
 	</lg>
 	<lg n="52" xml:id="Dhutt.4.52">
-	  <l>garuḍēṇa jampiyaṁ bhukkhiō mi bhaṇiyaṁ ca kāsavēṇ' ēvaṁ</l>
+	  <l>garuḍēṇa jampiyaṁ bhukkhiō mi bhaṇiyaṁ ca kāsavēṇ’ ēvaṁ</l>
 	  <l>bārasa-jōyaṇa-hatthī tattullō kacchaō bīō</l>
 	</lg>
 	<lg n="53" xml:id="Dhutt.4.53">
@@ -1370,7 +1370,7 @@
 	</lg>
 	<lg n="56" xml:id="Dhutt.4.56">
 	  <l>caümuha-bīya-viṇiggayāṇa vālakhillāṇa tassa hēṭṭhammi</l>
-	  <l>uggaṁ tappanti tavaṁ risīṇam addh'uṭṭha-kōḍīō</l>
+	  <l>uggaṁ tappanti tavaṁ risīṇam addh’uṭṭha-kōḍīō</l>
 	</lg>
 	<lg n="57" xml:id="Dhutt.4.57">
 	  <l>sō tattha samallīṇō bhaggō vaḍapāyavō kaḍakaḍantō</l>
@@ -1386,7 +1386,7 @@
 	</lg>
 	<lg n="60" xml:id="Dhutt.4.60">
 	  <l>vaḍaduma-laṅka-ṇimittaṁ laṅkā-dīō tti tō kayaṁ nāmaṁ</l>
-	  <l>dasasīsass'āvāsō āsi jahiṁ nisiyara-païssa</l>
+	  <l>dasasīsass’āvāsō āsi jahiṁ nisiyara-païssa</l>
 	</lg>
 	<lg n="61" xml:id="Dhutt.4.61">
 	  <l>himavantē gaya-kacchava bhakkhēuṁ sō gaō piu-sayāsaṁ</l>
@@ -1397,15 +1397,15 @@
 	  <l>amayaṁ putta kahēmō vōlēuṁ naraya-pāyālē</l>
 	</lg>
 	<lg n="63" xml:id="Dhutt.4.63">
-	  <l>dhagadhagadhaganta-huyavaha-pajjaliy'āvēḍhiaṁ samantēṇaṁ</l>
+	  <l>dhagadhagadhaganta-huyavaha-pajjaliy’āvēḍhiaṁ samantēṇaṁ</l>
 	  <l>rakkhijjaï savva-surāsurēhiṁ sayayaṁ amaya-kuṇḍaṁ</l>
 	</lg>
 	<lg n="64" xml:id="Dhutt.4.64">
-	  <l>kō puṇa tassa uvāō amay'atthī kāsav'aṅgaō ahayaṁ</l>
+	  <l>kō puṇa tassa uvāō amay’atthī kāsav’aṅgaō ahayaṁ</l>
 	  <l>atthi uvāō jaha ghippaï tti aïdukkarō sō u</l>
 	</lg>
 	<lg n="65" xml:id="Dhutt.4.65">
-	  <l>sappi-mahō-dahi-salil'āiēṇa santappiē 'ṇalē dhaṇiyaṁ</l>
+	  <l>sappi-mahō-dahi-salil’āiēṇa santappiē ’ṇalē dhaṇiyaṁ</l>
 	  <l>gahaṇaṁ hōjja na hōjja va gahiē vi uvaddavāṇēgā</l>
 	</lg>
 	<lg n="66" xml:id="Dhutt.4.66">
@@ -1417,27 +1417,27 @@
 	  <l>gahiyaṁ ca nēṇa amayaṁ dēvēhiṁ vi kila samugghuṭṭhaṁ</l>
 	</lg>
 	<lg n="68" xml:id="Dhutt.4.68">
-	  <l>amayaṁ kuṇḍa-tthaṁ ciya vihagēṇ' ēgēṇa nīyam ukkhiviuṁ</l>
+	  <l>amayaṁ kuṇḍa-tthaṁ ciya vihagēṇ’ ēgēṇa nīyam ukkhiviuṁ</l>
 	  <l>sōūṇam iṇaṁ vayaṇaṁ khuhiyaṁ sasurāsuraṁ bhuvaṇaṁ</l>
 	</lg>
 	<lg n="69" xml:id="Dhutt.4.69">
 	  <l>jō jattō cciya dēvō sahasāmayam avahaḍaṁ nisāmēi</l>
-	  <l>sō ahara-phurant'ōṭṭhō tattō cciya maggiō laggō</l>
+	  <l>sō ahara-phurant’ōṭṭhō tattō cciya maggiō laggō</l>
 	</lg>
 	<lg n="70" xml:id="Dhutt.4.70">
 	  <l>muggara-musaṇḍhi-paṭṭisa-gaya-kaṇaga-pparasu-bhiṇḍimālēhiṁ</l>
-	  <l>hala-musala-laüḍa-valayā-sūl'āuha-paharaṇa-samaggō</l>
+	  <l>hala-musala-laüḍa-valayā-sūl’āuha-paharaṇa-samaggō</l>
 	</lg>
 	<lg n="71" xml:id="Dhutt.4.71">
-	  <l>kalayala-ravō surāṇaṁ pūrēi nah'aṅgaṇaṁ niravasēsaṁ</l>
+	  <l>kalayala-ravō surāṇaṁ pūrēi nah’aṅgaṇaṁ niravasēsaṁ</l>
 	  <l>haṇa chinda bhinda giṇhaha mā muyaha rasāyala-gayaṁ pi</l>
 	</lg>
 	<lg n="72" xml:id="Dhutt.4.72">
 	  <l>ōlaggiō ya garuḍō samantaō dēva-saya-sahassēhiṁ</l>
-	  <l>parivēḍhiō ya bhaṇiō amay'āhārī haō si tti</l>
+	  <l>parivēḍhiō ya bhaṇiō amay’āhārī haō si tti</l>
 	</lg>
 	<lg n="73" xml:id="Dhutt.4.73">
-	  <l>ēkkattō cciya bhuvaṇaṁ ēkattō kāsav'aṅgaō pakkhī</l>
+	  <l>ēkkattō cciya bhuvaṇaṁ ēkattō kāsav’aṅgaō pakkhī</l>
 	  <l>kāyara-maṇa-kampaṇayaṁ tēhiṁ ya samaraṁ samāraddhaṁ</l>
 	</lg>
 	<lg n="74" xml:id="Dhutt.4.74">
@@ -1449,43 +1449,43 @@
 	  <l>jujjhaṁ amayassa kaē vimhāvaṇayaṁ tihuyaṇassa</l>
 	</lg>
 	<lg n="76" xml:id="Dhutt.4.76">
-	  <l>tō sō dēva-samūhō garuḍēṇ' ēkkēṇa raṇa-muh'āvaḍiō</l>
+	  <l>tō sō dēva-samūhō garuḍēṇ’ ēkkēṇa raṇa-muh’āvaḍiō</l>
 	  <l>haya-vihaya-dīṇa-vayaṇō khaṇēṇa bhaggō nirāṇandō</l>
 	</lg>
 	<lg n="77" xml:id="Dhutt.4.77">
-	  <l>dēvē ya parāhuttē daṭṭhuṁ palay'aggi-jāla-sama-sarisaṁ</l>
+	  <l>dēvē ya parāhuttē daṭṭhuṁ palay’aggi-jāla-sama-sarisaṁ</l>
 	  <l>tō kulisaṁ sahasapalōyaṇēṇa garuḍōvariṁ mukkaṁ</l>
 	</lg>
 	<lg n="78" xml:id="Dhutt.4.78">
-	  <l>kulisaṁ garuḍa-sarīrē paccupphuḍiyaṁ silāyalē c'ēva</l>
+	  <l>kulisaṁ garuḍa-sarīrē paccupphuḍiyaṁ silāyalē c’ēva</l>
 	  <l>indō bhaṇaï aṇantaṁ sahōyaraṁ garuḍa-bhaya-bhīō</l>
 	</lg>
 	<lg n="79" xml:id="Dhutt.4.79">
 	  <l>tō taha vajjābhihayaṁ sa-surāsura-samara-paccaya-ṇimittaṁ</l>
-	  <l>garuḍēṇa cañcuāē sayam ēv' uppāḍiyaṁ picchaṁ</l>
+	  <l>garuḍēṇa cañcuāē sayam ēv’ uppāḍiyaṁ picchaṁ</l>
 	</lg>
 	<lg n="80" xml:id="Dhutt.4.80">
 	  <l>viṇhū viya pajjaliō bārasa-ravi-tēya-sappabhaṁ cakkaṁ</l>
-	  <l>ghēttuṁ garuḍa-vah'atthā aṇudhāvaï maggaō kuviō</l>
+	  <l>ghēttuṁ garuḍa-vah’atthā aṇudhāvaï maggaō kuviō</l>
 	</lg>
 	<lg n="81" xml:id="Dhutt.4.81">
-	  <l>bhī-uvvigga-sasambhamaṁ hā hā kim iyaṁ ti gaggir'ullāvā</l>
-	  <l>risi-gaha-saṇicchar'āī gantum aṇantaṁ payampanti</l>
+	  <l>bhī-uvvigga-sasambhamaṁ hā hā kim iyaṁ ti gaggir’ullāvā</l>
+	  <l>risi-gaha-saṇicchar’āī gantum aṇantaṁ payampanti</l>
 	</lg>
 	<lg n="82" xml:id="Dhutt.4.82">
 	  <l>bhō bhō savvagaō viya pabhū ya sasurāsurassa lōyassa</l>
-	  <l>taha vi tumaṁ nīō iva sayaṇass' uvariṁ nirāvikkhō</l>
+	  <l>taha vi tumaṁ nīō iva sayaṇass’ uvariṁ nirāvikkhō</l>
 	</lg>
 	<lg n="83" xml:id="Dhutt.4.83">
 	  <l>garuḍō ya sahayarō tē paḍisāhara vaṇa-davōvamaṁ kōvaṁ</l>
 	  <l>mā mūḍhō mēcchō iva paharasu niyaēsu gattēsu</l>
 	</lg>
 	<lg n="84" xml:id="Dhutt.4.84">
-	  <l>risi-gaha-vayaṇaṁ sōuṁ imaṁ tu cakk'āuhō vi cintēi</l>
-	  <l>kōh'āiēṇa pēcchasu maē sahāō haō hōntō</l>
+	  <l>risi-gaha-vayaṇaṁ sōuṁ imaṁ tu cakk’āuhō vi cintēi</l>
+	  <l>kōh’āiēṇa pēcchasu maē sahāō haō hōntō</l>
 	</lg>
 	<lg n="85" xml:id="Dhutt.4.85">
-	  <l>nāṇī satth'attha-viyāṇaō vi kōh'aggi-jāla-santattō</l>
+	  <l>nāṇī satth’attha-viyāṇaō vi kōh’aggi-jāla-santattō</l>
 	  <l>gammāgamma-hiyāhiya-kajjākajjaṁ na lakkhēi</l>
 	</lg>
 	<lg n="86" xml:id="Dhutt.4.86">
@@ -1493,7 +1493,7 @@
 	  <l>amayaṁ dāuṁ viṇayaṁ mōyaï dāsattaṇāō tti</l>
 	</lg>
 	<lg n="87" xml:id="Dhutt.4.87">
-	  <l>jaï gaya-kacchabha-vaḍaduma garuḍēṇ' uppāḍiyā ya nīyā ya</l>
+	  <l>jaï gaya-kacchabha-vaḍaduma garuḍēṇ’ uppāḍiyā ya nīyā ya</l>
 	  <l>tō ukkhivasi sasa tayaṁ tumaṁ pi daïyaṁ subaddhaṁ pi</l>
 	</lg>
 	<lg n="88" xml:id="Dhutt.4.88">
@@ -1545,19 +1545,19 @@
 	</lg>
 	<lg n="5" xml:id="Dhutt.5.5">
 	  <l>pavaṇō cciya āhārō vaṅkaṁ caṅkammiyaṁ aparibhūyaṁ</l>
-	  <l>savva-jag'uvvēya-karaṁ ahō sujīyaṁ bhuyaṅgāṇaṁ</l>
+	  <l>savva-jag’uvvēya-karaṁ ahō sujīyaṁ bhuyaṅgāṇaṁ</l>
 	</lg>
 	<lg n="6" xml:id="Dhutt.5.6">
 	  <l>īsi hasiūṇa tō sā khaṇḍāvāṇā bhaṇēi bhō suṇaha</l>
-	  <l>akkhāṇayaṁ aṇaliyaṁ jaṁ aṇubhūyaṁ maē c'ēva</l>
+	  <l>akkhāṇayaṁ aṇaliyaṁ jaṁ aṇubhūyaṁ maē c’ēva</l>
 	</lg>
 	<lg n="7" xml:id="Dhutt.5.7">
 	  <l>āsi ahaṁ taruṇattē jōvvaṇa-lāyaṇṇa-vaṇṇa-guṇa-kaliyā</l>
-	  <l>rūvēṇa aṇanna-samā jaṇa-maṇa-ṇayaṇ'ūsava-bbhūyā</l>
+	  <l>rūvēṇa aṇanna-samā jaṇa-maṇa-ṇayaṇ’ūsava-bbhūyā</l>
 	</lg>
 	<lg n="8" xml:id="Dhutt.5.8">
 	  <l>navari ya kayāi ahayaṁ uṇhāyā maṇḍavē suha-pasuttā</l>
-	  <l>uvabhuttā pavaṇēṇaṁ rūva-guṇ'ummatta-hiyaēṇaṁ</l>
+	  <l>uvabhuttā pavaṇēṇaṁ rūva-guṇ’ummatta-hiyaēṇaṁ</l>
 	</lg>
 	<lg n="9" xml:id="Dhutt.5.9">
 	  <l>jāō tēṇa suō mē tāhē ciya jāya-mēttaō tō sō</l>
@@ -1565,14 +1565,14 @@
 	</lg>
 	<lg n="10" xml:id="Dhutt.5.10">
 	  <l>tō bhaṇaha kiṁ na saccaṁ jaï vāēṇaṁ havējja puttō tti</l>
-	  <l>tō n'atthi kā vi raṇḍā aputtiyā jīva-lōyammi</l>
+	  <l>tō n’atthi kā vi raṇḍā aputtiyā jīva-lōyammi</l>
 	</lg>
 	<lg n="11" xml:id="Dhutt.5.11">
 	  <l>taṁ bhaṇaï mūladēvō suvvaï lōya-ssuīsu pavaṇēṇaṁ</l>
 	  <l>kuntīe bhīmasēṇō jāō nīlāe haṇuyantō</l>
 	</lg>
 	<lg n="12" xml:id="Dhutt.5.12">
-	  <l>pārāsarēṇa vāsō macchiṇi-jaṇiō pasūyaō c'ēva</l>
+	  <l>pārāsarēṇa vāsō macchiṇi-jaṇiō pasūyaō c’ēva</l>
 	  <l>kajjē sarējjasu tti ya jaṇaṇiṁ bhaṇiūṇa avakantō</l>
 	</lg>
 	<lg n="13" xml:id="Dhutt.5.13">
@@ -1588,7 +1588,7 @@
 	  <l>tā taha karēhi vacchaya jaha hōi kulassa santāṇō</l>
 	</lg>
 	<lg n="16" xml:id="Dhutt.5.16">
-	  <l>tēṇ' uddhariō vaṁsō paṇḍu-ṇar'indō jayammi vikkhāō</l>
+	  <l>tēṇ’ uddhariō vaṁsō paṇḍu-ṇar’indō jayammi vikkhāō</l>
 	  <l>dhayaraṭṭhō ya nara-vaī vidurō ya mahāmaī jaṇiō</l>
 	</lg>
 	<lg n="17" xml:id="Dhutt.5.17">
@@ -1605,7 +1605,7 @@
 	  <l>uyara-viṇiggaya-mattō tō saccaṁ tujjha vī vayaṇaṁ</l>
 	</lg>
 	<lg n="20" xml:id="Dhutt.5.20">
-	  <l>puṇar avi khaṇḍāvāṇā bhaṇaï sahī āsi majjh' umā dēvī</l>
+	  <l>puṇar avi khaṇḍāvāṇā bhaṇaï sahī āsi majjh’ umā dēvī</l>
 	  <l>tīē mantō dinnō sasurāsura-lōya-āgarisō</l>
 	</lg>
 	<lg n="21" xml:id="Dhutt.5.21">
@@ -1618,7 +1618,7 @@
 	</lg>
 	<lg n="23" xml:id="Dhutt.5.23">
 	  <l>aha bhaṇaï kaṇḍarīō kuntī jaï hōnta daḍḍha sūrēṇaṁ</l>
-	  <l>tō ḍajjhantā si tumaṁ saccaṁ taṁ n'atthi sandēhō</l>
+	  <l>tō ḍajjhantā si tumaṁ saccaṁ taṁ n’atthi sandēhō</l>
 	</lg>
 	<lg n="24" xml:id="Dhutt.5.24">
 	  <l>khaṇḍā bhaṇaï puṇō mē jalaṇō āgarisiō sura-varāṇaṁ</l>
@@ -1638,7 +1638,7 @@
 	</lg>
 	<lg n="28" xml:id="Dhutt.5.28">
 	  <l>taṁ siḍhiliya-mēhaliyaṁ asamāṇiya-suraya-kīliyaṁ bālaṁ</l>
-	  <l>ōiliūṇa jamō vi ya dēv'atthāṇiṁ aha paviṭṭhō</l>
+	  <l>ōiliūṇa jamō vi ya dēv’atthāṇiṁ aha paviṭṭhō</l>
 	</lg>
 	<lg n="29" xml:id="Dhutt.5.29">
 	  <l>dēvēhiṁ ya sō bhaṇiō apatta-raïyassa sāgayaṁ tujjha</l>
@@ -1649,11 +1649,11 @@
 	  <l>kahiō gaēhiṁ tō sō tēsiṁ vāyā hiyā tēṇaṁ</l>
 	</lg>
 	<lg n="31" xml:id="Dhutt.5.31">
-	  <l>jaï saccaṁ jama-pattī bhuttā jalaṇēṇa n'ēya sā daḍḍhā</l>
+	  <l>jaï saccaṁ jama-pattī bhuttā jalaṇēṇa n’ēya sā daḍḍhā</l>
 	  <l>tō kaha ḍajjhihisi tumaṁ jalaṇēṇa samāgayā santī</l>
 	</lg>
 	<lg n="32" xml:id="Dhutt.5.32">
-	  <l>khaṇḍā bhaṇaï puṇō mē ērāvaṇa-vāhaṇō sahass'acchō</l>
+	  <l>khaṇḍā bhaṇaï puṇō mē ērāvaṇa-vāhaṇō sahass’acchō</l>
 	  <l>āgarisiō mi sō vī tēṇa vi jāō mahaṁ puttō</l>
 	</lg>
 	<lg n="33" xml:id="Dhutt.5.33">
@@ -1685,7 +1685,7 @@
 	  <l>sōmasirīē dhūyā gōyama-gōttammi vikkhāyā</l>
 	</lg>
 	<lg n="40" xml:id="Dhutt.5.40">
-	  <l>sā bhaṇaï n'avi ahaṁ sā tumhē sārikkha-vimhiyā majjhaṁ</l>
+	  <l>sā bhaṇaï n’avi ahaṁ sā tumhē sārikkha-vimhiyā majjhaṁ</l>
 	  <l>sippiya-dhūyā ahayaṁ rāula-rayayassa vikkhāyā</l>
 	</lg>
 	<lg n="41" xml:id="Dhutt.5.41">
@@ -1698,11 +1698,11 @@
 	</lg>
 	<lg n="43" xml:id="Dhutt.5.43">
 	  <l>vatthāṇa mahāsayaḍaṁ bharittu aha bahuviha-ppagārāṇaṁ</l>
-	  <l>purisa-sahassēṇa samaṁ patt'āsi naïṁ salila-puṇṇaṁ</l>
+	  <l>purisa-sahassēṇa samaṁ patt’āsi naïṁ salila-puṇṇaṁ</l>
 	</lg>
 	<lg n="44" xml:id="Dhutt.5.44">
 	  <l>chaḍachaḍachaḍassa tahiyaṁ huṁ huṁ siṇṭā-ravaṁ karēntēhiṁ</l>
-	  <l>annunnam aïsayantēhiṁ tēhiṁ kund'indu-dhavalāiṁ</l>
+	  <l>annunnam aïsayantēhiṁ tēhiṁ kund’indu-dhavalāiṁ</l>
 	</lg>
 	<lg n="45" xml:id="Dhutt.5.45">
 	  <l>dhōyāiṁ vatthāiṁ majjhaṁ purisēhiṁ cukkha-bhūyāiṁ</l>
@@ -1718,10 +1718,10 @@
 	</lg>
 	<lg n="48" xml:id="Dhutt.5.48">
 	  <l>rāula-bhaēṇa tō haṁ gōhā-rūvaṁ karēttu rayaṇīē</l>
-	  <l>āyā nayar'ujjāṇaṁ sasalila-ghaṇa-sannihaṁ rammaṁ</l>
+	  <l>āyā nayar’ujjāṇaṁ sasalila-ghaṇa-sannihaṁ rammaṁ</l>
 	</lg>
 	<lg n="49" xml:id="Dhutt.5.49">
-	  <l>viulē nayar'ujjāṇē samantaō hiṇḍiyā suvīsatthā</l>
+	  <l>viulē nayar’ujjāṇē samantaō hiṇḍiyā suvīsatthā</l>
 	  <l>aha pacchimammi jāmē bhaya-cintā mē samuppannā</l>
 	</lg>
 	<lg n="50" xml:id="Dhutt.5.50">
@@ -1738,7 +1738,7 @@
 	</lg>
 	<lg n="53" xml:id="Dhutt.5.53">
 	  <l>dussīlā iva juvaī timira-paḍaṁ guṇṭhiyā gayā rayaṇī</l>
-	  <l>kamal'āgara-tuṭṭhiyarō sahasā ya samuṭṭhiō sūrō</l>
+	  <l>kamal’āgara-tuṭṭhiyarō sahasā ya samuṭṭhiō sūrō</l>
 	</lg>
 	<lg n="54" xml:id="Dhutt.5.54">
 	  <l>dinnō ya amha abhaō rannā paürēṇa cāu-vaṇṇēṇa</l>
@@ -1746,11 +1746,11 @@
 	</lg>
 	<lg n="55" xml:id="Dhutt.5.55">
 	  <l>tō sō paḍahaga-saddō nava-pāusa-ghaṇa-ravaṁ visēsantō</l>
-	  <l>āpūrēi samantao s'abbhantara-bāhiraṁ nayaraṁ</l>
+	  <l>āpūrēi samantao s’abbhantara-bāhiraṁ nayaraṁ</l>
 	</lg>
 	<lg n="56" xml:id="Dhutt.5.56">
 	  <l>sōuṁ paḍahaga-saddaṁ tō taṁ mōttūṇa cūya-laya-bhāvaṁ</l>
-	  <l>lāvanna-guṇ'āiṇṇā puṇar avi itthī samuppannā</l>
+	  <l>lāvanna-guṇ’āiṇṇā puṇar avi itthī samuppannā</l>
 	</lg>
 	<lg n="57" xml:id="Dhutt.5.57">
 	  <l>tassa ya sagaḍassa tahiṁ nāḍa-varattā ya tajjaṇīō ya</l>
@@ -1770,7 +1770,7 @@
 	</lg>
 	<lg n="61" xml:id="Dhutt.5.61">
 	  <l>vēḍhittu rakkhasēhiṁ sittaṁ tēllassa ghaḍa-sahassēhiṁ</l>
-	  <l>laṅkā-purī-vah'atthā palīviyaṁ manda-puṇṇēhiṁ</l>
+	  <l>laṅkā-purī-vah’atthā palīviyaṁ manda-puṇṇēhiṁ</l>
 	</lg>
 	<lg n="62" xml:id="Dhutt.5.62">
 	  <l>sā dēvalōya-sarisā laṅkā-puri savvalōya-vikkhāyā</l>
@@ -1794,7 +1794,7 @@
 	</lg>
 	<lg n="67" xml:id="Dhutt.5.67">
 	  <l>tammi araṇṇammi ṭhiyā ēgāgī niggaō navari bhīmō</l>
-	  <l>tēṇ' ayagarēṇa khaddhō uvaladdha-suī ya dhamma-suō</l>
+	  <l>tēṇ’ ayagarēṇa khaddhō uvaladdha-suī ya dhamma-suō</l>
 	</lg>
 	<lg n="68" xml:id="Dhutt.5.68">
 	  <l>pattō ayagara-mūlaṁ sattaya-pucchāō kahayaï tassa</l>
@@ -1810,7 +1810,7 @@
 	</lg>
 	<lg n="71" xml:id="Dhutt.5.71">
 	  <l>jaï kaha vi parājijjaha savvē vi ya samuiyā maē tubbhē</l>
-	  <l>tō tumha n'atthi lōē kāṇā vi kavaḍḍiyā mullaṁ</l>
+	  <l>tō tumha n’atthi lōē kāṇā vi kavaḍḍiyā mullaṁ</l>
 	</lg>
 	<lg n="72" xml:id="Dhutt.5.72">
 	  <l>tō tē bhaṇanti dhuttā kō sattō nijjiṇittu amhēhiṁ</l>
@@ -1822,7 +1822,7 @@
 	</lg>
 	<lg n="74" xml:id="Dhutt.5.74">
 	  <l>tēsiṁ vatthāṇa kaē rāyāṇaṁ pucchiuṁ pari-y-aḍāmi</l>
-	  <l>gām'āgara-pura-paṭṭaṇa-jaṇavaya-parimaṇḍiyaṁ vasuhaṁ</l>
+	  <l>gām’āgara-pura-paṭṭaṇa-jaṇavaya-parimaṇḍiyaṁ vasuhaṁ</l>
 	</lg>
 	<lg n="75" xml:id="Dhutt.5.75">
 	  <l>annaṁ ca mamaṁ caürō cēḍa-ruyā jāyayā cira-paṇaṭṭhā</l>
@@ -1830,7 +1830,7 @@
 	</lg>
 	<lg n="76" xml:id="Dhutt.5.76">
 	  <l>tē cēḍā tubbhē hi ya tāṇi ya vatthāṇi tē parihiyāṇi</l>
-	  <l>jaï vi na pattiyah' ēyaṁ tō dēha mahāyaṇē bhattaṁ</l>
+	  <l>jaï vi na pattiyah’ ēyaṁ tō dēha mahāyaṇē bhattaṁ</l>
 	</lg>
 	<lg n="77" xml:id="Dhutt.5.77">
 	  <l>tō tē lajjiya-viliyā bhaṇanti aïsandhiyā tumē amhaṁ</l>
@@ -1854,35 +1854,35 @@
 	</lg>
 	<lg n="82" xml:id="Dhutt.5.82">
 	  <l>bāḍhaṁ ti bhāṇiūṇaṁ pēyavaṇaṁ sā gayā subīhaṇayaṁ</l>
-	  <l>siva-ḍāyaṇi-pēya-pisāya-bhūya-sadd'āulaṁ viulaṁ</l>
+	  <l>siva-ḍāyaṇi-pēya-pisāya-bhūya-sadd’āulaṁ viulaṁ</l>
 	</lg>
 	<lg n="83" xml:id="Dhutt.5.83">
 	  <l>tūlī-gaṇḍuvahāṇaya-paḍisira-candōvayāṇa ṭhāṇē ya</l>
 	  <l>citta-paḍa-paṭṭa-sāḍaya-kōyaṁvaya-kāya-ḍajjhantaṁ</l>
 	</lg>
 	<lg n="84" xml:id="Dhutt.5.84">
-	  <l>taru-kusuma-kēsar'uppāsa-vāsa-tala-catt'-alattaya-vicittaṁ</l>
-	  <l>luliy'addha-inda-paüraṁ pavviddha-kalēvaraṁ ghōraṁ</l>
+	  <l>taru-kusuma-kēsar’uppāsa-vāsa-tala-catt’-alattaya-vicittaṁ</l>
+	  <l>luliy’addha-inda-paüraṁ pavviddha-kalēvaraṁ ghōraṁ</l>
 	</lg>
 	<lg n="85" xml:id="Dhutt.5.85">
 	  <l>rūviṇiyāṇa thambhiya-macchiya-saṅghāya-bhiṇibhiṇāyantaṁ</l>
-	  <l>maḍaya-ciy'antōvari-ḍajjhamāṇa-silisilisilāyantaṁ</l>
+	  <l>maḍaya-ciy’antōvari-ḍajjhamāṇa-silisilisilāyantaṁ</l>
 	</lg>
 	<lg n="86" xml:id="Dhutt.5.86">
-	  <l>vijjā-sāhaṇa-rabhas'uṭṭhiyanta-ṇaccanta-maḍaya-vēyālaṁ</l>
-	  <l>bhīm'aṭṭahāsa-huṅkāra-tāla-saddāla-gambhiraṁ</l>
+	  <l>vijjā-sāhaṇa-rabhas’uṭṭhiyanta-ṇaccanta-maḍaya-vēyālaṁ</l>
+	  <l>bhīm’aṭṭahāsa-huṅkāra-tāla-saddāla-gambhiraṁ</l>
 	</lg>
 	<lg n="87" xml:id="Dhutt.5.87">
-	  <l>vasa-ruhira-kkaya-kaddama-samantaō bhīma-kimi-kul'āiṇṇaṁ</l>
+	  <l>vasa-ruhira-kkaya-kaddama-samantaō bhīma-kimi-kul’āiṇṇaṁ</l>
 	  <l>āmisa-kajja-samujjaya-ṇiṭṭhaya-bahuvihaga-jujjhantaṁ</l>
 	</lg>
 	<lg n="88" xml:id="Dhutt.5.88">
-	  <l>ruhir'uggāla-bhalabhalaṁ sahassa-sūlā-vibhinna-mucchantaṁ</l>
+	  <l>ruhir’uggāla-bhalabhalaṁ sahassa-sūlā-vibhinna-mucchantaṁ</l>
 	  <l>vitiriccha-bhamanta-siyāla-kōla-ṇivaḍanta-ghuṭṭantaṁ</l>
 	</lg>
 	<lg n="89" xml:id="Dhutt.5.89">
 	  <l>aïduggandhiya-vāyanta-māruyaṁ sava-savanta-ṇīsaddaṁ</l>
-	  <l>bībhacch'uvvēvaṇayaṁ bhaya-sañjaṇayaṁ surāṇaṁ pi</l>
+	  <l>bībhacch’uvvēvaṇayaṁ bhaya-sañjaṇayaṁ surāṇaṁ pi</l>
 	</lg>
 	<lg n="90" xml:id="Dhutt.5.90">
 	  <l>ēvaṁ vihē masāṇē pēcchaï aviṇaṭṭhayaṁ vigaya-jīvaṁ</l>
@@ -1905,11 +1905,11 @@
 	  <l>rusiō bhaṇēi purisē sigghaṁ nīṇēha damiaṁ tti</l>
 	</lg>
 	<lg n="95" xml:id="Dhutt.5.95">
-	  <l>niggacchasu tti bhaṇiyā aha jampaï mā chiv' assa bālassa</l>
+	  <l>niggacchasu tti bhaṇiyā aha jampaï mā chiv’ assa bālassa</l>
 	  <l>annaṁ ṭhāṇaṁ bappi-kkayaṁ ti tō mē ma pēllēha</l>
 	</lg>
 	<lg n="96" xml:id="Dhutt.5.96">
-	  <l>niggacchēuṁ n'icchaï tēhiṁ ya purisēhiṁ pēlliyā sahasā</l>
+	  <l>niggacchēuṁ n’icchaï tēhiṁ ya purisēhiṁ pēlliyā sahasā</l>
 	  <l>dharaṇīyalē nivaḍiā bhaṇaï mahaṁ māriō puttō</l>
 	</lg>
 	<lg n="97" xml:id="Dhutt.5.97">
@@ -1936,13 +1936,13 @@
 	  <l>ghēttūṇa kaṇṇiyaṁ mayaṁ kalēvaraṁ ca sā taō aïkkantā</l>
 	  <l>sēṭṭhissa nirābāhaṁ jāyaṁ dāṇa-ppabhāvēṇaṁ</l>
 	</lg>
-	api ca
+	<p><s>api ca</s></p>
 	<lg n="103" xml:id="Dhutt.5.103">
 	  <l>tyāgēna bhūtāni vaśībhavanti tyāgēna vairāṇy api yānti nāśam</l>
 	  <l>parō ’pi bandhutvam upaiti dānāt tyāgō hi sarvavyasanāni hanti</l>
 	</lg>
 	<lg n="104" xml:id="Dhutt.5.104">
-	  <l>sisu-maḍayaṁ chaḍḍēuṁ khaṇḍā viul'attha-lāha-parisuddhā</l>
+	  <l>sisu-maḍayaṁ chaḍḍēuṁ khaṇḍā viul’attha-lāha-parisuddhā</l>
 	  <l>maṇi-kaṇaya-rayaṇa-mōttiya-camara-samiddhaṁ gayā haṭṭaṁ</l>
 	</lg>
 	<lg n="105" xml:id="Dhutt.5.105">
@@ -1955,7 +1955,7 @@
 	</lg>
 	<lg n="107" xml:id="Dhutt.5.107">
 	  <l>jaṁ tē buddhi-balāō dhutta-jaṇō nijjiṇittu sayarāhaṁ</l>
-	  <l>santappiō khuh'attō viulēṇaṁ bhatta-pāṇēṇaṁ</l>
+	  <l>santappiō khuh’attō viulēṇaṁ bhatta-pāṇēṇaṁ</l>
 	</lg>
 	<lg n="108" xml:id="Dhutt.5.108">
 	  <l>sussikkhiyā vi purisā tāiṁ na jāṇanti jampiyavvāiṁ</l>
@@ -1971,7 +1971,7 @@
 	  <l>yāni striyaḥ pratyabhidhānakālē vadanti līlāracitākṣarāṇi</l>
 	</lg>
 	<lg n="111" xml:id="Dhutt.5.111">
-	  <l>cand'inda-vāu-sūrā aggī dhammō ya lōya-vikkhāyā</l>
+	  <l>cand’inda-vāu-sūrā aggī dhammō ya lōya-vikkhāyā</l>
 	  <l>lōēṇa dūmiyā tē vammaha-raï-rāga-dōsēhiṁ</l>
 	</lg>
 	<lg n="112" xml:id="Dhutt.5.112">
@@ -1979,7 +1979,7 @@
 	  <l>suhumēsu bāyarēsu ya tila-tusa-mēttēsu davvēsu</l>
 	</lg>
 	<lg n="113" xml:id="Dhutt.5.113">
-	  <l>jaï savvagaō kaṇhō cintijjaï jattha tattha sō c'ēva</l>
+	  <l>jaï savvagaō kaṇhō cintijjaï jattha tattha sō c’ēva</l>
 	  <l>cintēntaō vi sō cciya tamhā sō kiṁ vicintēi</l>
 	</lg>
 	<lg n="114" xml:id="Dhutt.5.114">
@@ -2008,14 +2008,14 @@
 	</lg>
 	<lg n="120" xml:id="Dhutt.5.120">
 	  <l>ēyaṁ lōiya-satthaṁ gaddaha-liṇḍa vva bāhirē maṭṭhaṁ</l>
-	  <l>jāv' antaṁ jōijjaï tusa-bhusa-busa-mīsiyaṁ savvaṁ</l>
+	  <l>jāv’ antaṁ jōijjaï tusa-bhusa-busa-mīsiyaṁ savvaṁ</l>
 	</lg>
 	<lg n="121" xml:id="Dhutt.5.121">
 	  <l>tō tē bhaṇāmi savvē kusamaya-kussui-pahēṇa muttūṇa</l>
 	  <l>savvanna-dēsiyammi ya laggaha maggē payattēṇaṁ</l>
 	</lg>
 	<lg n="122" xml:id="Dhutt.5.122">
-	  <l>ēyaṁ dhuttakkhāṇaṁ sōūṇaṁ lōiyassa param'atthaṁ</l>
+	  <l>ēyaṁ dhuttakkhāṇaṁ sōūṇaṁ lōiyassa param’atthaṁ</l>
 	  <l>taha kuṇaha nicchiya-maïṁ jaha darisaṇa-suddhi hōi parā</l>
 	</lg>
 	<lg n="123" xml:id="Dhutt.5.123">
@@ -2028,7 +2028,7 @@
 	</lg>
 	<lg n="125" xml:id="Dhutt.5.125">
 	  <l>sēyambara-vara-sūrī haribhaddō kuṇaü amha bhaddāiṁ</l>
-	  <l>jassa sasi-saṅkha-dhavalē jiṇ'āgamē ērisā bhattī</l>
+	  <l>jassa sasi-saṅkha-dhavalē jiṇ’āgamē ērisā bhattī</l>
 	</lg>
       </div><!-- chapter !-->
     </body>

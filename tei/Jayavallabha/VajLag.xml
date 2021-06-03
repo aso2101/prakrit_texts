@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0" n="">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0" n="VajLag">
   <teiHeader xml:lang="eng">
     <fileDesc>
       <titleStmt>
-        <title type="main">Vajjālagga</title>
-        <author>Jayavallabha</author>
+        <title type="main" xml:lang="pra-Latn">Vajjālaggaṁ</title>
+        <author xml:lang="pra-Latn">Jayavallahō</author>
 	<principal>
 	  <persName ref="http://viaf.org/viaf/372149294434280521495">
 	    <forename>Andrew</forename>

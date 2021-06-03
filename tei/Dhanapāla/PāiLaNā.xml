@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0" n="">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0" n="PāiLaNā">
   <teiHeader xml:lang="eng">
     <fileDesc>
       <titleStmt>
-        <title type="main">Pāiyalacchīnāmamālā</title>
-        <author>Dhanapāla</author>
+        <title type="main" xml:lang="pra-Latn">Pāiyalacchīnāmamālā</title>
+        <author xml:lang="pra-Latn">Dhaṇavālō</author>
 	<principal>
 	  <persName ref="http://viaf.org/viaf/372149294434280521495">
 	    <forename>Andrew</forename>

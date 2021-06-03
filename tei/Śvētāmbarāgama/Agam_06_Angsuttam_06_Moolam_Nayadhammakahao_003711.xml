@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JA-06">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Nāyā">
   <teiHeader xml:lang="eng">
     <fileDesc>
       <titleStmt>
-	<title>Nāyadhammakahāō (Jñātadharmakathāḥ)</title>
+	<title xml:lang="pra-Latn">Nāyadhammakahāō</title>
+	<title xml:lang="san-Latn">Jñātadharmakathāḥ</title>
       	<principal><persName ref="http://viaf.org/viaf/372149294434280521495">Andrew Ollett</persName></principal>
       	<respStmt>
       	  <persName xml:id="AO">Andrew Ollett</persName> 

@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JA-06">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Ṭhāṇa">
   <teiHeader xml:lang="eng">
     <fileDesc>
       <titleStmt>
-	<title>Ṭhāṇaṅgasuttaṁ (Sthānāṅgasūtram)</title>
+	<title xml:lang="pra-Latn">Ṭhāṇaṅgasuttaṁ</title>
+	<title xml:lang="san-Latn">Sthānāṅgasūtram</title>
       	<principal><persName ref="http://viaf.org/viaf/372149294434280521495">Andrew Ollett</persName></principal>
       	<respStmt>
       	  <persName xml:id="AO">Andrew Ollett</persName> 

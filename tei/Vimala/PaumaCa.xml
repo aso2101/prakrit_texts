@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0" n="">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0" n="PaumaCa">
   <teiHeader xml:lang="eng">
     <fileDesc>
       <titleStmt>
-        <title type="main">Paümacariyaṁ</title>
-        <author>Vimalasūri</author>
+        <title type="main" xml:lang="pra-Latn">Paümacariyaṁ</title>
+        <author xml:lang="pra-Latn">Vimalasūrī</author>
 	<principal>
 	  <persName ref="http://viaf.org/viaf/372149294434280521495">
 	    <forename>Andrew</forename>
@@ -6184,7 +6184,7 @@
       </div>
       <div type="chapter" n="58">
 	<pb n="370"/>
-	<head>nala-nīla-hattha-pahatthapuvvabhavapavvaṁ</head>
+	<head>nala-nīla-hattha-pahatthapuvvabhavapabvaṁ</head>
 	<lg n="1"><l>kāūṇa sirapaṇāmaṁ, pucchaï magahāhivō gaṇaharindaṁ</l><l>na ya kēṇaï jiyapuvā, hattha-pahatthā mahāsuhaḍā</l></lg>
 	<lg n="2"><l>kaha nala-nīlēhi raṇē, vivāiyā aïbalā vi tē bhayavaṁ!</l><l>sāhēhi niravasēsaṁ, ētthaṁ mē kōuyaṁ paramaṁ</l></lg>
 	<lg n="3"><l>tō bhaṇaï indabhūī, sēṇiya! tāṇaṁ tu puvasaṁbandhaṁ</l><l>nisuṇēhi ēgamaṇasō, kahēmi sabaṁ jahāvattaṁ</l></lg>
@@ -7618,7 +7618,7 @@
       </div>
       <div type="chapter" n="81">
 	<pb n="453"/>
-	<head>suvaṇālaṁkārahatyisallapavvaṁ</head>
+	<head>suvaṇālaṁkārahatyisallapabvaṁ</head>
 	<lg n="1"><l>tatō sō varahasthī, halahara nārāyaṇēhi sahiēhi</l><l>aïkadiṇadappiēhi vi, gahiō ciya sahiyamaṇēhiṁ</l></lg>
 	<lg n="2"><l>nārāyaṇavayēṇēṇaṁ, nīō ciya mantiṇēhi niyayagharaṁ</l><l>saṁpēsiō gaō sō, pūrva parilambhiō cēva</l></lg>
 	<lg n="3"><l>dachr̥ṇa garya gahiya, samayaṁ vijāharēhi sabanaṇō</l><l>paümassa lakkhaṇassa ya, balamāhappaṁ pasaṁsanti</l></lg>
@@ -7791,7 +7791,7 @@
 	<trailer>ii paümacariē bharaha-kēgaīdikkhābhihāṇaṁ tēyāsīimaṁ pavvaṁ samattaṁ</trailer>
       </div>
       <div type="chapter" n="84">
-	<head>bharahanibvāṇagamaṇapavvaṁ</head>
+	<head>bharahanibvāṇagamaṇapabvaṁ</head>
 	<lg n="1"><l>sō gayavarō muṇīṇaṁ, kyāṇi parilambhiō pasannappā</l><l>sāgāradhammaniraō', jāō tavasaṁjamujjuttō</l></lg>
 	<lg n="2"><l>chaṭṭaṭumadasamaduvālasēhi māsaddhamāsakhamaṇēhiṁ</l><l>bhuñjaï ya ēkavēlaṁ, pacāī sahāvapaḍiyāī</l></lg>
 	<lg n="3"><l>saṁsāragamaṇabhīō, sammattaparāyaṇō miusahāvō</l><l>viharaï pūijjantō, sasaṁbhama nāyaramaṇēṇaṁ</l></lg>
@@ -8181,7 +8181,7 @@
 	<lg n="27"><l>sabō vi nāyarajaṇō, jiṇavarapūyāsamujjaō ahiyaṁ</l><l>jāō raïsaṁpannō, tatthujjāṇammi aṇudiyaha</l></lg>
 	<lg n="28"><l>ēvaṁ niṇindavarasāsaṇabhattimantō, pūyāparāyaṇamaṇō saha sundarīsu</l>
 	<l>tatthēva kāṇaṇavaṇē paümō pahaṭṭō, pattō raī vimalakantidharō mahappā</l></lg>
-	<trailer>ii paümacariē jiṇapūyāḍōhēlavihāṇaṁ nāma bāṇaüyaṁ pavvaṁ samattaṁ</trailer>
+	<trailer>ii paümacariē jiṇapūyāḍōhēlavihāṇaṁ nāma bāṇaüyaṁ pabvaṁ samattaṁ</trailer>
       </div>
       <div type="chapter" n="93">
 	<head>jaṇacitāpavvaṁ</head>
@@ -9506,7 +9506,7 @@
 	<trailer>ii paḍamacariē bhāmaṇḍalaparalōyagamaṇavihāṇaṁ nāma satsuttarasayaṁ pavvaṁ samattaṁ</trailer>
       </div>
       <div type="chapter" n="108">
-	<head>haṇuvaṇibāṇagamaṇapavvaṁ</head>
+	<head>haṇuvaṇibāṇagamaṇapabvaṁ</head>
 	<lg n="1"><l>ētō magahāhibaī!, suṇēhi haṇuyassa tāva vittantaṁ</l><l>varakaṇṇakuṇḍalapurē, bhōgē ciya sēkmāṇassa</l></lg>
 	<lg n="2"><l>juvaïsahassēṇa sama, vimāṇasiharaḍiō mahiḍīō</l><l>līlāyantō viharaha, mahīe barakāṇaṇavaṇāī</l></lg>
 	<lg n="3"><l>annayā vasantē, saṁpattē . jaṇamaṇōharē kālē</l><l>kōilamaharumgīē, mahuyaramuñcantakārē</l></lg>
@@ -9933,7 +9933,7 @@
 	<trailer>ii paümacariē paümassa kēvalanāṇuppacivihāṇaṁ nāma sattadasuttarasaya pandha samattaṁ</trailer>
       </div>
       <div type="chapter" n="118">
-	<head>paümaṇibvāṇagamaṇapavvaṁ</head>
+	<head>paümaṇibvāṇagamaṇapabvaṁ</head>
 	<lg n="1"><l>aha sō sīyāindō, narayatthaṁ lakkhaṇaṁ 'sumariūṇaṁ</l><l>avaïṇṇō maṇavēgō, paḍibōhaṇakāraṇujjuttō</l></lg>
 	<lg n="2"><l>sō laliūṇa padama, sakarapuḍhavi ca vāluyāpuḍhaviṁ</l><l>patthē ciya pēcchaï, nēraïyā tattha dukkhatā</l></lg>
 	<lg n="3"><l>paḍhamaṁ surēṇa diṭṭō, saṁbukō ghaṇakasāyapariṇāmō</l><l>ghōramgimāiyāī, aṇuhōntō tibadukkhāī</l></lg>

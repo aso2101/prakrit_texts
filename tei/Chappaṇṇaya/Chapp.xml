@@ -1,0 +1,1884 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0" n="Chapp">
+  <teiHeader xml:lang="eng">
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:lang="pra-Latn">Chappaṇṇayagāhāō</title>
+	<principal>
+	  <persName ref="http://viaf.org/viaf/372149294434280521495">
+	    <forename>Andrew</forename>
+	    <surname>Ollett</surname>
+	  </persName>
+	</principal>
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>Prakrit Digital Texts Project</authority>
+        <availability status="restricted">
+          <p>Distributed under a <ref target="https://creativecommons.org/licenses/by-sa/4.0/" type="url">Creative Commons Attribution-ShareAlike 4.0</ref> license.</p>
+	  <!-- further information here? !-->
+        </availability>
+        <date>2020</date>
+      </publicationStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Chappaṇṇayagāhāō</title>
+	  <!-- FILL IN THE REST OF THIS !-->
+          <editor>
+	    <persName ref="http://viaf.org/viaf/30336683">
+	      <forename>Hermann</forename>
+	      <surname>Jacobi</surname>
+	    </persName>
+	  </editor>
+	  <respStmt>
+	    <resp>Second revised edition by</resp>
+	    <persName ref="http://viaf.org/viaf/59522975">Muni Shri Punyavijayaji</persName>
+	  </respStmt>
+	  <respStmt>
+	    <resp>Translated into Hindi by</resp>
+	    <persName>
+	      <forename>Shantilal M.</forename>
+	      <surname>Vora</surname>
+	    </persName>
+	  </respStmt>
+          <publisher>Prakrit Text Society</publisher>
+          <pubPlace>Varanasi</pubPlace>
+          <date>1962</date>
+          <note>Digital copy available via <ref target="https://archive.org/details/paumacariyamrevisededitionhermanjacobipunyavijaya_202003_516_M">Internet Archive</ref>.</note>
+	  <note><ref target="https://www.worldcat.org/title/acarya-vimalasuris-paumacariyam-with-hindi-translation-pt-2-part-ii/oclc/258529159">Worldcat Link</ref></note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+	<language ident="eng">English</language>
+	<language ident="pra-Latn">Prakrit in Roman transliteration (ISO-15919)</language>
+	<language ident="san-Latn">Sanskrit in Roman transliteration (ISO-15919)</language>
+      </langUsage>
+      <textClass>
+	<keywords>
+	  <term><!--each keyword in a <term/> element --></term>
+	</keywords>
+      </textClass>
+    </profileDesc>
+
+
+    <encodingDesc>
+      <editorialDecl>
+        <p><!-- romanization !-->
+        <!-- orthography !-->
+        <!-- encoding !--></p>
+      </editorialDecl>
+    </encodingDesc>
+
+    <revisionDesc>
+      <change when="2020-08-09" who="Andrew Ollett">
+	<list>
+	  <item>Initial version.</item>
+	</list>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+      <!-- Typed from Nalini Balbir's translation, checked against Upadhye's edition.
+	   Incorporating variants from Nalini Balbir's later article !-->
+
+      <lg n="1">
+	<l>nijjariya-jarā-maraṇaṁ vandittā jiṇa-varaṁ mahāvīraṁ</l>
+	<l>chappaṇṇaya-gāhāo vocchaṁ suyaṇassa joggāo</l>
+      </lg>
+      <!-- Translation: 
+	   With reverence to the great conquerer, Mahavira,
+	   who obliterated old age and death,
+	   I will propound the chappaṇṇa verses,
+	   suited for good people.
+	   !-->
+
+      <lg n="2">
+	<l><app><lem wit="#P #A #Vajjā:84">purise</lem><rdg wit="#U">suyaṇe</rdg></app> sacca-samiddhe, aliya-<app><lem wit="#P #U #A">dalidde</lem><rdg wit="#Vajjā:84">pamukke</rdg></app> sahāve-santuṭṭhe</l>
+	<l>tava-<app><lem wit="#U #P">niyama-dhamma-maïe</lem><rdg wit="#Vajjā:84">dhamma-ṇiyama-maïe</rdg><rdg wit="#A">niyama-sīlakalie</rdg></app> visamā vi <app><rdg wit="#P #U #A">gahā</rdg><rdg wit="#Vijjā:84">dasā</rdg></app> samā honti</l>
+      </lg>
+      <!-- Parallel texts: Vajjā:84 !-->
+      <!-- Translation:
+	   If a man is rich in truth, poor in lies,
+	   naturally content, and concerns himself with
+	   austerities, observances, and the law,
+	   the stars are never against him. 
+	   !-->
+
+      <lg n="3">
+	<l>gayaṇammi gahā sayaṇammi <app><lem wit="#A">sumiṇayā</lem><rdg wit="#U #P">suviṇayā</rdg><rdg wit="#Sūktamūktāvalī:19.22">suvayaṇā</rdg></app> saüṇayā vaṇaggesu</l>
+	<l>taha vāharanti purisaṁ jaha diṭṭhaṁ puvva-kammehiṁ</l>
+      </lg>
+      <!-- Parallel texts: Sūktamūktāvalī 19.22 !-->
+      <!-- Translation:
+	   The planets in the heavens,
+	   dreams in the bed, and
+	   birds in the forest
+	   [only] tell a man the way what his
+	   earlier actions pointed out.
+	   !-->
+      
+      <lg n="4">
+	<l>savve tāha pasatthā <app><lem wit="#P #A">sumiṇā saüṇā</lem><rdg wit="#U">saüṇā sumiṇā</rdg></app> gahā ya nakkhattā</l>
+	<l>ti-huyaṇa-maṅgala-nilayaṁ hiyaeṇa jiṇaṁ vahantassa</l>
+      </lg>
+      <!-- Translation:
+	   All these are favorable—dreams, birds, stars, constellations—to the one
+	   who holds in his heart the Jina, 
+	   the abode of felicity of the three worlds.
+	   !-->
+
+      <lg n="5">
+	<l>kattha<app><lem wit="#U">ï na karaï</lem><rdg wit="#P">na karei</rdg><rdg wit="#A">na lahei</rdg></app> mollaṁ suvaṇṇayaṁ kattha dūhavo vando</l>
+	<l>kattha<app><lem wit="#U">ï</lem><rdg wit="#P #A"> va</rdg></app> sarala-sahāvo jaṇo <app><lem wit="#P #A">na saṁ</lem><rdg wit="#U" type="conj">u ava</rdg></app>māṇaṇaṁ lahaï</l>
+      </lg>
+      <!-- Translation:
+	   Sometimes gold doesn’t fetch a good price.
+	   Sometimes a bad person is praised.
+	   And sometimes a naturally honest man doesn’t get respect.
+	   !-->
+
+      <lg n="6">
+	<l>dūra-ttho ḍahaï ravī, aggī aṅgehĩ <app><lem wit="#U">pharasio</lem><rdg wit="#P">pharusio</rdg></app> ḍahaï</l>
+	<l>ḍahaï piya-vippaogo, suyaṇo <app><lem wit="#P #A">vi a-daṁ</lem><rdg wit="#U">a-ddaṁ</rdg></app>saṇe ḍahaï</l>
+      </lg>
+      <!-- Translation:
+	   The sun burns from afar, fire burns when you touch it,
+	   separation from the beloved burns,
+	   and the good man burns too
+	   when he is out of sight.
+	   !-->
+
+      <lg n="7">
+	<l><app><lem wit="#U">ḍahae suyaṇa-viogo</lem><rdg wit="#Jinadattākhyāna-2:137">cintā ḍahati sarīraṁ</rdg><rdg wit="#A">ḍahaï ya suyaṇa-viogo</rdg><rdg wit="#VaHiMa:p.239">ḍahadi piya-vippayogo</rdg></app>, <app><lem wit="#P #A #U">ḍahaï</lem><rdg wit="#VaHiMa:p.239">ḍahadi</rdg></app> a-ṇāhattaṇaṁ para-viese</l>
+	<l><app><lem wit="#P #A #U">ḍahaï</lem><rdg wit="#VaHiMa:p.239">ḍahadi</rdg></app> ya abbhakkhāṇaṁ, <app><lem wit="#P #A #U">ḍahaï</lem><rdg wit="#VaHiMa:p.239">ḍahadi</rdg></app> a-<app><lem wit="#P #A #U">kajjaṁ</lem><rdg wit="#VaHiMa:p.239">kicchaṁ</rdg></app> <app><lem wit="#P #A #U">kayaṁ</lem><rdg wit="#VaHiMa:p.239">kadaṁ</rdg></app> pacchā</l>
+      </lg>
+      <!-- Parallel texts: Jinadattākhyāna (2): 137, Vasudevahiṇḍi Madhyamakāṇḍa, p. 239 !-->
+      <!-- Translation:
+	   Separation from good people burns.
+	   Being alone in a foreign country burns.
+	   Getting a bad reputation burns.
+	   And doing what you shouldn’t burns—later.
+	   !-->
+
+      <lg n="8">
+	<l>santa-guṇa-vippaṇāse asanta-dosubbhave <app><lem wit="#P #A #U">ya</lem><rdg wit="#GāRaKo:801">vi</rdg></app> jaṁ dukkhaṁ</l>
+	<l>taṁ sosei samuddaṁ; kiṁ puṇa hiyayaṁ maṇussāṇaṁ?</l>
+      </lg>
+      <!-- Parallels: Samarādityakathā 529.11-12; Ākhyānamaṇikośavṛtti 253.267; Gāhārayaṇakosa 801 !-->
+      <!-- Translation:
+	   When virtues disappear that were there before,
+	   and when faults appear that weren’t, 
+	   the pain can dry out the ocean,
+	   to say nothing of the hearts of men.    
+	   !-->
+
+      <lg n="9">
+	<l>santehi a-santehi <app><lem wit="#U #P #A">ya</lem><rdg wit="#KaRa:75.2"/></app> parassa kiṁ jampiyehi dosehiṁ?</l>
+	<l><app><lem wit="#U #P #A">attho jaso na labbhaï</lem><rdg wit="#KaRa:75.2">appā paḍaï kilese</rdg></app>, so <app><lem wit="#U #P #A">ya</lem><rdg wit="#Vajjā:82">vi</rdg><rdg wit="#KaRa:75.2">hu</rdg></app> a-mitto kao hoi</l>
+      </lg>
+      <!-- Parallels: Vajjālaggam 82; Sūktamūktāvalī 29.5; Kathāratnākara 75.2 !-->
+      <!-- Translation:
+	   What’s the point of talking about another person’s faults,
+	   whether they’re real or not?
+	   You get neither money nor fame,
+	   and you become an enemy.
+	   !-->
+
+      <lg n="10">
+	<l>mahureṇa jiṇaha kaḍuyaṁ, khamāĕ dappaṁ guruṁ paṇāmeṇa</l>
+	<l>santoseṇa ya <app><lem wit="#U #P">lohaṁ</lem><rdg wit="#A">lobhaṁ</rdg></app>, kalahaṁ ca ajampiyavveṇa</l>
+      </lg>
+      <!-- Translation:
+	   Fight bitter with sweet, pride with forbearance,
+	   the teacher with submission, covetousness with contentment,
+	   and quarrelling with silence.
+	   !-->
+      <!-- Parallels: NB compares Dasaveyāliya 8.38 and Dhammapada 223. !-->
+
+      <lg n="11">
+	<l>ekka-sukaeṇa tūsaha jāva sayaṁ dukkiyāṇa volei</l>
+	<l>sa-sarīre vi na sakkā diyahe diyahe piyaṁ kāuṁ</l>
+      </lg>
+      <!-- Translation:
+	   Be content with just one good deed,
+	   which is enough to wipe out a hundred wicked deeds.
+	   It is not possible to do something nice,
+	   even for oneself,
+	   day in and day out.
+	   !-->
+
+      <lg n="12">
+	<l>kaha nāma tassa pāvaṁ cintijjaï <app><lem wit="#A #P #PraCi:12.20">āgae vi</lem><rdg wit="#U">āgayammi</rdg></app> <app><lem wit="#U #A">kohammi</lem><rdg wit="#P #PraCi:12.20">kovammi</rdg></app></l>
+	<l><app><lem wit="#A #P #PraCi:12.20">uppala</lem><rdg wit="#U">campaya</rdg></app>-dala-sukumālo jassa ghare <app><lem wit="#U">ŏllio</lem><rdg wit="#PraCi:12.20">allio</rdg></app> hattho?</l>
+      </lg>
+      <!-- Parallels: Prabandhacintāmaṇi 12.20 (p. 17 Tawney) !-->
+      <!-- Translation:
+	   How is it possible to plot a wicked deed
+	   against him, in the onset of anger,
+	   when you wet your hand,
+	   soft as a lotus petal, in his house?
+	   !-->
+
+      <lg n="13">
+	<l>piya-pāhuṇa-āgamaṇe <app><lem wit="#NB">a-pahuppantassa</lem><rdg wit="#U">appa-dupaṁtassa</rdg></app> sajjaṇa-jaṇassa</l>
+	<l>maraṇāo <app><lem wit="#U">abbhahiyaṁ</lem><rdg wit="#P #A">garuyayaraṁ</rdg></app> uppajjaï <app><lem wit="#U #P">māṇasaṁ</lem><rdg wit="#A">māṇusaṁ</rdg></app> dukkhaṁ</l>
+      </lg>
+      <!-- Translation:
+	   When a dear guest arrives,
+	   a good man who does not have sufficient means
+	   feels pain worse than death.
+	   !-->
+      <!-- The word apahuppantassa is a problem: Upadhye 
+	   glosses it as alpa-duṣprānta. !-->
+
+      <lg n="14">
+	<l>na hu aï-bhariyaṁ <app><lem wit="#U">dhammaï</lem><rdg wit="#P #A">dhamme</rdg></app>; jaha bhariyaṁ taha suhāvahaṁ hoi;</l>
+	<l>pancammi na ya <app><lem wit="#U #P">kilimmaï</lem><rdg wit="#A">kilissaï</rdg></app> gao vi piya-pāhuṇo hoi.</l>
+      </lg>
+      <!-- NB didn't quite translate this difficult verse. !-->
+      <!-- Translation:
+	   He does not make a sound when he is overfilled.
+	   It is as pleasant as it is full. (?)
+	   He does not get exhausted in five (?).
+	   Even when he is gone, he is a dear guest.
+	   !-->
+
+      <lg n="15">
+	<l>te dhannā je dhammaṁ suṭṭhu vi jāṇanti suṭṭhu vi <app><lem wit="#U #P">karanti</lem><rdg wit="#P">karenti</rdg></app></l>
+	<l>jīviya-sāram a-sāraṁ: <app><lem wit="#U">khaṇeṇa pariyattae savvaṁ</lem><rdg wit="#P #A">suṇamāṇā pecchamāṇā ya</rdg></app></l>
+      </lg>
+      <!-- Translation:
+	   They are really blessed,
+	   who both know the dharma well, and do it well.
+	   All of life’s essentials are inessential:
+	   Everything is transformed in a moment.
+	   !-->
+
+      <lg n="16">
+	<l>sā māyā so ya piyā, taṁ mittaṁ <app><lem wit="#U #P">bandhavo ya</lem><rdg wit="#A">bandhavo vi</rdg></app> so ceva</l>
+	<l>jo hiya-nissesa-karaṁ dhammassa pahe nayaṁ dei</l>
+      </lg>
+      <!-- Translation:
+	   She is a mother, and he is a father,
+	   and he is a friend and he alone is family
+	   who gives guidance on the path of dharma,
+	   beneficial and leading to the highest good.
+	   !-->
+
+      <lg n="17">
+	<l>na vi taṁ karei māyā piyā ya putto ya bandhava-jaṇo ya</l>
+	<l>jaṁ purisassāyariyā karanti dhammaṁ uvaïsantā.</l>
+      </lg>
+      <!-- A mother, father, son, or sibling cannot do
+	   what a teacher who intiates a man into the Dharma does. !-->
+      <!-- Parallels: NB point to UttṬ Erz. 42.34-37 in Prakrit, and JĀ2 182 in Sanskrit. !-->
+      <lg n="18">
+	<l>kiṁ acchaha vīsatthā? diyahā volenti turiya-pahiya vva;</l>
+	<l>te ya na gaṇanti tubbhe, tubbhehi na vi ya gaṇijjanti.</l>
+      </lg>
+      <!-- Why are you content? The days are going by like a swift traveller.
+	   They don't count you, and you don't count them. !-->
+      <!-- Parallels: first pāda is similar to Kuvalayamālā 199.22:
+	   kiṁ acchaha vīsatthā? ḍhukkai kālo tti kuṇaha kāyavvaṁ.
+	   uya jāma-saṁkha-saddo kuviya-kayantassa huṁkāro !-->
+      <lg n="19">
+	<l>tuṭṭhā honti maṇussā: Indamaho āgao tti ramaṇīo;</l>
+	<l>na vi jāṇanti varāyā: paḍiyā saṁvacchara-salāyā!</l>
+      </lg>
+      <!-- People are happy because Indra's festival has arrived.
+	   Don't they know, the poor guys, that the staff of the year has fallen? !-->
+      <!-- There is a similar idea in the Śiṣyalekha of Candragomin; see Hahn's article, "Prakrit stanzas" !-->
+      <lg n="20">
+	<l>uccāsaṇo mah-iccho, āṇāinto ya nir-uvayārīo</l>
+	<l>alaso piya-jimmaṇa rūsaṇo ya na ciraṁ pio hoi.</l>
+      </lg>
+      <!-- The pretentious, the ambitious, 
+	   those who give orders without rendering service in return,
+	   the lazy, people who love to eat,
+	   and people who are quick to anger
+	   won't stay friends for long.
+	   (this translation follows NB closely) !-->
+      <lg n="21">
+	<l>sahasatti pīimantā a-tthakke jaṁ va taṁ va jampantā</l>
+	<l>pāse ya nivesantā <app><lem>piyā ya</lem><rdg
+	wit="#U">piyāya</rdg></app> sattuttaṇam uventi.</l>
+      </lg>
+      <!-- those who are satisfied quickly, and those who speak whatever they want at the worst possible moment (athakke),
+	   and those who like to get close to you:
+	   even if they are friends, they'll become enemies. !-->
+
+      <lg n="22">
+	<l>nīyaṁ aïkkamanto puvvābhāsī piyāĩ jampanto</l>
+	<l>chandaṁ aṇuyattanto veso vi jaṇo piyo hoi.</l>
+      </lg>
+      <!-- The person who goes beyond baseness (nīyaṁ = nīcaṁ),
+	   who is prudent (puvvābhāsī),
+	   who speaks what is pleasant,
+	   who follows one's desires,
+	   though he is an enemy, he is actually a friend. !-->
+
+      <lg n="23">
+	<l>chandaṁ jo aṇuyattaï mammaṁ rohaï guṇā payāsei</l>
+	<l>na hu navari māṇusāṇa ya, devāṇa vi dullaho hoi.</l>
+      </lg>
+      <!-- Parallels: Jinadattākhyāna 2 94, Vajjālagga 88 and PSRM 11.
+	   aṇuvaṭṭaï VL; PSRM;
+	   rakkhaï, guṇe, VL, PSRM;
+	   so niyuṇa-māṇusāṇaṁ; PSRM
+	   so navari māṇusāṇaṁ devāṇa ya vallaho hoi JĀ2 (moins bon) !-->
+      <!-- the person who follows one's desires,
+	   who keeps one's secrets, who reveals one's virtues,
+	   that person is hard to find, not only among men,
+	   but among the gods as well. !-->
+
+      <lg n="24">
+	<l>āvaṁ ti ya evaṁ ti ya vottavvaṁ paṇḍieṇa puriseṇa:</l>
+	<l>iyaro vi hoi tuṭṭho, iyaraṁ pi (ya) tattiyaṁ ceva.</l>
+      </lg>
+      <!-- yes, that is so: thus should a wise person say.
+	   the other person is happy,
+	   and the rest is left there. !-->
+
+      <lg n="25">
+	<l>chajjaï pahussa laliyaṁ, piyāĕ māṇaṁ, khamā samatthassa</l>
+	<l>jāṇantassa ya bhaṇiyaṁ, moṇaṁ ca a-yāṇamāṇassa.</l>
+      </lg>
+      <!-- affability (NB) befits a master,
+	   jealous anger a lover,
+	   forbearance the powerful,
+	   speech a learned person,
+	   and silence the unlearned !-->
+      <!-- Parallels: SS 243, VL 147 !-->
+      <!-- For the idea see Bhartṛhari, Nītiśataka 89 !-->
+
+      <lg n="26">
+	<l>sahaï na kaḍuyaṁ jampaï, dose na lahaï guṇā payāsei</l>
+	<l>rūsantāṇa na rūsaï, dakkhiṇṇa-mahābhaḍo suyaṇo.</l>
+      </lg>
+      <!-- He deals with it: doesn't say a harsh word,
+	   doesn't seize on faults, but illuminates virtues,
+	   doesn't get mad at those who are angry with him,
+	   the good man, the great warrior of courtesy. !-->
+      <!-- Parallels: MK 144.11, which reads
+	   lei na dose
+	   guṇo (faulty, also read MK rūsantāṇa and rūsai)
+	   mahoyahī eso !-->
+      <!-- MK is the Maṇoramākahā of Vardhamānasūri (1083-1084), reference to page and verse number !-->
+
+      <lg n="27">
+	<l>suyaṇo na ceva rūsaï: aha rūsaï mangulaṁ na cintei:</l>
+	<l>aha cintei na jampaï; aha jampaï lajjio hoi.</l>
+      </lg>
+      <!-- A good person doesn't ever get angry; and if he gets angry he doesn't plot anything bad; and if he does, he doesn't say it; and if he says it, he's embarrassed. !-->
+      <!-- JC 1.19 (nu rūsai cciya, cf. SS250 and VL34)
+	   kuppai for rūsai,
+	   na kuppai cciya
+	   vippiaṁ for mangulaṁ SS;
+	   lajjiro VL;
+	   cited in Alaṁkāra-ratnākara and SHRt 38.42 (Sternbach's paper in Sambodhi 5) !-->
+      <!-- Compare GRK 74ab (not the same as SS 319ab):
+	   daḍha-rosa-kalusiassa vi suaṇassa muhāo vippiyaṁ katto !-->
+
+      <lg n="28">
+	<l>jaṁ dujjaṇassa suyaṇo lajjāe sahaï chinna-lajjassa</l>
+	<l>taṁ jāṇaï nillajjo, eso a-samatthao sahaï.</l>
+      </lg>
+      <!-- When a good person circumspectly puts up with a wicked person,
+	   who has no shame,
+	   then the shameless man knows
+	   that the other person is putting up with his impudence. !-->
+
+      <lg n="29">
+	<l>aṇuyattiyaṁ na yāṇaï, piye vi bhaṇie vi a-ppiyaṁ bhaṇaï,</l>
+	<l>dāṇeṇa na sampajjaï; natthi uvāo khala-yaṇassa.</l>
+      </lg>
+      <!-- he doesn't know what to follow;
+	   when something nice is spoken, he says something not nice;
+	   he can't benefit from generosity
+	   for a wicked man, nothing can be done to help !-->
+
+      <lg n="30">
+	<l>bajjhaï mantehi visaṁ, hatthi rajjūhi seuṇā salilaṁ;</l>
+	<l>payaï-visamassa bandho na yāṇimo dujjaṇa-jaṇassa.</l>
+      </lg>
+      <!-- poison is stopped by mantras,
+	   an elephant by ropes,
+	   water by a dam;
+	   but i don't know 
+	   what can ever stop a wicked man
+	   who is naturally difficult. !-->
+
+      <lg n="31">
+	<l>savvassa esa payaī: piyammi uppāie piyaṁ kāuṁ:</l>
+	<l>suyaṇassa kā vi payaī: a-kae vi pie piyaṁ kāuṁ.</l>
+      </lg>
+      <!-- this is everyone's nature: 
+	   to treat kindly when one is treated kindly.
+	   this is the nature of the good man:
+	   to treat kindly even when one is treated unkindly. !-->
+      <!-- VL 39: eha payaī. !-->
+
+      <lg n="32">
+	<l>kajjammi samāvaḍie aṇuyattaha dujjaṇaṁ payatteṇa</l>
+	<l>visam āsā kira jāyaï amayāŏ visaṁ na saṁbhavaï.</l>
+      </lg>
+      <!-- if duty requires it,
+	   make an effort to follow a bad person:
+	   they say that point can become a source of hope (?);
+	   but poison cannot come from nectar. !-->
+      <!-- Parallels: SGS 95, SM 126.23
+	   pi dussīlaṁ SGS
+	   kīsa na pijjai nimbo sarīra-saṁrakkhaṇaṭṭhāe (moins problématique) !-->
+
+      <lg n="33">
+	<l>jaï vi khamā paribhūyā, jaï vi khamantassa āyaro natthi</l>
+	<l>taha vi khamā khamiyavvā; khama-sariso bandhavo natthi.</l>
+      </lg>
+      <!-- even if one's patience is overpowered,
+	   even if there is no regard for patience,
+	   nevertheless one must practice patience:
+	   there is no friend like patience. !-->
+
+      <lg n="34">
+	<l>kaha tassa rūsiyavvaṁ jassa paṇāmo puṇo vi kāyavvo?</l>
+	<l>accanta-nigguṇassa vi kaha sakkā rūsiuṁ tassa?</l>
+      </lg>
+      <!-- how can you get mad at a person
+	   whom you should rather bow down to?
+	   even if he is completely without good qualities,
+	   how can it be possible to get angry at him? !-->
+
+      <lg n="35">
+	<l>rosassa khamā daṇḍo, kāma-guṇāṇaṁ nirumbhaṇā daṇḍo;</l>
+	<l>dujjaṇa-jaṇassa kalah-ujjayassa parivajjaṇā daṇḍo.</l>
+      </lg>
+      <!-- patience defeats anger,
+	   restraint defeats the qualities of pleasure;
+	   and avoidance defeats the wicked man
+	   who loves to quarrel. !-->
+
+      <lg n="36">
+	<l>bhaddaṁ pahū suyāṇaṁ avarāheūṇa baddha-vaïrāṇa</l>
+	<l>paṇivaïya-vacchalāṇaṁ muhutta-caṇḍ-ĕkka-rosāṇaṁ.</l>
+      </lg>
+      <!-- bravo (NB) to the master of those sons who,
+	   after doing wicked things (avarāheūṇa),
+	   became hostile to you (baddha-vaira-),
+	   who love you when you fall to your feet,
+	   and who instantly become violently angry at you
+	   (translation following NB; unclear) !-->
+
+      <lg n="37">
+	<l>bīheyavvaṁ dujjaṇa-jaṇassa niccaṁ paloṭṭa-jīhassa</l>
+	<l>vara-rayaṇa-nijjharassa va vayaṇa-karālaṁ vahantassa.</l>
+      </lg>
+      <!-- One should fear the wicked man,
+	   whose tongue is always poised
+	   like a waterfall of great jewels
+	   and who has a wide open mouth (vadana-karāla). 
+	   (also unclear) !-->
+
+      <lg n="38">
+	<l>atthakkŏ jampae payaï-pāyaḍaṁ savva-loya-tattillaṁ;</l>
+	<l>taṁ māṇusa-veyālaṁ puhaī vi sa-sankiyā bhamaï.</l>
+      </lg>
+      <!-- he speaks at the wrong time
+	   what is completely obvious,
+	   embarrassing to all people.
+	   the earth itself spins in fear
+	   of that man-demon. !-->
+
+      <lg n="39">
+	<l>nīo khaṇeṇa raccaï; ratto santo viraccaï khaṇeṇa,</l>
+	<l>nīo viratta-metto bhāmei gharā-ghariṁ dose.</l>
+      </lg>
+      <!-- the base man is attached for an instant,
+	   when attached, he becomes detached the next instant;
+	   the base man makes his faults wander around from house to house
+	   without having any friends (viratta-metto) !-->
+      <!-- NB compares UttṬ 86.19:
+	   mahilā hu ratta-mettā ucchu-khaṇḍaṁ va sakkarā ceva
+	   sa cciya viratta-mettā nimbaṁ kūraṁ visesei
+	   aṇurajjanti khaṇeṇaṁ juvaīo khaṇeṇa puṇa virajjanti !-->
+
+      <lg n="40">
+	<l>suyaṇo cirassa raccaï; ratto santo viraccaï cirassa;</l>
+	<l>suyaṇo jaï vi viraccaï; taha vi na dose payāsei.</l>
+      </lg>
+      <!-- a good man is attached for a long time,
+	   and when he is attached, he becomes detached (only) after a long time.
+	   even if the good man becomes detached,
+	   still he does not broadcast faults. !-->
+
+      <lg n="41">
+	<l>chullucchalei jaṁ hoi ūṇayaṁ rittayaṁ kaṇayaṇei;</l>
+	<l>bhariyāī na vuccanti supurisa-viṇṇāṇa-bhaṇḍāīṁ.</l>
+      </lg>
+      <!-- what is a bit empty (ūṇaa) will spill over;
+	   what is emptied out (rittaya) will make a noise;
+	   the recipient of a good man's knowledge
+	   being full, does not say anything. !-->
+      <!-- SūyṬ p. 112 [167]
+	   cullucchalei;
+	   na khubbantī (ne brinquebalent past)
+	   ĀMKV 88.6g:
+	   chullucchalai jaṁ bhāyaṇu ūṇauṁ, rittau puṇu kaṇakaṇai nihīṇauṁ !-->
+
+      <lg n="42">
+	<l>taṁ khāha jaṁ jarijjaï, taṁ jampaha jaṁ mahā-yaṇe joggaṁ;</l>
+	<l>taṁ jampanti su-purisā, kāleṇa vi jaṁ na langhei.</l>
+      </lg>
+      <!-- eat that which is digested;
+	   speak that which is appropriate to great people;
+	   what good people say, they will not transgress even after a long time !-->
+      
+      <lg n="43">
+	<l>tattiya-mettaṁ jampaha <app><lem>jettiya-mettassa nikkalaṁ cavaha</lem><rdg
+	wit="#A">jattiya-mettassa nikkayaṁ vahaha</rdg></app></l>
+	<l>taṁ <app><lem>ukkhiveha</lem><rdg
+	wit="#U">ukkhaveha</rdg></app> bhāraṁ jaṁ addha-pahe na chaḍḍeha.</l>
+      </lg>
+      <!-- SM 72.10:
+	   jattiya-; nikkayaṁ havai;
+	   ukkhiveha;
+	   na chaṇḍei;
+	   cf. also KR 569.2ab: tāvaiaṁ cia jampaha jāvaio bhaṇiassa hoi nivvāho !-->
+      <!-- speak only so much as you can speak clearly;
+	   take up only the load which 
+	   you will not abandon halfway down the road. !-->
+
+      <lg n="44">
+	<l>vujjhanti nāma bhārā, te cciya vujjhanti vīsamantehiṁ</l>
+	<l>sīla-bharo voḍhavvo jāvaj-jīvaṁ <app><lem>a-vīsāmo</lem><rdg
+	wit="#A">avissāmo</rdg></app>.</l>
+      </lg>
+      <!-- burdens are borne, of course;
+	   those burdens are borne by people who sometimes take a rest.
+	   (but) the burden of good conduct must be borne all one's life,
+	   without any break. !-->
+
+      <lg n="45">
+	<l>jo sakkayaṁ na yāṇaï suvisuddha-pāiyaṁ pi vottuṁ-je</l>
+	<l>moṇaṁ  <app><lem>tu</lem><rdg wit="#PA">va</rdg></app> tassa saraṇaṁ, nīsaraṇaṁ ahava parisāe.</l>
+      </lg>
+      <!-- Celui qui ne connaît pas le sanskrit ou ne sait pas parler un prakrit parfaitement pur n'a d'autre refuge que le silence; sinon c'est la catastrophe pour son auditoire. !-->
+
+      <lg n="46">
+	<l>uccaṁ na sikkhio addha-sikkhio sikkhio ku-sālāe</l>
+	<l>jo vahaï viusa-vāyaṁ so sariso sanniyāeṇa.</l>
+      </lg>
+      <!-- the one who is not highly educated,
+	   who is half educated,
+	   who is educated in a bad school,
+	   who (merely) bears the name of a scholar,
+	   he is similar to a horrible affliction (saṁnipāta-). !-->
+
+      <lg n="47">
+	<l>ko kuvalayāṇa gandhaṁ karei mahurattaṇaṁ ca ucchūṇaṁ</l>
+	<l>vara-hatthīṇa ya līlaṁ, viṇayaṁ ca kula-ppasūyāṇaṁ?</l>
+      </lg>
+      <!-- who produces the spell of the water-lilies,
+	   or the sweetness of sugarcane?
+	   or the grace of elephants,
+	   or the good behavior of those born into good families? !-->
+      <!-- an "innate qualities" verse !-->
+      <!-- Parallels: UttṬ: ErZ 62.25-26, MŚP 156.296; cf. Erz 72.31-32
+	   ko cittei maūraṁ gaiṁ ca ko kuṇai rāya-haṁsāṇaṁ 
+	   ko kuvalayāṇa gandhaṁ viṇayaṁ ca ,ula-ppasūyāṇaṁ? !-->
+
+      <lg n="48">
+	<l>aṇuyattaha bhaṇaha piyaṁ, jaṁ kajjaṁ taṁ <app><lem>muṇeha</lem><rdg wit="#U">suṇeha</rdg></app> hiyaeṇa:</l>
+	<l>mahuraṁ lavaï mayūro sa-visaṁ ca bhuyangamaṁ gilaï.</l>
+      </lg>
+      <!-- Parallels: GRK 238: taṁ muṇeha citteṇa
+	   SGS 93: taṁ muṇeha hiyaeṇa, khāi !-->
+      <!-- follow, speak kindly, and keep in your heart what is to be done:
+	   the peacock has a sweet voice,
+	   but it also swallows poisonous snakes. !-->
+
+      <lg n="49">
+	<l>ucchū mahuro somo cando (taha) candaṇaṁ ciya su-surabhiṁ</l>
+	<l>abhijāo ya kulīṇo; ko doso āyaro c'eva?</l>
+      </lg>
+      <!-- sugar-cane is sweet, the moon is auspicious,
+	   and sandalwood is pleasant:
+	   and well-born men are noble:
+	   what is a fault, and what is a merit? !-->
+      <!-- i wonder whether the idea is: innate qualities cannot
+	   be reckoned either as faults or virtues. !-->
+      <!-- 71 has the same ending. !-->
+
+      <lg n="50">
+	<l>jo guḍa-kayāĕ vāyāĕ jampae visa-kaeṇa hiyaeṇa</l>
+	<l>so bila-gao va sappo vajjeyavvo payatteṇa</l>
+      </lg>
+      <!-- the person who speaks with speech that is honeyed (guḍa-kaa-)
+	   but a heart that is poisoned (visa-kaa-),
+	   he is to be avoided with effort,
+	   like a snake in a pit. !-->
+
+      <lg n="51">
+	<l>a-ddiṭṭhe vi khala-yaṇe nāma-ggahaṇe vi hoi āsankā</l>
+	<l>aliya-palatte vi ahī ahi tti bhaṇa ko na bīhei?</l>
+      </lg>
+      <!-- even if you don't see him,
+	   there is disquiet even in taking a bad person's name:
+	   even if it isn't true, who is not afraid
+	   when they hear 'a snake, a snake!' !-->
+
+      <lg n="52">
+	<l>saṇḍeva-paḍiya-paccuṭṭhieṇa sīeṇa tharaharanteṇa</l>
+	<l>thereṇa pahe runnaṁ tāruṇṇaṁ sambharanteṇaṁ.</l>
+      </lg>
+      <!-- he keeps falling on stones (saṇḍeva, deśī) 
+	   and getting back up again,
+	   shivering in the cold,
+	   the old man cries on the road,
+	   remembering his youth. !-->
+
+      <lg n="53">
+	<l>vivarīyā thera-maī vārijjantī ya jāi thera-maī</l>
+	<l>kālo tettiya-thāmaṁ na pecchase paṇḍuraṁ sīsaṁ.</l>
+      </lg>
+      <!-- the heart of the old man is turned around:
+	   even as it is held back, the heart of the old man goes forth:
+	   time, its power is so great;
+	   do you not see the white head? !-->
+
+      <lg n="54">
+	<l>taṁ hi sarīraṁ taṁ ji muhu, tāī ji lōyaṇayāĩ</l>
+	<l>nāi vihī sīsaṁ caraï, dinnau pāu jarāĕ.</l>
+      </lg>
+      <!-- APabhraṁśa
+	   JĀ2 82:
+	   taṁ ji muhullau taṁ ji siru,
+	   tāiṁ ji loyaṇulāiṁ
+	   nāi bihīsī saṁcarai
+	   dinnau pāu jarāe.!-->
+      <!-- same body, same face, same eyes:
+	   it is as if fate is encroaching on my head.
+	   old age has given its foot (taken a step). !-->
+
+      <lg n="55">
+	<l>taĩ pahu dhaṇiya ghareṇa gharu nayaṇihĩ dāiya sō hu;</l>
+	<l>ēvahi jara-nīhōḍiyau, paḍijiya acchaï ēhu.</l>
+      </lg>
+      <!-- Apabhraṁśa !-->
+      <!-- then he was a wealthy master, shown regard in house after house.
+	   now, conquered by old age, he rests here fallen. !-->
+
+      <lg n="56">
+	<l>laṭṭhī-dhariya-kaḍevara gaya-jovaṇa evam eva santuṭṭha;</l>
+	<l>sahaï kaḍuyaṁ pi bhaṇio: gao tumaṁ rūsiuṁ kālo!</l>
+      </lg>
+      <!-- he supports his body (kaḍevara) with a cane;
+	   his youth is gone;
+	   still he is content:
+	   he bears it, even if someone says something harsh.
+	   the time for anger is gone. !-->
+
+      <lg n="57">
+	<l>siru paliyaũ muhũ vali-bhariu; jara laggī haya nāma</l>
+	<l>maraṇaṁ hōi acintiyaũ; dhammu karahi jiya nāma.</l>
+      </lg>
+      <!-- the hair is white, the face is full of wrinkles;
+	   old age has set it, damnit, 
+	   death is here, without being anticipated;
+	   observe dharma, my friend (NB). !-->
+
+      <lg n="58">
+	<l>caya mahilaṁ muha-kaḍuyaṁ, caya mittaṁ natthi jattha sab-bhāvaṁ</l>
+	<l>caya sāmiyaṁ a-dāyaṁ, cayāhi paribhūyā vāsaṁ ca.</l>
+      </lg>
+      <!-- forget about a bitter-mouthed woman.
+	   forget about a friend who has no good nature.
+	   forget about your miserly master;
+	   forget about your humiliation, and your house. !-->
+
+      <lg n="59">
+	<l>ālattaṁ ciya rūsaï, bhiuḍiṁ kāūṇa dei ullāvaṁ</l>
+	<l>mahilā-chaleṇa purisaṁ bāhei purāṇayaṁ kammaṁ.</l>
+      </lg>
+      <!-- she gets angry at the person who talks to her;
+	   when she does answer, she is furrowing her brows;
+	   under the false appearance of (being) a woman,
+	   these are the actions of old that torment a man. !-->
+
+      <lg n="60">
+	<l>mahilāṇa esa payaī: savvassa karenti vemaṇassāiṁ;</l>
+	<l>tassa na karenti navaraṁ jassa alaṁ kāmayanteṇaṁ.</l>
+      </lg>
+      <!-- this is the nature of woman: they are disagreeable with everyone.
+	   they are not with one person alone:
+	   the person who has had enough of loving them. !-->
+      <!-- parallels: SūyṬ p. 75:
+	   aha eyāṇaṁ pagaī
+	   jassa alaṁ ceva kāmehiṁ 
+	   MC(anonyme) 689:
+	   karei, vemaṇassāī
+	   jassa alaṁ ceva kammehiṁ !-->
+
+      <lg n="61">
+	<l>piya-jaṇa-apatta-bhogā bālattaṇayammi gahiya-sāmaṇṇā</l>
+	<l>a-ddiṭṭha-piya-viogā jiyanti muṇiṇo suhaṁ loe.</l>
+      </lg>
+      <!-- those who have taken on the mendicant life while yet children,
+	   without having ever experienced the pleasure of a lover,
+	   without having seen separation from a lover,
+	   those monks live happily in the world. !-->
+
+      <lg n="62">
+	<l>su-labho vimāṇa-vāso, ega-cchattā ya meiṇī su-labhā;</l>
+	<l>logammi navari du-lahā pāyā jiṇa-vaddhamāṇassa.</l>
+      </lg>
+      <!-- to live in a "celestial palace" is easy;
+	   to have the earth under a single royal parasol is easy;
+	   the only hard thing in the world
+	   are the feet (teaching?) of the Jina Vardhamāna. !-->
+      <!-- parallel: SM 6.2
+	   -laho, -lahā,
+	   dulahā puṇa jīvāṇaṁ jiṇ'-inda-vara-sāsaṇe bohī. !-->
+
+      <lg n="63">
+	<l>ucchū sahāva-mahuro, nimbo kaḍuo huyāsaṇo ḍahaṇo</l>
+	<l>suyaṇassa dujjaṇassa ya payaï-viseso sahāveṇa.</l>
+      </lg>
+      <!-- sugar-cane is naturally sweet,
+	   lime is bitter,
+	   and fire burns;
+	   the particular nature of a good man and bad man
+	   is innate. !-->
+
+      <lg n="64">
+	<l>jaṁ uppalassa patteṇa chijjae kiṁ va sattha-maggeṇaṁ?</l>
+	<l>mahurammi bhāṇiyavve, kiṁ te kaḍueṇa bhaṇieṇa?</l>
+      </lg>
+      <!-- not quite SGS 92: kiṁ tha. !-->
+      <!-- whatever can be cut with the leaf of a lotus,
+	   why should one use a sword? 
+	   when sweet words should be spoken,
+	   why should you say something harsh? !-->
+
+      <lg n="65">
+	<l>mahura-vayaṇehĩ āsāsiellayā je gayā para-viesaṁ</l>
+	<l>te tāĩ sambharantā, annattha raïṁ na bandhanti.</l>
+      </lg>
+      <!-- those who go to a foreign country
+	   after having been comforted with sweet words,
+	   they will remember them and never find pleasure elsewhere. !-->
+
+      <lg n="66">
+	<l>kaḍuya-vayaṇehĩ nibbhacchiyallayā chinna-pema-sambandhā</l>
+	<l>te tāĩ sambharantā, tatto ya <app><lem>pareṇa</lem><rdg wit="#U">pare ṇa</rdg></app> vaccanti.</l>
+      </lg>
+      <!-- those who, outraged by (nirbhartsita) harsh words,
+	   whose bonds of love have been cut,
+	   they will remember them and go out from there. !-->
+
+      <lg n="67">
+	<l>dhannāṇa hiyaṁ ca miyaṁ ca gāhayaṁ desa-kāla-bhaṇiyaṁ ca</l>
+	<l>na ya para-loya-viruddhaṁ guṇa-pattaṭṭhaṁ bhaṇaï jīhā.</l>
+      </lg>
+      <!-- the tongue of the fortune speaks
+	   what is beneficial, what is measured, what is receptive,
+	   what is fit to time and place,
+	   not what is in contradiction to the world beyond,
+	   and what is expert in virtues (pattaṭṭham DNM 6.68; expert). !-->
+
+      <lg n="68">
+	<l>esā satti-pahāre ya kasa-pahāre ya bala-pahāre ya</l>
+	<l>ucchahaï davāveuṁ du-viṇīyā attaṇo jīhā.</l>
+      </lg>
+
+      <!-- this tongue of ours, without proper education, is capable of handing out
+	   strikes of the spear, strikes of the whip, and strikes of the fist. !-->
+
+      <lg n="69">
+	<l>jo dujjaṇeṇa mettī karei suyaṇo tti nāma kaliūṇa</l>
+	<l>suviṇaya-laddho va nihī pacchā icchaṁ na pūrei.</l>
+      </lg>
+      <!-- the one who makes friends with a bad person,
+	   thinking that he is a good person, 
+	   like a treasure taken in a dream,
+	   it does not fulfill his wishes/live up to his expectations afterwards. !-->
+      <!-- mettīṁ suggest NB, but maybe mettīkarei !-->
+
+      <lg n="70">
+	<l>dujjaṇa-saṁsaggīe āvāe ucchu-khaṇḍa-mahurāe;</l>
+	<l>visam iva aṇāya-<app><lem>giliyaṁ</lem><rdg
+	wit="#U">gīyaṁ</rdg></app> pacchā hoī a-patthāo.</l>
+      </lg>
+      <!-- at the beginning, association with bad people may be sweet as sugarcane;
+	   at the end, it is as noxious as poison swallowed by accident. !-->
+
+      <lg n="71">
+	<l>jaï kancaṇaṁ girīo jāyaï (jaï) (mottiyaṁ) ca hattīo</l>
+	<l>viṇao ya kulīṇāo, ko doso āyaro ceva?</l>
+      </lg>
+      <!-- if gold is born from a mountain, if pearls are born from an elephant,
+	   and if modesty is born the the well-born, is that a fault or merit? !-->
+      <!-- ending the same as 49 !-->
+
+      <lg n="72">
+	<l>paḍivayaṇa-samattheṇaṁ sahiyavvaṁ dujjaṇassa suyaṇaeṇa:</l>
+	<l>na ya paṭṭhimmi nilīṇo vasahassa siriṁ haraï kāo.</l>
+      </lg>
+      <!-- NB takes suyaṇeṇa instead of upadhye's hiyaeṇa
+	   based on the parallel of SGS 46, which also has:
+	   samattheṇa vi,
+	   piṭṭhammi !-->
+      <!-- a good person should put up with a wicked man,
+	   even if he is capable of responding to him.
+	   a crow, if he is sitting the back of a bull, does not remove his glory. !-->
+
+      <lg n="73">
+	<l>ekko khamāĕ doso savvālankāra-bhūsiya-guṇāe</l>
+	<l>a-samattho tti gaṇijjaï jaṁ puriso dujjaṇa-jaṇeṇa.</l>
+      </lg>
+      <!-- forbearance has only one fault, 
+	   despite its virtues being adorned by all ornaments:
+	   that a person is considered incapable/incompetent by wicked men. !-->
+
+      <lg n="74">
+	<l>tisu je a-diṭṭha-puvvā rāya-kule guru-kule ya vesāsu</l>
+	<l>viṇṇāṇa-māṇa-laḍahattaṇāṇa te bāhirā honti.</l>
+      </lg>
+      <!-- GRK 236:
+	   avutta-puvvā
+	   mahiyale for gurukule
+	   sevāsu ('manifestly an error')
+	   laṭṭhattaṇāṇa
+	   te bāhirā purisā !-->
+      <!-- those who have never been seen in three places,
+	   in the royal household, in the teacher's household, or among courtesans,
+	   they are outside of discernment, pride, and gallantry ("galanterie"). !-->
+
+      <lg n="75">
+	<l>nāūṇa ya viṇṇāṇaṁ kāūṇa ya samara-sāhasaṁ kammaṁ</l>
+	<l>langheūṇa ya Meruṁ puṇṇehĩ viṇā suhaṁ katto?</l>
+      </lg>
+      <!-- if they know discernment,
+	   and if they participate in the work of a thousand battles,
+	   and if they climb mount meri,
+	   if one has no merit, how can one have happiness? !-->
+      <!-- SGS 125: vi for ya in pāda c. !-->
+
+      <lg n="76">
+	<l>kāle uvaṇijjantī thevā vi mahosahī jiyāvei:</l>
+	<l>amaya-rasa-mīsieṇa vi mayassa kiṁ lāvaya-raseṇa?</l>
+      </lg>
+      <!-- when administered at the right time,
+	   a great remedy will bring one back to life
+	   even in a small quantity.
+	   but when someone is dead, what good is it
+	   (to administer) the juice of jungle quail
+	   mixed with the potion of immortality? !-->
+      <!-- JĀ2 21. !-->
+
+      <lg n="77">
+	<l>nhāyassa ya dhovattī jimiyassa ya jaṁ ca taṁ ca tambolaṁ</l>
+	<l>avasara-paḍhiyā gāhā, tinni vi saggaṁ visesanti.</l>
+      </lg>
+      <!-- a clean dhoti after a bath,
+	   a bit of betel-nut after a meal,
+	   a verse recited at the right moment:
+	   these three are more special than heaven. !-->
+
+      <lg n="78">
+	<l>nīyaṁ ca laddha-pasaraṁ sippi-pauttaṁ ca attha-saṁjuttaṁ</l>
+	<l>mahilāyattaṁ ca gharaṁ, tinni vi sūlaṁ visesanti.</l>
+      </lg>
+      <!-- something base that finds an entrance somewhere,
+	   something made by an artisan (śilpi-prayuktaṁ)
+	   that is provided with money,
+	   a house dependent upon a woman:
+	   these three things are worse than the stake. !-->
+
+      <lg n="79">
+	<l>thakke bhaṇiyaṁ sohaï, thakke bhaṇiyaṁ suhāvahaṁ hoi;</l>
+	<l>a-tthakke puṇa bhaṇiyaṁ kayaṁ pi kajjaṁ viṇāsei.</l>
+      </lg>
+      <!-- a word at an opportune moment is meet;
+	   a word at an opportune moment is pleasant;
+	   but a word at an inopportune moment
+	   will destroy anything that needs to be done. !-->
+      <!-- Parallels: SGS 126 athakke is wrong. !-->
+
+      <lg n="80">
+	<l>kiṁ tammeha palāyaha jaṁ saraṇaṁ natthi ti-huyaṇe sayale</l>
+	<l>mottuṁ jiṇenda-vayaṇaṁ, sesaṁ savvaṁ kalayalei.</l>
+      </lg>
+      <!-- why are you gasping? run, since
+	   in all of the three worlds there is no refuge
+	   apart from the words of the jina.
+	   everything else is jibberish. !-->
+
+      <lg n="81">
+	<l>suyaṇo sarala-sahāvo maïlijjanto vi dujjaṇa-jaṇeṇa</l>
+	<l>chāreṇa dappaṇo vviya ahiyayaraṁ nimmalo hoi.</l>
+      </lg>
+      <!-- a good person is naturally straightforward.
+	   even when he is soiled by a wicked person.
+	   with a corrosive substance, a mirror too becomes even more spotless. !-->
+      <!-- VL 33, SGS 91, JC 7.34:
+	   suddha-sahāvo JC, VL
+	   aṇusāsijjaṁto vi JC (metrically faulty)
+	   viya VL, iva JC, SGS
+	   jāo JC
+	   the first pāda is the same as JC 13.35a, JĀ1 244a. !-->
+
+      <lg n="82">
+	<l>suyaṇassa dujjaṇārūsiyassa kaḍuyāĩ bhannamāṇassa</l>
+	<l>kamala-maule vva bhamaro bāhira-hiṇḍī bhamaï roso.</l>
+      </lg>
+      <!-- when a good person is angry with a wicked person
+	   and says harsh things,
+	   his anger wanders around outside, 
+	   like a bee around a lotus-bud. !-->
+
+      <lg n="83">
+	<l>jaha jaha aṇuyattijjaï taha taha nīyattaṇassa doseṇa</l>
+	<l>vaṭṭā-dhūlō va khalo caḍaï sire natthi sandeho.</l>
+      </lg>
+      <!-- the more he is indulged (gone over),
+	   the more, because of the fault of his baseness,
+	   does the wicked man rise up on the head,
+	   like dirt from the road.
+	   there is no doubt. !-->
+
+      <lg n="84">
+	<l>jeṇa viṇā na jivijjaï aṇuṇijjaï so kayāvarāho vi:</l>
+	<l>patte ya nagara-dāhe bhaṇa kassa na vallaho aggī?</l>
+      </lg>
+      <!-- without whom one cannot live, he should be respected
+	   even if he has committed a sin:
+	   even after a town has burned down,
+	   tell me, who doesn't need fire? !-->
+      <!-- Parallels: Many.
+	   Upadhe: na vi bhajjai
+	   SS 163, PP 1.55: jivijjai
+	   VL 557: valijjai
+	   SGS 96: dalijjai 
+	   patte vi: VL, SGS
+	   also cited at SRHt 112.11. !-->
+
+      <lg n="85">
+	<l>taṁ jampanti su-purisā taṁ ciya pamuhe karenti paḍivattī</l>
+	<l>rayaṇāyaro vva velaṁ kāleṇa vi jaṁ na langhei.</l>
+      </lg>
+      <!-- good people say it;
+	   they also do it right away what they have promised (pratipattim).
+	   like the ocean, which never transgresses its bounds 
+	   in the fullness of time. !-->
+      <!-- paḍivattiṁ instead of paḍivattī; 
+	   cf. JĀ1 304, JĀ2 101, PCC 145.111
+	   kuṇanti JĀ1, PCC
+	   paḍivattiṁ JĀ1, paḍivannaṁ JĀ2
+	   rayaṇāyara vva velā JĀ2,
+	   meraṁ for velaṁ PCC
+	   langhanti. !-->
+
+      <lg n="86">
+	<l>para-tatti-taggaya-maṇo du-ssīlo aliya-jampao cavalo</l>
+	<l>jattha na dīsaï loo vaṇaṁ pi taṁ c'eva ramaṇīyaṁ.</l>
+      </lg>
+      <!-- not quite the same as KM 127.24, which has ceya in the final pāda. !-->
+      <!-- even a forest can be very charming
+	   if there are not seen there people
+	   whose minds are given over to criticizing others,
+	   of poor conduct, speaking falsehoods, and inconstant. !-->
+
+      <lg n="87">
+	<l>jo jassa niya-sahāvo sajjaṇa-saṁge vi so tahā ceva</l>
+	<l>bāṇo dhamme vi ṭhio guṇa-gahio taha vi mārei.</l>
+      </lg>
+      <!-- SM 38.12:
+	   khalu sahāvo (correct to khala-sahāvo)
+	   sajjaṇa-saṁgeṇa so
+	   dhaṇue vi
+	   guṇa-sahio !-->
+      <!-- whatever one's nature is,
+	   that it will always be,
+	   even in the company of good people.
+	   an arrow, even on the bow,
+	   provided with a string,
+	   will still kill. !-->
+      <!-- other examples of dhamma/guṇa double meanings
+	   are GRK 98 and 109. !-->
+
+      <lg n="88">
+	<l>khala-saṁge pariharie, pecchaha tilleṇa jaṁ phalaṁ pattaṁ:</l>
+	<l>mayaṇāhi-surabhi-gandhaṁ pahu-sīsaṁ pāviyaṁ jeṇa.</l>
+      </lg>
+      <!-- having kept away from bad company (the threshing-floor)
+	   look at what a result (growth) the sesame has gotten:
+	   it has reached the head of the lord,
+	   with the fragrance of musk. !-->
+      <!-- VL 64*2, GRK 111, SM 38.8
+	   paricatte VL, GRK
+	   -saṅgeṇa vimukkaṁ SM
+	   -vāsaṁ GRK in pāda c;
+	   teṇa for jeṇa, GRK
+	   miyaṇāhi-surahi-vāsiya-pahu-sīsaṁ uvalahaṁteṇa VL;
+	   savvaṁgapahāṇaṁgaṁ pahusīsaṁ pāviaṁ teṇa SM;
+	   cited also in Anyoktimuktāvalī of Haṁsavijayagaṇi in the 'tila' section. !-->
+
+      <lg n="89">
+	<l>jehiṁ ciya ubbhaviyā jāṇa pasāeṇa vaḍḍhiya-payāvā</l>
+	<l>samarā ḍahanti viṁjhaṁ: khalāṇa saṁgo cciya viṇāso.</l>
+      </lg>
+      <!-- the vindhyas who elevated them
+	   and thanks to whom their valour is famous,
+	   and the śabaras burn them down:
+	   association with bad people is disaster. !-->
+      <!-- VL 62, MC(anonyme) 371
+	   tattheva ya saṁjāyā jassa pasāeṇa niggaya-payārā MC
+	   sabarā MC
+	   maggo cciya auvvo VL !-->
+
+      <lg n="90">
+	<l>suyaṇāṇa neurāṇa ya suvvanto sui-maṇoraho saddo</l>
+	<l>so c'eva kaṇṇa-kaḍuo niyalāṇaṁ daḍḍha-pisuṇāṇaṁ.</l>
+      </lg>
+      <!-- when the ear-pleasing sound of good people,
+	   or anklets, is heard,
+	   that is harsh on the ears,
+	   of malicious gossips and of chains (niyala = nigaḍa). !-->
+      <!-- NB compare Kādambarī v. 6 !-->
+
+      <lg n="91">
+	<l>nāgehĩ vaṇaṁ kāgehĩ uvavaṇaṁ rāulaṁ pisuṇaehiṁ</l>
+	<l>ruddhaṁ mayarehĩ jalaṁ: haya-vihi suyaṇo kahiṁ jāu.</l>
+      </lg>
+      <!-- the forest is overrun with snakes,
+	   the grove with crows,
+	   and the court with gossips,
+	   and the ocean with sea-monasters.
+	   damned fate: where should good people go? !-->
+
+      <lg n="92">
+	<l>taṁ natthi narenda-gharaṁ sayale mahi-maṇḍale bhamantāṇaṁ</l>
+	<l>jattha a-kāraṇa-kuviyā do tiṇṇi khalā na dīsanti.</l>
+      </lg>
+      <!-- VL 64*1: taṁ natthi gharaṁ taṁ natthi deulaṁ rāulaṁ pi taṁ natthi 
+	   SM 112.7: taṁ natthi gharaṁ taṁ natthi rāulaṁ deulaṁ pi taṁ natthi !-->
+      <!-- that is not a king's house, where, when people have been wandering
+	   over the whole surface of the earth,
+	   two or three wicked people, who get angry for no reason, don't appear. !-->
+
+      <lg n="93">
+	<l>accanta-nimmalāṇa vi molla-mahagghāṇa sāra-garuyāṇaṁ</l>
+	<l>maṇiyārŏ vva khala-yaṇo rayaṇāṇa vi kuṇaï chiḍḍāiṁ.</l>
+      </lg>
+      <!-- a wicked man, like a jeweller, makes holes
+	   in jewels (and compositions)
+	   even those that are extremely pure
+	   that are extremely valuable (or highly esteemed)
+	   and are weighty with essence
+	   (i.e., of a high carat value, or deep and serious) !-->
+
+      <lg n="94">
+	<l>jāsiṁ c'eva naīṇaṁ vasahā ghuṇṭanti pāṇiyaṁ tisiyā</l>
+	<l>tāsiṁ c'eva naīṇaṁ siṁgehiṁ taḍī viṇāsenti.</l>
+      </lg>
+      <!-- those rivers whose water the thirsty bulls drink,
+	   the same rivers' banks they destroy with their horns. !-->
+      <!-- MC(anonyme) 368:
+	   tāsiṁ ceva kayagghā siṅgehi taḍīo pāḍanti !-->
+      <!-- ghuṇṭanti: drink ('frequent en pk. et ap.') !-->
+
+      <lg n="95">
+	<l>sarise māṇusa-jamme, ḍahaï khalo saj-jaṇo suhāvei:</l>
+	<l>lohaṁ ciya sannāho rakkhaï jīyaṁ asī haraï.</l>
+      </lg>
+      <!-- though their human birth is the same,
+	   the wicked man burns, and the good man pleases;
+	   both being iron, iron protects life, 
+	   and the sword takes it away. !-->
+      <!-- SGS 97
+	   maṇuya-jamme
+	   PPS 11.13 (attributed to Sātavāhana: this is the purātanaprabandhasaṅgraha)
+	   dahai, loha !--> 
+
+      <lg n="96">
+	<l>jonhā-jaleṇa cando dhuvaï kalaṁkaṁ disā-vahu-muhāṇa</l>
+	<l>na ya dhuvaï niya-kalaṁkaṁ; savvo mujjhaï sa-kajjesu.</l>
+      </lg>
+      <!-- the moon washes with its moonlight
+	   the spot of dirt on the faces of the women of the directions;
+	   but it does not wash off its own dirt;
+	   everyone is blinded by his own affairs. !-->
+
+      <lg n="97">
+	<l>jo jassa vaṭṭaĕ hiyaĕ so taṁ ṭhāvei sundara-sahāvaṁ:</l>
+	<l>vagghī-chāvaṁ jaṇaṇī bhaddaṁ somaṁ ca mannei.</l>
+      </lg>
+      <!-- what is in one's heart
+	   that makes it have a natural beauty.
+	   the mother considers the young tiger
+	   nice and docile. !-->
+      <!-- the same verse occurs at uvaesamālā 84 !-->
+      <!-- NB note that the verse is rhythmically unusual 
+	   (i don't see it, but the first half is syntactically strained)
+	   and consider it an adaptation of the mahānisīha 1.3.10:
+	   jassāṇumayaṁ hiyae so taṁ ṭhāvei sundara-paesu
+	   saddūlī niya-taṇae tārisa-kūre vi mannai visiṭṭhe !-->
+
+      <lg n="98">
+	<l>ratto duṭṭho mūḍho puvviṁ ku-ggāhio ya cattāri</l>
+	<l>uvaesassa aṇarihā; ariho puṇa hoi majjha-ttho.</l>
+      </lg>
+      <!-- the man in love, the wicked man, the idiot,
+	   the ill-mannered person: these are the four
+	   who are not fit to be taught.
+	   fit, however, is the man between all of them
+	   (the moderate or mediocre man). !-->
+
+      <lg n="99">
+	<l>savvo parassa pecchaï vāl'-aggāo taṇūṇi chiḍḍāṇi;</l>
+	<l>niyaya-kayāĩ na pecchaï Himagirī-sihara-ppamāṇāiṁ.</l>
+      </lg>
+      <!-- everyone sees the imperfections in another person 
+	   smaller than the tip of a hair (note ablative plus adjective)
+	   but he does not see those of his own making,
+	   even though they are as great as the peaks of the himalaya. !-->
+
+      <lg n="100">
+	<l>rattā pecchanti guṇā, dosā pecchanti je virajjanti;</l>
+	<l>majjha-tthā puṇa purisā dosā vi guṇā vi pecchanti.</l>
+      </lg>
+      <!-- RC, SM 34.37, PSRM 160
+	   guṇe PSRM
+	   dose PSRM
+	   viraccaṁti RC, SM
+	   je virundhanti PSRM
+	   majjhatthā vi a SM
+	   majjhattha cciya PSRM
+	   dose ya guṇe ya RC, PSRM !-->
+      <!-- those in love look at good qualities;
+	   those who are out of love look at faults;
+	   the indifferent person, however, 
+	   looks at both faults and good qualities. !-->
+
+      <lg n="101">
+	<l>kariṇo kari-sanghaṭṭe, patthara-niyare suvaṇṇa-reha vva</l>
+	<l>nivvaḍaï vasaṇa-kasavaṭṭayammi sāro kulīṇāṇaṁ.</l>
+      </lg>
+      <!-- the essence of well-born people is proved
+	   on the touchstone of misfortune,
+	   (the essence) of an elephant in an elephant-battle,
+	   like a streak of gold on a rock. !-->
+
+      <lg n="102">
+	<l>sabbhāva-nehamaïe ratte raccijaï tti juttam iṇaṁ</l>
+	<l>aṇa-hiyae puṇa hiyayaṁ jaṁ dijjaï taṁ jaṇo hasaï.</l>
+      </lg>
+      <!-- to fall in love with someone who is in love with you,
+	   whose heart is full of love and affection,
+	   is all right.
+	   but to give your heart to someone 
+	   who has his heart on someone else
+	   makes people laugh. !-->
+      <!-- Sattasaī W41, with bharie for maie, rajjijjai !-->
+      <!-- JA2 172: tti ramaṇiyaṁ, puṇu. !-->
+
+      <lg n="103">
+	<l>hīranti je guṇehiṁ vavagaya-nehā vi je na najjanti</l>
+	<l>runnaṁ pi jesu agghaï te putta kalimmi atthamiyā.</l>
+      </lg>
+      <!-- those who are taken with (others') good qualities,
+	   those who, although they have lost their affection,
+	   they are not known (to be son),
+	   those among whom even tears are okay (arh-),
+	   it is they, son, who have disappeared (gone to setting)
+	   in the kali age. !-->
+
+      <lg n="104">
+	<l>visama-sahāvammi jaṇe na yāṇimo kaha guṇā viḍhappanti</l>
+	<l>hima-sīyale vi kiraṇe necchaï naliṇī miyankassa.</l>
+      </lg>
+      <!-- when someone has a difficult nature,
+	   one doesn't know how virtues are obtained (viḍhappanti).
+	   the lotus-pond does not desire the rays of the moon,
+	   as cool as they may be. !-->
+
+      <lg n="105">
+	<l>sohiya-saṁvavahāro sab-bhāvo garuyayā khamā tucchā</l>
+	<l>vihaḍanti bandhavāṇa ya kali-kāla-payāva-doseṇa.</l>
+      </lg>
+      <!-- pleasing company, a good nature,
+	   importance, patience, ... (?)
+	   of relatives comes apart
+	   because of the influence of the kali age. !-->
+
+      <lg n="106">
+	<l>kaṇhassa kālio phaṇa-maṇimmi siṭṭho A Ā A Ā Ā Ā</l>
+	<l>deh'-uppannā vi visaṁ cayanti deve parāhutte.</l>
+      </lg>
+      <!-- kāliya was tamed by kṛṣṇa
+	   on (dancing on?) the jewel of his hood;
+	   when destiny is contrary to you,
+	   even the teeth (dehotpanna) will abandon venom. (??) !-->
+      <!-- at the end of the verse upadhye reads jaṇassa kasiṇo so,
+	   which BB remove as unclear, but the sense must be that
+	   kāliya is black (kṛṣṇa) just as kṛṣṇa, but was taught 
+	   a lesson by kṛṣṇa on top of his phaṇamaṇi.
+	   NB prefers the interpretation of upadhye, but i think
+	   'even those born of the same body will come to a disagreement'
+	   (this makes better sense with the preceding) !-->
+      <!-- GRK 57:
+	   kasiṇe vi jale kaṇhassa kālio phaṇa-maṇīhiṁ uvaittho
+	   deh'-uppannā vi visaṁvayaṁti divve parāvutte (hutte). !-->
+
+      <lg n="107">
+	<l>ko va na dukkhaṁ patto? suhaṁ va bhaṇa kassa sāsayaṁ atthi?</l>
+	<l>kassa nirantara-paṇao? sohaggaṁ kassa a-kkhaliyaṁ?</l>
+      </lg>
+      <!-- who has not fallen into pain?
+	   tell me, for whom is pleasure eternal?
+	   who has constant love? 
+	   who has happiness without ever stumbling? !-->
+      <!-- NB compares ĀMKV 209.552:
+	   kira kassa thirā lacchī kassa jae sāsayaṁ pie pemmaṁ?
+	   kassa va niccaṁ jīyaṁ? bhaṇa ko va na khaṇḍio vihiṇā? !-->
+      <!-- also UttT 60.7-8, MŚP 154.294, VL 127, VL 667 
+	   ko ettha sayā suhio? kassa va lacchī thirāi pemmāiṁ?
+	   kassa va na hoi khaliyaṁ? bhaṇa ko va na khaṇḍio vihiṇā? !-->
+
+      <lg n="108">
+	<l>savvo puvva-kayāṇaṁ kammāṇaṁ pāvae phala-vivāgaṁ;</l>
+	<l>avarāhesu guṇesu ya nimitta-mettaṁ paro hoi.</l>
+      </lg>
+      <!-- everyone obtains the fruition of the deeds committed previously;
+	   for sin, as well as good works,
+	   another person is merely the occasion. !-->
+      <!-- SūyṬ p. 147 [220]
+	   SK 30.1-2 [(a) savvaṁ] et 131.18-19
+	   ĀMKV 157.73
+	   UvaesamālāṬ p. 254
+	   KP p. 44
+	   PCC 25.399
+	   PK 5.7
+	   PP 249.2
+	   JĀ1 136
+	   PSRM 122 !-->
+
+      <lg n="109">
+	<l>nau vi karantaha su-purisaha, jaï daïvaha na suhāi</l>
+	<l>kā vi avattha sa sampaḍaï jā cintaṇaha na jāi.</l>
+      </lg>
+      <!-- even if a good man does (it), 
+	   if it does not please fate 
+	   he can arrive at a certain state
+	   which cannot be imagined. !-->
+      <!-- NB compares VL 125 and HcG 4.400, 
+	   which has anau karantaho purisaho !-->
+
+      <lg n="110">
+	<l>annaha paricintijjaï saharisa-kaṇḍ'-ujjueṇa hiyaeṇa;</l>
+	<l>pariṇamaï annaha cciya kajjārambho vihi-vaseṇa.</l>
+      </lg>
+      <!-- if it is imagined one way
+	   with a heart joyful and straight as a shoot,
+	   the undertaking of the task will turn out otherwise,
+	   because of fate. !-->
+      <!-- JC 6.95,
+	   JC 7.3,
+	   ĀMKV 339.161,
+	   MŚP 107.105,
+	   MŚP 206.23,
+	   MKK 199.301 !-->
+
+      <lg n="111">
+	<l>vihiṇā vi naḍijjanto savvo cciya bhaṇaï aṭṭhamo cando;</l>
+	<l>candassa Rāhu-gahaṇe, taïyā ko aṭṭhamo āsi?</l>
+      </lg>
+      <!-- everyone who is violated by fate says the moon is in the eighth
+	   house. but when rāhu swallowed up the moon,
+	   what was the eighth then? !-->
+
+      <lg n="112">
+	<l>viupu naha-yalu rahavarāruḍhu</l>
+	<l>du-ppecchā tasu kiraṇa</l>
+	<l>attha-siharu duggamu suṇijjaï,</l>
+	<l>vihi-vihiyaṁ thū pariṇamaï</l>
+	<l>tēṇa sūru rāhĩ gilijjaï.</l>
+      </lg>
+      <!-- mātrā ?
+	   the broad sky is mounted by best of chariots (the sun?),
+	   and its rays are hard to look upon.
+	   the peak of its setting is hard to get to, it is said.
+	   things turn bad when fate ordains it, alas.
+	   that is why the sun is devoured by rāhu. !-->
+
+      <lg n="113">
+	<l>bhuvaṇapphālu vi dhaṇu samaï,</l>
+	<l>vabbula-heṭṭhi ṭṭhiō</l>
+	<l>ōhu pekkhu na kiṁ gilantaïṁ</l>
+	<l>dēvāha vi ēha dasa</l>
+	<l>vihi karantu kiṁ kiṁ pilijjaï?</l>
+      </lg>
+      <!-- even the lord (?) destroys (his) wealth,
+	   standing under a vabbula (tree).
+	   oh, look: what do they not devour?
+	   such is the state even of the gods
+	   that fate arranges. what-all
+	   is endured! (following NB) !-->
+      
+      <lg n="114">
+	<l>dhannu suvaṇṇaũ ti-huyaṇahu, dinnau hōi hareṇa</l>
+	<l>tassa vi thū vihi-vihiu dhaṇu; saṅkaru naggaï teṇa.</l>
+      </lg>
+      <!-- gold, and the wealth of the triple world
+	   hara has given.
+	   but the wealth of even him is ordained by fate:
+	   hara is naked for that reason. !-->
+
+      <lg n="115">
+	<l>jā taï-lukkaha nāha kira sampaï phēḍaï dēi;</l>
+	<l>taha vi jarāau Haraha dhaṇu; gali haḍḍaĩ parihēi.</l>
+      </lg>
+      <!-- they say that the lord of the three worlds
+	   is the one who gives and takes away wealth.
+	   nevertheless, even the wealth of old hara:
+	   he wears the bones (haḍḍaĩ) on his neck. !-->
+      <!-- probably skulls !-->
+
+      <lg n="116">
+	<l>annē bhaṇanti Jaṇaddaṇa Haraha tiijjau bhāu</l>
+	<l>tassa vi daïviṁ  nimmiyau sayaṇiu kālau kāu.</l>
+      </lg>
+      <!-- some people say,
+	   krishna is a portion of hara.
+	   but fate has made even his bed
+	   black. !-->
+
+      <lg n="117">
+	<l>vihi-vihiyaṁ ciya labbhaï, amayaṁ devāṇa Mahumahe Lacchī</l>
+	<l>rayaṇāyare vi mahie, Harassa bhāe visaṁ jāyaṁ.</l>
+      </lg>
+      <!-- what is ordained by fate is obtained.
+	   lakshmi (and) amrita when the gods churned the ocean.
+	   but even when the ocean was churned,
+	   the poison fell to the portion of hara. !-->
+      
+      <lg n="118">
+	<l>puttaya vihi-vasi vinaḍiyaï, ko ti-ṇayaṇi sāhāru?</l>
+	<l>jiṁ Hara-vasahu vi tiṇa caraï, Vāsugi pavaṇāhāru.</l>
+      </lg>
+      <!-- my son,
+	   who can take refuge in the three-eyed god
+	   who himself is subject to fate? (vinaḍiyai)
+	   given that hara's bull eats grass,
+	   and vāsuki lives on wind. !-->
+
+      <lg n="119">
+	<l>jaï vi ti-ṇayaṇu ekku puhaïhiṁ</l>
+	<l>vandijjaï sura-gaṇihiṁ</l>
+	<l>tō vi tāsi vaḍha kiha ṇamijjaï?</l>
+	<l>saraṇāgau jāsu sira A</l>
+	<l>sirahu lēvi Rāhiṁ gilijjaï.</l>
+      </lg>
+      <!-- even if the three-eyed god were
+	   praised by the groups of gods on the earth,
+	   nevertheless, why should he be praised, idiot?
+	   (the one) who had taken refuge (at the top of his head)
+	   was taken and devoured by rāhu. !-->
+
+      <lg n="120">
+	<l>majjhe jaḍāṇa nivasantayassa katto guṇāṇa vitthāro?</l>
+	<l>Hara-sasiṇo taṁ bahuyaṁ sā vi kalā jaṁ na se jhīṇā.</l>
+      </lg>
+      <!-- living among idiots (dreadlocks) how can there be
+	   an expansion of good qualities?
+	   the moon of shiva, that is enough (?)
+	   has not lost its digit. !-->
+      <!-- GRK 549,
+	   SRHt.32.41 !-->
+
+      <lg n="121">
+	<l>thevehi vi hoi guṇehĩ gāravaṁ ni-gguṇāṇa majjhammi</l>
+	<l>bhaṇṇanti jeṇa maṇuyā, sarehĩ kūyā vi kūya-sarā.</l>
+      </lg>
+      <!-- among those who have no virtues
+	   there is weight in even little virtue.
+	   that is why men call wells after ponds "well-ponds" !-->
+
+      <lg n="122">
+	<l>jaha mūsagassa ekkeṇa vīhiṇā do vi vāvaḍā hatthā</l>
+	<l>taha a-muṇia-kallāṇā theveṇa vi uttuṇā honti</l>
+      </lg>
+      <!-- != SGS 127, 
+	   ed. has egeṇaṁ vihiṇā, taha ya-muṇia- !-->
+      
+      <!-- just as the two hands of a mouse are occupied
+	   with a single grain of rice,
+	   in the same way those who do not know what is good
+	   are proud on account of something small. !-->
+
+      <lg n="123">
+	<l>guṇavantayāṇa jāṇaha honti guṇā pāyaḍā mah'-agghāyā</l>
+	<l>maṇi-rayaṇaṁ ciya goṭṭhe govā takkeṇa magganti.</l>
+      </lg>
+      <!-- SGS 128: guṇa-jaṇae cciya jaṇe,
+	   mahagghā ya,
+	   maṇi-rayaṇāi vi, 
+	   (d) is missing. !-->
+      <!-- in an assembly (?), the qualities of men of quality
+	   become manifest and of great value, know it well:
+	   in a cow-stall, cowherds search for a precious jewel 
+	   with buttermilk. !-->
+      
+
+      <lg n="124">
+	<l>a-bhaṇantāṇa vi najjaï viṇṇāṇaṁ su-purisāṇa cariehiṁ</l>
+	<l>kiṁ bollanti maṇīo, jāŏ sahassehĩ gheppanti?</l>
+      </lg>
+      <!-- GRK 77 and PSRM:
+	   pariṇāmaṁ GRK,
+	   a-bhaṇantā vi najjanti supurisā guṇagaṇehiṁ niyaehiṁ PSRM;
+	   kiṁ jaṁpaṁti GRK;
+	   jeṇa for jāo GRK;
+	   SRHt 39.55 (Sternbach) !-->
+      <!-- the knowledge of good people, even if they do not speak,
+	   is known from their conduct.
+	   do jewels speak, which are bought for thousands? !-->
+
+      <lg n="125">
+	<l>aṭṭhattaṇāĩ Ā Ā A Ā jah'-icchāĕ ni-gguṇāṇaṁ pi</l>
+	<l>sajjaṇa-salāhaṇijjā sokkhehĩ guṇā viḍhappanti.</l>
+      </lg>
+      <!-- c != SGS 100a. !-->
+      <!-- even those without good qualities. 
+	   good qualities, worthy of the praise of good people,
+	   are acquired with pleasure. !-->
+
+      <lg n="126">
+	<l>puvva-kaya-asuha-kammo puriso a-suhassa uvviyanto vi</l>
+	<l>nivaḍaï a-suha-kkhalio kali-kalaha-kilesa-jālammi.</l>
+      </lg>
+      <!-- a man who has done a sin in the past, even if he is afraid of sin (now),
+	   falls when he stumbles on his sin
+	   into the net of quarrels and vices in the kali age. !-->
+
+      <lg n="127">
+	<l>jāṇaï su-y-andhayāre vi vacchao māyaraṁ gavesanto</l>
+	<l>daïyaṁ ca muṇaï hiyayaṁ, vesaṁ jāṇanti nayaṇāĩ.</l>
+      </lg>
+      <!-- an infant searching for his mother recognizes her
+	   even in the dark,
+	   and the heart knows its lover, 
+	   and the eyes know a courtesan (?). !-->
+
+      <lg n="128">
+	<l>jassa na vaṇṇei jaṇo sajjaṇa-goṭṭhīsu guṇa-sahassāiṁ</l>
+	<l>kiṁ tassa jaṇaṇi-jovvaṇa-viuḍaṇa-metteṇa jammeṇaṁ?</l>
+      </lg>
+      <!-- cd = SK 27.6 - cp. VL 698 and JĀ2 87:
+	   jassa ṇa geṇhanti guṇā suyaṇā goṭṭhīsu raṇamuhe suhaḍā 
+	   niya-jaṇaṇi-jovvaṇ'-ullaraṇeṇa kiṁ teṇa jāeṇa !-->
+      <!-- the one whose thousands of virtues people do not describe
+	   in an assembly of good people-what is the use of his
+	   being born, since it only served to destroy (viuḍaṇa)
+	   his mother's youth. !-->
+
+      <lg n="129">
+	<l>mā dosu cciya geṇhaha; virale ya guṇe pasaṁsaha jaṇassa:</l>
+	<l>akkha-pauro vi uyahī bhaṇṇaï rayaṇāyaro loke.</l>
+      </lg>
+      <!-- != MK 3.16, != VL 748
+	   dose KM, dosaṁ VL
+	   virale vi VL
+	   payāsaha KM
+	   uvahī VL !-->
+      <!-- do not seize only on a single fault;
+	   praise the virtues of a person,
+	   however few they may be:
+	   although the ocean is filled with shellfish (?),
+	   it is still popularly said to be a mine of jewels. !-->
+
+      <lg n="130">
+	<l>savvo guṇesu rajjaï; guṇa-rahiyaṁ ko jaṇaṁ sammalliyaï?</l>
+	<l>kusumaṁ pi gandha-rahiyaṁ pattiya bhamarā na sevanti.</l>
+      </lg>
+      <!-- everyone is attracted by virtues;
+	   who will cozy up to a person who has none?
+	   when they reach a flower that has no scent,
+	   the bees do not stick around. !-->
+      
+      <lg n="131">
+	<l>guṇa-jāla-baddha-mūle sacca-phale neya-pallava-saṇāhe</l>
+	<l>nehamaïyammi suyaṇe, mitta-dume ko na vīsamaï?</l>
+      </lg>
+      <!-- who will not take refuge in the tree of a friend,
+	   whose root-networks are formed by virtues,
+	   whose fruits are truth,
+	   which has shoots of wisdom?
+	   full of affection, a good person? !-->
+
+      <lg n="132">
+	<l>sa-bbhāviyaṁ siṇehaṁ sama-dukkha-sahejjayaṁ su-sīlaṁ ca</l>
+	<l>dūrāloya-vihasiyaṁ ko mitta-suhaṁ na sambharaï?</l>
+      </lg>
+      <!-- who can forget the happiness of a friend,
+	   who has sincere affection, who is to be supported
+	   in times of adversity, who has good conduct,
+	   and who makes one smile even when seen from far away? !-->
+
+      <lg n="133">
+	<l>gujjhassa saṁnihāṇaṁ, suhassa dukhassa kahaṇa-vīsamaṇaṁ,</l>
+	<l>ekkaṁ pi jassa mittaṁ natthi hu kiṁ tassa jīeṇaṁ?</l>
+      </lg>
+      <!-- the depository of a secret,
+	   the refuge for relating one's joy and pain,
+	   the person who does not have a single friend like that,
+	   what is the point of even living? !-->
+
+      <lg n="134">
+	<l>taṁ mittaṁ kāyavvaṁ jaṁ mittaṁ vasaṇa-desa-yālammi</l>
+	<l>ālihiya-bhitti-vāullayaṁ va na parammuhaṁ ṭhāi.</l>
+      </lg>
+      <!-- one should make friends with that person who
+	   is a friend in a spot of adversity,
+	   who does not look away, like a figure (vāullaya, deśī)
+	   in a painted frame !-->
+      <!-- SS 217, VL 68, GRK 783
+	   jaṁ kira vasaṇammi desa-ālammi SS, VL
+	   vasaṇapattakālammi GRK
+	   vāullaa va SS,
+	   cited by SRHt 111.33 (Sternbach v. 87)
+	   c = VL 582c. !-->
+
+      <lg n="135">
+	<l>baddha-siṇeho aïyāra-vallaho appa-kajja-maï-kusalo</l>
+	<l>vajjasu kao vi mitto eyāvattho tumaṁ su-yaṇu.</l>
+      </lg>
+      <!-- a friend who has affection (for someone else),
+	   who is friendly without thinking about it,
+	   who turns his skills to his own affairs,
+	   is to be avoided at all costs, beautiful girl. !-->
+      <!-- Note the use of the predicative/emphatic nominative (NB) !-->
+
+      <lg n="136">
+	<l>majjha-ttheṇa vi sasiṇā cakkāṇa na tīrae piyaṁ kāuṁ;</l>
+	<l>vihaḍaṇa-sanghaḍaṇaṁ ciya, puṇo vi mitto cciya karei.</l>
+      </lg>
+      <!-- though the moon is a bystander (innocent),
+	   he is not able to do right by the cakravāka birds.
+	   indeed, it is only the sun (a friend) who can 
+	   bring about separation and reunion. !-->
+
+      <lg n="137">
+	<l>jaha sa-rase taha sukkhe vi pāyave vahaï aṇudiṇaṁ viṁjho:</l>
+	<l>ucchanga-vaḍḍhiyaṁ nigguṇaṁ pi garuyā na siḍhilanti.</l>
+      </lg>
+      <!-- whether they are full of rasa or dry,
+	   the vindhya bears its trees day after day:
+	   serious people do not slake off those whom they have raised in their arms,
+	   however worthless they may be. !-->
+      <!-- GRK 732, PC 11.16 (attributed to Sātavāhana), and PPS 11.12
+	   vaddhiyaṁ GRK, vaṭṭiyaṁ PC, saṅgayaṁ PPS
+	   nīrasaṁ pi GRK
+	   na chaḍḍaṁti v.l., muñcaṁti PC, na muñcanti PPS. !-->
+
+      <lg n="138">
+	<l>uttama-jaṇa-saṁsaggī kāyavvā jaï vi ni-pphalā hoi.</l>
+	<l>merussa kaḍaĕ laggaṁ taṇaṁ pi taṁ kancaṇaṁ hoi.</l>
+      </lg>
+      <!-- associating with the greatest people
+	   is to be done, even if it bears no results.
+	   even the grass that grows on the slopes of meru
+	   is golden. !-->
+      <!-- ed. kaḍaya-laggaṁ, cp. Rājaśekharasūri, Sambodhasaptatikā 64 (d'après PSK p. 271)
+	   uttama-jaṇa-saṁsaggī sīla-dariddaṁ pi kuṇai sīl'-aḍḍhaṁ
+	   jaha merugirī-vilaggaṁ taṇaṁ pi kaṇagattaṇaṁ uvei. !-->
+
+      <lg n="139">
+	<l>ēha na cinta mahā-dumaha jiva mahu mūlu palīṇu</l>
+	<l>nisi andhārī vappuḍā sauṇā kattha nilīṇā.</l>
+      </lg>
+      <!-- this thought does not occur to the great tree,
+	   that its roots may be broken.
+	   the night is dark, poor birds, where will they sleep? !-->
+      <!-- apabhraṁśa/dohā !-->
+
+      <lg n="140">
+	<l>jonhā-jaleṇa bhuvaṇ'-antarāĩ de bharasu puṇṇimā-yanda:</l>
+	<l>ko jāṇaï a-thirā ke-ciraṁ ca tuha erisā riddhī?</l>
+      </lg>
+      <!-- o full moon, fill the interstices of the world
+	   with the water of your moonlight!
+	   who knows, how restless and inconstant is this wealth of yours? !-->
+
+      <lg n="141">
+	<l>dijjaï dhaṇu maggantāhã; patta-parikkhaha kāĩ?</l>
+	<l>kiṁ varisantau anka-haru, jōvaï sama-visamāĩ?</l>
+      </lg>
+      <!-- wealth is given to those who seek it,
+	   what is the use of looking for one who merits it?
+	   (pātra-parīkṣa).
+	   does the moon, when it brings rain,
+	   look to see if (the spot it is raining on)
+	   is even or uneven? !-->
+      
+
+      <lg n="142">
+	<l>bali-bandhaṇa pekkhēvi naru, patta-parikkha karēha</l>
+	<l>ōhu bhaṭṭau na ucchuḍaï, jō ni-ssīlaha dēi.</l>
+      </lg>
+      <!-- a man, having seen the binding of bali,
+	   should consider an appropriate person (to give to).
+	   what is given to a person without virtue 
+	   once falled, does get back up. !-->
+      <!-- ohu 'that which', bhaṭṭaa- < bhraṣṭa, ucchuḍa- ?? !-->
+      <!-- apabhraṁśa/dohā !-->
+
+      <lg n="143">
+	<l>dejjasu mā sankejjasu; esā su-mahaggha-rayaṇa-nimmaviyā</l>
+	<l>putta srī mayahara-thāla vva ya vāreṇa sankamaï.</l>
+      </lg>
+      <!-- give, don't hesitate. this wealth,
+	   made from very costly jewels, my son,
+	   goes from hand to hand (vāreṇa saṇkramati)
+	   like the plate of the village headman. !-->
+      <!-- mayahara is a deśī word for grāmapradhāna !-->
+
+      <lg n="144">
+	<l>aṇ-avarayaṁ ciya dento, koi naro hoi viula-riddhillo;</l>
+	<l>niccaṁ ciya sancanto koi sayā duggao hoi.</l>
+      </lg>
+      <!-- even if one gives constantly, a man can still be
+	   rich in wealth.
+	   even if one acquires constantly, a man can still be
+	   constantly miserable. !-->
+      <!-- NB proposes duggao instead of duggamo ed.,
+	   which is supported by 162 and JĀ2 23 dukkhio ceva;
+	   other variants are pi u for ciya (in a)
+	   and viviha-riddhillo. (d) is similar to VL 754a. !-->
+
+      <lg n="145">
+	<l>rāy'-aggi-cora-harie lakkha-sahasse kahei para-naṭṭhe</l>
+	<l>abbhatthio u jamhā, dāliddaṁ dāṇa-gahaṇaṁ ca.</l>
+      </lg>
+      <!-- one says, when one is asked, 
+	   that thousands of lakhs (which were) lost by someone else
+	   were taken by a king, a fire, or a thief.
+	   that is why (there is?) poverty and accepting charity. !-->
+      <!-- tentative translation (NB's also) !-->
+
+      <lg n="146">
+	<l>thevā vi sā gaṇijjaï riddhī jā sayala-loya-sāmannā:</l>
+	<l>pijjaï vāviĕ jalaṁ, na uṇa samuddassa thevaṁ pi.</l>
+      </lg>
+      <!-- although it is slim, resources are counted up
+	   which are held in honor by all people.
+	   one drinks the water of a reservoir
+	   but not a bit of the water of the ocean. !-->
+
+      <lg n="147">
+	<l>taṁ tattiyaṁ jalaṁ sāyarassa so cceva parama-vitthāro;</l>
+	<l>ekkaṁ pi palaṁ taṁ natthi jaṁ pivāsā nivārei.</l>
+      </lg>
+      <!-- similar apabhraṁśa verse at Hc. 4.395(7)
+	   taṁ tettiu jalu sāyaraho so tevaḍu vitthāru
+	   tisahe nivāraṇu palu vi na vi para dhuṭṭhuai asāru. !-->
+      <!-- so great is the water of the ocean, and such is its massive size;
+	   but there is not a single pala that can slake one's thirst.
+	   pivāsā for pivāsaṁ !-->
+      <lg n="148">
+	<l>nā khajjaï nā pijjaï</l>
+	<l>nā dijjaï vihalāhaṁ</l>
+	<l>dhattūrā-halu jaïsi</l>
+	<l>sampai hoi khalāhaṁ.</l>
+      </lg>
+      <!-- the success of good people is like
+	   the fruit of the datura:
+	   one doesn't eat it, one doesn't drink it,
+	   one doesn't give it to those who are sick. !-->
+      <!-- apabhraṁśa, catuṣpadī, 12 moras per line !-->
+
+      <lg n="149">
+	<l>cāi-aṇa-kara-parampara-pariyattaṇa-kheya-vasaṇa-parisantā</l>
+	<l>atthā kivaṇa-ghara-tthā satthāvatthā suvanti vva.</l>
+      </lg>
+      <!-- ed. gaiyāṇa-kara-paraṁparā, which NB has modified
+	   on the basis of parallels in SC (p. 484 v. 15)
+	   and Dhvanyālokalocana 4.5:
+	   cāi-aṇa-kara-parampara-saṁcāraṇa-khea-ṇissaha-sarīrā
+	   atthā kivaṇa-ghara-tthā satthāvatthā suvvanti vva 
+	   Coins, whose body are weary
+	   of running from hand to hand of the generous,
+	   regain their health as it were
+	   when they sleep in the house of a miser. 
+	   != VL 579cd. !-->
+      <!-- wealth, when exhausted by the fatigue of going around
+	   from hand to hand of generous people,
+	   can sleep soundly, as it were, in the house of a miser. !-->
+
+      <lg n="150">
+	<l>savvāyareṇa taïyā thutthukkiya-rakkhiyā payatteṇa</l>
+	<l>kiviṇāṇaṁ jā riddhī para-sāvatthā kumāri vva.</l>
+      </lg>
+      <!-- the wealth of misers that they take every effort
+	   to protect noisily by all means 
+	   is like a young girl who belongs to another. !-->
+      <!-- à cor et à cri: noisily, with clamor !-->
+
+      <lg n="151">
+	<l>ōhaya acchaï thutthukiya sampaya kiviṇa-gharēhĩ</l>
+	<l>thērēṇa vi vivāhīya bhunjēsī avarēhĩ.</l>
+      </lg>
+      <!-- wealth which is (protected) noisily in a miser's house
+	   is lost (ohaya = apahata),
+	   it is enjoyed by others like a woman married to
+	   an old man. !-->
+
+      <lg n="152">
+	<l>sīsaṁ paliya-palittaṁ thaṇ-antaraṁ viyaliyā muhe dantā,</l>
+	<l>kampanti do vi hatthā; taha vi maṇaṁ jovvaṇaṁ vahaï.</l>
+      </lg>
+      <!-- the hair is gray,
+	   (there is) space between the breasts,
+	   and the teeth are fallen out of the mouth;
+	   the hands are trembling;
+	   and still the heart is young. !-->
+      <!-- JĀ2 80 !-->
+
+      <lg n="153">
+	<l>dūrōṇāmiya-bhamuhā, pae pae kiṁ visesa-pucchantā</l>
+	<l>naṭṭhaṁ ca jovvaṇaṁ mahi-yalammi therā gavesanti.</l>
+      </lg>
+      <!-- lifting their eyebrows high up,
+	   with every step demanding what's different,
+	   the old search for their lost youth on the earth. !-->
+      <!-- GRK 824: dūreṇa nihiya-bhamuhā pae pae kiṁ pi kiṁ pi cintantā;
+	   paloyanti for gavesanti. !-->
+
+      <lg n="154">
+	<l>parihaṇu para-karēhĩ parihijjaï</l>
+	<l>diyahi diyahi angaṁ parijhijjaï,</l>
+	<l>bhūmihi kara ṭhāvēvi uṭhijjaï,</l>
+	<l>taha vi dhammu aṇudiṇu na vi kijjaï.</l>
+      </lg>
+      <!-- one's garment is taken by another's hands;
+	   day by day one's limbs slacken;
+	   he gets up by putting his hands on the ground;
+	   nevertheless, day after day, he does not 
+	   practice the dharma. !-->
+
+      <lg n="155">
+	<l>siri ekk'-ekkaṁ paliyaḍaṁ, païṭṭhaṁ aggī-bāṇu</l>
+	<l>nīsaru jovvaṇa-pāhuṇā, jara khaṇḍēsī māṇu.</l>
+      </lg>
+      <!-- his head is completely covered with white hair;
+	   the arrow of agni has entered.
+	   youth, leave; you were only here for a visit. (prāghuṇa)
+	   old age will destroy your pride. !-->
+
+      <lg n="156">
+	<l>bhaviyāṇa taṁ mahāyasa saṁsāra-samudda-nicca-paḍiyāṇaṁ</l>
+	<l>nijjāmao si sāmiya duggaya-salile nibuḍḍāṇaṁ.</l>
+      </lg>
+      <!-- one of great fame,
+	   for those pious people
+	   who keep falling into the ocean of saṁsāra,
+	   you are a shipmaster, o lord, for those who are drowning
+	   in the ocean of difficulty. !-->
+
+      <lg n="157">
+	<l>eaṁ gāhā-kosaṁ jo paḍhaï viyaḍḍha-viraïyaṁ loke</l>
+	<l>so pāvi viula-riddhī jaṇammi sohaggayaṁ lahaï.</l>
+      </lg>
+      <!-- whoever in the world reads this treasury of gāthās
+	   composed by clever people,
+	   he will obtain ample wealth among men
+	   and obtain happiness. !-->
+      <!-- riddhī for riddhiṁ,
+	   Pāṭaṇ MS has so hoi viula-buddhī jaṇammi sohaggaiṁ lahai;
+	   2nd cambay MS has viula-buddhī jaṇaṁ si [va] sohaggayaṁ lahai. !-->
+
+      <label xml:lang="fra">(supplément)</label>
+
+      <lg n="158">
+	<l>jiṇa-sāsaṇammi bhattī, paṇḍiya-goṭṭhī visiṭṭha-saṁsaggī</l>
+	<l>muṇivara-dāṇa-pasango na hoi thevehi puṇṇehiṁ.</l>
+      </lg>
+      <!-- devotion to the teaching of the jinas,
+	   the conference of pandits,
+	   association with special people,
+	   attachment to giving to monks,
+	   does not happen with a little bit of punya. !-->
+
+      <lg n="159">
+	<l>na ya bāhaï kamala-vaṇaṁ; appā pīṇaï piei mayarandaṁ</l>
+	<l>eso bhamara-juvāṇo keṇaï niuṇattaṇa-guṇeṇa.</l>
+      </lg>
+      <!-- he does not cause trouble to the lotus-patch;
+	   he satisfies himself and drinks nectar. (prīṇāti)
+	   this is the young man/bee,
+	   with a very special quality of skillfulness. !-->
+
+      <lg n="160">
+	<l>lajjijjaï jeṇa jaṇe, maïlijjaï niya-kula-kkamo jeṇa</l>
+	<l>kaṇṭha-ṭṭhie vi jīe, mā sundara taṁ kuṇijjāsu.</l>
+      </lg>
+      <!-- do not, beautiful, do not do that
+	   by which you would feel shame before people,
+	   by which the order of your family would be sullied,
+	   even if your heart (jīva) is attached to someone (kaṇṭha-sthita). !-->
+      <!-- ĀMKV 92.52, JĀ1 216, JĀ2 211, PK 39.115, PrC 529, PP 268.4,
+	   Prabandhacatuṣṭaya 653, attributed to Bappabhaṭṭisūri in all 
+	   of the prabandhas.
+	   jaṇo ĀMKV, PP;
+	   kaṇṭha-ṭṭhie hi jīve PrC, kaṇṭha-ṭṭhieṇa jīe JĀ2;
+	   karijjāsu JĀ1, taṁ ṇa kuliṇehiṁ kāyavvaṁ PK and PP,
+	   kuṇaṁti na kayā vi taṁ suyaṇā ĀMKV. !-->
+
+      <lg n="161">
+	<l>ārogga-sāriyaṁ māṇusattaṇaṁ sacca-sārio dhammo</l>
+	<l>vijjā nicchaya-sārā, suhāĩ santosa-sārāiṁ.</l>
+      </lg>
+      <!-- humanity depends on health,
+	   dharma on truth,
+	   knowledge on firm conviction,
+	   and happiness on satisfaction !-->
+
+      <lg n="162">
+	<l>pattammi ya pāhuṇae, kiṁ kāhī duggao turanto vi?</l>
+	<l>andho maliehiṁ loyaṇehĩ andho cciya varāo.</l>
+      </lg>
+      <!-- when a guest arrives,
+	   what is a poor person to do, even if he rushes?
+	   a blind person can rub his eyes,
+	   but he's still a poor blind man. !-->
+      <!-- JĀ1 35, JĀ2 17, SGS 67
+	   patte piya-pāhuṇae
+	   duranto (JĀ1 35)
+	   maliehī !-->
+
+      <lg n="163">
+	<l>jeṇa ṇa kiṁci vi kajjaṁ tassa vi gharam āgayassa je suyaṇā</l>
+	<l>niccaṁ pahasiya-vayaṇā niya-sīsaṁ āsaṇaṁ denti.</l>
+      </lg>
+      <!-- (following balbir and besnard)
+	   when somebody comes to them, even if he doesn't have anything in particular
+	   to do with them, good people, always with a smile on their faces,
+	   will offer their own head as a seat. !-->
+      <!-- cf. JĀ1 148: c) nūṇaṁ pahaṭṭha-vayaṇā, JĀ2 16 c) niuṇaṁ paharisa-vayaṇā. !-->
+
+      <lg n="164">
+	<l>viṇu dhammiṁ hiya-icchiyaĩ āsā-vahi vaṭṭanti</l>
+	<l>kaṇḍu kavilu jimu kāurisa para-lālaha ghuṇṭanti.</l>
+      </lg>
+      <!-- without dharma, the desires of the heart
+	   merely turn on the path of hope: !-->
+      <!-- ed kaṇḍu-kavilu (kaṇḍukapilāḥ yathā) !-->
+    </body>
+  </text>
+</TEI>

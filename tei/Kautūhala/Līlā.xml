@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0" n="">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0" n="Līlā">
   <teiHeader xml:lang="eng">
     <fileDesc>
       <titleStmt>
-        <title type="main">Līlāvaī</title>
-        <author>Kautūhala</author>
+        <title type="main" xml:lang="pra-Latn">Līlāvaī</title>
+        <author xml:lang="pra-Latn">Kōūhalō</author>
 	<principal>
 	  <persName ref="http://viaf.org/viaf/372149294434280521495">
 	    <forename>Andrew</forename>
@@ -5532,7 +5532,7 @@
         <l>dīhacchi kahā ēsā aṇudiyahaṁ jē paḍhanti ṇisuṇanti</l>
         <l>tāṇa piyavirahadukkhaṁ ṇa hōi kaïyā vi taṇuaṅgi</l>
       </lg>
-      <trailer>॥ ia līlāvaī ṇāma kahā samattā ॥</trailer>
+      <trailer>॥ ia līlāvaī ṇāma kahā samattā ॥</trailer>
     </body>
   </text>
 </TEI>

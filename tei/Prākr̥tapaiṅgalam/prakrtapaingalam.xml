@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0" n="PrāPi">
-  <teiHeader xml:lang="en">
+  <teiHeader xml:lang="eng">
     <fileDesc>
       <titleStmt>
-        <title type="main">Prākr̥tapaiṅgalam</title>
+        <title type="main" xml:lang="san-Latn">Prākr̥tapaiṅgalam</title>
         <respStmt>
           <persName key="name person ao">Andrew Ollett</persName>
           <resp>Creation of machine-readable text</resp>
@@ -18,9 +18,6 @@
         </availability>
         <date>2021</date>
       </publicationStmt>
-
-      <notesStmt>
-      </notesStmt>
 
       <sourceDesc>
 	<listBibl>
@@ -44,14 +41,6 @@
 	</listBibl>
       </sourceDesc>
     </fileDesc>
-
-    <encodingDesc>
-      <editorialDecl>
-      </editorialDecl>
-    </encodingDesc>
-
-    <revisionDesc>
-    </revisionDesc>
 
   </teiHeader>
   <text>
@@ -1280,13 +1269,13 @@
 	<pb n="98"/>
 	<ab>
 	  <label>[ukta mātrika chandōṁ kī anukramaṇikā]</label>
-	  <p>gāhū, gāhā, vigāhā, uggāhā, gāhiṇī, sīhiṇī, khandhā, dōhā, ukkacchā, rōlā, gandhāṇa,
+	  gāhū, gāhā, vigāhā, uggāhā, gāhiṇī, sīhiṇī, khandhā, dōhā, ukkacchā, rōlā, gandhāṇa,
 	  caüpaïā, ghattā, ghattāṇanda, chapyāā, pajjhaḍiā, aḍillā, pāāulaaṁ, caübōlā, ṇaüpaa, paümāvattī,
 	  kuṁḍaliā, gaaṇaṅgaü, dōaī, jhulaṇā, khañjapaa, sikkhā, mālā, culiālā, sōraddhā, hākali,
 	  mahuāra, mahāru, daṁḍaaru, dīpaka, siṁhālōa, pavaṅgā, līlāvaï, harigīā, tiabhaṅgī, dummilā, hīrō,
-	  janaharaṇī, maaṇaharā, marahaṭṭhā pacatālīsa dharā ।</p>
+	  janaharaṇī, maaṇaharā, marahaṭṭhā pacatālīsa dharā ।
 	</ab>
-	<traïler>iti mattāvitta paricchēō ।</traïler>
+	<trailer>iti mattāvitta paricchēō ।</trailer>
       </div>
       <div n="2">
 	<pb n="99"/>

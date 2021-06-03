@@ -3,8 +3,8 @@
   <teiHeader xml:lang="eng">
     <fileDesc>
       <titleStmt>
-        <title type="main">Prākr̥taprakāśaḥ</title>
-        <author>Vararuciḥ</author>
+        <title type="main" xml:lang="san-Latn">Prākr̥taprakāśaḥ</title>
+        <author xml:lang="san-Latn">Vararuciḥ</author>
 	<principal>
 	  <persName ref="http://viaf.org/viaf/372149294434280521495">
 	    <forename>Andrew</forename>

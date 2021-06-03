@@ -30,9 +30,10 @@ The abbreviations mostly follow those of the *Comprehensive and Critical Diction
 
 ### Current texts
 
+- **GāSa.x**: *Gāthāsaptaśatī* of Hāla, *verse* (`//lg[@n='x']`)
+- **JōiKa**: *Jyōtiṣkaraṇḍaka* of Pālitta, *verse* (`//lg[@n='x']`)
 - **DeNāMā.x.y**: *Dēśināmamālā* of Hēmacandra, *chapter*.*verse* (`//div[@type='adhyāya'][@n='x']/div[@type='gāthā'][@n='y']/quote[@type='base-text']/lg`)
 - **Dhutt.x.y**: *Dhūrtākhyāna* of Haribhadra, *chapter*.*verse* (`//div[@type='chapter'][@n='x']/lg[@n='y']`)
-- **GāSa.x**: *Gāthāsaptaśatī* of Hāla, *verse* (`//lg[@n='x']`)
 - **Līlā.x**: *Līlāvaī* of Kautūhala, *verse* (`//lg[@n='x']`)
 - **PāiLaNā.x**: *Pāiyalacchīnāmamālā* of Dhanapāla, *verse* (`//lg[@n='x']`)
 - **PaumaCaVi.x.y**: *Paümacariyaṁ* of Vimala Sūri, *chapter*.*verse* (`//div[@type='chapter'][@n='x']/lg[@n='y']`)
@@ -67,9 +68,23 @@ The abbreviations mostly follow those of the *Comprehensive and Critical Diction
 ### Desiderata
 
 - **Taraṅga**: Pālitta’s *Taraṅgalōlā* (*Taraṅgavatī*) [ed. H. C. Bhayani 1979]
-- **JōiKa**: Pālitta’s *Jyōtiṣkaraṇḍaka*
 - **VasuHi**: Saṅghadāsa’s *Vasudēvahiṇḍī*
 - **KuvaMā**: Uddyōtana’s *Kuvalayamālā*
+
+## Encoding details
+
+### Languages
+It is important to be able to distinguish Sanskrit from Prakrit texts. The postprocessing scripts will assume that *all* text is labeled with a language, in the following manner:
+
+- If an element has an `@xml:lang` attribute, use that.
+- Otherwise, get its language from the nearest ancestor with an `@xml:lang` attribute.
+	
+The `@xml:lang` attribute should use the ISO-639-2 codes:
+
+- `pra-Latn` = Prakrit in the Latin script
+- `san-Latn` = Sanskrit in the Latin script
+- `hin-Latn` = Hindi in the Latin script
+- `eng` = English
 
 ## Contributors and funding
 

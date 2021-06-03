@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xml:space="preserve" 
-     xml:id="surasundari-roman"
+     n="SurSuCa"
      xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader xml:lang="eng">
     <fileDesc>
       <titleStmt>
 	<title xml:lang="pra-Latn">Surasuṁdarīcariyaṁ</title>
-	<author xml:lang="san-Latn">Dhanēśvara Sūri</author>
+	<author xml:lang="pra-Latn">Dhanēsarō</author>
+	<author xml:lang="san-Latn">Dhanēśvaraḥ Sūriḥ</author>
 	<principal>
 	  <persName ref="http://viaf.org/viaf/372149294434280521495">
 	    <forename>Andrew</forename>

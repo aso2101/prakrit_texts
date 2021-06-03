@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0" n="">
-  <teiHeader xml:lang="en">
+<TEI n="Setu" xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+  <teiHeader xml:lang="eng">
     <fileDesc>
       <titleStmt>
-        <title type="main">Rāvaṇavaho (Setubandha)</title>
-	<title type="sub">A SARIT edition</title>
-        <author>Pravarasena</author>
+        <title type="main" xml:lang="pra-Latn">Rāvaṇavahō</title>
+	<title type="sub" xml:lang="san-Latn">Sētubandhaḥ</title>
+	<author xml:lang="pra-Latn">Pavarasēṇō</author>
+        <author xml:lang="san-Latn">Pravarasenaḥ</author>
 	<funder>The Leverhulme Trust</funder>
 	<principal>Michael Willis</principal>
         <respStmt>
@@ -181,7 +182,7 @@
       <div type="canto" n="1">
         <head>paḍhumō āsāsaō</head>
         <lg type="kulaka">
-          <labēl>āikulaaṁ</labēl>
+          <label>āikulaaṁ</label>
           <lg type="stanza" n="1">
             <l>ṇamaha avaḍḍhia-tuṅgaṁ <caesura/>avasāriavitthaaṁ aṇōṇaa-gahiraṁ</l>
             <l>appalahua-parisaṇhaṁ<caesura/> aṇāa-paramattha-pāaḍaṁ mahumahaṇaṁ</l>
@@ -200,7 +201,7 @@
           </lg>
         </lg>
         <lg type="kulaka">
-          <labēl>āikulaaṁ</labēl>
+          <label>āikulaaṁ</label>
           <lg type="stanza" n="5">
             <l>ṇamaha a jassa phuḍa-ravaṁ<caesura/> kaṇṭha-cchāā-ghaḍanta-ṇaaṇaggi-sihaṁ</l>
             <l>phuraï phuriaṭṭahāsaṁ<caesura/> uddha-paḍitta-timiraṁ miva disā-akkam</l>
@@ -322,7 +323,7 @@
           <l>uppusaï dāṇa-vaṅkaṁ<caesura/> muhutta-gaa-kaṇṇa-cāmaraṁ bhamara-ulaṁ</l>
         </lg>
         <lg type="kulaka">
-          <labēl>juggaaṁ</labēl>
+          <label>juggaaṁ</label>
           <lg type="stanza" n="34">
             <l>ia pahasia-kumua-sarē<caesura/> bhaḍi-muha-paṅkaa-viruddha-candālōē</l>
             <l>jāē phuranta-tārē<caesura/> lacchi-saaṁgāha-ṇava-paōsē saraē</l>
@@ -461,7 +462,7 @@
       <div type="canto" n="2">
         <head>biiō āsāsaō</head>
         <lg type="kulaka">
-          <labēl>āikulaaṁ 35</labēl>
+          <label>āikulaaṁ 35</label>
           <lg type="stanza" n="1">
             <l>aha pēcchaï rahu-taṇaō<caesura/> caḍulaṁ dōsa-saa-dukkha-bōlēavvaṁ</l>
             <l>amaa-rasa-sāra-garuaṁ<caesura/> kajjārambhassa jōvvaṇaṁ va samuddaṁ</l>
@@ -668,7 +669,7 @@
       <div type="canto" n="3">
         <head>taïō āsāsaō</head>
         <lg type="kulaka">
-          <labēl>juggaaṁ</labēl>
+          <label>juggaaṁ</label>
           <lg type="stanza" n="1">
             <l>tō tē kaï-māaṅgē<caesura/> rūḍha-visāa-maa-bhāviōmīlantē</l>
             <l>ālāṇa-kkhambhēsu va<caesura/> bāhūsu silā-ala-ṭṭhiēsu ṇisaṇṇē</l>
@@ -863,7 +864,7 @@
 	     ēa mamammi bhaṇantaē sama-rasa-māṇaammi</l>
         </lg>
 	<lg type="kulaka">
-	  <labēl>juggaaṁ</labēl>
+	  <label>juggaaṁ</label>
           <lg type="stanza" n="47"><!-- galitaka !-->
             <l>mā sōijjaü duhiā sīā lōaēṇaṁ<caesura/>
 	       ṇaliṇi vva samōluggaā sīālōaēṇaṁ</l>
@@ -883,7 +884,7 @@
 	</lg>
         <pb n="18"/>
         <lg type="kulaka">
-          <labēl>juggaaṁ</labēl>
+          <label>juggaaṁ</label>
           <lg type="stanza" n="49">
             <l>kaïā ṇu viraha-viraïa<caesura/>-dōbballa-pasāhaṇujjhiāharaṇāiṁ</l>
             <l>ṇīsāsa-vasa-pahōlira<caesura/>-lambālaa-malia-pamhala-kaōlāiṁ</l>
@@ -895,7 +896,7 @@
           </lg>
         </lg>
         <lg type="kulaka">
-          <labēl>juggaaṁ</labēl>
+          <label>juggaaṁ</label>
           <lg type="stanza" n="51">
             <l>ia jāhē bhaṇṇantaṁ<caesura/> ṇa calaï cintā-bharōsianta-sarīraṁ</l>
             <l>āaḍḍhaṇa-ṇiccēṭṭhaṁ<caesura/> paṅka-kkhuttaṁ va gaa-ulaṁ kaï-sēṇṇaṁ</l>
@@ -1022,7 +1023,7 @@
           <l>vaaṇaṁ vaaṇāhi calā<caesura/> kamalaṁ kamalāhi bhamara-panti vva gaā</l>
         </lg>
         <lg type="kulaka">
-          <labēl>antyakulaaṁ 3</labēl>
+          <label>antyakulaaṁ 3</label>
           <lg type="stanza" n="17">
             <l>tō vaa-pariṇāmōṇaa<caesura/>-bhumaā-vali-rubbhamāṇa-diṭṭhi-cchōhō</l>
             <l>āsaṇṇa-dhavala-mihiā<caesura/>-parikkhalantōsahi-ppahō vva mahiharō</l>
@@ -1127,7 +1128,7 @@
           <l>diṇṇaṁ jēṇēa tumē<caesura/> kaha kāhii sāarō tahiṁ cia dhīraṁ</l>
         </lg>
         <lg type="kulaka">
-          <labēl>juggaaṁ</labēl>
+          <label>juggaaṁ</label>
           <lg type="stanza" n="42">
             <l>tō pāaḍa-dōbballaṁ<caesura/> pamhaṭṭha-piā-paōhara-ppharisa-suhaṁ</l>
             <l>vacchaṁ tamāla-ṇīlaṁ<caesura/> puṇō puṇō vāma-kara-alēṇa malēntō</l>
@@ -1558,7 +1559,7 @@
           <l>tē ccia taha-vitthārā<caesura/> tuṅgā dīsanti dīva-maṇḍali-bandhā</l>
         </lg>
         <lg type="kulaka">
-          <labēl>āikulaaṁ 8</labēl>
+          <label>āikulaaṁ 8</label>
           <lg type="stanza" n="80">
             <l>ia dāvia-pāālaṁ<caesura/> jalaṇa-sihāvaṭṭamāṇa-jala-saṁghāaṁ</l>
             <l>rāmō dalia-mahiharaṁ<caesura/> khavia-bhuaṁga-ṇivahaṁ khavēi samuddaṁ</l>
@@ -1599,7 +1600,7 @@
       <div type="canto" n="6">
         <head>chaṭṭhaō āsāsaō</head>
         <lg type="kulaka">
-          <labēl>āikulaaṁ 5</labēl>
+          <label>āikulaaṁ 5</label>
           <lg type="stanza" n="1">
             <l>aha ṇiggaō jalantaṁ<caesura/> dara-ḍaḍḍha-mahā-bhuaṁga-pāava-ṇivahaṁ</l>
             <l>mōttūṇa dhūma-bhariaṁ<caesura/> pāāla-vaṇaṁ disā-gaō vva samuddō</l>
@@ -1675,7 +1676,7 @@
           <l>ghaḍia-giri-sēu-bandhaṁ<caesura/> cira-ālāuñciaṁ dahamuhammi paaṁ</l>
         </lg>
         <lg type="kulaka">
-          <labēl>juggaaṁ</labēl>
+          <label>juggaaṁ</label>
           <lg type="stanza" n="18">
             <l>aha jaa-duppariallē<caesura/> dahamuha-kuviēṇa pavaa-vaï-paccakkhaṁ</l>
             <l>rahuṇāhēṇa samuddē<caesura/> vālimmi va bāṇa-ṇiamiammi pasantē</l>
@@ -2340,7 +2341,7 @@
       <div type="canto" n="8">
         <head>aṭṭhamō āsāsaō</head>
         <lg type="kulaka">
-          <labēl>juggaaṁ</labēl>
+          <label>juggaaṁ</label>
           <lg type="stanza" n="1">
             <l>ia jāhē ṇivaḍantā<caesura/> siharōjjhara-dhōa-sura-vimāṇa-dhaa-vaḍā</l>
             <l>atthāanti samuddē<caesura/> vitthāratthamia-ṇaha-alā vi mahiharā</l>
@@ -2454,7 +2455,7 @@
           <l>caliaṁ tulia-dharāhara<caesura/>-kaa-ṇibbhara-dasa-disaṁ pavaṁgama-sēṇṇaṁ</l>
         </lg>
         <lg type="kulaka">
-          <labēl>juggaaṁ</labēl>
+          <label>juggaaṁ</label>
           <lg type="stanza" n="28">
             <l>aha ṇēṇa suha-ppharisē<caesura/> piuṇō salilammi majjiūṇa saṇiamaṁ</l>
             <l>rāma-caraṇāṇa paḍhamaṁ<caesura/> pacchā kāūṇa ravi-suassa paṇāmaṁ</l>
@@ -2618,7 +2619,7 @@
 	     taṁ uddhāi pavaa-kalaala-viiṇṇa-ūraṁ</l>
         </lg>
         <lg type="kulaka">
-          <labēl>kulaaṁ</labēl>
+          <label>kulaaṁ</label>
           <lg type="stanza" n="66">
             <l>ia saala-mahi-alukkhaa<caesura/>-mahihara-saṁghāa-ṇimmia-mahārambhaṁ</l>
             <l>ṇiaa-cchāā-vaïara<caesura/>-sāmalaïa-sāarōara-jaladdhantaṁ</l>
@@ -2758,7 +2759,7 @@
 
         </lg>
         <lg type="kulaka">
-          <labēl>juggaaṁ</labēl>
+          <label>juggaaṁ</label>
           <lg type="stanza" n="99">
             <l>saṅkha-ula-dhavala-kamalē<caesura/> phuḍa-maragaa-haria-vatta-bhaṅga-ṇihāē</l>
             <l>vidduma-milia-kisalaē<caesura/> uhaa-taḍāvaddha-saṁkamammi ṇala-vahē</l>
@@ -2990,7 +2991,7 @@
         <lg type="stanza" n="44"><!-- galitaka !-->
           <l>daria-rakkhasāmōaaṁ<caesura/>
 	     dari-arakkha-sāmōaaṁ</l>
-          <l>visaa-ruppa-hāantaaṁ<caesura>
+          <l>visaa-ruppa-hāantaaṁ<caesura/>
 	     visa-aru-ppahāantaaṁ</l>
         </lg>
         <lg type="stanza" n="45">
@@ -3215,7 +3216,7 @@
         </lg>
         <pb n="74"/>
         <lg type="kulaka">
-          <labēl>juggaaṁ</labēl>
+          <label>juggaaṁ</label>
           <lg type="stanza" n="95">
             <l>addiṭṭha-gaa-paṇōllia<caesura/>-paḍanta-taḍa-ghāa-mucchiuṭṭhia-sīhē</l>
             <!--mucchiuṭṭhia corrected by GS, succhiuṭṭhia in main text!-->
@@ -3459,7 +3460,7 @@
           <l>ōcchundaï vīsatthaṁ<caesura/> jōṇhā-ṇivaha-bhariaṁ thalaṁ miva vivaraṁ</l>
         </lg>
         <lg type="kulaka">
-          <labēl>juggaaṁ</labēl>
+          <label>juggaaṁ</label>
           <lg type="stanza" n="56">
             <l>ia vammaha-jaggāvia<caesura/>-tīra-visūranta-ṇivvalia-cakkāē</l>
             <l>jāammi maüliuppala<caesura/>-dukkha-pahuppanta-mahuarammi paōsē</l>
@@ -3487,7 +3488,7 @@
           <l>sāhaï samaruppēsaṁ<caesura/> uppitthummilla-tāraaṁ ṇaaṇa-juaṁ</l>
         </lg>
         <lg type="kulaka">
-          <labēl>juggaaṁ</labēl>
+          <label>juggaaṁ</label>
           <lg type="stanza" n="62">
             <l>aha sasi-jaṇiāmōē<caesura/> maa-parivaḍḍhia-piāhisāraṇa-sōkkhē</l>
             <l>maaṇummūlia-māṇē<caesura/> rāa-parāhīṇa-raï-suhammi paōsē</l>
@@ -3582,7 +3583,7 @@
       <div type="canto" n="11">
         <head>ēārahō āsāsaō</head>
         <lg type="kulaka">
-          <labēl>juggaaṁ</labēl>
+          <label>juggaaṁ</label>
           <lg type="stanza" n="1">
             <l>ia paḍisāria-candē<caesura/> dūrukkhaṇḍia-ṇisā-paatta-virāmē</l>
             <l>cittavia-kāmiṇi-aṇē<caesura/> jāma-cchēa-visamaṁ gaammi paōsē</l>
@@ -3742,7 +3743,7 @@
           <l>pavaṇa-sua-bhagga-pāava<caesura/>-bhaṅguggaa-bāla-kisalaaṁ pamaa-vaṇaṁ</l>
         </lg>
         <lg type="kulaka">
-          <labēl>āikulaaṁ</labēl>
+          <label>āikulaaṁ</label>
           <lg type="stanza" n="39">
             <l>pēcchanti a saï-saṁṭhia<caesura/>-vaaṇa-visaṁvaïa-thaṇa-ṇisaṇṇa-kara-alaṁ</l>
             <l>dahavaaṇāgama-saṅkia<caesura/>-paa-sadduppittha-lōaṇaṁ jaṇaa-suaṁ</l>
@@ -3836,7 +3837,7 @@
           <l>aṇuvajjha-bāha-garuia<caesura/>-dukkha-samuvvūḍha-tāraaṁ ummillā</l>
         </lg>
         <lg type="kulaka">
-          <labēl>kulaaṁ 4</labēl>
+          <label>kulaaṁ 4</label>
           <lg type="stanza" n="61">
             <l>pēcchaï a sarahasōharia-maṇḍalaggāhighāa-visama-cchiṇṇaṁ</l>
 
@@ -4075,7 +4076,7 @@
           <l>bāhaṁ muaï ṇa rumbhaï<caesura/> mariavvē laddha-paccaaṁ sē hiaaṁ</l>
         </lg>
         <lg type="kulaka">
-          <labēl>juggaaṁ</labēl>
+          <label>juggaaṁ</label>
           <lg type="stanza" n="118">
             <l>tō taṁ maraṇa-ṇimittē<caesura/> aṇiattanta-hiaaṁ paattā vōttuṁ</l>
             <l>tiaḍā dhuagga-kara-ala<caesura/>-dara-paḍia-paḍicchiaṅga-visamōaṇṇaṁ</l>
@@ -4268,7 +4269,7 @@
           <l>saï-pariattaṇa-visamaṁ<caesura/> hiaāvēa-pisuṇaṁ silā-saaṇīaṁ</l>
         </lg>
         <lg type="kulaka">
-          <labēl>juggaaṁ</labēl>
+          <label>juggaaṁ</label>
           <lg type="stanza" n="26">
             <l>tō sēla-sāra-garuaṁ<caesura/> aïrā-hōnta-daïā-samāgama-pisuṇaṁ</l>
             <l>ahiṇandiūṇa suiraṁ<caesura/> phuramāṇabbhahia-pīvaraṁ vāma-bhuaṁ</l>
@@ -4279,7 +4280,7 @@
           </lg>
         </lg>
         <lg type="kulaka">
-          <labēl>juggaaṁ</labēl>
+          <label>juggaaṁ</label>
           <lg type="stanza" n="28">
             <l>dāūṇa galia-bāhaṁ<caesura/> cira-dhariāūramāṇa-rōsāambaṁ</l>
             <l>diṭṭhiṁ laṅkāhimuhiṁ<caesura/> samattha-ṇivvaḍia-tāraā-duppēcchaṁ</l>
@@ -4659,7 +4660,7 @@
           <l>bōlēnti jahā-bhaṇiaṁ<caesura/> sāhukkāra-puraō aïnti samatthā</l>
         </lg>
         <lg type="kulaka">
-          <labēl>āikulaaṁ 12</labēl>
+          <label>āikulaaṁ 12</label>
           <lg type="stanza" n="20">
             <l>ia tāṇa taṁ viambhaï<caesura/> suraṅgaṇā-suraa-lambha-saṁkēa-haraṁ</l>
             <l>bhagga-jama-lōa-vanthaṁ<caesura/> mahēnda-bhavaṇujjuāia-vahaṁ jujjhaṁ</l>
@@ -4884,7 +4885,7 @@
           <l>bhaggā vi bhamanti puṇō<caesura/> ṇīsēsaṁ rakkhasā ṇa gēṇhanti bhaaṁ</l>
         </lg>
         <lg type="kulaka">
-          <labēl>antyakulaaṁ 4</labēl>
+          <label>antyakulaaṁ 4</label>
           <lg type="stanza" n="74">
             <l>taha vi a dara-parivattia<caesura/>-cakkalaïjjanta-garua-cakka-raha-vahaṁ</l>
             <l>vitthakkanta-pahāvia<caesura/>-samattha-saṁṭhāvaṇā-viḍhatta-raṇa-jasaṁ</l>
@@ -4963,7 +4964,7 @@
           <l>uddhua-mandāra-raaṁ<caesura/> sarasa-lavaṅga-dala-gabbhiṇaṁ hōi ṇahaṁ</l>
         </lg>
         <lg type="kulaka">
-          <labēl>āikulaaṁ 7</labēl>
+          <label>āikulaaṁ 7</label>
           <lg type="stanza" n="92">
             <l>ia taṁ sama-paḍihatthaṁ<caesura/> vāraṁ-vāra-bala-diṇṇa-sāhukkāraṁ</l>
             <l>indaï-vāli-suāṇaṁ<caesura/> paraṁ pamāṇaṁ gaaṁ pi vaḍḍhaï jujjhaṁ</l>
@@ -5214,7 +5215,7 @@
           <l>pāvēha vāṇara-uriṁ<caesura/> avihāvia-bāṇa-vēaṇaṁ rahuṇāhaṁ</l>
         </lg>
         <lg type="kulaka">
-          <labēl>antyakulaaṁ</labēl>
+          <label>antyakulaaṁ</label>
           <lg type="stanza" n="51">
             <l>ahaaṁ pi vijju-paḍaṇāiritta-saṁpāa-gahia-pavviddha-dhaṇuṁ</l>
             <l>addhōhariāsāia<caesura/>-valia-bhuakkhitta-mōḍia-gaā-vihalaṁ</l>
@@ -5248,7 +5249,7 @@
           <l>jāaṁ khara-vāāhaa<caesura/>-kiranta-rakkhasa-kalēvaraṁ dharaṇi-alaṁ</l>
         </lg>
         <lg type="kulaka">
-          <labēl>juggaaṁ</labēl>
+          <label>juggaaṁ</label>
           <lg type="stanza" n="58">
             <l>pēcchaï a kaṇaa-pēhuṇa<caesura/>-bahalujjōa-paḍisāria-mahā-timiraṁ</l>
             <l>ṇava-piñcha-maüa-pamhaṁ<caesura/> thira-piṭṭhi-ṇihitta-mahumahāsaṇa-maggaṁ</l>
@@ -5293,7 +5294,7 @@
           <l>dhummakkha-rōsa-mukkaṁ<caesura/> pavaassa jahiṁ tahiṁ virāi paharaṇaṁ</l>
         </lg>
         <lg type="kulaka">
-          <labēl>juggaaṁ</labēl>
+          <label>juggaaṁ</label>
           <lg type="stanza" n="68">
             <l>tō dīha-vāma-kara-ala<caesura/>-paḍivaṇṇāvēḍhaṇōṇaa-galuddēsaṁ</l>
             <l>rumbhanta-jīva-ṇiggama<caesura/>-vacchabbhantara-bhamanta-sīha-ṇiṇāaṁ</l>
@@ -5491,7 +5492,7 @@
           <l>ō satta vi ajjaṁ cia<caesura/> valanta-vaḍavā-muhē malēmi samuddē</l>
         </lg>
         <lg type="kulaka">
-          <labēl>juggaaṁ</labēl>
+          <label>juggaaṁ</label>
           <lg type="stanza" n="30">
             <l>ia viṇṇavia-dahamuhō<caesura/> pacchima-sārahi-kara-ṭṭhavia-sīsakkō</l>
             <l>āvaddha-kavaa-manthara<caesura/>-paa-vikkama-bhara-ṇamanta-vitthaa-taḍimaṁ</l>
@@ -5539,7 +5540,7 @@
           <l>bhīsaṇa-muha-saṁghāō<caesura/> rakkhasa-lōō vva ṇiggaō dahavaaṇō</l>
         </lg>
         <lg type="kulaka">
-          <labēl>juggaaṁ</labēl>
+          <label>juggaaṁ</label>
           <lg type="stanza" n="41">
             <l>ṇavari a pavaṇa-paṇōllia<caesura/>-kasaṇa-palāā-darandhaāria-sūraṁ</l>
             <l>pariṇaa-mattērāvaṇa<caesura/>-maa-pabbālia-turaṁga-kēsara-bhāraṁ</l>
@@ -5571,7 +5572,7 @@
           <l>taha-saṁdhia-cāva-sarō<caesura/> ṇisāarēhi saha jujjhiuṁ āḍhattō</l>
         </lg>
         <lg type="kulaka">
-          <labēl>kulaaṁ</labēl>
+          <label>kulaaṁ</label>
           <lg type="stanza" n="48">
             <l>aha rāmō vi ṇiacchaï<caesura/> turaa-khura-ppahara-vihala-jalahara-vaṭṭhaṁ</l>
             <l>ṭhia-vajjaharālambia<caesura/>-kaṇaa-dhaa-kkhambha-ṇimmahanta-parimalaṁ</l>
@@ -5789,8 +5790,8 @@
         </lg>
         <lg type="stanza" n="3">
           <l>ēnti valanti valantā<caesura/> rāma-sarāghāa-laṅghia-ṇahāhōā</l>
-          <l>thōrā<gap rēasōn="lacuna" unit="mōra" quantity="4"/>-sarisā<caesura/> tuṅgā
-            maṇi-pavvaa vva<gap rēasōn="lacuna" unit="mōra" quantity="8"/></l>
+          <l>thōrā<gap reason="lacuna" unit="mōra" quantity="4"/>-sarisā<caesura/> tuṅgā
+            maṇi-pavvaa vva<gap reason="lacuna" unit="mōra" quantity="8"/></l>
         </lg>
         <lg type="stanza" n="4">
           <l>jalaṇa-ppahāṇuviddhaṁ<caesura/> āvatta-bhamanta-pavvaa-dumālaggaṁ</l>
