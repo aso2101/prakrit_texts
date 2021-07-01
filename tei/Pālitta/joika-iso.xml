@@ -83,6 +83,9 @@
           <!-- orthography !-->
         <!-- encoding !--></p>
       </editorialDecl>
+      <refsDecl>
+	<cRefPattern matchPattern="JoisKa.([0-9]+)" replacementPattern="#xpath(//tei:lg[@n='$1'])"/>
+      </refsDecl>
     </encodingDesc>
 
     <revisionDesc>
@@ -603,7 +606,7 @@
 	  <label>57-58</label>
 	</p>
 	<p>
-          <s>jadhā — </s>
+          <s>jadhā —</s>
 	</p>
 	<quote type="base-text">
 	  <lg met="gāhā" n="59">
@@ -631,8 +634,7 @@
 	<quote type="base-text">
 	  <lg met="gāhā" n="61">
 	    <l>tattha paḍiminja<app><lem>māṇā</lem><rdg wit="#pu #mu #ma">māṇē</rdg><rdg wit="#khaṁ">māṇaṁ</rdg></app> pañcahiṁ <app><lem>māṇēhiṁ tu [jaha] kamēṇaṁ</lem><rdg wit="#pu #mu #vi">māṇēhiṁ punvagagiēhiṁ</rdg><rdg wit="#vi #khaṁ">māṇēhiṁ punvabhaṇiēhiṁ</rdg><rdg wit="#jēṭi #khaṁṭi">māṇēhiṁ tu kamēṇaṁ</rdg></app></l>
-	    <l><app><lem>māsēhiṁ</lem><rdg wit="#pu #mu #vi">māsēhi</rdg><rdg wit="#vi #khaṁ">māsēṇa</rdg><rdg wit="#jēṭi #khaṁṭi">māṇēhiṁ</rdg></app>
-	    vibhajatā <app><lem>jadi</lem><rdg wit="#khaṁ pu. #mu">jai</rdg></app> māsā hōti tē vocchaṁ</l>
+	    <l><app><lem>māsēhiṁ</lem><rdg wit="#pu #mu #vi">māsēhi</rdg><rdg wit="#vi #khaṁ">māsēṇa</rdg><rdg wit="#jēṭi #khaṁṭi">māṇēhiṁ</rdg></app> vibhajatā <app><lem>jadi</lem><rdg wit="#khaṁ pu. #mu">jai</rdg></app> māsā hōti tē vocchaṁ</l>
 	  </lg>
 	</quote>
 	<quote type="base-text">
@@ -939,7 +941,7 @@
 	<head type="toc" resp="#AO" xml:lang="pra-Latn">adhigamāsagā</head>
 	<head rend="squarebrackets">3. taiyaṁ adhigamāsagapāhuḍaṁ</head>
 	<p>
-	  <s>adhigamāsagapāhuḍassa vaṇṇagō jahā –</s>
+	  <s>adhigamāsagapāhuḍassa vaṇṇagō jahā —</s>
 	</p>
 	<quote type="base-text">
 	  <lg met="gāhā" n="103">
@@ -949,7 +951,7 @@
 	</quote>
 	<p>
 	  <s>candamāsō ya ēgūṇattīsaṁ divasā battīsaṁ ca bāvaṭṭhibhāgā <choice><expan>divasā</expan><abbr>di</abbr></choice> 29 <num type="fraction">32/62</num>, ētē sūramāsātō tīsāē divasēhitō addhadivasātō ya 30॥ [visēsijati], saṅghatīsāyō 30॥ ēgūṇatīsā 29 suddhā sēsaṁ divaḍarūvaṁ 1॥, ētaṁ savaṇṇitaṁ tiṇṇi dubhāgā <num type="fraction">3/2</num>, ētēhintō ēkattīsaguṇēhintō savaṇṇiē dubhāgā 3 jāyā tiṇautī] 93, battīsaṁ ca bāvaṭṭhibhāgā <num type="fraction">32/62</num> suddhasēsā ēgahim̐ bāvaṭṭhibhāgā <num type="fraction">61/62</num>, ētē tīsāē 30 guṇiyā aṁsā aṭṭhārasayāṇi tīsāṇi 1830 hōti, ētēsiṁ ca bāvaṭṭhīya 62 bhāgō, laddhā ēgūṇattīsaṁ divasā battīsaṁ ca bāvaṭṭhibhāgā <choice><expan>divasā</expan><abbr>di</abbr></choice> 29 32.62</s>
-	  <s>ēsa candēṇa māsēṇa adhigamāsagō jugamañjhē jugantē ya havati tīsāē māsēhiṁ</s>
+	  <s>ēsa candēṇa māsēṇa adhigamāsagō jugamajjhē jugantē ya havati tīsāē māsēhiṁ</s>
 	  <label>103</label>
 	</p>
 	<quote type="base-text">
@@ -2080,7 +2082,7 @@
 	</quote>
 	<quote type="base-text">
 	  <lg met="gāhā" n="224">
-	    <l><app><lem>uguvīsā</lem><rdg wit="#mu">guṇavīsā</rdg><rdg wit="#jēṭi #khaṁṭi">uguṇatīsā</rdg><rdg wit="#pu #vi">igatīsā</rdg></app> cau, chattīsa tiṇṇi, ekkārasēva caura, -'cha</l>
+	    <l><app><lem>uguvīsā</lem><rdg wit="#mu">guṇavīsā</rdg><rdg wit="#jēṭi #khaṁṭi">uguṇatīsā</rdg><rdg wit="#pu #vi">igatīsā</rdg></app> cau, chattīsa tiṇṇi, ekkārasēva caura, cha</l>
 	    <l>dō dō tettīsa’ha ya, ṇatthi cauṇhaṁ pi sattaṁsā</l>
 	  </lg>
 	</quote>
@@ -2347,7 +2349,8 @@
 	</quote>
 	<p>
 	  <s>ettha karaṇaṁ-sāvaṇamāsigāṇaṁ āuṭṭīṇaṁ guṇakārō ēgādigā biuttarā pañcagacchagatā thāvētavvā, jahā—ēgō tiṇṇi pañca satta ṇava tti, ētēhiṁ jadhājoggaṁ tēsītaṁ sataṁ 183 guṇētavvaṁ, jēṇa guṇitaṁ tammi tiguṇē rūvē khivē ekkasaṅkhittē rāsīhiṁ <quote><lg><l>abhiyī sandhāṇādi ya āuṭṭīō tu sāvaṇē māsē</l> <l>pāḍivatē</l></lg></quote> ti [ ]</s>
-	  <s>māghamāsigāṇaṁ āuṭṭīṇaṁ guṇakārā bigādiyā biuttarā pañcagacchagatā, jahā – bēṇṇi cattāri cha aṭṭha dasa ti</s>
+	  <s>māghamāsigāṇaṁ āuṭṭīṇaṁ guṇakārā bigādiyā biuttarā pañcagacchagatā, jahā —</s>
+	  <s>bēṇṇi cattāri cha aṭṭha dasa ti</s>
 	  <s>ētēhiṁ tēsītaṁ sataṁ 183 guṇētūṇaṁ puvvakaraṇēṇa diṭṭhā āuṭṭītihī “bahulassa sattamīyaṁ tu” adhavā ēgādigā bārasuttarā paḍirāsētūṇa pakkhivitūṇa pavvatthiṇā [pāḍivatādigā] sāvaṇamāsigā tidhī sattādigā māghamāsigā tidhī paḍirāsīsiddhā hōti</s>
 	  <label> 254 </label>
 	</p>
@@ -2661,7 +2664,8 @@
 	  </lg>
 	</quote>
 	<p>
-	  <s>ēkantariyā māsā vidhī vi jāsu ya uḍū samappanti, jahā–bhadava-kattiya-pōsa-phagguṇa-vaisāha-āsāḍhēsu, ētēsu chasu māsēsu cha uḍū samappanti, ṇa aṇṇēsu māsēsu tti</s>
+	  <s>ēkantariyā māsā vidhī vi jāsu ya uḍū samappanti, jahā —</s>
+	  <s>bhadava-kattiya-pōsa-phagguṇa-vaisāha-āsāḍhēsu, ētēsu chasu māsēsu cha uḍū samappanti, ṇa aṇṇēsu māsēsu tti</s>
           <s>tidhī vi ēvamēva — pāḍivata tatiyā pañcamī sattamī ṇavamī ēkādasī tērasī pañcadasī bahulapakkhē, bitiyā cautthī chaṭṭhī aṭṭhamī dasamī bārasī cōdasī sukkapakkhē</s>
           <s>ētāō paṇṇarasa tidhīō jugassa puvaḍhē jāsu uḍū samappanti paṇṇarasīē</s>
           <s>tē cēva jugassa pacchimaddhē vi māsā tiṣī ya, ētēsu paṇṇarasa uḍū samappanti ti</s>
@@ -2871,7 +2875,8 @@
 	  </lg>
 	</quote>
 	<p>
-	  <s>ettha rikkhāṇayaṇē uddēsā — paḍhamaṁ visuvaṁ kahiṁ ṇakkhattē hōhiti ? tti gādhatthēṇaṁ karaṇajōjaṇā–jadi dasahiṁ visuvēhiṁ sattasaṭṭhī candapajjayā labbhanti dubhāgavisuvē sē kati candapajjayā 1 dubhāgō icchaṁ ti aṇuvātajōyaṇāē diḍhaṁ vīsā, sattaṭṭhīē laddhāṇi tipajjayā, tēhiṁ ṇa kajaṁ, sēsā satta vīsōyagā panjaēsu bhāgaṁ ṇa dēti tti aṭṭhārasahiṁ satēhiṁ [tīsēhiṁ] sattaṭṭhibhāgēhiṁ <num type="fraction">1830/67</num> guṇēhāmō tti samasuṇṇōvaṭṭitē sattahiṁ tēsīyasayaguṇā 183 bārasa satā ekkāsīyā 1281, bēhi cchēdēṇa sattadviguṇitā jātaṁ cottīsaṁ sayaṁ 134, ettha sambō uddhakaraṇavihī kātavvō aṁsēhintō-abhijī bātālīsāē suddhō, sēsātō sacchēdēṇa bhāgahitaladdhā <pb n="75"/> ṇava, aṁsā tettīsā, ēvaṁ samaṇādiyaṁ ṇakkhattaṁ dasamaṁ rōhiṇīō, ēvaṁ paḍhamaṁ visuvaṁ rōhiṇīṇaṁ tettīsa cottīsasatabhāgē <num type="fraction">33/134</num> ōgāhitūṇa hōti tti</s>
+	  <s>ettha rikkhāṇayaṇē uddēsā — paḍhamaṁ visuvaṁ kahiṁ ṇakkhattē hōhiti ? tti gādhatthēṇaṁ karaṇajōjaṇā —</s>
+	  <s>jadi dasahiṁ visuvēhiṁ sattasaṭṭhī candapajjayā labbhanti dubhāgavisuvē sē kati candapajjayā 1 dubhāgō icchaṁ ti aṇuvātajōyaṇāē diḍhaṁ vīsā, sattaṭṭhīē laddhāṇi tipajjayā, tēhiṁ ṇa kajaṁ, sēsā satta vīsōyagā panjaēsu bhāgaṁ ṇa dēti tti aṭṭhārasahiṁ satēhiṁ [tīsēhiṁ] sattaṭṭhibhāgēhiṁ <num type="fraction">1830/67</num> guṇēhāmō tti samasuṇṇōvaṭṭitē sattahiṁ tēsīyasayaguṇā 183 bārasa satā ekkāsīyā 1281, bēhi cchēdēṇa sattadviguṇitā jātaṁ cottīsaṁ sayaṁ 134, ettha sambō uddhakaraṇavihī kātavvō aṁsēhintō-abhijī bātālīsāē suddhō, sēsātō sacchēdēṇa bhāgahitaladdhā <pb n="75"/> ṇava, aṁsā tettīsā, ēvaṁ samaṇādiyaṁ ṇakkhattaṁ dasamaṁ rōhiṇīō, ēvaṁ paḍhamaṁ visuvaṁ rōhiṇīṇaṁ tettīsa cottīsasatabhāgē <num type="fraction">33/134</num> ōgāhitūṇa hōti tti</s>
           <s>ēvaṁ <app><lem>candutthaṁ</lem><rdg wit="#jēṭi #khaṁṭi">candatthaṁ</rdg></app> visuvaṁ katamammi candaṇakkhattē hōti 1 ti jadi <app><lem>dasahiṁ visuvēhi sattaṭṭhiṁ</lem><rdg wit="#jēṭi #khaṁṭi">dasahiṁ divasēhiṁ sattaṭṭhiṁ</rdg></app> candapajjayā labbhanti <app><lem>sattahiṁ dubhāga</lem><rdg wit="#jēṭi #khaṁṭi">sattaṭṭhidubhāgā</rdg></app>visuvēhiṁ kati pajjayā labbhāmō ? tti laddhā tēvīsaṁ pajjayā tēhiṁ ṇa kajjaṁ, sēsā ṇava vīsōvayā ṇakkhattāṇi kāhāmō tti aṭṭhārasasatēhiṁ tīsēhiṁ 1830 sattaṭṭhibhāgēhiṁ guṇēhāmō ti, avagatē samasuṇṇē tēsītasataṁ 183 ṇavahiṁ 9 guṇitaṁ, chēdō vi sattaṭṭhī bēguṇitō, asēhiṁ abhijibātālīsāē</s>
           <s>42 suddhō cottīsēṇa satēṇa 134 bhāgaladdhā ekkārasa samaṇādigaṁ magasiraṇakkhattaṁ [suddhaṁ], sēsēhintō [adā] sattaṭṭhī suddhā, sēsā cōvaṭṭhī 64, ēvaṁ cautthaṁ visuvaṁ puṇavvasussa causaṭṭhī cottīsasayabhāgē <num type="fraction">64/134</num> avagāhitūṇaṁ hōti ti</s>
           <s>ēvaṁ dasasu vi sūravisuvēsu candaṇakkhattāṇi āṇētavvāṇi ti</s>
@@ -3103,7 +3108,8 @@
 	  </lg>
 	</quote>
 	<p>
-	  <s>icchitassa maṇḍalaparirayassa saṭṭhīya bhāgē hitē jaṁ laddhaṁ sā muhuttagatī tahiṁ tahiṁ maṇḍalē, ēsā mahattagatī divasaddhēṇa guṇitā ihagatassa purisassa tāvatigātō sūrō.cakkhupphāsaṁ havvamāgacchati ti. jahā – abhintarassa maṇḍalassa parirayō tiṇṇi jōyaṇasayasahassāṇi paṇṇarasa ya sahassāṇi ēgūṇaṇavutāṇi 315089 ētassa rāsiṇō saṭṭhīya 60 bhāgē hitē laddhā bāvaṇṇasatā ekkāvaṇṇā ēgūṇatīsaṁ ca savibhāgā 5251 <num type="fraction">29/60</num>, ēsā abhitaramaṇḍalē raviṇō muhuttagatī. savvanbhantaragatē ca sūrē aṭṭhārasamuhuttō divasō, divasassa addhēṇa ṇavahiṁ muhuttēhiṁ muhuttagatī <pb n="84"/>guṇitā jāyā sattacattālīsaṁ jōyaṇasahassāṇi bē satāṇi tēvaḍhāṇi ēkāvīsaṁ ca saṭṭhibhāgā 47263 <num type="fraction">29/60</num>. ēvaṁ paḍhamamaṇḍalātō jadūrātō sūrō idhagatassa purisassa [cakkhupphāsa] hanvamāgacchati tti</s>
+	  <s>icchitassa maṇḍalaparirayassa saṭṭhīya bhāgē hitē jaṁ laddhaṁ sā muhuttagatī tahiṁ tahiṁ maṇḍalē, ēsā mahattagatī divasaddhēṇa guṇitā ihagatassa purisassa tāvatigātō sūrō.cakkhupphāsaṁ havvamāgacchati ti. jahā —</s>
+	  <s>abhintarassa maṇḍalassa parirayō tiṇṇi jōyaṇasayasahassāṇi paṇṇarasa ya sahassāṇi ēgūṇaṇavutāṇi 315089 ētassa rāsiṇō saṭṭhīya 60 bhāgē hitē laddhā bāvaṇṇasatā ekkāvaṇṇā ēgūṇatīsaṁ ca savibhāgā 5251 <num type="fraction">29/60</num>, ēsā abhitaramaṇḍalē raviṇō muhuttagatī. savvanbhantaragatē ca sūrē aṭṭhārasamuhuttō divasō, divasassa addhēṇa ṇavahiṁ muhuttēhiṁ muhuttagatī <pb n="84"/>guṇitā jāyā sattacattālīsaṁ jōyaṇasahassāṇi bē satāṇi tēvaḍhāṇi ēkāvīsaṁ ca saṭṭhibhāgā 47263 <num type="fraction">29/60</num>. ēvaṁ paḍhamamaṇḍalātō jadūrātō sūrō idhagatassa purisassa [cakkhupphāsa] hanvamāgacchati tti</s>
 	  <label>323</label>
 	</p>
 	<quote type="base-text">
@@ -3401,7 +3407,8 @@
 	  </lg>
 	</quote>
 	<p>
-	  <s>ettha uddēsō — paḍhamaṁ pavvaṁ katithē ayaṇē maṇḍalē ya samappati ? ti ētāṇaṁ gāhāṇaṁ atyēṇaṁ kātavvaṁ karaṇaṁ ti pavvarāsī thāvitō, jadhā — ēgaṁ pavvaṁ vāmapāsē, <pb n="94"/> aṇusēḍhī dakkhiṇē ēvaṁ ayaṇaṁ, tassa aṇusēḍhī ēkaṁ maṇḍalaṁ, tassa maṇḍalassa  heṭṭhā cattāri sattaṭṭhibhāgā <num type="fraction">4/67</num>, tēsiṁ heṭṭhā ṇava ēkattīsā bhāgā ēsa savvō dhuvarāsī icchitaṇaṁ pavvēṇaṁ guṇētabbō, jahā — ekkēṇa guṇitā ettiyā cēva, ayaṇammi svaṁ pakkhittaṁ, maṇḍalammi caramaṇḍalatthē bē rūvāṇi pakkhittāṇi, ēvaṁ āgataṁ paḍhamaṁ pavvaṁ bitiē ayaṇē tatiyamaṇḍalassa abhantarilassa causu sattaṭṭhibhāgēsu ṇavasu ya ēgattīsatibhāgakalāsu <num type="fraction">9/31</num> ti</s>
+	  <s>ettha uddēsō — paḍhamaṁ pavvaṁ katithē ayaṇē maṇḍalē ya samappati ? ti ētāṇaṁ gāhāṇaṁ atyēṇaṁ kātavvaṁ karaṇaṁ ti pavvarāsī thāvitō, jadhā —</s>
+	  <s>ēgaṁ pavvaṁ vāmapāsē, <pb n="94"/> aṇusēḍhī dakkhiṇē ēvaṁ ayaṇaṁ, tassa aṇusēḍhī ēkaṁ maṇḍalaṁ, tassa maṇḍalassa heṭṭhā cattāri sattaṭṭhibhāgā <num type="fraction">4/67</num>, tēsiṁ heṭṭhā ṇava ēkattīsā bhāgā ēsa savvō dhuvarāsī icchitaṇaṁ pavvēṇaṁ guṇētabbō, jahā — ekkēṇa guṇitā ettiyā cēva, ayaṇammi svaṁ pakkhittaṁ, maṇḍalammi caramaṇḍalatthē bē rūvāṇi pakkhittāṇi, ēvaṁ āgataṁ paḍhamaṁ pavvaṁ bitiē ayaṇē tatiyamaṇḍalassa abhantarilassa causu sattaṭṭhibhāgēsu ṇavasu ya ēgattīsatibhāgakalāsu <num type="fraction">9/31</num> ti</s>
 	</p>
 	<p>
 	  <s>etthēva bitiō uddēsō-cōdasamaṁ pavvaṁ katithē ayaṇē maṇḍalē vā samappati ? tti, ēvaṁ cēva ya dhuvarāsī cōdasahiṁ guṇētūṇaṁ ettō ayaṇakhettaṁ sādhētavvaṁ, guṇitō rāsī hōti cōisa pavvaṭṭhāṇē, ayaṇaṭṭhāṇē cōdasa, maṇḍalaṭṭhāṇē cōdasa sahi ca sattavibhāgā bē ekttīsabhāgā <abbr>pa</abbr> 14 <choice><expan>ahōrattāṇi</expan><abbr>a</abbr></choice> 14 maṁ- 14 <num type="fraction">60/67</num> <num type="fraction">2/31</num>, ettō ayaṇakhētaṁ tērasa maṇḍalāṇi tērasa sattadvibhāgā maṁ- 13 <num type="fraction">13/67</num> suddhā, jaṁ suddhaṁ ayaṇakhettarūvaṁ taṁ cōdasahiṁ ayaṇēhiṁ sahitaṁ rūvajutaṁ ca aṁsatthē jātaṁ bhiṇṇabhāgā vi maṇḍalē asthi bē rūvāṇi pakkhittāṇi duvidhabhiṇṇabhāgajātāṇi tiṇṇi tiṇi tti. ēvamāgataṁ cōdasamaṁ pavvaṁ sōlasamaṁ [ayaṇaṁ] bāhiratō tatiyamaṇḍalassa sattacattālīsā sattaṭṭhibhāgā dō ya kalāō <abbr>pa</abbr> 14 <choice><expan>ahōrattāṇi</expan><abbr>a</abbr></choice> 16 maṁ- 3 <num type="fraction">47/67</num> <num type="fraction">2/31</num>. bāvavimaṁ pavvaṁ kasiṇaṁ(? kassi ṇaṁ) bhavati? ettha rūvajutā pavvā. kātavvā, maṇḍalēsu svapakkhēvō, ēvaṁ āgataṁ bāvaṭṭhimaṁ pavvaṁ sattadvimaṁ ayaṇaṁ bāhiraṇantaramaṇḍalassa maṇḍalaṁ bitiyaṁ ti pa- 62 <choice><expan>ahōrattāṇi</expan><abbr>a</abbr></choice> 67 maṁ0 2. pakkhēvagasōhaṇē paḍhamaṁ pavvaṁ dhuvarāsī thāvitō, jahā — ēvaṁ pavvaṁ bitiyaṁ ayaṇaṁ tiṇṇi maṇḍalāṇi maṇḍalassa ya cattāri sattaṭṭhibhāgā ṇava ya kalāō pa- 1 <choice><expan>ahōrattāṇi</expan><abbr>a</abbr></choice> 2 maṁ- 3 <num type="fraction">4/67</num> <num type="fraction">9/31</num>. ētaṁ pavvaṁ dhuvarāsīkātūṇaṁ pavvā-’yaṇa-paḍhamamaṇḍalēsu kēvalaṁ(?pattēyaṁ) rūvaṁ rūvaṁ pakkhettavvaṁ, maṇḍalēsu ayaṇakhettē puṇṇē tērasasu maḍalēsu tērasasu sattaṭṭhibhāgēsu 13 <num type="fraction">13/67</num> ya puṇṇēsu ēgaṁ ayaṇakhettaṁ, ētāvatimaṇḍalatthāṇātō sōdhētūṇa ayaṇēsu bē rūvāṇi pakkhettavvāṇi. ētēṇa kamēṇa patthārō aparisantēhiṁ kātavvō. karaṇalāghavatthaṁ ca imō patyārō muṇētabbō tti —</s>
@@ -3699,8 +3706,9 @@
 	<p>
 	  <s>[ē]tāsiṁ gādhāṇaṁ karaṇavidhīya jahā<app><lem>ganthattha</lem><rdg wit="#khaṁṭi">gandharatha</rdg></app>aṇusajjiēṇa kāyavvā — sūrē uṭṭhitammi abhijissa ēkakalā paḍivaṇṇā [kiṁ] pavvaṁ kō vidhī tahiṁ kālē ? tti , sā ēgā kalā tērasahi satēhiṁ tēṇautēhiṁ 1393 guṇiyā jātā tattiyā cēva, puṇō paḍirāsētūṇa taṁ rāsiṁ ēgaṭṭhīya 61 bhāgō, laddhā bāvīsā 22 tērasasu tiṇautēsu 1393 pakkhittā, pakkhittarāsissa paṇṇarasahiṁ 15 bhāgō, bhāgaladdhāṇi cauṇautipavvāṇi 94 pañcamī ya tidhi ti</s>
           <s>ettha abhijissa ēgakalā1paḍivaṇṇa tti</s>
-          <s>puṇō ētātō pavvātō tidhītō candakaraṇēṇa paḍisamāṇētavvaṁ-tērasaṇhaṁ satāṇaṁ tiṇautāṇaṁ] 1393 ṇipphattī, aṭṭhārasahiṁ satēhiṁ [tīsēhiṁ] 1830 koṭṭitō rūvaṁsō ēgūṇaṁ pavvaṁ abhijī ādīkāūṇaṁ icchiyaṁsagāta upādāya saṅkhētavvā aṁsagā rūvūṇā tērasahiṁ satēhiṁ tiṇautēhiṁ 1393 guṇētūṇa puvakaraṇēṇa vidhī vidhātavvō</s>
-          <s>jahā — dhaṇiṭṭhāṇaṁ paḍhamaṁsagaṁ icchāmi tti abhijitō uvādāya jāva dhaṇiṭṭhāṇaṁ aṁsagō ti tāva savvē aṁsagā saṅkhittā, jadhā-abhijissa ekkāvīsā 21 samaṇa[ssa] sattaṭṭhī 67 dhaṇiṭṭhāṇaṁ ca ētē(1ēgō 1) aṁsō tti, ētē saṅkhittā jātā ēgūṇanautiṁ 89, ettō icchitaṁsō dhaṇiṭṭhāṇaṁ paḍhamaṁsēṇa suddhō sēsā aṭṭhāsītī 88, ētaṁ rāsiṁ tērasasatēhiṁ tēṇautēhiṁ 1393 guṇētūṇaṁ puvvakaraṇaṁ kāyavvaṁ jahāsambhavaṁ, aṭṭhārasahiṁ satēhiṁ tīsēhiṁ 1830 chettūṇa sēsagēṇa vidhāṇaṁ kāyavvaṁ</s>
+          <s>puṇō ētātō pavvātō tidhītō candakaraṇēṇa paḍisamāṇētavvaṁ-tērasaṇhaṁ satāṇaṁ tiṇautāṇaṁ] 1393 ṇipphattī, aṭṭhārasahiṁ satēhiṁ [tīsēhiṁ] 1830 koṭṭitō rūvaṁsō ēgūṇaṁ pavvaṁ abhijī ādīkāūṇaṁ icchiyaṁsagāta upādāya saṅkhētavvā aṁsagā rūvūṇā tērasahiṁ satēhiṁ tiṇautēhiṁ 1393 guṇētūṇa puvakaraṇēṇa vidhī vidhātavvō jahā — </s>
+          <s>dhaṇiṭṭhāṇaṁ paḍhamaṁsagaṁ icchāmi tti abhijitō uvādāya jāva dhaṇiṭṭhāṇaṁ aṁsagō ti tāva savvē aṁsagā saṅkhittā, jadhā —</s>
+	  <s>abhijissa ekkāvīsā 21 samaṇa[ssa] sattaṭṭhī 67 dhaṇiṭṭhāṇaṁ ca ētē(1ēgō 1) aṁsō tti, ētē saṅkhittā jātā ēgūṇanautiṁ 89, ettō icchitaṁsō dhaṇiṭṭhāṇaṁ paḍhamaṁsēṇa suddhō sēsā aṭṭhāsītī 88, ētaṁ rāsiṁ tērasasatēhiṁ tēṇautēhiṁ 1393 guṇētūṇaṁ puvvakaraṇaṁ kāyavvaṁ jahāsambhavaṁ, aṭṭhārasahiṁ satēhiṁ tīsēhiṁ 1830 chettūṇa sēsagēṇa vidhāṇaṁ kāyavvaṁ</s>
 	  <label>385-390</label>
 	</p>
 	<quote type="base-text">
