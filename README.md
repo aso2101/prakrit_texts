@@ -51,9 +51,12 @@ The abbreviations mostly follow those of the *Comprehensive and Critical Diction
         - **Nāyā.x** (section numbering): *section* (`//div[@type='section'][@n='x']`)
         - **Nāyā.1.x.y** (first *śrutaskandha*): *śrutaskanda*.*adhyayana*.*section* (`//div[@type='śrutaskandha'][@n='1']/div[@type='adhyayana'][@n='x']/div@[type='section][@n='z']`)
         - **Nāyā.2.x.y.z** (second *śrutaskandha*): *śrutaskanda*.*varga*.*adhyayana*.*section* (`//div[@type='śrutaskandha'][@n='2']/div[@type='varga'][@n='x']/div[@type='adhyayana'][@n='y']/div[@type='section][@n='z']`)
+	- (34) **Nis**: *Nisīhasuttaṁ*: numbering based on format
+        - **Nis.x**: *section* (`//div[@type='section'][@n='x']`)
+        - **Nis.x.y**: *chapter*.*section* (`//div[@type='uddēsō'][@n='x']/div[@type='section'][@n='y']`)
     - (35) **Br̥hKapp**: *Br̥hatkalpa*: numbering based on format
         - **Br̥hKapp.x**: *section* (`//div[@type='section'][@n='x']`)
-        - **Br̥hKapp.x.y**: *chapter*.*section* (`//div[@type='uddēśa'][@n='x']/div[@type='section'][@n='y']`)
+        - **Br̥hKapp.x.y**: *chapter*.*section* (`//div[@type='uddēsō'][@n='x']/div[@type='section'][@n='y']`)
 	- (43) **Utt.x.y**: *Uttarādhyayana*, *chapter*.*section* (`//div[@type='ajjhayaṇaṁ'][@n='x']/div[@type='section'][@n='y']`)
     - (44) **Nandī.x**: *Nandīsūtra*, *section* (`//div[@type='section'][@n='x']`)
     - (45) **AṇuŌg.x**: *Anuyōgadvārasūtra*, *section* (`//div[@type='section'][@n='x']`)

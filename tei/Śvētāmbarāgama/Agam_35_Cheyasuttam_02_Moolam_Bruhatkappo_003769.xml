@@ -40,8 +40,8 @@
 	<cRefPattern 
 	    n="level1"
 	    matchPattern="(\d+)"
-	    replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div[@type='uddēśa'][@n='$1'])">
-	  <p>This pointer pattern extracts chapters (uddēśas).</p>
+	    replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div[@type='uddēsō'][@n='$1'])">
+	  <p>This pointer pattern extracts chapters (uddēsas).</p>
 	</cRefPattern>
       </refsDecl>
     </encodingDesc>
@@ -56,7 +56,7 @@
   </teiHeader>
   <text>
     <body>
-      <div type="uddēśa" n="1">
+      <div type="uddēsō" n="1">
 	<div type="section" n="1">
 	  <p>nō kappaï nigganthāṇa vā nigganthīṇa vā āmē tālapalambē abhinnē paḍiggāhittaē.</p>
 	</div>
@@ -211,7 +211,7 @@
 	  <p>nō sē kappaï ēttō bāhiṁ, tēna paraṁ jattha nāṇadaṁsaṇacarittāiṁ ussappanti tibēmi.</p>
 	</div>
       </div>
-      <div type="uddēśa" n="2">
+      <div type="uddēsō" n="2">
 	<div type="section" n="51">
 	  <p> uvassayassa antō vagaḍāē sālīṇi vā vīhīṇi vā muggāṇi vā māsāṇi vā tilāṇi vā kulatthāṇi vā gōhūmāṇi vā javāṇi vā javajavāṇi vā ukkhiṇṇāṇi vā vikkhiṇṇāṇi vā viikiṇṇāṇi vā vippakiṇṇāṇi vā nō kappaï nigganthāṇa vā nigganthīṇa vā ahālandamavi vatthaē.</p>
 	</div>
@@ -303,7 +303,7 @@
 	  <p>kappaï nigganthāṇa vā nigganthīṇa vā imāiṁ pañca rayaharaṇāiṁ dhārittaē vā pariharittaē vā taṁ jahā —uṇṇuē uṭṭiē sāṇaē baddhācippaē muñjacippiē vi nāma pañcamē – tti bēmi.</p>
 	</div>
       </div>
-      <div type="uddēśa" n="3">
+      <div type="uddēsō" n="3">
 	<div type="section" n="81">
 	  <p>nō kappaï nigganthāṇaṁ nigganthīṇaṁ uvassayaṁsi ciṭṭhittaē vā nisīittaē tuyaṭṭittaē vā niddāittaē vā payalāittaē vā asanaṁ vā pānaṁ vā khāimaṁ vā sāimaṁ vā āhāramāhārēttaē, uccāraṁ vā pāsavaṇaṁ vā khēlaṁ vā siṅghāṇaṁ vā pariṭṭhavēttaē, sajjhāyaṁ vā karēttaē, jhāṇaṁ vā jhāittaē, kāussaggaṁ vā karēttaē ṭhāṇaṁ vā ṭhāittaē.</p>
 	</div>
@@ -395,7 +395,7 @@
 	  <p>sē gāmaṁsi vā jāva sannivēsaṁsi vā kappaï nigganthāṇa vā nigganthīṇa vā savvaō saṁmantā sakkōsaṁ jōyaṇaṁ ōggahaṁ ōgiṇhittāṇaṁ ciṭṭhittaē pariharittaē tti bēmi.</p>
 	</div>
       </div>
-      <div type="uddēśa" n="4">
+      <div type="uddēsō" n="4">
 	<div type="section" n="111">
 	  <p>taō anugghāiyā pannattā taṁ jahā —hatthakammaṁ karēmāṇē, mēhuṇaṁ paḍisēvamāṇē, rāī-bhōyaṇaṁ bhuñjamāṇē.</p>
 	</div>
@@ -509,7 +509,7 @@
 	  <p>sē taṇēsu vā taṇapuñjēsu vā jāva santāṇaēsu uppiṁrayaṇimukkamaüḍēsu kappaï nigganthāṇa vā nigganthīṇaṁ vā tahappagārē uvassaē vāsāvāsaṁ vatthaē tti bēmi.</p>
 	</div>
       </div>
-      <div type="uddēśa" n="5">
+      <div type="uddēsō" n="5">
 	<div type="section" n="143">
 	  <p>dēvē ya itthirūvaṁ viuvvittā nigganthaṁ paḍiggāhējjā taṁ ca nigganthē sāijjējjā, mēhuṇapaḍisēvaṇapattē āvajjaï cāummāsiyaṁ parihāraṭṭhāṇaṁ anugghāiyaṁ.</p>
 	</div>
@@ -670,7 +670,7 @@
 	  <p>nigganthīē ya gāhāvaïkulaṁ piṇḍavāyapaḍiyāē anuppaviṭṭhāē annayarē pulāgabhattē paḍiggāhiē siyā, sā ya santharējjā, kappaï sē taddivasaṁ tēṇēva bhattaṭṭhēṇaṁ pajjōsavēttaē, nō sē kappaï dōccaṁ pi gāhāvaïkulaṁ piṇḍavāyapaḍiyāē pavisittaē, sā ya nō santharējjā, ēvaṁ sē kappaï dōccaṁ pi gāhāvaïkulaṁ piṇḍavāyapaḍiyāē pavisittaē tti bēmi.</p>
 	</div>
       </div>
-      <div type="uddēśa" n="6">
+      <div type="uddēsō" n="6">
 	<div type="section" n="196">
 	  <p>nō kappaï nigganthāṇa vā nigganthīṇa vā imāiṁ cha avayaṇāiṁ vaïttaē taṁ jahā aliyavayaṇē hīliyavayaṇē khiṁsiyavayaṇē pharusavayaṇē gāratthiyavayaṇē viōsaviyaṁ vā puṇō udīrittaē.</p>
 	</div>

@@ -3,7 +3,7 @@
   <teiHeader xml:lang="eng">
     <fileDesc>
       <titleStmt>
-	<title xml:lang="pra-Latn">Uttarajjhayaṇasuttaṁ</title>
+	<title xml:lang="pka-Latn">Uttarajjhayaṇasuttaṁ</title>
 	<title xml:lang="san-Latn">Uttarādhyayanasūtram</title>
       	<principal><persName ref="http://viaf.org/viaf/372149294434280521495">Andrew Ollett</persName></principal>
       	<respStmt>
@@ -54,7 +54,7 @@
       <change when="2021-07-19" who="AO">Conversion of text to TEI</change>
     </revisionDesc>
   </teiHeader>
-  <text>
+  <text xml:lang="pka-Latn">
     <body>
       <div type="ajjhayaṇaṁ" n="1">
 	<head>viṇayasuyaṁ</head>
@@ -10416,7 +10416,7 @@
 	  </p>
 	</div>
       </div><!-- chattīsaïmaṁ ajjhayaṇaṁ sammattaṁ !-->
-      <traïler>muni dīparatnasāgarēṇa saṁśōdhitāḥ sampāditāś ca <q rend="double">uttarajjhayaṇaṁ mūlasuttaṁ</q> sammattaṁ</traïler>
+      <trailer>muni dīparatnasāgarēṇa saṁśōdhitāḥ sampāditāś ca <q rend="double">uttarajjhayaṇaṁ mūlasuttaṁ</q> sammattaṁ</trailer>
     </body>
   </text>
 </TEI>
