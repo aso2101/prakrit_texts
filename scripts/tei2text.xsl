@@ -142,51 +142,51 @@
 	<xsl:with-param name="chapter" select="./ancestor::tei:div[@n][1]/@n"/>
 	<xsl:with-param name="verse" select="./ancestor::tei:lg[@n][1]/@n"/>
       </xsl:call-template>
-      <xsl:variable name="dvipada" select="tokenize('gāhā āryā ślōkaḥ ślōka anuṣṭubh anuṣṭup')" />
-      <xsl:choose>
-	<xsl:when test="index-of($dvipada, ../@met)">
-	  <xsl:choose>
-	    <xsl:when test="count(preceding-sibling::tei:l) = 0">
-	      <xsl:text>ab</xsl:text>
-	    </xsl:when>
-	    <xsl:when test="count(preceding-sibling::tei:l) = 1">
-	      <xsl:text>cd</xsl:text>
-	    </xsl:when>
-	    <xsl:when test="count(preceding-sibling::tei:l) = 2">
-	      <xsl:text>ef</xsl:text>
-	    </xsl:when>
-	    <xsl:when test="count(preceding-sibling::tei:l) = 3">
-	      <xsl:text>gh</xsl:text>
-	    </xsl:when>
-	    <xsl:otherwise/>
-	  </xsl:choose>
-	</xsl:when>
-	<xsl:otherwise>
-	  <xsl:choose>
-	    <xsl:when test="count(preceding-sibling::tei:l) = 0">
-	      <xsl:text>a</xsl:text>
-	    </xsl:when>
-	    <xsl:when test="count(preceding-sibling::tei:l) = 1">
-	      <xsl:text>b</xsl:text>
-	    </xsl:when>
-	    <xsl:when test="count(preceding-sibling::tei:l) = 2">
-	      <xsl:text>c</xsl:text>
-	    </xsl:when>
-	    <xsl:when test="count(preceding-sibling::tei:l) = 3">
-	      <xsl:text>d</xsl:text>
-	    </xsl:when>
-	    <xsl:when test="count(preceding-sibling::tei:l) = 4">
-	      <xsl:text>e</xsl:text>
-	    </xsl:when>
-	    <xsl:when test="count(preceding-sibling::tei:l) = 5">
-	      <xsl:text>f</xsl:text>
-	    </xsl:when>
-	    <xsl:otherwise/>
-	  </xsl:choose>
-	</xsl:otherwise>
-      </xsl:choose>
-    </xsl:if>
-    <xsl:if test="../@met">
+      <xsl:variable name="dvipada" select="tokenize('gāhā āryā ślōkaḥ ślōka anuṣṭubh anuṣṭup',' ')" />
+      <xsl:if test="../@met">
+	<xsl:choose>
+	  <xsl:when test="index-of($dvipada, ../@met)">
+	    <xsl:choose>
+	      <xsl:when test="count(preceding-sibling::tei:l) = 0">
+		<xsl:text>ab</xsl:text>
+	      </xsl:when>
+	      <xsl:when test="count(preceding-sibling::tei:l) = 1">
+		<xsl:text>cd</xsl:text>
+	      </xsl:when>
+	      <xsl:when test="count(preceding-sibling::tei:l) = 2">
+		<xsl:text>ef</xsl:text>
+	      </xsl:when>
+	      <xsl:when test="count(preceding-sibling::tei:l) = 3">
+		<xsl:text>gh</xsl:text>
+	      </xsl:when>
+	      <xsl:otherwise/>
+	    </xsl:choose>
+	  </xsl:when>
+	  <xsl:otherwise>
+	    <xsl:choose>
+	      <xsl:when test="count(preceding-sibling::tei:l) = 0">
+		<xsl:text>a</xsl:text>
+	      </xsl:when>
+	      <xsl:when test="count(preceding-sibling::tei:l) = 1">
+		<xsl:text>b</xsl:text>
+	      </xsl:when>
+	      <xsl:when test="count(preceding-sibling::tei:l) = 2">
+		<xsl:text>c</xsl:text>
+	      </xsl:when>
+	      <xsl:when test="count(preceding-sibling::tei:l) = 3">
+		<xsl:text>d</xsl:text>
+	      </xsl:when>
+	      <xsl:when test="count(preceding-sibling::tei:l) = 4">
+		<xsl:text>e</xsl:text>
+	      </xsl:when>
+	      <xsl:when test="count(preceding-sibling::tei:l) = 5">
+		<xsl:text>f</xsl:text>
+	      </xsl:when>
+	      <xsl:otherwise/>
+	    </xsl:choose>
+	  </xsl:otherwise>
+	</xsl:choose>
+      </xsl:if>
       <xsl:text> [</xsl:text><xsl:value-of select="../@met"/><xsl:text>]</xsl:text>
     </xsl:if>
     <xsl:text>
