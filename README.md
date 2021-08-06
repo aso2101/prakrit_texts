@@ -30,6 +30,7 @@ The abbreviations mostly follow those of the *Comprehensive and Critical Diction
 
 ### Current texts
 
+- **GaüḍVa.x**: *Gaüḍvahaṁ* of Vākpatirāja, *verse* (`//lg[@n='x']`)
 - **GāSa.x**: *Gāthāsaptaśatī* of Hāla, *verse* (`//lg[@n='x']`)
 - **JōiKa**: *Jyōtiṣkaraṇḍaka* of Pālitta, *verse* (`//lg[@n='x']`)
 - **DeNāMā.x.y**: *Dēśināmamālā* of Hēmacandra, *chapter*.*verse* (`//div[@type='adhyāya'][@n='x']/div[@type='gāthā'][@n='y']/quote[@type='base-text']/lg`)
