@@ -48,21 +48,31 @@ The abbreviations mostly follow those of the *Comprehensive and Critical Diction
 - **Vara.x.y.**: *Prākr̥taprakāśa* of Vararuci, *chapter*.*sūtra* (`//div[@type='chapter][@n='x']/ab[@n='y']`)
 
 - Śvētāmbara Jaina Āgamas (based on the files of Muni Deepratnasagar):
+    - (01) **Āyār**: *Āyāraṅgaṁ*: numbering based on format
+        - **Āyār.x** (section numbering): *section* (`//div[@type='section'][@n='x']`)
+        - **Āyār.1.x.y.z** (first *śrutaskandha*): *suyakkhanda*.*ajjhayaṇa*.*uddēsa.*section* (`//div[@type='suyakkhanda'][@n='1']/div[@type='ajjhayaṇa'][@n='x']/div[@type='uddēsa'][@n='y']/div@[type='section'][@n='z']`)
+        - **Āyār.2.x.y.z** (second *śrutaskandha*): *suyakkhanda*.*cūlā*.*ajjhayaṇa*.*section* (`//div[@type='śrutaskandha'][@n='2']/div[@type='cūlā'][@n='x']/div[@type='ajjhayaṇa'][@n='y']/div[@type='section'][@n='z']`)
+    - (02) **Sūy**: *Sūyagaḍaṅgaṁ*: numbering based on format
+        - **Sūy.x** (section numbering): *section* (`//div[@type='section'][@n='x']`)
+        - **Sūy.w.x.y.z** *suyakkhandō*.*ajjhayaṇaṁ*.*uddēsō.*section* (`//div[@type='suyakkhandō'][@n='w']/div[@type='ajjhayaṇaṁ'][@n='x']/div[@type='uddēsō'][@n='y']/div@[type='section'][@n='z']`)
+    - (03) **Ṭhāṇa**: *Ṭhāṇaṅgaṁ*: numbering based on format
+        - **Ṭhāṇa.x** (section numbering): *section* (`//div[@type='section'][@n='x']`)
+        - **Ṭhāṇa.x.y.z** *ṭhāṇaṁ*.*uddēsō.*section* (`//div[@type='ṭhāṇaṁ'][@n='x']/div[@type='uddēsō'][@n='y']/div@[type='section'][@n='z']`)
     - (06) **Nāyā**: *Nāyādhammakahāō*: numbering based on format
         - **Nāyā.x** (section numbering): *section* (`//div[@type='section'][@n='x']`)
-        - **Nāyā.1.x.y** (first *śrutaskandha*): *śrutaskanda*.*adhyayana*.*section* (`//div[@type='śrutaskandha'][@n='1']/div[@type='adhyayana'][@n='x']/div@[type='section][@n='z']`)
+        - **Nāyā.1.x.y** (first *śrutaskandha*): *śrutaskanda*.*adhyayana*.*section* (`//div[@type='śrutaskandha'][@n='1']/div[@type='adhyayana'][@n='x']/div@[type='section][@n='y']`)
         - **Nāyā.2.x.y.z** (second *śrutaskandha*): *śrutaskanda*.*varga*.*adhyayana*.*section* (`//div[@type='śrutaskandha'][@n='2']/div[@type='varga'][@n='x']/div[@type='adhyayana'][@n='y']/div[@type='section][@n='z']`)
-	- (34) **Nis**: *Nisīhasuttaṁ*: numbering based on format
+    - (34) **Nis**: *Nisīhasuttaṁ*: numbering based on format
         - **Nis.x**: *section* (`//div[@type='section'][@n='x']`)
         - **Nis.x.y**: *chapter*.*section* (`//div[@type='uddēsō'][@n='x']/div[@type='section'][@n='y']`)
     - (35) **Br̥hKapp**: *Br̥hatkalpa*: numbering based on format
         - **Br̥hKapp.x**: *section* (`//div[@type='section'][@n='x']`)
         - **Br̥hKapp.x.y**: *chapter*.*section* (`//div[@type='uddēsō'][@n='x']/div[@type='section'][@n='y']`)
-	- (42) **Dasave**: *Daśavaikālikasūtram*:
-		- **Dasave.x**: *section* (`//div[@type='section'][@n='x']`)
+    - (42) **Dasave**: *Daśavaikālikasūtram*:
+    	- **Dasave.x**: *section* (`//div[@type='section'][@n='x']`)
         - **Dasave.x.y**: *lesson*.*section* (`//div[@type='ajjhayaṇaṁ'][@n='x']/div[@type='section'][@n='y']`)
-		- **Dasave.x.y.z**: *lesson*.*chapter*.*section* (`//div[@type='ajjhayaṇaṁ'][@n='x']/div[@type='uddēsō'][@n='y']/div[@type='section'][@n='z']`)
-	- (43) **Utt.x.y**: *Uttarādhyayana*, *chapter*.*section* (`//div[@type='ajjhayaṇaṁ'][@n='x']/div[@type='section'][@n='y']`)
+	- **Dasave.x.y.z**: *lesson*.*chapter*.*section* (`//div[@type='ajjhayaṇaṁ'][@n='x']/div[@type='uddēsō'][@n='y']/div[@type='section'][@n='z']`)
+    - (43) **Utt.x.y**: *Uttarādhyayana*, *chapter*.*section* (`//div[@type='ajjhayaṇaṁ'][@n='x']/div[@type='section'][@n='y']`)
     - (44) **Nandī.x**: *Nandīsūtra*, *section* (`//div[@type='section'][@n='x']`)
     - (45) **AṇuŌg.x**: *Anuyōgadvārasūtra*, *section* (`//div[@type='section'][@n='x']`)
 
