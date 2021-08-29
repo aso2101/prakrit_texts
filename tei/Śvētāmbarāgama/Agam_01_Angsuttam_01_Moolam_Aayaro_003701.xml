@@ -97,7 +97,7 @@
        <change when="2020-08-15" who="AO">Conversion of text to TEI</change>
     </revisionDesc>
   </teiHeader>
-  <text>
+  <text xml:lang="pka-Latn">
     <body>
       <div type="suyakkhandha" n="1">
 	<div type="ajjhayaṇa" n="1">

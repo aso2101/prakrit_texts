@@ -1,0 +1,4415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PiṇḍNi">
+  <teiHeader xml:lang="eng">
+    <fileDesc>
+      <titleStmt>
+	<title xml:lang="pra-Latn">Piṇḍanijjuttī</title>
+	<title xml:lang="san-Latn">Piṇḍaniryuktiḥ</title>
+      	<principal><persName ref="http://viaf.org/viaf/372149294434280521495">Andrew Ollett</persName></principal>
+      	<respStmt>
+      	  <persName xml:id="AO">Andrew Ollett</persName> 
+      	  <resp>Processed the text data from Muni Deepratnasagar Ji's DOCX files into romanized TEI.</resp>
+      	</respStmt>
+	<respStmt>
+	  <persName xml:id="IR">Itamar Ramot</persName> 
+	  <resp>Bibliographic and text-processing assistance.</resp>
+	</respStmt>
+      </titleStmt>
+      <publicationStmt>
+      	<authority/>
+	<availability status="restricted">
+	  <p><!-- add whatever license you like: --></p>
+	</availability>
+	<date>2022</date>
+	<publisher><!-- EFEO/EPHE (Université of PSL) --></publisher>
+	<pubPlace><!-- Paris --></pubPlace>
+      </publicationStmt>
+      <sourceDesc>
+	<p>This electronic text is based on the DOCX files of the entire Śvētāmbara canon provided by Muni Deepratnasagar and made available through Jain e-Library. The ID of the DOCX file for this text is 003781..</p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>The Piṇḍaniryukti consists just of 713 verses without sections.</p>
+      <refsDecl n="CTS">
+	<cRefPattern 
+	    n="level1"
+	    matchPattern="(\d+)"
+	    replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div[@type='section'][@n='$1']">
+	  <p>This pointer pattern extracts verses/sections, numbered continuously from the beginning of the text.</p>
+	</cRefPattern>
+      </refsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+      	<language ident="pra-Latn">Prakrit, romanized in ISO-15919</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2021-08-29" who="AO">Conversion of text to TEI</change>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="pra-Latn">
+    <body>
+      <div type="section" n="1">
+	<lg n="1">
+	  <l>piṇḍē uggama uppāyaṇēsaṇā jōyaṇā pamāṇē ya</l>
+	  <l>iṅgāla dhūma kāraṇa aṭṭhavihā piṇḍanijjutti</l>
+	</lg>
+      </div>
+      <div type="section" n="2">
+	<lg n="2">
+	  <l>piṇḍa nikāya samūhē sampiṇḍaṇa piṇḍaṇā ya samavāē</l>
+	  <l>samusaraṇa nicaya uvacaya caē ya jummē ya rāsī ya</l>
+	</lg>
+      </div>
+      <div type="section" n="3">
+	<lg n="3">
+	  <l>piṇḍassa u nikkhēvō caukkaō chakkaō va kāyavvō</l>
+	  <l>nikkhēvaṁ kāūṇaṁ parūvaṇā tassa kāyavvā</l>
+	</lg>
+      </div>
+      <div type="section" n="4">
+	<lg n="4">
+	  <l>kulaē ya caubhāgassa sambhavō chakkaē cauṇhaṁ ca</l>
+	  <l>niyamēṇa sambhavō atthi chakkagaṁ nikkhivē tamhā</l>
+	</lg>
+      </div>
+      <div type="section" n="5">
+	<lg n="5">
+	  <l>nāmaṇṭhavaṇāpiṇḍō davvē khettē ya kāla bhāvē ya</l>
+	  <l>ēsō khalu piṇḍassa u nikkhēvō chavvihō hōi</l>
+	</lg>
+      </div>
+      <div type="section" n="6">
+	<lg n="6">
+	  <l>goṇṇaṁ samayakayaṁ vā jaṁ vāvi havejja tadubhaēṇa kayaṁ</l>
+	  <l>taṁ binti nāmapiṇḍaṁ ṭhavaṇāpiṇḍaṁ aō vocchaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="7">
+	<lg n="7">
+	  <l>guṇanipphannaṁ goṇṇaṁ taṁ cēva jahatthama satthavī benti</l>
+	  <l>taṁ puṇa khavaṇō jalaṇō tavaṇō pavaṇō paīvō ya</l>
+	</lg>
+      </div>
+      <div type="section" n="8">
+	<lg n="8">
+	  <l>piṇḍaṇa bahudavvāṇaṁ paḍivakkhēṇāvi jattha piṇḍakkhā</l>
+	  <l>sō samayakaō piṇḍō jaha suttaṁ piṇḍapaḍiyāī</l>
+	</lg>
+      </div>
+      <div type="section" n="9">
+	<lg n="9">
+	  <l>jassa puṇa piṇḍavāyaṭṭhayaṁ paviṭṭhassa hōi sampattī</l>
+	  <l>guḍaōyaṇapiṇḍēhiṁ taṁ tadubhayapiṇḍamāhaṁsu</l>
+	</lg>
+      </div>
+      <div type="section" n="10">
+	<lg n="10">
+	  <l>ubhayāirittamahavā annampi hu atthi lōiyaṁ nāma</l>
+	  <l>attābhippāyakayaṁ jaha sīhagadēvadattāī</l>
+	</lg>
+      </div>
+      <div type="section" n="11">
+	<lg n="11">
+	  <l>goṇṇasamayārittaṁ iṇamannaṁ vā'vi sūiyaṁ nāma</l>
+	  <l>jaha piṇḍautti kīrai kassai nāmaṁ manūsassa</l>
+	</lg>
+      </div>
+      <div type="section" n="12">
+	<lg n="12">
+	  <l>tullē'vi abhippāē samayapasiddhaṁ na giṇhaē lōō</l>
+	  <l>jaṁ puṇa lōyapasiddhaṁ taṁ sāmaiyā uvacaranti</l>
+	</lg>
+      </div>
+      <div type="section" n="13">
+	<lg n="13">
+	  <l>akkhē varāḍaē vā kaṭṭhē putthē va cittakammē vā</l>
+	  <l>sabbhāvamasabbhāvē ṭhavaṇāpiṇḍaṁ viyāṇāhi</l>
+	</lg>
+      </div>
+      <div type="section" n="14">
+	<lg n="14">
+	  <l>ikkō u asabbhāvē tiṇhaṁ ṭhavaṇā u hōi sabbhāvē</l>
+	  <l>cittēsu asabbhāvē dārualeppōvalē siyarō</l>
+	</lg>
+      </div>
+      <div type="section" n="15">
+	<lg n="15">
+	  <l>tivihō u davvapiṇḍō saccittō mīsaō acittō ya</l>
+	  <l>ekkekkassa ya ettō nava nava bhēā u pattēyaṁ ।।
+
+	  gāhā-16</l>
+	</lg>
+      </div>
+      <div type="section" n="16">
+	<lg n="16">
+	  <l>puḍhavī āukkāō tēū vāū vaṇassaī cēva</l>
+	  <l>bēindiya tēindiya caurō pañcendiyā cēva</l>
+	</lg>
+      </div>
+      <div type="section" n="17">
+	<lg n="17">
+	  <l>puḍhavīkāō tivihō saccittō mīsaō ya accittō</l>
+	  <l>saccittō puṇa duvihō nicchayavavahāraō cēva</l>
+	</lg>
+      </div>
+      <div type="section" n="18">
+	<lg n="18">
+	  <l>nicchayaō saccittō puḍhavimahāpavvayāṇa bahumajjhē</l>
+	  <l>accittamīsavajjō sēsō vavahārasaccittō</l>
+	</lg>
+      </div>
+      <div type="section" n="19">
+	<lg n="19">
+	  <l>khīradumaheṭṭha panthē kaṭṭhōlē indhaṇē ya mīsō u</l>
+	  <l>pōrisi ēga duga tigaṁ bahuindhaṇamajjhathōvē ya</l>
+	</lg>
+      </div>
+      <div type="section" n="20">
+	<lg n="20">
+	  <l>sīuṇha-khāra-khattē aggī-lōṇūsa ambilē-nēhē</l>
+	  <l>vukkantajōṇiēṇaṁ payōyaṇaṁ tēṇimaṁ hōi</l>
+	</lg>
+      </div>
+      <div type="section" n="21">
+	<lg n="21">
+	  <l>avaraddhigavisabandhē lavaṇēṇa va surabhiuvalaēṇaṁ vā</l>
+	  <l>accittassa u gahaṇaṁ paōyaṇaṁ tēṇimaṁ ca'nnaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="22">
+	<lg n="22">
+	  <l>ṭhāṇanisiyaṇatuyaṭṭaṇa uccārāī cēva ussaggō</l>
+	  <l>ghaṭṭagaḍagalagalēvō ēmāi paōyaṇaṁ bahuhā</l>
+	</lg>
+      </div>
+      <div type="section" n="23">
+	<lg n="23">
+	  <l>āukkāō tivihō saccittō mīsaō ya accittō</l>
+	  <l>saccittō puṇa duvihō nicchayavavahāraō cēva</l>
+	</lg>
+      </div>
+      <div type="section" n="24">
+	<lg n="24">
+	  <l>ghanaudahī ghanavalayā karagasamuddaddahāṇa bahumajjhē</l>
+	  <l>aha nicchayasaccittō vavahāranayassa aghaḍāī</l>
+	</lg>
+      </div>
+      <div type="section" n="25">
+	<lg n="25">
+	  <l>usiṇōdagamanuvattē daṇḍē vāsē ya paḍiyamittaṁmi</l>
+	  <l>mottūṇādēsatigaṁ cāulaudagē'bahu pasannaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="26">
+	<lg n="26">
+	  <l>bhaṇḍagapāsavilaggā uttēḍā bubbuyā na saṁmanti</l>
+	  <l>jā tāva mīsagaṁ tandulā ya rajjhanti jāva'nnē</l>
+	</lg>
+      </div>
+      <div type="section" n="27">
+	<lg n="27">
+	  <l>ēē u anāēsā tinni vi kālaniyamassa'sambhavaō</l>
+	  <l>lukkhēyara bhaṇḍaga pavaṇa sambhavāsambhavāīhiṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="28">
+	<lg n="28">
+	  <l>jāva na bahuppasannaṁ tā mīsaṁ ēsa ittha āēsō</l>
+	  <l>hōi pamāṇamacittaṁ bahuppasannaṁ tu nāyavvaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="29">
+	<lg n="29">
+	  <l>sīuṇha khārakhattē aggī lōṇūsa ambilē nēhē</l>
+	  <l>vukkantajōṇiēṇaṁ paōyaṇaṁ tēṇimaṁ hōi</l>
+	</lg>
+      </div>
+      <div type="section" n="30">
+	<lg n="30">
+	  <l>parisēyapiyaṇahatthāi dhōvaṇaṁ cīradhōvaṇaṁ cēva</l>
+	  <l>āyamaṇa bhāṇadhuvaṇaṁ ēmāi paōyaṇaṁ bahuhā</l>
+	</lg>
+      </div>
+      <div type="section" n="31">
+	<lg n="31">
+	  <l>uubaddha dhuvaṇa bāusa bambhavināsō aṭhāṇaṭhavaṇaṁ ca</l>
+	  <l>sampāimavāuvahō pāvaṇa bhūōvaghāō ya</l>
+	</lg>
+      </div>
+      <div type="section" n="32">
+	<lg n="32">
+	  <l>aibhāra cuḍaṇa paṇaē sīyalapāuraṇa'jīra gēlaṇṇē</l>
+	  <l>ōhāvaṇa kāyavahō vāsāsu adhōvaṇē dōsā ।।
+
+	  gāhā-33</l>
+	</lg>
+      </div>
+      <div type="section" n="33">
+	<lg n="33">
+	  <l>appattecciya vāsē savvaṁ uvahiṁ dhuvanti jayaṇāē</l>
+	  <l>asaīē u davassa ya jahannaō pāyanijjōgō</l>
+	</lg>
+      </div>
+      <div type="section" n="34">
+	<lg n="34">
+	  <l>āyariyagilāṇāṇa ya mailā mailā puṇō'vi dhōvanti</l>
+	  <l>mā hu gurūṇa avaṇṇō lōgaṁmi ajīraṇaṁ iyarē</l>
+	</lg>
+      </div>
+      <div type="section" n="35">
+	<lg n="35">
+	  <l>pāyassa paḍōyārō dunisijja tipaṭṭa potti rayaharaṇaṁ</l>
+	  <l>ēē u na vīsāmē jayaṇā saṅkāmaṇā dhuvaṇaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="36">
+	<lg n="36">
+	  <l>pāyassa paḍōyārō pattagavajjō ya pāyanijjōgō</l>
+	  <l>donni nisijjāō puṇa abbhintara bāhirā cēva</l>
+	</lg>
+      </div>
+      <div type="section" n="37">
+	<lg n="37">
+	  <l>santhāruttaracōlagapaṭṭā tinni u havanti nāyavvā</l>
+	  <l>muhapottiyatti pottī ēganisejjaṁ ca rayaharaṇaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="38">
+	<lg n="38">
+	  <l>ēē u na vīsāmē paidinamuvaōgaō ya jayaṇāē</l>
+	  <l>saṅkāmiūṇa dhōvanti vijja chappaiyā tattha vihiṇā u</l>
+	</lg>
+      </div>
+      <div type="section" n="39">
+	<lg n="39">
+	  <l>jō puṇa vīsamijjai taṁ ēvaṁ vīyarāya-āṇāē</l>
+	  <l>pattē dhōvaṇakālē uvahiṁ vīsāmaē sāhū</l>
+	</lg>
+      </div>
+      <div type="section" n="40">
+	<lg n="40">
+	  <l>abbhintaraparibhōgaṁ uvariṁ pāuṇai nāidūrē ya</l>
+	  <l>tinni ya tinni ya ēgaṁ nisiṁ tu kāuṁ paricchijjā</l>
+	</lg>
+      </div>
+      <div type="section" n="41">
+	<lg n="41">
+	  <l>dhōvatthaṁ tinni dinā uvariṁ pāuṇai taha ya āsannaṁ</l>
+	  <l>dhārēi tinni diyahē ēgadinaṁ uvari lambantaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="42">
+	<lg n="42">
+	  <l>kēī ekkekkanisiṁ saṁvāsēuṁ tihā paricchanti</l>
+	  <l>pāuṇai jai na lagganti chappaiyā tāhi dhōvanti</l>
+	</lg>
+      </div>
+      <div type="section" n="43">
+	<lg n="43">
+	  <l>nivvōdagassa gahaṇaṁ kēī bhāṇēsu asui paḍisēhō</l>
+	  <l>gihibhāyaṇēsu gahaṇaṁ ṭhiya vāsē mīsagaṁ chārō</l>
+	</lg>
+      </div>
+      <div type="section" n="44">
+	<lg n="44">
+	  <l>gurupaccakkhāṇigilāṇa sēhamāīṇa dhōvaṇaṁ puvvaṁ</l>
+	  <l>tō appaṇō puvvamahākaḍē ya iyarē duvē pacchā</l>
+	</lg>
+      </div>
+      <div type="section" n="45">
+	<lg n="45">
+	  <l>acchōḍapiṭṭaṇāsu ya na dhuvē dhōē payāvaṇaṁ na karē</l>
+	  <l>paribhōga aparibhōgē chāyāyava pēha kallāṇaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="46">
+	<lg n="46">
+	  <l>tivihō tēukkāō saccittō mīsaō ya accittō</l>
+	  <l>sacittō puṇa duvihō nicchaya vavahāraō cēva</l>
+	</lg>
+      </div>
+      <div type="section" n="47">
+	<lg n="47">
+	  <l>iṭṭagapāgāīṇaṁ bahumajjhē vijjumāi nicchayaō</l>
+	  <l>iṅgālāī iyarotti mummuramāī u missō u</l>
+	</lg>
+      </div>
+      <div type="section" n="48">
+	<lg n="48">
+	  <l>ōyaṇavañjaṇapānaga āyāmusiṇōdagaṁ ca kummāsā</l>
+	  <l>ḍagalagasarakkhasūī pippalamāī u uvaōgō</l>
+	</lg>
+      </div>
+      <div type="section" n="49">
+	<lg n="49">
+	  <l>vāukkāō tivihō saccittō mīsaō ya accittō</l>
+	  <l>sacittō puṇa duvihō nicchayavavahāraō cēva ।।
+
+	  gāhā-50</l>
+	</lg>
+      </div>
+      <div type="section" n="50">
+	<lg n="50">
+	  <l>savalaya ghanatanuvāyā aihima aiduddiṇē ya nicchayaō</l>
+	  <l>vavahāra pāiṇāī akkantāī ya accittō</l>
+	</lg>
+      </div>
+      <div type="section" n="51">
+	<lg n="51">
+	  <l>akkantadhantaghāṇē dēhānugaē ya pīliyāisu ya</l>
+	  <l>accitta vāukāō va ēvavihō bhaṇiō kammaṭṭhamahaṇēhiṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="52">
+	<lg n="52">
+	  <l>hatthasayamēga gantā daiō accittu bīyaē mīsō</l>
+	  <l>taiyaṁmi u sacittō vatthī puṇa pōrisidinēsu</l>
+	</lg>
+      </div>
+      <div type="section" n="53">
+	<lg n="53">
+	  <l>niddhēyarō ya kālō ēgantisiṇiddhamajjhimajahannō</l>
+	  <l>lukkhōvi hōi tivihō jahannamajjhō ya ukkōsō</l>
+	</lg>
+      </div>
+      <div type="section" n="54">
+	<lg n="54">
+	  <l>ēgantasiṇiddhaṁmī pōrisimēgaṁ acēaṇō hōi</l>
+	  <l>biiyāē saṁmīsō taiyāi sacēyaṇō vatthī</l>
+	</lg>
+      </div>
+      <div type="section" n="55">
+	<lg n="55">
+	  <l>majjhimaniddhē dō pōrisīu accittu mīsaō taiē</l>
+	  <l>cautthīē saccittō pavaṇō daiyāi majjhagaō</l>
+	</lg>
+      </div>
+      <div type="section" n="56">
+	<lg n="56">
+	  <l>pōrisitigamaccittō niddhajahannaṁmi mīsaga cautthī</l>
+	  <l>saccitta pañcamīē ēvaṁ lukkhē'vi dinavuḍḍhī</l>
+	</lg>
+      </div>
+      <div type="section" n="57">
+	<lg n="57">
+	  <l>daiēṇa vatthiṇā vā paōyaṇaṁ hojja vāuṇā muṇiṇō</l>
+	  <l>gēlannaṁmi va hojjā sacittamīsē pariharejjā</l>
+	</lg>
+      </div>
+      <div type="section" n="58">
+	<lg n="58">
+	  <l>vaṇasaikāō tivihō saccittō mīsaō ya accittō</l>
+	  <l>saccittō puṇa duvihō nicchayavavahāraō cēva</l>
+	</lg>
+      </div>
+      <div type="section" n="59">
+	<lg n="59">
+	  <l>savvō'va'nantakāō saccittō hōi nicchayanayassa</l>
+	  <l>vavahārassa ya sēsō mīsō pavvāyaroṭṭāī</l>
+	</lg>
+      </div>
+      <div type="section" n="60">
+	<lg n="60">
+	  <l>pupphāṇaṁ pattāṇaṁ saraḍuphalāṇaṁ tahēva hariyāṇaṁ</l>
+	  <l>veṇṭaṁmi milāṇaṁmi nāyavvaṁ jīvavippajaḍhaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="61">
+	<lg n="61">
+	  <l>santhārapāyadaṇḍagakhōmiya kappā ya pīḍhaphalagāī</l>
+	  <l>ōsahabhēsajjāṇi ya ēmāi paōyaṇaṁ bahuhā</l>
+	</lg>
+      </div>
+      <div type="section" n="62">
+	<lg n="62">
+	  <l>biyatiyacaurō pañcandiyā ya tippabhii jattha u samenti</l>
+	  <l>saṭṭhāṇē saṭṭhāṇē sō piṇḍō tēṇa kajjamiṇaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="63">
+	<lg n="63">
+	  <l>bēindiyaparibhōgō akkhāṇa sasippasaṅkhamāīṇaṁ</l>
+	  <l>tēindiyāṇa uddēhigādi jaṁ vā vaē vejjō</l>
+	</lg>
+      </div>
+      <div type="section" n="64">
+	<lg n="64">
+	  <l>caurindiyāṇa macchiyaparihārō cēva āsamakkhiyā cēva</l>
+	  <l>pañcendiyapiṇḍaṁmi u avvavahārī u nēraiyā</l>
+	</lg>
+      </div>
+      <div type="section" n="65">
+	<lg n="65">
+	  <l>cammaṭṭhidantanaharōmasiṅga avilāichagaṇagōmuttē</l>
+	  <l>khīradadhimāiyāṇa ya pañcindiyatiriyaparibhōgō</l>
+	</lg>
+      </div>
+      <div type="section" n="66">
+	<lg n="66">
+	  <l>saccittē pavvāvaṇa panthuvaēsē ya bhikkhadāṇāī</l>
+	  <l>sīsaṭṭhiga accittē mīsaṭṭhisarakkhapahapucchā ।।
+
+	  gāhā-67</l>
+	</lg>
+      </div>
+      <div type="section" n="67">
+	<lg n="67">
+	  <l>khamagāi kālakajjāiēsu pucchijja dēvayaṁ kañci</l>
+	  <l>panthē subhāsubhē vā pucchēī divva uvaōgō</l>
+	</lg>
+      </div>
+      <div type="section" n="68">
+	<lg n="68">
+	  <l>aha mīsaō ya piṇḍō ēēsiṁ ciya navaṇha piṇḍāṇaṁ</l>
+	  <l>duga sañjōgāīō nāyavvō jāva caramotti</l>
+	</lg>
+      </div>
+      <div type="section" n="69">
+	<lg n="69">
+	  <l>sōvīra gōrasāsava vēsaṇa bhēsajja nēha sāgaphalē</l>
+	  <l>poggalalōṇa gulōyaṇa nēgā piṇḍā u sañjōgē</l>
+	</lg>
+      </div>
+      <div type="section" n="70">
+	<lg n="70">
+	  <l>tinni u paēsasamayā ṭhāṇaṭṭhiiu daviē tayāēsā</l>
+	  <l>caupañcamapiṇḍāṇaṁ jattha jayā tapparūvaṇayā</l>
+	</lg>
+      </div>
+      <div type="section" n="71">
+	<lg n="71">
+	  <l>muttadaviēsu jujjai jai annonnāṇuvēhaō piṇḍō</l>
+	  <l>muttivimuttēsuvi sō jujjai nanusaṅkhabāhullā</l>
+	</lg>
+      </div>
+      <div type="section" n="72">
+	<lg n="72">
+	  <l>jaha tipaēsō khandhō tisuvi paēsēsu jō samōgāḍhō</l>
+	  <l>avibhāgiṇa sambaddhō kahannu nēvaṁ tadādhārō?</l>
+	</lg>
+      </div>
+      <div type="section" n="73">
+	<lg n="73">
+	  <l>ahavā cauṇha niyamā jōgavibhāgēṇa jujjaē piṇḍō</l>
+	  <l>dōsu jahiyaṁ tu piṇḍō vaṇṇijjai kīraē vāvi</l>
+	</lg>
+      </div>
+      <div type="section" n="74">
+	<lg n="74">
+	  <l>duvihō u bhāvapiṇḍō pasatthaō cēva appasatthō ya</l>
+	  <l>ēēsiṁ dōṇhampiya pattēya parūvaṇaṁ vocchaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="75">
+	<lg n="75">
+	  <l>ēgavihāidasavihō pasatthaō cēva appasatthō ya</l>
+	  <l>sañjama vijjācaraṇē nāṇāditigaṁ ca tivihō u</l>
+	</lg>
+      </div>
+      <div type="section" n="76">
+	<lg n="76">
+	  <l>nāṇaṁ daṁsaṇaṁ tava sañjamō ya vaya pañca chacca jāṇejjā</l>
+	  <l>piṇḍēsaṇaṁ pāṇēsaṇaṁ uggahapaḍimā ya piṇḍaṁmi</l>
+	</lg>
+      </div>
+      <div type="section" n="77">
+	<lg n="77">
+	  <l>pavayaṇamāyā nava bambhaguttiō taha ya samaṇadhammō ya</l>
+	  <l>ēsa pasatthō piṇḍō bhaṇiō kammaṭṭhamahaṇēhiṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="78">
+	<lg n="78">
+	  <l>apasatthō ya asañjama annāṇaṁ avirai ya micchattaṁ</l>
+	  <l>kōhāyāsavakāyā kammē'guttī a hammō ya</l>
+	</lg>
+      </div>
+      <div type="section" n="79">
+	<lg n="79">
+	  <l>bajjhai ya jēṇa kammaṁ sō savvō hōi appasatthō u</l>
+	  <l>muccai ya jēṇa sō uṇa pasatthaō navari vinnēō</l>
+	</lg>
+      </div>
+      <div type="section" n="80">
+	<lg n="80">
+	  <l>daṁsaṇanāṇacarittāṇa pajjavā jē u jattiyā vā'vi</l>
+	  <l>sō sō hōi tayakkhō pajjavapēyālaṇā piṇḍō</l>
+	</lg>
+      </div>
+      <div type="section" n="81">
+	<lg n="81">
+	  <l>kammāṇa jēṇa bhāvēṇa appagaṁ ciṇai cikkaṇaṁ piṇḍaṁ</l>
+	  <l>sō hōi bhāvapiṇḍō piṇḍayaē piṇḍaṇa jamhā</l>
+	</lg>
+      </div>
+      <div type="section" n="82">
+	<lg n="82">
+	  <l>davvē accittēṇaṁ bhāvaṁmi vēya pasatthaēṇihaṁ pagayaṁ</l>
+	  <l>uccāriyatthasarisā sīsamai vikōvaṇaṭṭhāē</l>
+	</lg>
+      </div>
+      <div type="section" n="83">
+	<lg n="83">
+	  <l>āhārauvahisejjā pasatthapiṇḍassuvaggahaṁ kuṇai</l>
+	  <l>āhārē ahigārō aṭṭhahiṁ ṭhāṇēhiṁ sō suddhō ।।
+
+	  gāhā-84</l>
+	</lg>
+      </div>
+      <div type="section" n="84">
+	<lg n="84">
+	  <l>nivvāṇaṁ khalu kajjaṁ nāṇāitigaṁ ca kāraṇaṁ tassa</l>
+	  <l>nivvāṇakāraṇāṇaṁ ca kāraṇaṁ hōi āhārō</l>
+	</lg>
+      </div>
+      <div type="section" n="85">
+	<lg n="85">
+	  <l>jaha kāraṇaṁ tu tantū paḍassa tēsiṁ ca honti pamhāiṁ</l>
+	  <l>nāṇāitigassēvaṁ āhārō mokkhanēmassa</l>
+	</lg>
+      </div>
+      <div type="section" n="86">
+	<lg n="86">
+	  <l>jaha kāraṇamanuvahayaṁ kajjaṁ sāhēi avikalaṁ niyamā</l>
+	  <l>mokkhakkhamāṇi ēvaṁ nāṇāīṇi u avigalāiṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="87">
+	<lg n="87">
+	  <l>saṅkhēvapiṇḍiyatthō ēvaṁ piṇḍō maē samakkhāō</l>
+	  <l>phuḍaviyaḍapāyaḍatthaṁ vocchāmi ēsaṇaṁ ettō</l>
+	</lg>
+      </div>
+      <div type="section" n="88">
+	<lg n="88">
+	  <l>ēsaṇa gavēsaṇa maggaṇā ya uggōvaṇā ya boddhavvā</l>
+	  <l>ēē u ēsaṇāē nāmā ēgaṭṭhiyā honti</l>
+	</lg>
+      </div>
+      <div type="section" n="89">
+	<lg n="89">
+	  <l>nāmaṇṭhavaṇā daviē bhāvaṁmi ya ēsaṇā muṇēyavvā</l>
+	  <l>davvē bhāvē ekkekkayā u tivihā muṇēyavvā</l>
+	</lg>
+      </div>
+      <div type="section" n="90">
+	<lg n="90">
+	  <l>jammaṁ ēsai ēgō suyassa annō tamēsaē naṭṭhaṁ</l>
+	  <l>sattuṁ ēsai annō paēṇa annō ya sē maccuṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="91">
+	<lg n="91">
+	  <l>ēmēva sēsaēsu vi cauppayāpaya acittamīsēsu</l>
+	  <l>jā jattha jujjaē ēsaṇā u taṁ tattha jōejjā</l>
+	</lg>
+      </div>
+      <div type="section" n="92">
+	<lg n="92">
+	  <l>bhāvēsaṇā u tivihā gavēsagahaṇēsaṇā u boddhavvā</l>
+	  <l>gāsēsaṇā u kamasō pannattā vīyarāgēhiṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="93">
+	<lg n="93">
+	  <l>agaviṭṭhassa u gahaṇaṁ na hōi na ya agahiyassa paribhōgō</l>
+	  <l>ēsaṇatigassa ēsā nāyavvā ānupuvvī u</l>
+	</lg>
+      </div>
+      <div type="section" n="94">
+	<lg n="94">
+	  <l>nāmaṁ ṭhavaṇā daviē bhāvaṁmi gavēsaṇā muṇēyavvā</l>
+	  <l>davvaṁmi kuraṅgagayā uggamauppāyaṇā bhāvē</l>
+	</lg>
+      </div>
+      <div type="section" n="95">
+	<lg n="95">
+	  <l>jiyasattudēvicitta sabhapavisaṇaṁ kanagapiṭṭhapāsaṇayā</l>
+	  <l>dōhaladubbalapucchā kahaṇaṁ āṇā ya purisāṇaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="96">
+	<lg n="96">
+	  <l>sīvannisarisamōyagakaraṇaṁ sīvannirukkhaheṭṭhēsu</l>
+	  <l>āgamana kuraṅgāṇaṁ pasattha apasattha uvamā u</l>
+	</lg>
+      </div>
+      <div type="section" n="97">
+	<lg n="97">
+	  <l>viiamēyaṁ kuraṅgāṇaṁ jayā sīvanni sīyai</l>
+	  <l>purāvi vāyā vāyantā na uṇaṁ puñjakapuñjakā</l>
+	</lg>
+      </div>
+      <div type="section" n="98">
+	<lg n="98">
+	  <l>hatthiggahaṇaṁ gimhē arahaṭṭēhiṁ bharaṇaṁ ca sarasīṇaṁ</l>
+	  <l>accudaēṇa nalavaṇā ahirūḍhā gayakulāgamanaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="99">
+	<lg n="99">
+	  <l>viiyamēyaṁ gajakulāṇaṁ jayā rōhanti nalavaṇā</l>
+	  <l>annayāvi jharanti jharā na ya ēvaṁ bahuōdagā</l>
+	</lg>
+      </div>
+      <div type="section" n="100">
+	<lg n="100">
+	  <l>uggama uggōvaṇa maggaṇā ya ēgaṭṭhiyāi ēyāṇi</l>
+	  <l>nāmaṁ ṭhavaṇā daviē bhāvaṁmi ya uggahō hōi ।।
+
+	  gāhā-101</l>
+	</lg>
+      </div>
+      <div type="section" n="101">
+	<lg n="101">
+	  <l>davvaṁmi laḍḍugāī bhāvē tivihoggamō muṇēyavvō</l>
+	  <l>daṁsaṇanāṇacarittē cariuggamēṇettha ahigārō</l>
+	</lg>
+      </div>
+      <div type="section" n="102">
+	<lg n="102">
+	  <l>jōisataṇōsahīṇaṁ mēhariṇakarāṇamuggamō davvē</l>
+	  <l>sō puṇa jattō ya jayā jahā ya davvuggamō vaccō</l>
+	</lg>
+      </div>
+      <div type="section" n="103">
+	<lg n="103">
+	  <l>vāsaharā anujattā atthāṇī jogga kiḍḍakālē ya</l>
+	  <l>ghaḍagasarāvēsu kayā u mōgayā laḍḍugapiyassa</l>
+	</lg>
+      </div>
+      <div type="section" n="104">
+	<lg n="104">
+	  <l>jogga ajiṇṇa māruya nisagga tisamuttha tō suisamutthō</l>
+	  <l>āhāruggamacintā asuitti duhā malappabhavō</l>
+	</lg>
+      </div>
+      <div type="section" n="105">
+	<lg n="105">
+	  <l>tassēvaṁ vēragguggamēṇa sammattanāṇacaraṇāṇaṁ</l>
+	  <l>jugavaṁ kamuggamō vā kēvalanāṇuggamō jāō</l>
+	</lg>
+      </div>
+      <div type="section" n="106">
+	<lg n="106">
+	  <l>daṁsaṇanāṇappabhavaṁ caraṇaṁ suddhēsu tēsu tassuddhī</l>
+	  <l>caraṇēṇa kammasuddhī uggamasamuddhīi caraṇasuddhī</l>
+	</lg>
+      </div>
+      <div type="section" n="107">
+	<lg n="107">
+	  <l>āhākammuddēsiya pūīkammē ya mīsajāē ya</l>
+	  <l>ṭhavaṇā pāhuḍiyāē pāōara kīya pāmiccē</l>
+	</lg>
+      </div>
+      <div type="section" n="108">
+	<lg n="108">
+	  <l>pariyaṭṭiē abhihaḍē ubbhinnē mālōhaḍē iya</l>
+	  <l>acchijjē anisiṭṭhē ajjhōyaraē ya sōlasamē</l>
+	</lg>
+      </div>
+      <div type="section" n="109">
+	<lg n="109">
+	  <l>āhākammiyanāmā ēgaṭṭhā kassa vāvi kiṁ vāvi ?</l>
+	  <l>parapakkhē ya sapakkhē caurō gahaṇē ya āṇāī</l>
+	</lg>
+      </div>
+      <div type="section" n="110">
+	<lg n="110">
+	  <l>āhā ahē ya kammē āyāhammē ya attakammē ya</l>
+	  <l>paḍisēvaṇa paḍisuṇaṇā saṁvāsa'numōyaṇā cēva</l>
+	</lg>
+      </div>
+      <div type="section" n="111">
+	<lg n="111">
+	  <l>dhanujuyakāyabharāṇaṁ kuḍumba-rajjadhuramāiyāṇaṁ ca</l>
+	  <l>khandhāī hiyayaṁ miya davvāhā antaē dhaṇuṇō</l>
+	</lg>
+      </div>
+      <div type="section" n="112">
+	<lg n="112">
+	  <l>ōrālasarīrāṇaṁ uddavaṇa tivāyaṇaṁ ca jassaṭṭhā</l>
+	  <l>maṇamāhittā kīrai āhākammaṁ tayaṁ benti</l>
+	</lg>
+      </div>
+      <div type="section" n="113">
+	<lg n="113">
+	  <l>ōrālaggahaṇēṇaṁ tirikkhamanuyā'havā suhumavajjā</l>
+	  <l>uddavaṇaṁ puṇa jāṇasu aivāyavivajjiyaṁ pīḍaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="114">
+	<lg n="114">
+	  <l>kāyavaimanō tinni u ahavā dēhāuindiyappāṇā</l>
+	  <l>sāmittāvāyāṇē hōi tivāō ya karaṇēsu ya</l>
+	</lg>
+      </div>
+      <div type="section" n="115">
+	<lg n="115">
+	  <l>hiyayaṁmi samāhēuṁ ēgamanēgaṁ ca gāhagaṁ jō u</l>
+	  <l>vahanaṁ karēi dāyā kāyēṇa tamāhakammaṁ ti</l>
+	</lg>
+      </div>
+      <div type="section" n="116">
+	<lg n="116">
+	  <l>jaṁ davvaṁ udagāisu chūḍhamahē vayai jaṁ ca bhārēṇaṁ</l>
+	  <l>sīīē rajjuēṇa va ōyaraṇaṁ davva'hēkammaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="117">
+	<lg n="117">
+	  <l>sañjamaṭhāṇāṇaṁ kaṇḍagāṇa lēsā-ṭhiī-visēsāṇaṁ</l>
+	  <l>bhāvaṁ ahē karēī tamhā taṁ bhāva'hēkammaṁ ।।
+
+	  gāhā-118</l>
+	</lg>
+      </div>
+      <div type="section" n="118">
+	<lg n="118">
+	  <l>tatthānantā u carittapajjavā honti sañjamaṭṭhāṇaṁ</l>
+	  <l>saṅkhaiyāṇi u tāṇi kaṇḍagaṁ hōi nāyavvaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="119">
+	<lg n="119">
+	  <l>saṅkhāīyāṇi u kaṇḍagāṇi chaṭṭhāṇagaṁ viniddiṭṭhaṁ</l>
+	  <l>chaṭṭhāṇā u asaṅkhā sañjamasēḍhī muṇēyavvā</l>
+	</lg>
+      </div>
+      <div type="section" n="120">
+	<lg n="120">
+	  <l>kiṇhāiyā u lēsā ukkōsavisuddhiṭhiivisēsāō</l>
+	  <l>ēēsi visuddhāṇaṁ appaṁ taggāhagō kuṇai</l>
+	</lg>
+      </div>
+      <div type="section" n="121">
+	<lg n="121">
+	  <l>bhāvōvayāramāhēumappagē kiñcinūṇa caraṇaggō</l>
+	  <l>āhākammaggāhī ahō ahō nēi appāṇaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="122">
+	<lg n="122">
+	  <l>bandhai ahē bhavāū pakarēi ahōmuhāiṁ kammāiṁ</l>
+	  <l>ghanakaraṇaṁ tivvēṇa u bhāvēṇa caō uvacaō ya</l>
+	</lg>
+      </div>
+      <div type="section" n="123">
+	<lg n="123">
+	  <l>tēsi gurūṇamudaēṇa appagaṁ duggaīē pavaḍantaṁ</l>
+	  <l>na caēi vidhārēuṁ aharagatiṁ ninti kammāiṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="124">
+	<lg n="124">
+	  <l>aṭṭhāē aṇaṭṭhāē chakkāyapamaddaṇaṁ tu jō kuṇai</l>
+	  <l>aniyāē ya niyāē āyāhammaṁ tayaṁ benti</l>
+	</lg>
+      </div>
+      <div type="section" n="125">
+	<lg n="125">
+	  <l>jāṇantu ajāṇantō tahēva niddisiya ōhaō vā'vi</l>
+	  <l>jāṇagamajāṇagē vā vahēi aniyā niyā ēsā</l>
+	</lg>
+      </div>
+      <div type="section" n="126">
+	<lg n="126">
+	  <l>davvāyā khalu kāyā bhāvāyā tinni nāṇamāīṇi</l>
+	  <l>parapāṇapāḍaṇaraō caraṇāyaṁ appaṇō haṇai</l>
+	</lg>
+      </div>
+      <div type="section" n="127">
+	<lg n="127">
+	  <l>nicchayanayassa caraṇāya vidhāē nāṇadaṁsaṇavahō'vi</l>
+	  <l>vavahārassa u caraṇē hayaṁmi bhayaṇā u sēsāṇaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="128">
+	<lg n="128">
+	  <l>davvaṁmi attakammaṁ jaṁ jō u mamāyaē tagaṁ davvaṁ</l>
+	  <l>bhāvē asuhapariṇaō parakammaṁ attaṇō kuṇai</l>
+	</lg>
+      </div>
+      <div type="section" n="129">
+	<lg n="129">
+	  <l>āhākammapariṇaō phāsuyamavi saṅkiliṭṭhapariṇāmō</l>
+	  <l>āiyamāṇō bajjhai taṁ jāṇasu attakammanti</l>
+	</lg>
+      </div>
+      <div type="section" n="130">
+	<lg n="130">
+	  <l>parakamma attakammīkarēi taṁ jō u giṇhiuṁ bhuñjē</l>
+	  <l>tattha bhavē parakiriyā kahaṁ nu annatthaṁ saṅkamaī?</l>
+	</lg>
+      </div>
+      <div type="section" n="131">
+	<lg n="131">
+	  <l>kūḍauvamāi kēī parappauttē'vi bentiṁ bandhotti</l>
+	  <l>bhaṇai gurūvi pamattō bajjhai kūḍē adakkhō ya</l>
+	</lg>
+      </div>
+      <div type="section" n="132">
+	<lg n="132">
+	  <l>ēmēva bhāvakūḍē bajjhai jō asubhabhāvapariṇāmō</l>
+	  <l>tamhā u asubhabhāvō vajjēyavvō payattēṇaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="133">
+	<lg n="133">
+	  <l>kāmaṁ sayaṁ na kuvvai jāṇantō puṇa tahāvi taggāhī</l>
+	  <l>vaḍḍhēi tappasaṅgaṁ agiṇhamāṇō u vārēi</l>
+	</lg>
+      </div>
+      <div type="section" n="134">
+	<lg n="134">
+	  <l>attīkarēi kammaṁ paḍisēvāīhiṁ taṁ puṇa imēhiṁ</l>
+	  <l>tattha gurū āipayaṁ lahu lahu lahugā kamēṇiyarē ।।
+
+	  gāhā-135</l>
+	</lg>
+      </div>
+      <div type="section" n="135">
+	<lg n="135">
+	  <l>paḍisēvaṇamāīṇaṁ dārāṇa'numōyaṇā-vasāṇāṇaṁ</l>
+	  <l>jahasambhavaṁ sarūvaṁ sōdāharaṇaṁ pavakkhāmi</l>
+	</lg>
+      </div>
+      <div type="section" n="136">
+	<lg n="136">
+	  <l>annēṇāhākammaṁ uvanīyaṁ asai cōiō bhaṇai</l>
+	  <l>parahatthēṇaṅgārē kaḍḍhantō jaha na ḍajjhai hu</l>
+	</lg>
+      </div>
+      <div type="section" n="137">
+	<lg n="137">
+	  <l>ēvaṁ khu suddhō dōsō dentassa kūḍauvamāē</l>
+	  <l>samayatthamajāṇantō mūḍhō paḍisēvaṇaṁ kuṇai</l>
+	</lg>
+      </div>
+      <div type="section" n="138">
+	<lg n="138">
+	  <l>uvaōgaṁmi ya lābhaṁ kammaggāhissa cittarakkhaṭṭhā</l>
+	  <l>ālōiē suladdhaṁ bhaṇai bhaṇantassa paḍisuṇaṇā</l>
+	</lg>
+      </div>
+      <div type="section" n="139">
+	<lg n="139">
+	  <l>saṁvāsō u pasiddhō anumōyaṇa kammabhōyagapasaṁsā</l>
+	  <l>ēēsimudāharaṇā ēē u kamēṇa nāyavvā</l>
+	</lg>
+      </div>
+      <div type="section" n="140">
+	<lg n="140">
+	  <l>paḍisēvaṇāē tēṇā paḍisuṇaṇāē u rāyaputtō u</l>
+	  <l>saṁvāsaṁmi ya pallī anumōyaṇa rāyaduṭṭhō ya</l>
+	</lg>
+      </div>
+      <div type="section" n="141">
+	<lg n="141">
+	  <l>gōṇīharaṇa sabhūmī nēūṇaṁ gōṇiō pahē bhakkhē</l>
+	  <l>nivvisayā parivēsaṇa ṭhiyāvi tē kūviyā ghatthē</l>
+	</lg>
+      </div>
+      <div type="section" n="142">
+	<lg n="142">
+	  <l>jē'viya parivēsantī bhāyaṇāṇi dharanti ya</l>
+	  <l>tē'vi bajjhanti tivvēṇakammuṇā kimu bhōiṇō?</l>
+	</lg>
+      </div>
+      <div type="section" n="143">
+	<lg n="143">
+	  <l>sāmatthaṇa rāyasuē piivahaṇa sahāya taha ya tuṇhikkō</l>
+	  <l>tiṇhampi hu paḍisuṇaṇā raṇṇā siṭṭhaṁmi sā natthi</l>
+	</lg>
+      </div>
+      <div type="section" n="144">
+	<lg n="144">
+	  <l>bhuñja na bhuñjē bhuñjasu taiō tusiṇīu bhuñjaē paḍhamō</l>
+	  <l>tiṇhampi hu paḍisuṇaṇā paḍisēhantassa sā natthi</l>
+	</lg>
+      </div>
+      <div type="section" n="145">
+	<lg n="145">
+	  <l>āṇettubhuñjagā kammuṇā u bīyassa vāiō dōsō</l>
+	  <l>taiyassa ya mānasiō tīhiṁ visuddhō cautthō u</l>
+	</lg>
+      </div>
+      <div type="section" n="146">
+	<lg n="146">
+	  <l>paḍisēvaṇa paḍisuṇaṇā saṁvāsa'numōyaṇā u caurō vi</l>
+	  <l>piyamāragarāyasuē vibhāsiyavvā jaijaṇē'vi</l>
+	</lg>
+      </div>
+      <div type="section" n="147">
+	<lg n="147">
+	  <l>pallīvahaṁmi naṭṭhā cōrā vaṇiyā vayaṁ na cōratti</l>
+	  <l>na palāṇā pāvakara tti kāuṁ rannā uvāladdhā</l>
+	</lg>
+      </div>
+      <div type="section" n="148">
+	<lg n="148">
+	  <l>āhākaḍabhōīhiṁ sahavāsō taha ya tavvivajjampi</l>
+	  <l>daṁsaṇagandha parikahā bhāvinti sulūhavittimpi</l>
+	</lg>
+      </div>
+      <div type="section" n="149">
+	<lg n="149">
+	  <l>rāyōrōha'varāhē vibhūsiō ghāiō nayaramajjhē</l>
+	  <l>dhannādhannatti kahā vahāvahō kappaḍiyakhōlā</l>
+	</lg>
+      </div>
+      <div type="section" n="150">
+	<lg n="150">
+	  <l>sāuṁ pajjattaṁ āyarēṇa kālē riukkhamaṁ niddhaṁ</l>
+	  <l>tagguṇavikatthaṇāē abhuñjamāṇē'vi aṇumannā</l>
+	</lg>
+      </div>
+      <div type="section" n="151">
+	<lg n="151">
+	  <l>āhā ahē ya kammē āyāhammē ya attakammē ya</l>
+	  <l>jaha vañjaṇanāṇattaṁ atthēṇa'vi pucchaē ēvaṁ ।।
+
+	  gāhā-152</l>
+	</lg>
+      </div>
+      <div type="section" n="152">
+	<lg n="152">
+	  <l>ēgaṭṭhā ēgavañjaṇa ēgaṭṭhā nāṇavañjaṇā cēva</l>
+	  <l>nāṇaṭṭha ēgavañjaṇa nāṇaṭṭhā vañjaṇānāṇā</l>
+	</lg>
+      </div>
+      <div type="section" n="153">
+	<lg n="153">
+	  <l>diṭṭhaṁ khīraṁ khīraṁ ēgaṭṭhaṁ ēgavañjaṇaṁ lōē</l>
+	  <l>ēgaṭṭhaṁ bahunāmaṁ duddha paō pīlu khīraṁ ca</l>
+	</lg>
+      </div>
+      <div type="section" n="154">
+	<lg n="154">
+	  <l>gōmahisiayākhīraṁ nāṇaṭṭhaṁ ēgavañjaṇaṁ lōē</l>
+	  <l>ghaḍapaḍasagaḍarahāī hōi pihatthaṁ pihaṁnāmaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="155">
+	<lg n="155">
+	  <l>āhākammāīṇaṁ hōi duruttāiṁ paḍhamabhaṅgō u</l>
+	  <l>āhāhēkammanti ya biiō sakkinda iva bhaṅgō</l>
+	</lg>
+      </div>
+      <div type="section" n="156">
+	<lg n="156">
+	  <l>āhākammantariyā asaṇāīṁ u caurō taiyabhaṅgō</l>
+	  <l>āhākamma paḍuccā niyamā sunnō carimabhaṅgō</l>
+	</lg>
+      </div>
+      <div type="section" n="157">
+	<lg n="157">
+	  <l>indatthaṁ jaha saddā purandarāī u nāivattantē</l>
+	  <l>ahakamma āyahammā taha āhaṁ nāivattantē</l>
+	</lg>
+      </div>
+      <div type="section" n="158">
+	<lg n="158">
+	  <l>āhākammēṇa ahē karēti jaṁ haṇai pāṇabhūyāiṁ</l>
+	  <l>jaṁ taṁ āiyamāṇō parakammaṁ attaṇō kuṇai</l>
+	</lg>
+      </div>
+      <div type="section" n="159">
+	<lg n="159">
+	  <l>kassatti pucchiyaṁmī niyamā sāhammiyassa taṁ hōi</l>
+	  <l>sāhammiyassa tamhā kāyavva parūvaṇā vihiṇā</l>
+	</lg>
+      </div>
+      <div type="section" n="160">
+	<lg n="160">
+	  <l>nāmaṁ ṭhavaṇā daviē khettē kālē ya pavayaṇē liṅgē</l>
+	  <l>daṁsaṇa nāṇa carittē abhiggahē bhāvaṇāō ya</l>
+	</lg>
+      </div>
+      <div type="section" n="161">
+	<lg n="161">
+	  <l>nāmaṁmi sarisanāmō ṭhavaṇāē kaṭṭhakammamāīyā</l>
+	  <l>davvaṁmi jō u bhaviō sāhaṁmisarīragaṁ jaṁ ca</l>
+	</lg>
+      </div>
+      <div type="section" n="162">
+	<lg n="162">
+	  <l>khettē samāṇadēvī kālaṁmi samāṇa kālasambhūō</l>
+	  <l>pavayaṇi saṅghēgayarō liṅgē rayaharaṇa muhapottī</l>
+	</lg>
+      </div>
+      <div type="section" n="163">
+	<lg n="163">
+	  <l>daṁsaṇa nāṇē caraṇē tiga paṇa paṇa tiviha hōi u carittē</l>
+	  <l>davvāiō abhiggaha aha bhāvaṇamō aniccāī</l>
+	</lg>
+      </div>
+      <div type="section" n="164">
+	<lg n="164">
+	  <l>jāvanta dēvadattā gihī va agihīva tēsi dāhāmi</l>
+	  <l>nō kappaī gihīṇaṁ dāhanti visēsiyaṁ kappē</l>
+	</lg>
+      </div>
+      <div type="section" n="165">
+	<lg n="165">
+	  <l>pāsaṇḍīsu na vi ēvaṁ mīsāmīsēsu hōi hu vibhāsā</l>
+	  <l>samaṇēsu sañjayāṇa u visarisanāmāṇavi na kappē</l>
+	</lg>
+      </div>
+      <div type="section" n="166">
+	<lg n="166">
+	  <l>nīsamanīsā va kaḍaṁ ṭhavaṇāsāhammiyaṁmi u vibhāsā</l>
+	  <l>davvē mayataṇubhattaṁ na taṁ tu kucchā vivajjejjā</l>
+	</lg>
+      </div>
+      <div type="section" n="167">
+	<lg n="167">
+	  <l>pāsaṇḍiyasamaṇāṇaṁ gihinigganthāṇaṁ cēva u vibhāsā</l>
+	  <l>jaha nāmaṁmi tahēva ya khettē kālē ya nāyavvaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="168">
+	<lg n="168">
+	  <l>dasa sasihāgā sāvaga pavayaṇasāhammiyā na liṅgēṇa</l>
+	  <l>liṅgēṇa u sāhammī nō pavayaṇa niṇhagā savvē ।।
+
+	  gāhā-169</l>
+	</lg>
+      </div>
+      <div type="section" n="169">
+	<lg n="169">
+	  <l>visarisadaṁsaṇajuttā pavayaṇasāhammiyā na daṁsaṇaō</l>
+	  <l>titthagarā pattēyā nō pavayaṇadaṁsa sāhammī</l>
+	</lg>
+      </div>
+      <div type="section" n="170">
+	<lg n="170">
+	  <l>nāṇacarittā ēvaṁ nāyavvā honti pavayaṇēṇaṁ tu</l>
+	  <l>pavayaṇaō sāhammī nābhiggahasāvagā jaiṇō</l>
+	</lg>
+      </div>
+      <div type="section" n="171">
+	<lg n="171">
+	  <l>sāhamma'bhiggahēṇaṁ nō pavayaṇa niṇha tittha pattēyā</l>
+	  <l>ēvaṁ pavayaṇabhāvaṇa ettō sēsāṇa vocchāmi</l>
+	</lg>
+      </div>
+      <div type="section" n="172">
+	<lg n="172">
+	  <l>liṅgāīhivi ēvaṁ ekkekkēṇaṁ tu uvarimā nēyā</l>
+	  <l>jē'nannē uvarillā tē mottuṁ sēsaē ēvaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="173">
+	<lg n="173">
+	  <l>liṅgēṇa u sāhammī na daṁsaṇē vīsudaṁsi jainiṇhā</l>
+	  <l>pattēyabuddha titthaṅkarā ya bīyaṁmi bhaṅgaṁmi</l>
+	</lg>
+      </div>
+      <div type="section" n="174">
+	<lg n="174">
+	  <l>liṅgēṇa u nābhiggaha aṇabhiggaha vīsu'bhiggahā cēva</l>
+	  <l>jaisāvaga biyabhaṅgē pattēyabuhā ya titthayarā</l>
+	</lg>
+      </div>
+      <div type="section" n="175">
+	<lg n="175">
+	  <l>ēvaṁ liṅgēṇa bhāvaṇa daṁsaṇanāṇē ya paḍhamabhaṅgō u</l>
+	  <l>jaisāvaga visunāṇī ēvaṁ ciya biiyabhaṅgō'vi</l>
+	</lg>
+      </div>
+      <div type="section" n="176">
+	<lg n="176">
+	  <l>daṁsaṇacaraṇē paḍhamō sāvaga jaiṇō ya bīyabhaṅgō u</l>
+	  <l>jaiṇō visarisadaṁsī daṁsē ya abhiggahē vocchaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="177">
+	<lg n="177">
+	  <l>sāvaga jai vīsa'bhiggaha paḍhamō bīō ya bhāvanā cēvaṁ</l>
+	  <l>nāṇēṇa'vi nejjēvaṁ ettō caraṇēṇa vocchāmi</l>
+	</lg>
+      </div>
+      <div type="section" n="178">
+	<lg n="178">
+	  <l>jaiṇō vīsābhiggaha paḍhamō biya niṇhasāvagajaiṇō u</l>
+	  <l>ēvaṁ tu bhāvaṇāsu'vi vocchaṁ dōṇhantimāṇittō</l>
+	</lg>
+      </div>
+      <div type="section" n="179">
+	<lg n="179">
+	  <l>jaiṇō sāvaga niṇhava paḍhamē biiē ya hunti bhaṅgē ya</l>
+	  <l>kēvalanāṇē titthaṅkarassa nō kappai kayaṁ tu</l>
+	</lg>
+      </div>
+      <div type="section" n="180">
+	<lg n="180">
+	  <l>pattēyabuddha niṇhava uvāsaē kēvalī vi āsajja</l>
+	  <l>khaiyāiē ya bhāvē paḍucca bhaṅgē u jōejjā</l>
+	</lg>
+      </div>
+      <div type="section" n="181">
+	<lg n="181">
+	  <l>jattha u taiō bhaṅgō tattha na kappaṁ tu sēsaē bhayaṇā</l>
+	  <l>titthaṅkarakēvaliṇō jaha kappaṁ nō ya sēsāṇaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="182">
+	<lg n="182">
+	  <l>kiṁ taṁ āhākammanti pucchiē tassarūvakahaṇatthaṁ</l>
+	  <l>sambhavapadarisaṇatthaṁ ca tassa asaṇāiyaṁ bhaṇai</l>
+	</lg>
+      </div>
+      <div type="section" n="183">
+	<lg n="183">
+	  <l>sālīmāī avaḍē phalē ya suṇṭhāi sāimaṁ hōi</l>
+	  <l>tassa kaḍaniṭṭhiyaṁmī suddhamasuddhē ya cattāri</l>
+	</lg>
+      </div>
+      <div type="section" n="184">
+	<lg n="184">
+	  <l>koddavarālagagāmē vasahī ramaṇijja bhikkha sajjhāē</l>
+	  <l>khettapaḍilēhasañjaya sāvayapucchujjuē kahaṇā</l>
+	</lg>
+      </div>
+      <div type="section" n="185">
+	<lg n="185">
+	  <l>jujjai gaṇassa khettaṁ navari gurūṇaṁ tu natthi pāuggaṁ</l>
+	  <l>sālitti kaē rumpaṇa paribhāyaṇa niyayagēhēsu ।।
+
+	  gāhā-186</l>
+	</lg>
+      </div>
+      <div type="section" n="186">
+	<lg n="186">
+	  <l>vōlintā tē va annē vā aḍantā tattha gōyaraṁ</l>
+	  <l>suṇanti ēsaṇājuttā bālādijanasaṅkahā</l>
+	</lg>
+      </div>
+      <div type="section" n="187">
+	<lg n="187">
+	  <l>ēē tē jēsimō raddhō sālikūrō gharē gharē</l>
+	  <l>dinnō vā sēsayaṁ dēmi dēhi vā binti vā imaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="188">
+	<lg n="188">
+	  <l>thakkē thakkāvaḍiyaṁ abhattaē sālibhattayaṁ jāyaṁ</l>
+	  <l>majjha ya paissa maraṇaṁ diyarassa ya sē mayā bhajjā</l>
+	</lg>
+      </div>
+      <div type="section" n="189">
+	<lg n="189">
+	  <l>cāulōdagampi sē dēhi sālīāyāmakañjiyaṁ</l>
+	  <l>kimēyanti kayaṁ nāuṁ ? vajjanta'nnaṁ vayanti ya</l>
+	</lg>
+      </div>
+      <div type="section" n="190">
+	<lg n="190">
+	  <l>lōṇāgaḍōdaē ēvaṁ khāṇittu mahurōdagaṁ</l>
+	  <l>ḍhakkiēṇa'cchatē tāva jāva sāhutti āgayā</l>
+	</lg>
+      </div>
+      <div type="section" n="191">
+	<lg n="191">
+	  <l>kakkaḍiya ambagā vā dāḍima dakkhā ya bīyapūrāī</l>
+	  <l>khāima'higaraṇakaraṇanti sāimaṁ tigaḍugāīyaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="192">
+	<lg n="192">
+	  <l>asaṇāīṇa cauṇhavi āmaṁ jaṁ sāhugahaṇapāuggaṁ</l>
+	  <l>taṁ niṭṭhiyaṁ viyāṇasu uvakkhaḍaṁ tū kaḍaṁ hōi</l>
+	</lg>
+      </div>
+      <div type="section" n="193">
+	<lg n="193">
+	  <l>kaṇḍiyatiguṇukkaṇḍā u niṭṭhiyā nēgaduguṇakaṇḍā u</l>
+	  <l>niṭṭhiyakaḍō u kūrō āhākammaṁ duguṇamāhu</l>
+	</lg>
+      </div>
+      <div type="section" n="194">
+	<lg n="194">
+	  <l>chāyampi vivajjantī kēī phalahēugāivuttassa</l>
+	  <l>taṁ tu na jujjai jamhā phalampi kappaṁ biiyabhaṅgē</l>
+	</lg>
+      </div>
+      <div type="section" n="195">
+	<lg n="195">
+	  <l>parapaccaiyā chāyā navi sā rukkhovvaṁ vaṭṭiyā kattā</l>
+	  <l>naṭṭhacchāē u dumē kappai ēvaṁ bhaṇantassa</l>
+	</lg>
+      </div>
+      <div type="section" n="196">
+	<lg n="196">
+	  <l>vaḍḍhai hāyai chāyā tacchikkaṁ pūiyampiva na kappē</l>
+	  <l>na ya āhāya suvihiē nivvattayaī ravicchāyaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="197">
+	<lg n="197">
+	  <l>aghanaghanacārigagaṇē chāyā naṭṭhā diyā puṇō hōi</l>
+	  <l>kappai nirāyavē nāma āyavē taṁ vivajjēuṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="198">
+	<lg n="198">
+	  <l>tamhā na ēsa dōsō sambhavaī kammalakkhaṇavihūṇō</l>
+	  <l>tampiya hu aighillā vajjēmāṇā adōsillā</l>
+	</lg>
+      </div>
+      <div type="section" n="199">
+	<lg n="199">
+	  <l>parapakkhō u gihatthā samaṇā samaṇīu hōi u sapakkhō</l>
+	  <l>phāsukaḍaṁ raddhaṁ vā niṭṭhiyamiyaraṁ kaḍaṁ savvaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="200">
+	<lg n="200">
+	  <l>tassa kaḍaniṭṭhiyaṁmī annassa kaḍaṁmi niṭṭhiē tassa</l>
+	  <l>caubhaṅgō ittha bhavē caramadugē hōi kappaṁ tu</l>
+	</lg>
+      </div>
+      <div type="section" n="201">
+	<lg n="201">
+	  <l>caurō aikkama vaikkamō ya aiyāra taha anāyārō</l>
+	  <l>niddarisaṇa cauṇhavi āhākammē nimantaṇayā</l>
+	</lg>
+      </div>
+      <div type="section" n="202">
+	<lg n="202">
+	  <l>sālīghayagulagōrasa navēsu vallīphalēsu jāēsuṁ</l>
+	  <l>dānē ahigamasaḍḍhē āhāya kaē nimantēi ।।
+
+	  gāhā-203</l>
+	</lg>
+      </div>
+      <div type="section" n="203">
+	<lg n="203">
+	  <l>āhākammaggahaṇē aikammāīsu vaṭṭaē causu</l>
+	  <l>nēurahāriga hatthī cautiga dugaēga calaṇēṇaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="204">
+	<lg n="204">
+	  <l>āhākammāmantaṇa paḍisuṇamāṇē aikkamō hōi</l>
+	  <l>payabhēyāu vaikkama gahiē taiēyarō giliē</l>
+	</lg>
+      </div>
+      <div type="section" n="205">
+	<lg n="205">
+	  <l>āṇāiṇō ya dōsā gahaṇē jaṁ bhaṇiyamaha imē tē u</l>
+	  <l>āṇābhaṅga'ṇavatthā micchatta virāhaṇā cēva</l>
+	</lg>
+      </div>
+      <div type="section" n="206">
+	<lg n="206">
+	  <l>āṇaṁ savvajiṇāṇaṁ giṇhantō taṁ aikkamai luddhō</l>
+	  <l>āṇaṁ ca'ikkamantō kassāēsā kuṇai sēsaṁ ?</l>
+	</lg>
+      </div>
+      <div type="section" n="207">
+	<lg n="207">
+	  <l>ekkēṇa kayamakajjaṁ karēi tappaccayā puṇō annō</l>
+	  <l>sāyābahula parampara vocchēō sañjamatavāṇaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="208">
+	<lg n="208">
+	  <l>jō jahavāyaṁ na kuṇaī micchaddiṭṭhī taō hu kō annō ?</l>
+	  <l>vaḍḍhēi ya micchattaṁ parassa saṅkaṁ jaṇēmāṇō</l>
+	</lg>
+      </div>
+      <div type="section" n="209">
+	<lg n="209">
+	  <l>vaḍḍhēi tappasaṅgaṁ gēhī ya parassa appaṇō cēva</l>
+	  <l>sajiyampi bhinnadāḍhō na muyai niddhandhasō pacchā</l>
+	</lg>
+      </div>
+      <div type="section" n="210">
+	<lg n="210">
+	  <l>khaddhē niddhē ya ruyā suttē hānī tigicchaṇē kāyā</l>
+	  <l>paḍiyaragāṇavi hānī kuṇai kilēsaṁ kilissantō</l>
+	</lg>
+      </div>
+      <div type="section" n="211">
+	<lg n="211">
+	  <l>jaha kammaṁ tu akappaṁ tacchikkaṁ vā'vi bhāyaṇaṭhiyaṁ vā</l>
+	  <l>pariharaṇaṁ tassēva ya gahiyamadōsaṁ ca taha bhaṇai</l>
+	</lg>
+      </div>
+      <div type="section" n="212">
+	<lg n="212">
+	  <l>abbhojjē gamaṇāi ya pucchā davvakuladēsa bhāvē ya</l>
+	  <l>ēva jayantē chalaṇā diṭṭhantā tatthimē donni</l>
+	</lg>
+      </div>
+      <div type="section" n="213">
+	<lg n="213">
+	  <l>jaha vantaṁ tu abhojjaṁ bhattaṁ jaiviya susakkayaṁ āsi</l>
+	  <l>ēvamasañjamavamanē anēsaṇijjaṁ abhojjaṁ tu</l>
+	</lg>
+      </div>
+      <div type="section" n="214">
+	<lg n="214">
+	  <l>majjārakhaiyamaṁsā maṁsāsitthi kuṇimaṁ suṇayavantaṁ</l>
+	  <l>vannāi annamuppāiyanti kiṁ taṁ bhavē bhojjaṁ ?</l>
+	</lg>
+      </div>
+      <div type="section" n="215">
+	<lg n="215">
+	  <l>kēī bhaṇanti pahiē aṭṭhāṇē maṁsapēsivōsiraṇaṁ</l>
+	  <l>sambhāriya parivēsa vaṭṭaṇa vārēi suō karē dhettuṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="216">
+	<lg n="216">
+	  <l>avikālakarahīkhīraṁ lhasuṇa palaṇḍū surā ya gōmaṁsaṁ</l>
+	  <l>vēyasamaēvi abhayaṁ kiñci abhojjaṁ apejjaṁ ca</l>
+	</lg>
+      </div>
+      <div type="section" n="217">
+	<lg n="217">
+	  <l>vannāijuyāvi balī sapalalaphalasēharā asuinatthā</l>
+	  <l>asuissa vippusēṇavi jaha chikkāō abhojjāō</l>
+	</lg>
+      </div>
+      <div type="section" n="218">
+	<lg n="218">
+	  <l>ēmēva ujjhiyaṁmivi āhākammaṁmi akayaē kappē</l>
+	  <l>hōi abhojjaṁ bhāṇē jattha vasuddhampi taṁ paḍiyaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="219">
+	<lg n="219">
+	  <l>vantuccārasaricchaṁ kammaṁ sōumavi kōviō bhīō</l>
+	  <l>pariharai sāvi ya duhā vihiavihīē ya pariharaṇā ।।
+
+	  gāhā-220</l>
+	</lg>
+      </div>
+      <div type="section" n="220">
+	<lg n="220">
+	  <l>sālīōaṇahatthaṁ daṭṭhuṁ bhaṇai avikōviō dentiṁ</l>
+	  <l>kattoccautti sālī? vaṇi jāṇai puccha taṁ gantuṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="221">
+	<lg n="221">
+	  <l>gantūṇa āvaṇaṁ sō vāṇiyagaṁ pucchaē kaō sālī</l>
+	  <l>paccantē magahāē gobbaragāmō tahiṁ vayai</l>
+	</lg>
+      </div>
+      <div type="section" n="222">
+	<lg n="222">
+	  <l>kammāsaṅkāē pahaṁ mottuṁ kaṇṭāhisāvayā adisi</l>
+	  <l>chāyampi vivajjantō ḍajjhai uṇhēṇa mucchāī</l>
+	</lg>
+      </div>
+      <div type="section" n="223">
+	<lg n="223">
+	  <l>iya avihīparihārī nāṇāīṇaṁ na hōi ābhāgī</l>
+	  <l>davvakuladēsabhāvē vihipariharaṇā imā tattha</l>
+	</lg>
+      </div>
+      <div type="section" n="224">
+	<lg n="224">
+	  <l>ōyaṇasamiimasattuga kummāsāī u honti davvāiṁ</l>
+	  <l>bahujanamappajanaṁ vā kulaṁ tu dēsō suraṭṭhāī</l>
+	</lg>
+      </div>
+      <div type="section" n="225">
+	<lg n="225">
+	  <l>āyara'nāyara bhāvē sayaṁ va annēṇa vā'vi dāvaṇayā</l>
+	  <l>ēēsiṁ tu payāṇaṁ caupaya tipayā va bhayaṇā u</l>
+	</lg>
+      </div>
+      <div type="section" n="226">
+	<lg n="226">
+	  <l>anuciyadēsaṁ savvaṁ kulamappaṁ āyarō ya tō pucchā</l>
+	  <l>bahuēvi natthi pucchā sadēsadaviē abhāvē'vi</l>
+	</lg>
+      </div>
+      <div type="section" n="227">
+	<lg n="227">
+	  <l>tujjhaṭṭhāē kayamiṇamannonnamavekkhaē ya savilakkhaṁ</l>
+	  <l>vajjanti gāḍharuṭṭhā kā bhē tattitti vā giṇhē</l>
+	</lg>
+      </div>
+      <div type="section" n="228">
+	<lg n="228">
+	  <l>gūḍhāyārā na karenti āyaraṁ pucchiyāvi na kahenti</l>
+	  <l>thōvanti va nō puṭṭhā taṁ ca asuddhaṁ kahaṁ tattha ?</l>
+	</lg>
+      </div>
+      <div type="section" n="229">
+	<lg n="229">
+	  <l>āhākammapariṇaō phāsuyabhōīvi bandhaō hōi</l>
+	  <l>suddhaṁ gavēsamāṇō āhākammēvi sō suddhō</l>
+	</lg>
+      </div>
+      <div type="section" n="230">
+	<lg n="230">
+	  <l>saṅghuddiṭṭhaṁ sōuṁ ēi duyaṁ kōi bhōiē pattō</l>
+	  <l>dinnanti dēhi majjhanti gāu sōuṁ taō laggō</l>
+	</lg>
+      </div>
+      <div type="section" n="231">
+	<lg n="231">
+	  <l>māsiyapāraṇagaṭṭhā gamanaṁ āsannagāmagaṁ khamagē</l>
+	  <l>saḍḍhī pāyasakaraṇaṁ kayāi ajjejjihī khamaō</l>
+	</lg>
+      </div>
+      <div type="section" n="232">
+	<lg n="232">
+	  <l>khellagamallagalecchāriyāṇi ḍimbhaga nibhaccha ruṇṭaṇayā</l>
+	  <l>handi samaṇatti pāyasa ghayagulajuya jāvaṇaṭṭhāē</l>
+	</lg>
+      </div>
+      <div type="section" n="233">
+	<lg n="233">
+	  <l>ēgantamavakkamaṇaṁ jai sāhū ijja hojja tinnō mi</l>
+	  <l>taṇukoṭṭhaṁmi amucchā bhuttaṁmi ya kēvalaṁ nāṇaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="234">
+	<lg n="234">
+	  <l>candōdayaṁ ca sūrōdayaṁ ca rannō u donni ujjāṇā</l>
+	  <l>tēsiṁ vivariyagamanē āṇākōvō taō daṇḍō</l>
+	</lg>
+      </div>
+      <div type="section" n="235">
+	<lg n="235">
+	  <l>sūrōdayaṁ gacchamahaṁ pabhāē candōdayaṁ jantu taṇāihārā</l>
+	  <l>duhā khī paccurasantikāuṁ rāyāvi candōdayamēva gacchē</l>
+	</lg>
+      </div>
+      <div type="section" n="236">
+	<lg n="236">
+	  <l>pattaladumasālagayā dacchāmu nivaṅgaṇatti duccittā</l>
+	  <l>ujjānapālaēhiṁ gahiyā ya hayā ya baddhā ya ।।
+
+	  gāhā-237</l>
+	</lg>
+      </div>
+      <div type="section" n="237">
+	<lg n="237">
+	  <l>sahasa paiṭṭhā diṭṭha iyarēhi nivaṅgaṇatti tō baddhā</l>
+	  <l>nintassa ya avaraṇhē daṁsaṇamubhaō vahavisaggā</l>
+	</lg>
+      </div>
+      <div type="section" n="238">
+	<lg n="238">
+	  <l>jaha tē daṁsaṇakaṅkhī apūriicchā vināsiyā raṇṇā</l>
+	  <l>diṭṭhē'viyarē mukkā ēmēva ihaṁ samōyārō</l>
+	</lg>
+      </div>
+      <div type="section" n="239">
+	<lg n="239">
+	  <l>āhākamma bhuñjai na paḍikkamaē ya tassa ṭhāṇassa</l>
+	  <l>ēmēva aḍai bōḍō lukkavilukkō jaha kavōḍō</l>
+	</lg>
+      </div>
+      <div type="section" n="240">
+	<lg n="240">
+	  <l>āhākammaddāraṁ bhaṇiyamiyāṇiṁ purā samuddiṭṭhaṁ</l>
+	  <l>uddēsiyanti vocchaṁ samāsaō taṁ duhā hōi</l>
+	</lg>
+      </div>
+      <div type="section" n="241">
+	<lg n="241">
+	  <l>ōhēṇa vibhāgēṇa ya ōhē ṭhappaṁ tu bārasa vibhāgē</l>
+	  <l>uddiṭṭha kaḍē kammē ekkekki caukkaō bhēō</l>
+	</lg>
+      </div>
+      <div type="section" n="242">
+	<lg n="242">
+	  <l>jīvāmu kahavi ōmē niyayaṁ bhikkhāvi kaivaī dēmō</l>
+	  <l>handi hu natthi adinnaṁ bhujjai akayaṁ na ya phalēi</l>
+	</lg>
+      </div>
+      <div type="section" n="243">
+	<lg n="243">
+	  <l>sā u avisēsiyaṁ ciya miyaṁmi bhattaṁmi taṇḍulē chuhai</l>
+	  <l>pāsaṇḍīṇa gihīṇa va jō ēhii tassa bhikkhaṭṭhā</l>
+	</lg>
+      </div>
+      <div type="section" n="244">
+	<lg n="244">
+	  <l>chaumatthōdhuddēsaṁ kahaṁ viyāṇāi? cōiē bhaṇai</l>
+	  <l>uvauttō guru ēvaṁ gihatthasaddāiciṭṭhāē</l>
+	</lg>
+      </div>
+      <div type="section" n="245">
+	<lg n="245">
+	  <l>dinnā u tāu pañcavi rēhāu karēi dēi va gaṇanti</l>
+	  <l>dēha iō mā ya iō avaṇēha ya ettiyā bhikkhā</l>
+	</lg>
+      </div>
+      <div type="section" n="246">
+	<lg n="246">
+	  <l>saddāiēsu sāhū mucchaṁ na karejja gōyaragaō ya</l>
+	  <l>ēsaṇajuttō hojjā gōṇīvacchō gavattivva</l>
+	</lg>
+      </div>
+      <div type="section" n="247">
+	<lg n="247">
+	  <l>ūsavamaṇḍaṇavaggā na pāṇiyaṁ vacchaē naviya cāriṁ</l>
+	  <l>vaṇiyāgama avaraṇhē vacchagaraḍaṇaṁ kharaṇṭaṇayā</l>
+	</lg>
+      </div>
+      <div type="section" n="248">
+	<lg n="248">
+	  <l>pañcavihavisayasokkhakkhaṇī vahū samahiyaṁ gihaṁ taṁ tu</l>
+	  <l>na gaṇēi gōṇivacchō mucchiya gaḍhiō gavattaṁmi</l>
+	</lg>
+      </div>
+      <div type="section" n="249">
+	<lg n="249">
+	  <l>gamanāgamanukkhēvē bhāsiya sōyāi indiyāuttō</l>
+	  <l>ēsaṇamanēsaṇaṁ vā taha jāṇai tammaṇō samaṇō</l>
+	</lg>
+      </div>
+      <div type="section" n="250">
+	<lg n="250">
+	  <l>mahaīē saṅkhaḍīē uvvariyaṁ kūravañjaṇāīyaṁ</l>
+	  <l>pauraṁ daṭṭhūṇa gihī bhaṇai imaṁ dēhi puṇṇaṭṭhā</l>
+	</lg>
+      </div>
+      <div type="section" n="251">
+	<lg n="251">
+	  <l>tattha vibhāguddēsiyamēvaṁ sambhavai puvvamuddiṭṭhaṁ</l>
+	  <l>sīsagaṇahiyaṭṭhāē taṁ cēva vibhāgaō bhaṇai</l>
+	</lg>
+      </div>
+      <div type="section" n="252">
+	<lg n="252">
+	  <l>uddēsiyaṁ samuddēsiyaṁ ca āēsiyaṁ samāēsaṁ</l>
+	  <l>ēvaṁ kaḍē ya kammē ekkekki caukkaō bhēō</l>
+	</lg>
+      </div>
+      <div type="section" n="253">
+	<lg n="253">
+	  <l>jāvantiyamuddēsaṁ pāsaṇḍīṇaṁ bhavē samuddēsaṁ</l>
+	  <l>samaṇāṇaṁ āēsaṁ nigganthāṇaṁ samāēsaṁ ।।
+
+	  gāhā-254</l>
+	</lg>
+      </div>
+      <div type="section" n="254">
+	<lg n="254">
+	  <l>chinnamachinnaṁ duvihaṁ davvē khettē ya kāla bhāvē ya</l>
+	  <l>nipphāiyanipphannaṁ nāyavvaṁ jaṁ jahiṁ kamai</l>
+	</lg>
+      </div>
+      <div type="section" n="255">
+	<lg n="255">
+	  <l>bhattuvvariyaṁ khalu saṅkhaḍīē taddivasamannadivasē vā</l>
+	  <l>antō bahiṁ ca savvaṁ savvadinaṁ dēhiṁ acchinnaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="256">
+	<lg n="256">
+	  <l>dēhi imaṁ mā sēsaṁ antō bāhiragayaṁ va ēgayaraṁ</l>
+	  <l>jāva amugatti vēlā amugaṁ vēlaṁ ca ārabbha</l>
+	</lg>
+      </div>
+      <div type="section" n="257">
+	<lg n="257">
+	  <l>davvāī chinnampi hu jai bhaṇaī āraō'vi mā dēha</l>
+	  <l>tō kappai chinnampi hu acchinnakaḍaṁ pariharanti</l>
+	</lg>
+      </div>
+      <div type="section" n="258">
+	<lg n="258">
+	  <l>amugāṇanti va dijjau amukāṇaṁ matti ettha u vibhāsā</l>
+	  <l>jattha jaīṇa visiṭṭhō niddēsō taṁ pariharijjā</l>
+	</lg>
+      </div>
+      <div type="section" n="259">
+	<lg n="259">
+	  <l>sandissantaṁ jō suṇai kappaē tassa sēsaē ṭhavaṇā</l>
+	  <l>saṅkaliya sāhaṇaṁ vā karenti asuē imā mērā</l>
+	</lg>
+      </div>
+      <div type="section" n="260">
+	<lg n="260">
+	  <l>mā ēyaṁ dēhi imaṁ puṭṭhē siṭṭhaṁmi taṁ pariharanti</l>
+	  <l>jaṁ dinnaṁ taṁ dinnaṁ mā sampai dēhi gēṇhanti</l>
+	</lg>
+      </div>
+      <div type="section" n="261">
+	<lg n="261">
+	  <l>rasabhāyaṇahēuṁ vā mā kucchihiī suhaṁ va dāhāmi</l>
+	  <l>dahimāī āyattaṁ karēi kūraṁ kaḍaṁ ēyaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="262">
+	<lg n="262">
+	  <l>mā kāhanti avaṇṇaṁ parikaṭṭhaliyaṁ va dijjai suhaṁ tu</l>
+	  <l>viyaḍēṇa phāṇiēṇa va niddhēṇa samaṁ tu vaṭṭanti</l>
+	</lg>
+      </div>
+      <div type="section" n="263">
+	<lg n="263">
+	  <l>ēmēva ya kammaṁmi'vi uṇhavaṇē navari tattha nāṇattaṁ</l>
+	  <l>tāviya vilīṇaēṇaṁ mōyaga cunnīpuṇakkaraṇaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="264">
+	<lg n="264">
+	  <l>amuganti puṇō raddhaṁ dāhamakappaṁ tu āraō kappaṁ</l>
+	  <l>khettē antō bāhiṁ kālē suivvaṁ parevvaṁ vā</l>
+	</lg>
+      </div>
+      <div type="section" n="265">
+	<lg n="265">
+	  <l>jaṁ jaha va kayaṁ dāhaṁ taṁ kappai āraō tahā akayaṁ</l>
+	  <l>kayapākamaṇiṭṭhanti ṭhiyampi jāvantiyaṁ mottuṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="266">
+	<lg n="266">
+	  <l>chakkāyaniranukampā jinapavayaṇabāhirā bahipphōḍā</l>
+	  <l>ēvaṁ vayanti phōḍā lukkavilukkā jaha kavōḍā</l>
+	</lg>
+      </div>
+      <div type="section" n="267">
+	<lg n="267">
+	  <l>pūīkammaṁ duvihaṁ davvē bhāvē ya hōi nāyavvaṁ</l>
+	  <l>davvaṁmi chagaṇadhammiya bhāvaṁmi ya bāyaraṁ suhumaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="268">
+	<lg n="268">
+	  <l>gandhāiguṇasamiḍhaṁ jaṁ davvaṁ asuigandhadavvajuyaṁ</l>
+	  <l>pūitti pariharijjai taṁ jāṇasu davvapūitti</l>
+	</lg>
+      </div>
+      <div type="section" n="269">
+	<lg n="269">
+	  <l>goṭṭhiniuttō dhammī sahāē āsannagoṭṭhibhattāē</l>
+	  <l>samiyasuravallamīsaṁ ajinna sannā mahisipōhō</l>
+	</lg>
+      </div>
+      <div type="section" n="270">
+	<lg n="270">
+	  <l>sañjāyalittabhattē goṭṭhigagandhotti cullavaṇiāyō</l>
+	  <l>ukkhaṇiya annachagaṇēṇa limpaṇaṁ davvapūī ū ।।
+
+	  gāhā-271</l>
+	</lg>
+      </div>
+      <div type="section" n="271">
+	<lg n="271">
+	  <l>uggamakōḍīavayavamittēṇa vi mīsiyaṁ susuddhampi</l>
+	  <l>suddhampi kuṇai caraṇaṁ pūiṁ taṁ bhāvaō pūī</l>
+	</lg>
+      </div>
+      <div type="section" n="272">
+	<lg n="272">
+	  <l>āhākammuddēsiya mīsaṁ taha bāyarā ya pāhuḍiyā</l>
+	  <l>pūī ajjhōyaraō uggamakōḍī bhavē ēsā</l>
+	</lg>
+      </div>
+      <div type="section" n="273">
+	<lg n="273">
+	  <l>bāyara suhumaṁ bhāvē u pūiyaṁ suhumamuvari vocchāmi</l>
+	  <l>uvagaraṇa bhattapāṇē duvihaṁ puṇa bāyaraṁ pūiṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="274">
+	<lg n="274">
+	  <l>cullukkhaliyā ḍōē davvīchūḍhē ya mīsagaṁ pūiṁ</l>
+	  <l>ḍāē lōṇē hiṅgū saṅkāmaṇa phōḍaṇē dhūmē</l>
+	</lg>
+      </div>
+      <div type="section" n="275">
+	<lg n="275">
+	  <l>sijjhantassuvayāraṁ dijjantassa va karēi jaṁ davvaṁ</l>
+	  <l>taṁ uvakaraṇaṁ cullī ukkhā davvī ya ḍōyāī</l>
+	</lg>
+      </div>
+      <div type="section" n="276">
+	<lg n="276">
+	  <l>culukkhā kammāī āimabhaṅgēsu tīsuvi akappaṁ</l>
+	  <l>paḍikuṭṭhaṁ tatthatthaṁ annatthagayaṁ aṇunnāyaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="277">
+	<lg n="277">
+	  <l>kammiyakaddamamissā cullī ukkhā ya phaḍḍagajuyā u</l>
+	  <l>uvagaraṇapūimēyaṁ ḍōē daṇḍē va ēgayarē</l>
+	</lg>
+      </div>
+      <div type="section" n="278">
+	<lg n="278">
+	  <l>davvīchūḍhetti jaṁ vuttaṁ kammadavvīē jaṁ daē</l>
+	  <l>kammaṁ ghaṭṭiya suddhaṁ tu ghaṭṭaē hārapūiyaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="279">
+	<lg n="279">
+	  <l>attaṭṭhiya āyāṇē ḍāyaṁ lōṇaṁ ca kamma hiṅguṁ vā</l>
+	  <l>taṁ bhattapāṇapūī phōḍaṇa annaṁ va jaṁ chuhai</l>
+	</lg>
+      </div>
+      <div type="section" n="280">
+	<lg n="280">
+	  <l>saṅkāmēuṁ kammaṁ siddhaṁ jaṅkiñci tattha chūḍhaṁ vā</l>
+	  <l>aṅgāradhūmi thālī vēsaṇa heṭṭhā muṇīhi dhūmō</l>
+	</lg>
+      </div>
+      <div type="section" n="281">
+	<lg n="281">
+	  <l>indhaṇadhūmēgandhē avayavamāīhiṁ suhumapūī u</l>
+	  <l>sundaramēyaṁ pūī cōyaga bhaṇiē gurū bhaṇai</l>
+	</lg>
+      </div>
+      <div type="section" n="282">
+	<lg n="282">
+	  <l>indhaṇadhūmēgandhē avayavamāī na pūiyaṁ hōi</l>
+	  <l>jēsiṁ tu ēsa pūī sōhī navi vijjaē tēsiṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="283">
+	<lg n="283">
+	  <l>indhaṇa agaṇīavayava dhūmō bapphō ya annagandhō ya</l>
+	  <l>savvaṁ phusanti lōyaṁ bhannai savvaṁ taō pūī</l>
+	</lg>
+      </div>
+      <div type="section" n="284">
+	<lg n="284">
+	  <l>nanu suhumapūiyassā puvvuddiṭṭhassa'sambhavō ēvaṁ</l>
+	  <l>indhaṇadhūmāīhiṁ tamhā pūitti siddhamiṇaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="285">
+	<lg n="285">
+	  <l>cōyaga! indhaṇamāīhiṁ cauhivi suhumapūiyaṁ hōi</l>
+	  <l>pannavaṇāmittamiyaṁ pariharaṇā natthi ēyassa</l>
+	</lg>
+      </div>
+      <div type="section" n="286">
+	<lg n="286">
+	  <l>sajjhamasajjhaṁ kajjaṁ sajjhaṁ sāhijjaē na u asajjhaṁ</l>
+	  <l>jō u asajjhaṁ sāhai kilissai na taṁ ca sāhēī</l>
+	</lg>
+      </div>
+      <div type="section" n="287">
+	<lg n="287">
+	  <l>āhākammiyabhāyaṇa papphōḍaṇa kāu akayaē kappē</l>
+	  <l>gahiyaṁ tu suhumapūī dhōvaṇamāīhiṁ pariharaṇā ।।
+
+	  gāhā-288</l>
+	</lg>
+      </div>
+      <div type="section" n="288">
+	<lg n="288">
+	  <l>dhōyampi nirāvayavaṁ na hōi āhacca kammagahaṇaṁmi</l>
+	  <l>na ya addavvā u guṇā bhannaī suddhā kaō ēvaṁ?</l>
+	</lg>
+      </div>
+      <div type="section" n="289">
+	<lg n="289">
+	  <l>lōēvi asuigandhā vipariṇayā dūraō na dūsanti</l>
+	  <l>na ya māranti pariṇayā dūragāya avi visāvayavā</l>
+	</lg>
+      </div>
+      <div type="section" n="290">
+	<lg n="290">
+	  <l>sēsēhi u davvēhiṁ jāvaiyaṁ phusai tattiyaṁ pūī</l>
+	  <l>lēvēhi tihi u pūī kappai kappē kaē tiguṇē</l>
+	</lg>
+      </div>
+      <div type="section" n="291">
+	<lg n="291">
+	  <l>indhaṇamāiṁ mottuṁ caurō sēsāṇi honti davvāiṁ</l>
+	  <l>tēsiṁ puṇa parimāṇaṁ tayappamāṇāu ārabbha</l>
+	</lg>
+      </div>
+      <div type="section" n="292">
+	<lg n="292">
+	  <l>paḍhamadivasaṁmi kammaṁ tinni u divasāṇi pūiyaṁ hōi</l>
+	  <l>pūīsu tisu na kappai kappai taiō jayā kappō</l>
+	</lg>
+      </div>
+      <div type="section" n="293">
+	<lg n="293">
+	  <l>samaṇakaḍāhākammaṁ samaṇāṇaṁ jaṁ kaḍēṇa mīsaṁ tu</l>
+	  <l>āhāra uvahi vasahī savvaṁ taṁ pūiyaṁ hōi</l>
+	</lg>
+      </div>
+      <div type="section" n="294">
+	<lg n="294">
+	  <l>saḍḍhassa thēvadivasēsu saṅkhaḍī āsi saṅghabhattaṁ vā</l>
+	  <l>pucchittu niuṇapucchaṁ saṁlāvāō va'gārīṇaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="295">
+	<lg n="295">
+	  <l>mīsajjāyaṁ jāvantiyaṁ ca pāsaṇḍisāhumīsaṁ ca</l>
+	  <l>sahasantaraṁ na kappai kappai kappē kaē tiguṇē</l>
+	</lg>
+      </div>
+      <div type="section" n="296">
+	<lg n="296">
+	  <l>duggāsē taṁ samaicchiuṁ va addhāṇasīsaē jattā</l>
+	  <l>saḍḍhī bahubhikkhayarē mīsajjāyaṁ karē kōī</l>
+	</lg>
+      </div>
+      <div type="section" n="297">
+	<lg n="297">
+	  <l>jāvantaṭṭhā siddhaṁ na ēi taṁ dēha kāmiyaṁ jaiṇaṁ</l>
+	  <l>bahusu va apahuppantē bhaṇāi annampi randhēha</l>
+	</lg>
+      </div>
+      <div type="section" n="298">
+	<lg n="298">
+	  <l>attaṭṭhā randhantē pāsaṇḍīṇampi biiyaō bhaṇai</l>
+	  <l>nigganthaṭṭhā taiō attaṭṭhāē'vi randhantē sō hōi</l>
+	</lg>
+      </div>
+      <div type="section" n="299">
+	<lg n="299">
+	  <l>visaghāiyapisiyāsī marai tamannōvi khāiuṁ marai</l>
+	  <l>iya pāramparamaraṇē anumarai sahassasō jāva</l>
+	</lg>
+      </div>
+      <div type="section" n="300">
+	<lg n="300">
+	  <l>ēvaṁ mīsajjāyaṁ caraṇappaṁ haṇai sāhu suvisuddhaṁ</l>
+	  <l>tamhā taṁ nō kappai purisasahassantaragayampi</l>
+	</lg>
+      </div>
+      <div type="section" n="301">
+	<lg n="301">
+	  <l>nicchōḍiē karīsēṇa vā'vi uvvaṭṭiē taō kappā</l>
+	  <l>sukkhāvittā giṇhai anna cautthē asukkē'vi</l>
+	</lg>
+      </div>
+      <div type="section" n="302">
+	<lg n="302">
+	  <l>saṭṭhāṇaparaṭṭhāṇē duvihaṁ ṭhaviyaṁ tu hōi nāyavvaṁ</l>
+	  <l>khīrāi paramparaē hatthagaya gharantaraṁ jāva</l>
+	</lg>
+      </div>
+      <div type="section" n="303">
+	<lg n="303">
+	  <l>cullī uvacullī vā ṭhāṇasaṭhāṇaṁ tu bhāyaṇaṁ piḍharē</l>
+	  <l>saṭṭhāṇaṭṭhāṇaṁmi ya bhāyaṇaṭṭhāṇē ya caubhaṅgō</l>
+	</lg>
+      </div>
+      <div type="section" n="304">
+	<lg n="304">
+	  <l>chabbagavāragamāī hōi paraṭṭhāṇamō va'nēgavihaṁ</l>
+	  <l>saṭṭhāṇē piḍharē chabbagē ya ēmēva dūrē ya ।।
+
+	  gāhā-305</l>
+	</lg>
+      </div>
+      <div type="section" n="305">
+	<lg n="305">
+	  <l>ekkekkaṁ taṁ duvihaṁ anantaraṁ paramparē ya nāyavvaṁ</l>
+	  <l>avikāri kayaṁ davvaṁ taṁ cēva anantaraṁ hōi</l>
+	</lg>
+      </div>
+      <div type="section" n="306">
+	<lg n="306">
+	  <l>ucchukkhīrāīyaṁ vigāri avigāri ghayagulāīyaṁ</l>
+	  <l>pariyāvajjaṇadōsā ōyaṇadahimāīyaṁ vā'vi</l>
+	</lg>
+      </div>
+      <div type="section" n="307">
+	<lg n="307">
+	  <l>ubbhaṭṭha parinnāyaṁ annaṁ laddhaṁ paōyaṇē ghecchī</l>
+	  <l>riṇabhīyā va agārī dahitti dāhaṁ suē ṭhavaṇā</l>
+	</lg>
+      </div>
+      <div type="section" n="308">
+	<lg n="308">
+	  <l>navanīya manthutakkaṁ va jāva attaṭṭhiyā va giṇhanti</l>
+	  <l>dēsūṇā jāva ghayaṁ kusaṇampiya jattiyaṁ kālaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="309">
+	<lg n="309">
+	  <l>rasakakkabapiṇḍagulā macchaṇḍiya khaṇḍa sakkarāṇaṁ ca</l>
+	  <l>hōi paramparaṭhavaṇā annattha va jujjaē jattha</l>
+	</lg>
+      </div>
+      <div type="section" n="310">
+	<lg n="310">
+	  <l>bhikkhaggāhī ēgattha kuṇai biiō u dōsu uvaōgaṁ</l>
+	  <l>tēna paraṁ ukkhittā pāhuḍiyā hōi ṭhavaṇā u</l>
+	</lg>
+      </div>
+      <div type="section" n="311">
+	<lg n="311">
+	  <l>pāhuḍiyāvi hu duvihā bāyara suhumā ya hōi nāyavvā</l>
+	  <l>ōsakkaṇamussakkaṇa kabbaṭṭhīē samōsaraṇō</l>
+	</lg>
+      </div>
+      <div type="section" n="312">
+	<lg n="312">
+	  <l>kantāmi tāva pēluṁ tō tē dāhāmi putta! mā rōva</l>
+	  <l>taṁ jai suṇēi sāhū na gacchaē tattha ārambhō</l>
+	</lg>
+      </div>
+      <div type="section" n="313">
+	<lg n="313">
+	  <l>annaṭṭha uṭṭhiyā bā tubbhavi dāhāmi kimpi pariharati</l>
+	  <l>kiha dāṇi na uṭṭhihisī? sāhupabhāvēṇa labbhāmō</l>
+	</lg>
+      </div>
+      <div type="section" n="314">
+	<lg n="314">
+	  <l>mā tāva jhaṅkha puttaya! parivāḍīē ihēhi sō sāhū</l>
+	  <l>ēyassa uṭṭhiyā tē dāhaṁ sōuṁ vivajjēi</l>
+	</lg>
+      </div>
+      <div type="section" n="315">
+	<lg n="315">
+	  <l>aṅguliyāē ghettuṁ kaḍḍhai kappaṭṭhaō gharaṁ tēṇaṁ</l>
+	  <l>kinti kahiē na gacchai pāhuḍiyā ēsa suhumā u</l>
+	</lg>
+      </div>
+      <div type="section" n="316">
+	<lg n="316">
+	  <l>puttassa vivāhadiṇaṁ ōsaraṇē aicchiē muṇiya saḍḍhā</l>
+	  <l>ōsakkantō saraṇē saṅkhaḍipāhēṇaga davaṭṭhā</l>
+	</lg>
+      </div>
+      <div type="section" n="317">
+	<lg n="317">
+	  <l>appattaṁmi ya ṭhaviyaṁ ōsaraṇē hōhiitti ussakaṇaṁ</l>
+	  <l>taṁ pāgaḍamiyaraṁ vā karēi ujjū anujjū vā</l>
+	</lg>
+      </div>
+      <div type="section" n="318">
+	<lg n="318">
+	  <l>maṅgalahēuṁ punnaṭṭhayā va ōsakkiyaṁ duhā pagayaṁ</l>
+	  <l>ussakkiyampi kinti ya puṭṭhē siṭṭhē vivajjanti</l>
+	</lg>
+      </div>
+      <div type="section" n="319">
+	<lg n="319">
+	  <l>pāhuḍibhattaṁ bhuñjaiṁ na paḍikkamaē ya tassa ṭhāṇassa</l>
+	  <l>ēmēva aḍai bōḍō lukkavilukkō jaha kavōḍō</l>
+	</lg>
+      </div>
+      <div type="section" n="320">
+	<lg n="320">
+	  <l>lōyaviraluttamaṅgaṁ tavōkisaṁ jallakhauriyasarīraṁ</l>
+	  <l>jugamettantaradiṭṭhiṁ aturiyacavalaṁ sagihamintaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="321">
+	<lg n="321">
+	  <l>daṭṭhūṇa ya tamanagāraṁ saḍḍhī saṁvēgamāgayā kāī</l>
+	  <l>vipula'nnapāṇa ghettūṇa niggayā niggaō sō'vi ।।
+
+	  gāhā-322</l>
+	</lg>
+      </div>
+      <div type="section" n="322">
+	<lg n="322">
+	  <l>nīyaduvāraṁmi gharē na sujjhaī ēsaṇattikāūṇaṁ</l>
+	  <l>nīhaṁmiē agārī acchai viliyā va'gahiēṇaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="323">
+	<lg n="323">
+	  <l>caraṇakaraṇālasaṁmī annaṁmi ya āgaē gahiya pucchā</l>
+	  <l>ihalōgaṁ paralōgaṁ kahēi caiuṁ imaṁ lōgaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="324">
+	<lg n="324">
+	  <l>nīyaduvāraṁmi gharē bhikkhaṁ nicchanti ēsaṇāsamiyā</l>
+	  <l>jaṁ pucchasi majjha kahaṁ kappai? liṅgōvajīvī'haṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="325">
+	<lg n="325">
+	  <l>sāhuguṇēsaṇakahaṇaṁ āuṭṭā tassa tippai tahēva</l>
+	  <l>kukkuḍi caranti ēē vayaṁ tu cinnavvayā bīō</l>
+	</lg>
+      </div>
+      <div type="section" n="326">
+	<lg n="326">
+	  <l>pāōkaraṇaṁ duvihaṁ pāgaḍakaraṇaṁ pagāsakaraṇaṁ ca</l>
+	  <l>pāgaḍa saṅkāmaṇa kuḍḍadārapāē ya chinnē va</l>
+	</lg>
+      </div>
+      <div type="section" n="327">
+	<lg n="327">
+	  <l>rayaṇapaīvē jōī na kappai pagāsaṇā suvihiyāṇaṁ</l>
+	  <l>attaṭṭhiya paribhottuṁ kappai kappē akāūṇaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="328">
+	<lg n="328">
+	  <l>sañcārimā ya cullī bahiṁ va cullī purā kayā tēsiṁ</l>
+	  <l>tahi randhanti kayāī uvahī pūī ya pāō ya</l>
+	</lg>
+      </div>
+      <div type="section" n="329">
+	<lg n="329">
+	  <l>necchaha tamisaṁmi taō bāhiracullīē sāhu siddhaṇṇē</l>
+	  <l>iya sōuṁ pariharaē puṭṭhē siṭṭhaṁmivi tahēva</l>
+	</lg>
+      </div>
+      <div type="section" n="330">
+	<lg n="330">
+	  <l>macchiyadhammā antō bāhi pavāyaṁ pagāsamāsannaṁ</l>
+	  <l>iya attaṭṭhiya gahaṇaṁ pāgaḍakaraṇē vibhāsā u</l>
+	</lg>
+      </div>
+      <div type="section" n="331">
+	<lg n="331">
+	  <l>kuḍḍassa kuṇai chiḍḍaṁ dāraṁ vaḍḍhēi kuṇai annaṁ vā</l>
+	  <l>avaṇēi chāyaṇaṁ vā ṭhāvai rayaṇaṁ va dippantaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="332">
+	<lg n="332">
+	  <l>jōi paivaṁ kuṇai va tahēva kahaṇaṁ tu puṭṭhē'puṭṭhēvā</l>
+	  <l>attaṭṭhiē u gahaṇaṁ jōi paīvē u vajjēi</l>
+	</lg>
+      </div>
+      <div type="section" n="333">
+	<lg n="333">
+	  <l>pāgaḍapayāsakaraṇē kayaṁmi sahasā va ahava'nābhōgā</l>
+	  <l>gahiyaṁ vigiñciūṇaṁ gēṇhai annaṁ akayakappē</l>
+	</lg>
+      </div>
+      <div type="section" n="334">
+	<lg n="334">
+	  <l>kīyagaḍampiya duvihaṁ davvē bhāvē ya duvihamekkekkaṁ</l>
+	  <l>āyakiyaṁ ca parakiyaṁ paradavvaṁ tiviha'cittāi</l>
+	</lg>
+      </div>
+      <div type="section" n="335">
+	<lg n="335">
+	  <l>āyakiyaṁ puṇa duvihaṁ davvē bhāvē ya davva cuṇṇāī</l>
+	  <l>bhāvaṁmi parassa'ṭṭhā ahavāvī appaṇā cēva</l>
+	</lg>
+      </div>
+      <div type="section" n="336">
+	<lg n="336">
+	  <l>nimmallagandhaguliyā vannayapottāi āyakaya davvē</l>
+	  <l>gēlannē uḍḍāhō pauṇē caḍugāri ahigaraṇaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="337">
+	<lg n="337">
+	  <l>vaiyāi maṅkhamāī parabhāvakayaṁ tu sañjayaṭṭhāē</l>
+	  <l>uppāyaṇā nimantaṇa kīḍagaḍa abhihaḍē ṭhaviē</l>
+	</lg>
+      </div>
+      <div type="section" n="338">
+	<lg n="338">
+	  <l>sāgāri maṅkha chandaṇa paḍisēhō puccha bahu gaē vāsē</l>
+	  <l>kayariṁ disiṁ gamissaha? amuiṁ tahiṁ santhavaṁ kuṇai ।।
+
+	  gāhā-339</l>
+	</lg>
+      </div>
+      <div type="section" n="339">
+	<lg n="339">
+	  <l>dijjantē paḍisēhō kajjē ghecchaṁ nimantaṇaṁ jaiṇaṁ</l>
+	  <l>puvvagaya āgaēsuṁ sañchuhaī ēgagēhaṁmi</l>
+	</lg>
+      </div>
+      <div type="section" n="340">
+	<lg n="340">
+	  <l>dhammakaha vāya khamaṇaṁ nimitta āyāvaṇē suyaṭṭhāṇaṁ</l>
+	  <l>jāī kula gaṇa kammē sippaṁmi ya bhāvakīyaṁ tu</l>
+	</lg>
+      </div>
+      <div type="section" n="341">
+	<lg n="341">
+	  <l>dhammakahāakkhittē dhammakahāuṭṭhiyāṇa vā giṇhē</l>
+	  <l>kaḍḍhaṁ ti sāhavō ciya tumaṁ va kahi ? pucchiē tusiṇī</l>
+	</lg>
+      </div>
+      <div type="section" n="342">
+	<lg n="342">
+	  <l>kiṁ vā kahijja chārā dagasōyariyā va ahava'gāratthā</l>
+	  <l>kiṁ chagalagagalavalayā muṇḍakuḍumbī va kiṁ kahaē?</l>
+	</lg>
+      </div>
+      <div type="section" n="343">
+	<lg n="343">
+	  <l>ēmēva vāi khamaē nimittamāyāvagaṁmi ya vibhāsā</l>
+	  <l>suyaṭhāṇaṁ gaṇimāī ahavā vāṇāyariyamāī</l>
+	</lg>
+      </div>
+      <div type="section" n="344">
+	<lg n="344">
+	  <l>pāmiccampiya duvihaṁ lōiya lōguttaraṁ samāsēṇa</l>
+	  <l>lōiya sajjhilagāī lōguttara vatthamāīsu</l>
+	</lg>
+      </div>
+      <div type="section" n="345">
+	<lg n="345">
+	  <l>suyaabhigamanāya vihī bahi pucchā ēga jīvai sasā tē</l>
+	  <l>pavisaṇa pāga nivāraṇa ucchindaṇa tella jaidāṇaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="346">
+	<lg n="346">
+	  <l>aparimiyanēhavuḍḍhī dāsattaṁ sō ya āgaō pucchā</l>
+	  <l>dāsattakahaṇa mā ruya acirā mōēmi ettāhē</l>
+	</lg>
+      </div>
+      <div type="section" n="347">
+	<lg n="347">
+	  <l>bhikkha dagasamārambhē kahaṇāuṭṭō kahiṁ ti vasahitti</l>
+	  <l>saṁvēyā āharaṇaṁ visajja kahaṇā kaivayā u</l>
+	</lg>
+      </div>
+      <div type="section" n="348">
+	<lg n="348">
+	  <l>ēē cēva ya dōsā savisēsayarā u vatthapāēsuṁ</l>
+	  <l>lōiyapāmiccēsuṁ lōguttariyā imē annē</l>
+	</lg>
+      </div>
+      <div type="section" n="349">
+	<lg n="349">
+	  <l>mailiya phāliya khōmiya hiya naṭṭhē vā'vi anna maggantē</l>
+	  <l>avi sundarē vi dinnē dukkararōī kalahamāī</l>
+	</lg>
+      </div>
+      <div type="section" n="350">
+	<lg n="350">
+	  <l>uccattāē dānaṁ dullabha khaggūḍa alasa pāmiccē</l>
+	  <l>tampiya gurussagāsē ṭhavēi sō dēha mā kalahō</l>
+	</lg>
+      </div>
+      <div type="section" n="351">
+	<lg n="351">
+	  <l>pariyaṭṭiyampi duvihaṁ lōiya lōguttaraṁ samāsēṇaṁ</l>
+	  <l>ekkekkampiya duvihaṁ taddavvē annadavvē ya</l>
+	</lg>
+      </div>
+      <div type="section" n="352">
+	<lg n="352">
+	  <l>avaroppasajjhilagā sañjuttā dōvi annamannēṇaṁ</l>
+	  <l>poggaliya sañjayaṭṭhā pariyaṭṭaṇa saṅkhaḍē bōhī</l>
+	</lg>
+      </div>
+      <div type="section" n="353">
+	<lg n="353">
+	  <l>anukampa bhaginigēhē daridda pariyaṭṭaṇā ya kūrassa</l>
+	  <l>pucchā koddavakūrē macchara nāikkha pantāvē</l>
+	</lg>
+      </div>
+      <div type="section" n="354">
+	<lg n="354">
+	  <l>iyarō'viya pantāvē nisi ōsaviyāṇa tēsi dikkhā ya</l>
+	  <l>tamhā u na ghētavvaṁ kai vā jē ōsamēhinti ?</l>
+	</lg>
+      </div>
+      <div type="section" n="355">
+	<lg n="355">
+	  <l>ūṇahiya dubbalaṁ vā khara guru chinnaṁ maila asīyasahaṁ</l>
+	  <l>duvvannaṁ vā nāuṁ vipariṇamē annabhaṇiō vā ।।
+
+	  gāhā-356</l>
+	</lg>
+      </div>
+      <div type="section" n="356">
+	<lg n="356">
+	  <l>ēgassa māṇajuttaṁ na u biiē ēvamāikajjēsu</l>
+	  <l>gurupāmūlē ṭhavaṇaṁ sō dalayai annahā kalahō</l>
+	</lg>
+      </div>
+      <div type="section" n="357">
+	<lg n="357">
+	  <l>āinnamaṇāinnaṁ nisihābhihaḍaṁ ca nōnisīhaṁ ca</l>
+	  <l>nisihābhihaḍaṁ ṭhappaṁ vocchāmī nōnisīhaṁ tu</l>
+	</lg>
+      </div>
+      <div type="section" n="358">
+	<lg n="358">
+	  <l>saggāma paraggāmē sadēsa paradēsamēva boddhavvaṁ</l>
+	  <l>duvihaṁ tu paraggāmē jalathala nāvōḍujaṅghāē</l>
+	</lg>
+      </div>
+      <div type="section" n="359">
+	<lg n="359">
+	  <l>jaṅghā bāha tarīi va jalē thalē khandhaārakhuranibaddhā</l>
+	  <l>sañjamaāyavirāhaṇa tahiyaṁ puṇa sañjamē kāyā</l>
+	</lg>
+      </div>
+      <div type="section" n="360">
+	<lg n="360">
+	  <l>atthāhagāhapaṁ kāmagarōhārā jalē avāyā u</l>
+	  <l>kaṇṭāhitēṇasāvaya thalambhi ēē bhavē dōsā</l>
+	</lg>
+      </div>
+      <div type="section" n="361">
+	<lg n="361">
+	  <l>saggāmē'viya duvihaṁ gharantaraṁ nōgharantaraṁ cēva</l>
+	  <l>tigharantarā parēṇaṁ gharantaraṁ taṁ tu nāyavvaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="362">
+	<lg n="362">
+	  <l>nōgharantara'nēgavihaṁ vā pāḍagasāhīnivēsaṇagihēsu</l>
+	  <l>kāyē khandhē mimmaya kaṁsēṇa va taṁ tu āṇejjā</l>
+	</lg>
+      </div>
+      <div type="section" n="363">
+	<lg n="363">
+	  <l>sunnaṁ va asai kālō pagayaṁ va pahēṇagaṁ va pāsuttā</l>
+	  <l>iya ēi kāi ghettuṁ dīvēi ya kāraṇaṁ taṁ tu</l>
+	</lg>
+      </div>
+      <div type="section" n="364">
+	<lg n="364">
+	  <l>ēsēva kamō niyamā nisihābhihaḍē'vi hōi nāyavvō</l>
+	  <l>aviiadāyagabhāvaṁ nisīhiaṁ taṁ tu nāyavvaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="365">
+	<lg n="365">
+	  <l>aidūrajalantariyā kammāsaṅkāē mā na ghecchanti</l>
+	  <l>āṇēti saṅkhaḍīō saḍḍhō saḍḍhī va pacchannaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="366">
+	<lg n="366">
+	  <l>niggama dēula dānaṁ diyāi sannāi niggaē dānaṁ</l>
+	  <l>siṭṭhaṁmi sēsagamanaṁ dinta'nnē vārayantē'nnē</l>
+	</lg>
+      </div>
+      <div type="section" n="367">
+	<lg n="367">
+	  <l>bhuñjaṇa ajīra purimaḍḍhagāi acchanti bhuttasēsaṁ vā</l>
+	  <l>āgamanisīhigāī na bhuñjaī sāvagāsaṅkā</l>
+	</lg>
+      </div>
+      <div type="section" n="368">
+	<lg n="368">
+	  <l>ukkhittaṁ nikkhippai āsagayaṁ mallagaṁmi pāsagaē</l>
+	  <l>khāmittu gayā saḍḍhā tē'vi ya suddhā asaḍhabhāvā</l>
+	</lg>
+      </div>
+      <div type="section" n="369">
+	<lg n="369">
+	  <l>laddhaṁ pahēṇagaṁ mē amugatthagayāē saṅkhaḍīē vā</l>
+	  <l>vandanagaṭṭhapaviṭṭhā dēi tayaṁ paṭṭhiya niyattā</l>
+	</lg>
+      </div>
+      <div type="section" n="370">
+	<lg n="370">
+	  <l>nīyaṁ pahēṇagaṁ mē niyagāṇaṁ nicchiyaṁ va taṁ tēhiṁ</l>
+	  <l>sāgari sayajjhiyaṁ vā paḍikuṭṭhā saṅkhaḍē ruṭṭhā</l>
+	</lg>
+      </div>
+      <div type="section" n="371">
+	<lg n="371">
+	  <l>ēyaṁ tu aṇāinnaṁ duvihampiya āhaḍaṁ samakkhāyaṁ</l>
+	  <l>āinnampiya duvihaṁ dēsē taha dēsadēsē ya</l>
+	</lg>
+      </div>
+      <div type="section" n="372">
+	<lg n="372">
+	  <l>hatthasayaṁ khalu dēsō ārēṇaṁ hōi dēsadēsō ya</l>
+	  <l>āiṇṇaṁ mivi tigihā taṁ ciya uvaōgapuvvāgā ।।
+
+	  gāhā-373</l>
+	</lg>
+      </div>
+      <div type="section" n="373">
+	<lg n="373">
+	  <l>parivēsaṇapantīē dūrapavēsē ya ghaṅghasālagihē</l>
+	  <l>hatthasayā āinnaṁ gahaṇaṁ paraō u paḍikuṭṭhaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="374">
+	<lg n="374">
+	  <l>hōi puṇa dēsadēsō antō giha sā na dīsaē jattha</l>
+	  <l>ukkhēvāī tattha u sōyāī dēi uvaōgaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="375">
+	<lg n="375">
+	  <l>ukkōsaṁ majjhima jahannagaṁ ca tivihaṁ tu hōi āinnaṁ</l>
+	  <l>karapariyattaṁ jahannaṁ sayamukkasa majjhimaṁ sēsaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="376">
+	<lg n="376">
+	  <l>pihiubbhinnakavāḍē phāsuya apphāsē ya boddhavē</l>
+	  <l>apphāsuya puḍhavimāī phāsuya chagaṇāidaddaraē</l>
+	</lg>
+      </div>
+      <div type="section" n="377">
+	<lg n="377">
+	  <l>ubbhinnē chakkāyā dānē kayavikkaē ya ahigaraṇaṁ</l>
+	  <l>tē cēva kavāḍaṁmi vi savisēsā jantamāīsu</l>
+	</lg>
+      </div>
+      <div type="section" n="378">
+	<lg n="378">
+	  <l>saccittapuḍhavilittaṁ lēlu silaṁ vā'vi dāumōlittaṁ</l>
+	  <l>saccittapuḍhavilēvō cirampi udagaṁ aciralittē</l>
+	</lg>
+      </div>
+      <div type="section" n="379">
+	<lg n="379">
+	  <l>ēvaṁ tu puvva nō littē kāyā ullimpaṇē'vi tē cēva</l>
+	  <l>timmēuṁ uvalimpai jaumuddaṁ vāvi tāvēuṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="380">
+	<lg n="380">
+	  <l>jaha cēva puvvalittē kāya dāuṁ puṇō'vi taha cēva</l>
+	  <l>uvalippantē kāyā muiaṅgāiṁ navari chaṭṭhē</l>
+	</lg>
+      </div>
+      <div type="section" n="381">
+	<lg n="381">
+	  <l>parassa taṁ dēi saē va gēhē tellaṁ va lōṇaṁ va ghayaṁ gulaṁ vā</l>
+	  <l>ugghāḍiē taṁmi karē avassaṁ sa vikkayaṁ tēṇa kiṇāi annaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="382">
+	<lg n="382">
+	  <l>dānakayavikkayā cēva hōi ahigaraṇamajayabhāvassa</l>
+	  <l>nivayanti jē ya tahiyaṁ jīvā muiyaṅgamūsāī</l>
+	</lg>
+      </div>
+      <div type="section" n="383">
+	<lg n="383">
+	  <l>jahēva kumbhāisu puvvalittē ubbhijjamāṇē ya havanti kāyā</l>
+	  <l>ōlimpamāṇē vi tahā tahēva kāyā kavāḍaṁmi vibhāsiyavvā</l>
+	</lg>
+      </div>
+      <div type="section" n="384">
+	<lg n="384">
+	  <l>gharakōilasañcārā āvattaṇa pīḍhagāi heṭṭhuvariṁ</l>
+	  <l>nintē ṭhiē ya antō ḍimbhāīpellaṇē dōsā</l>
+	</lg>
+      </div>
+      <div type="section" n="385">
+	<lg n="385">
+	  <l>gheppai aṅkuciyāgaṁmi kavāḍē paidinē parivahantē</l>
+	  <l>ajaūmuddiya gaṇṭhī paribhujjai daddarō jō ya</l>
+	</lg>
+      </div>
+      <div type="section" n="386">
+	<lg n="386">
+	  <l>mālōhaḍampi duvihaṁ jahannamukkōsagaṁ ca boddhavvaṁ</l>
+	  <l>aggatalē hi jahannaṁ tavvivarīyaṁ tu ukkōsaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="387">
+	<lg n="387">
+	  <l>bhikkhū jahannagaṁmī gēruya ukkōsagaṁmi diṭṭhantō</l>
+	  <l>ahiḍasaṇamālapaḍaṇē ya ēvamāī bhavē dōsā</l>
+	</lg>
+      </div>
+      <div type="section" n="388">
+	<lg n="388">
+	  <l>mālābhimuhaṁ daṭṭhūṇa agāriṁ niggaō taō sāhū</l>
+	  <l>taccaṇṇiya āgamanaṁ pucchā ya adinnadāṇatti</l>
+	</lg>
+      </div>
+      <div type="section" n="389">
+	<lg n="389">
+	  <l>mālaṁmi kuṭṭha mōyaga sugandha ahi pavisaṇaṁ karē ḍakkā</l>
+	  <l>annadiṇa sāhu āgama niddaya kahaṇā ya sambōhī ।।
+
+	  gāhā-390</l>
+	</lg>
+      </div>
+      <div type="section" n="390">
+	<lg n="390">
+	  <l>āsandipīḍhamañcakajaṁ tōḍūkhala paḍanta ubhayavahē</l>
+	  <l>vocchēya paōsāī uḍḍāhamanāṇivāō ya</l>
+	</lg>
+      </div>
+      <div type="section" n="391">
+	<lg n="391">
+	  <l>ēmēva ya ukkōsē vāraṇa nissēṇi guvviṇīpaḍaṇaṁ</l>
+	  <l>gabbhitthikucchiphōḍaṇa puraō maraṇaṁ kahaṇa bōhī</l>
+	</lg>
+      </div>
+      <div type="section" n="392">
+	<lg n="392">
+	  <l>uḍḍhamahē tiriyampiya ahavā mālōhaḍaṁ bhavē tivihaṁ</l>
+	  <l>uḍḍhamahē ōyaraṇaṁ bhaṇiyaṁ kumbhāisū ubhayaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="393">
+	<lg n="393">
+	  <l>daddarasilasōvāṇē puvvārūḍhē anuccamukkhittē</l>
+	  <l>mālōhaḍaṁ na hōi sēsaṁ mālōhaḍaṁ hōi</l>
+	</lg>
+      </div>
+      <div type="section" n="394">
+	<lg n="394">
+	  <l>tiriyāyaya ujjugaēṇa giṇhaī jaṁ karēṇa pāsantō</l>
+	  <l>ēyamaṇuccukkhittaṁ uccukkhittaṁ bhavē sēsaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="395">
+	<lg n="395">
+	  <l>acchijjampiya tivihaṁ pabhū ya sāmī ya tēṇaē cēva</l>
+	  <l>acchijjaṁ paḍikuṭṭhaṁ samaṇāṇa na kappaē ghettuṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="396">
+	<lg n="396">
+	  <l>gōvālaē ya bhayaē kharaē puttē ya dhūya suṇhāē</l>
+	  <l>aciyattasaṅkhaḍāī kēi paōsaṁ jahā gōvō</l>
+	</lg>
+      </div>
+      <div type="section" n="397">
+	<lg n="397">
+	  <l>gōvapaō acchettuṁ dinnaṁ tu jaissa bhaidinē pahuṇā</l>
+	  <l>payabhāṇūṇaṁ daṭṭhuṁ khiṁsai bhōī ruvē cēḍā</l>
+	</lg>
+      </div>
+      <div type="section" n="398">
+	<lg n="398">
+	  <l>paḍiyaraṇa paōsēṇaṁ bhāvaṁ nāuṁ jaissa ālāvō</l>
+	  <l>tannibbandhā gahiyaṁ handi u mukkō si mā bīyaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="399">
+	<lg n="399">
+	  <l>nānivviṭṭhaṁ labbhai dāsī vi na bhujjaē ritē bhattā</l>
+	  <l>donnēgayarapaōsaṁ jaṁ kāhī antarāyaṁ ca</l>
+	</lg>
+      </div>
+      <div type="section" n="400">
+	<lg n="400">
+	  <l>sāmī cārabhaḍā vā sañjaya daṭṭhūṇa tēsi aṭṭhāē</l>
+	  <l>kaluṇāṇaṁ acchejjaṁ sāhūṇa na kappaē ghettuṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="401">
+	<lg n="401">
+	  <l>āhārōvahimāī jai aṭṭhāē u kōi acchindē</l>
+	  <l>saṅkhaḍi asaṅkhaḍīē taṁ giṇhantē imē dōsā</l>
+	</lg>
+      </div>
+      <div type="section" n="402">
+	<lg n="402">
+	  <l>aciyattamantarāyaṁ tēnāhaḍa ēga'nēgavocchēō</l>
+	  <l>nicchubhaṇāī dōsā tassa a lambhē ya jaṁ pāvē</l>
+	</lg>
+      </div>
+      <div type="section" n="403">
+	<lg n="403">
+	  <l>tēṇō va sañjayaṭṭhā kaluṇāṇaṁ appaṇō va aṭṭhāē</l>
+	  <l>vocchēya paōsaṁ vā na kappaī kappa'ṇunnāyaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="404">
+	<lg n="404">
+	  <l>sañjayabhaddā tēṇā āyantī vā asantharē jaiṇaṁ</l>
+	  <l>jai dētiṁ na ghettavvaṁ nicchubha vocchēu mā hojjā</l>
+	</lg>
+      </div>
+      <div type="section" n="405">
+	<lg n="405">
+	  <l>ghayasattuyadiṭṭhantō samaṇunnāya va ghettuṇaṁ pacchā</l>
+	  <l>denti tayaṁ tēsiṁ ciya samaṇunnāyā va bhuñjanti</l>
+	</lg>
+      </div>
+      <div type="section" n="406">
+	<lg n="406">
+	  <l>ghayasattugadiṭṭhantō ambāpāē ya tappiyā piyarō</l>
+	  <l>kāmamakāmē dhammō niōiē amhavi kayāī ।।
+
+	  gāhā-407</l>
+	</lg>
+      </div>
+      <div type="section" n="407">
+	<lg n="407">
+	  <l>aimasiṭṭhaṁ paḍikuṭṭhaṁ anunāyaṁ kappaē suvihiyāṇaṁ</l>
+	  <l>laḍḍuga collaga jantē saṅkhaḍi khīrāvaṇāīsu</l>
+	</lg>
+      </div>
+      <div type="section" n="408">
+	<lg n="408">
+	  <l>battīsā sāmannē tē kahiṁ ṇhāuṁ gayatti ia vuttē</l>
+	  <l>parasantiēṇa punnaṁ na tarasi kāunti paccāha</l>
+	</lg>
+      </div>
+      <div type="section" n="409">
+	<lg n="409">
+	  <l>aviya hu battīsāē dinnēhiṁ tavēga mōyagō na bhavē</l>
+	  <l>appavayaṁ bahuāyaṁ jai jāṇasi dēhi tō majjhaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="410">
+	<lg n="410">
+	  <l>lābhiya nentō puṭṭhō kiṁ laddhaṁ? natthi pacchimō dāē</l>
+	  <l>iyarō'vi āha nāhaṁ dēmitti sahōḍha cōratti</l>
+	</lg>
+      </div>
+      <div type="section" n="411">
+	<lg n="411">
+	  <l>giṇhaṇa kaḍḍhaṇa vavahāra pacchakaḍuḍḍāha puccha nivvisaē</l>
+	  <l>apahuṁmi hunti dōsā pahuṁmi dinnē taō gahaṇaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="412">
+	<lg n="412">
+	  <l>ēmēva ya jantaṁmivi saṅkhaḍi khīrē ya āvaṇāīsuṁ</l>
+	  <l>sāmannaṁ paḍikuṭṭhaṁ kappai ghettuṁ aṇunnāyaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="413">
+	<lg n="413">
+	  <l>cullatti dāramahuṇā bahuvattavvanti taṁ kayaṁ pacchā</l>
+	  <l>vannēi gurū sō puṇa sāmiyahatthīṇa vinnēō</l>
+	</lg>
+      </div>
+      <div type="section" n="414">
+	<lg n="414">
+	  <l>chinnamachinnō duvihō hōi achinnō nisiṭṭha anisiṭṭhō</l>
+	  <l>chinnambhi cullagaṁmī kappai ghettuṁ nisiṭṭhaṁmi</l>
+	</lg>
+      </div>
+      <div type="section" n="415">
+	<lg n="415">
+	  <l>chinnē diṭṭhamadiṭṭhō jō ya nisiṭṭhō bhavē achinnō ya</l>
+	  <l>sō kappai iyarō uṇa adiṭṭhadiṭṭhō va'ṇunnāō</l>
+	</lg>
+      </div>
+      <div type="section" n="416">
+	<lg n="416">
+	  <l>anisiṭṭhamaṇunnāyaṁ kappai ghettuṁ tahēva addiṭṭhaṁ</l>
+	  <l>jaḍḍassa ya anisiṭṭhaṁ na kappaī kappai adiṭṭhaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="417">
+	<lg n="417">
+	  <l>nivapiṇḍō gayabhattaṁ gahaṇāī antarāiyamadinnaṁ</l>
+	  <l>ḍombassa santiēvi hu abhikkha vasahīya phēḍaṇayā</l>
+	</lg>
+      </div>
+      <div type="section" n="418">
+	<lg n="418">
+	  <l>ajjhōyaraō tivihō jāvantiya sadharamīsapāsaṇḍē</l>
+	  <l>mūlaṁmi ya puvvakayē ōyaraī tiṇha aṭṭhāē</l>
+	</lg>
+      </div>
+      <div type="section" n="419">
+	<lg n="419">
+	  <l>taṇḍulajalaāyāṇē pupphaphalē sāgavēsaṇē lōṇē</l>
+	  <l>parimāṇē nāṇattaṁ ajjhōyaramīsajāē ya</l>
+	</lg>
+      </div>
+      <div type="section" n="420">
+	<lg n="420">
+	  <l>jāvantiē visōhī sagharapāsaṇḍimīsaē pūī</l>
+	  <l>chinnē visōhi dinnaṁmi kappaī na kappaī sēsaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="421">
+	<lg n="421">
+	  <l>chinnaṁmi taō ukkaḍḍhiyaṁmi kappai pihīkaē sēsaṁ</l>
+	  <l>āhāvaṇāē dinnaṁ ca tattiyaṁ kappaē sēsaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="422">
+	<lg n="422">
+	  <l>ēsō sōlasabhēō duhā kīraī uggamō</l>
+	  <l>ēgō visōhikōḍī avisōhī u cāvarā</l>
+	</lg>
+      </div>
+      <div type="section" n="423">
+	<lg n="423">
+	  <l>āhākammuddēsiya caramatigaṁ pūi mīsajāē ya</l>
+	  <l>bāyarapāhuḍiyāviya ajjhōyaraē ya carimadugaṁ ।।
+
+	  gāhā-424</l>
+	</lg>
+      </div>
+      <div type="section" n="424">
+	<lg n="424">
+	  <l>uggamakōḍī avayava lēvālēvē ya akayaē kappē</l>
+	  <l>kañjiya āyāmaga cāulōya saṁsaṭṭha pūīō</l>
+	</lg>
+      </div>
+      <div type="section" n="425">
+	<lg n="425">
+	  <l>sukkēṇa'vi jaṁ chikkaṁ tu asuiṇā dhōvaē jahā lōē</l>
+	  <l>iha sukkēṇa'vi chikkaṁ dōvai kammēṇa bhāṇaṁ tu?</l>
+	</lg>
+      </div>
+      <div type="section" n="426">
+	<lg n="426">
+	  <l>lēvālēvatti jaṁ vuttaṁ jampi davvamalēvaḍaṁ </l>
+	  <l>tampi ghettuṁ na kappanti takkāi kimu lēvaḍaṁ?</l>
+	</lg>
+      </div>
+      <div type="section" n="427">
+	<lg n="427">
+	  <l>āhāya jaṁ kīrai taṁ tu kammaṁ vajjēhihī ōyaṇamēgamēva</l>
+	  <l>sōvīra āyāmaga cāulō dagaṁ kammanti tō taggahaṇaṁ karenti</l>
+	</lg>
+      </div>
+      <div type="section" n="428">
+	<lg n="428">
+	  <l>sēsā visōhikōḍī bhattaṁ pānaṁ vigiñca jahasattiṁ</l>
+	  <l>aṇalakkhiya mīsadavē savvavivēgē'vayava suddhō</l>
+	</lg>
+      </div>
+      <div type="section" n="429">
+	<lg n="429">
+	  <l>davvāiō vivēgō davvē jaṁ davva jaṁ jahiṁ khettē</l>
+	  <l>kālē akālahīnaṁ asaḍhō jaṁ passaī bhāvē</l>
+	</lg>
+      </div>
+      <div type="section" n="430">
+	<lg n="430">
+	  <l>sukkollasarisapāē asarisapāē ya ettha caubhaṅgō</l>
+	  <l>tullē tullanivāē tattha duvē donna'tullā u</l>
+	</lg>
+      </div>
+      <div type="section" n="431">
+	<lg n="431">
+	  <l>sukkē sukkaṁ paḍiyaṁ vigiñciuṁ hōi taṁ suhaṁ paḍhamō</l>
+	  <l>bīyaṁmi davaṁ chōḍhuṁ gālanti davaṁ karaṁ dāuṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="432">
+	<lg n="432">
+	  <l>taiyaṁmi karaṁ chōḍhuṁ ulliñcai ōyaṇāi jaṁ tarau</l>
+	  <l>dullahadavvaṁ carimē tattiyamittaṁ vigiñcanti</l>
+	</lg>
+      </div>
+      <div type="section" n="433">
+	<lg n="433">
+	  <l>santharē savvamujjhanti caubhaṅgō asantharē</l>
+	  <l>asaḍhō sujjhaī tēsuṁ māyāvī jēsu bajjhaī</l>
+	</lg>
+      </div>
+      <div type="section" n="434">
+	<lg n="434">
+	  <l>kōḍīkaraṇaṁ duvihaṁ uggamakōḍī visōhikōḍī ya</l>
+	  <l>uggamakōḍī chakkaṁ visōhikōḍī anēgavihā</l>
+	</lg>
+      </div>
+      <div type="section" n="435">
+	<lg n="435">
+	  <l>nava cēva aḍhārasagaṁ sattāvīsā tahēva caupannā</l>
+	  <l>nauī dō cēva sayā u sattarī hōi kōḍīṇaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="436">
+	<lg n="436">
+	  <l>sōlasa uggamadōsē gihiṇōu samuṭṭhiē viyāṇāhi</l>
+	  <l>uppāyaṇāē dōsē sāhūu samuṭṭhiē jāṇa</l>
+	</lg>
+      </div>
+      <div type="section" n="437">
+	<lg n="437">
+	  <l>nāmaṁ ṭhavaṇā daviē bhāvē uppāyaṇā muṇēyavvā</l>
+	  <l>davvaṁmi hōi tivihā bhāvaṁmi u sōlasapayā u</l>
+	</lg>
+      </div>
+      <div type="section" n="438">
+	<lg n="438">
+	  <l>āsūyamāiēhiṁ bālaciyaturaṅga bīyamāīhiṁ</l>
+	  <l>suyaāsadumāīṇaṁ uppāyaṇayā u saccittā</l>
+	</lg>
+      </div>
+      <div type="section" n="439">
+	<lg n="439">
+	  <l>kanagarayayāiyāṇaṁ jaheṭṭhadhāuvihiyā u accittā</l>
+	  <l>mīsā u sabhaṇḍāṇaṁ dupayāikayā u uppattī</l>
+	</lg>
+      </div>
+      <div type="section" n="440">
+	<lg n="440">
+	  <l>bhāvē pasattha iyarō kōhāuppāyaṇā u apasatthō</l>
+	  <l>kōhāijuyā dhāyāiṇaṁ ca nāṇāi u pasatthā ।।
+
+	  gāhā-441</l>
+	</lg>
+      </div>
+      <div type="section" n="441">
+	<lg n="441">
+	  <l>dhāī dūi nimittē ājīva vaṇīmagē tigicchā ya</l>
+	  <l>kōhē mānē māyā lōbhē ya havanti dasa ēē</l>
+	</lg>
+      </div>
+      <div type="section" n="442">
+	<lg n="442">
+	  <l>puvvimpacchāsanthava vijjā bhantē ya cuṇṇa jōgē ya</l>
+	  <l>uppāyaṇāi dōsā sōlasamē mūlakammē ya</l>
+	</lg>
+      </div>
+      <div type="section" n="443">
+	<lg n="443">
+	  <l>khīrē ya majjaṇē maṇḍaṇē ya kīlāvaṇaṅkadhāī ya</l>
+	  <l>ekkekkāviya duvihā karaṇē kārāvaṇē cēva</l>
+	</lg>
+      </div>
+      <div type="section" n="444">
+	<lg n="444">
+	  <l>dhārēi dhīyaē vā dhayanti vā tamiti tēṇa dhāī u</l>
+	  <l>jahavihavaṁ āsi purā khīrāī pañca dhāīō</l>
+	</lg>
+      </div>
+      <div type="section" n="445">
+	<lg n="445">
+	  <l>khīrāhārō rōvai majjha kayāsāya dēhi ṇaṁ pijjē</l>
+	  <l>pacchā va majjha dāhisi alaṁ va bhujjō va ēhāmi</l>
+	</lg>
+      </div>
+      <div type="section" n="446">
+	<lg n="446">
+	  <l>maimaṁ arōgi dīhāuō ya hōi avimāṇiō bālō</l>
+	  <l>dullabhayaṁ khu suyamuhaṁ pijjāhi ahaṁ va sē dēmi</l>
+	</lg>
+      </div>
+      <div type="section" n="447">
+	<lg n="447">
+	  <l>ahigaraṇa bhaddapantā kammudaya gilāṇaē ya uḍḍāhō</l>
+	  <l>caḍukārī ya avaṇṇō niyagō annaṁ ca jaṁ saṅkē</l>
+	</lg>
+      </div>
+      <div type="section" n="448">
+	<lg n="448">
+	  <l>ayamavarō u vikappō bhikkhāyari saḍḍhi addhiī pucchā</l>
+	  <l>dukkhasahāya vibhāsā hiyaṁ ca dhāittaṇaṁ ajjō</l>
+	</lg>
+      </div>
+      <div type="section" n="449">
+	<lg n="449">
+	  <l>vayagaṇḍataṇuyathūlattaṇēhiṁ taṁ pucchiuṁ ayāṇantō</l>
+	  <l>tattha gaō tassamakkhaṁ bhaṇāi taṁ pāsiuṁ bālaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="450">
+	<lg n="450">
+	  <l>ahuṇuṭṭhiyaṁ va aṇavikkhiyaṁ va iṇamaṁ kulaṁ tu mannāmi</l>
+	  <l>punnēhiṁ jahitāē jadicchāē va taraī bālēṇa sūēmō</l>
+	</lg>
+      </div>
+      <div type="section" n="451">
+	<lg n="451">
+	  <l>thērī dubbalakkhīrā cimiḍhō pelliyamuhō aithaṇīē</l>
+	  <l>taṇuī u mandakhīrā kupparathaṇiyāē sūimuhō</l>
+	</lg>
+      </div>
+      <div type="section" n="452">
+	<lg n="452">
+	  <l>jā jēṇa hōi vaṇṇēṇa ukkaḍā garahaē ya taṁ tēṇaṁ</l>
+	  <l>garahai samāṇa tivvaṁ pasatthamiyaraṁ ca duvvannaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="453">
+	<lg n="453">
+	  <l>uvvaṭṭiyā paōsaṁ chōbhaga ubbhāmaō ya sē jaṁ tu</l>
+	  <l>hojjā majjhavi vigghō visāi iyarī va ēmēva</l>
+	</lg>
+      </div>
+      <div type="section" n="454">
+	<lg n="454">
+	  <l>ēmēva sēsiyāsuvi suyamāisu karaṇakāraṇaṁ sagihē</l>
+	  <l>iḍḍhīsu ya dhāīsu ya tahēva uvvaṭṭiyāṇa gamō</l>
+	</lg>
+      </div>
+      <div type="section" n="455">
+	<lg n="455">
+	  <l>lōlai mahīē dhūlīē guṇḍiō ṇhāṇi ahavaṇaṁ majjē</l>
+	  <l>jalabhīru abalanayanō aiuppilaṇē a rattacchō</l>
+	</lg>
+      </div>
+      <div type="section" n="456">
+	<lg n="456">
+	  <l>abbhaṅgiya saṁvāhiya uvvaṭṭiya majjiyaṁ ca tō bālaṁ</l>
+	  <l>uvaṇēi majjadhāī maṇḍaṇadhāīē suidēhaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="457">
+	<lg n="457">
+	  <l>usuāiēhiṁ maṇḍēhi tāva ṇaṁ ahavaṇaṁ vibhūsēmi</l>
+	  <l>hatthiccagā va pāē kayā galiccā va pāē vā ।।
+
+	  gāhā-458</l>
+	</lg>
+      </div>
+      <div type="section" n="458">
+	<lg n="458">
+	  <l>ḍhaḍḍharasara chunnamuhō mauyagirō mauyamammaṇullāvō</l>
+	  <l>ullāvaṇagāīhiṁ va karēi kārēi vā kiḍḍaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="459">
+	<lg n="459">
+	  <l>thullīē viyaḍapāō bhaggakaḍī sukkaḍāē dukkhaṁ ca</l>
+	  <l>nimbhaṁsakakkhaḍakarēhiṁ bhīruō hōi gheppantē</l>
+	</lg>
+      </div>
+      <div type="section" n="460">
+	<lg n="460">
+	  <l>kollairē vatthavvō dattō āhiṇḍaō bhavē sīsō</l>
+	  <l>avaharai dhāipiṇḍaṁ aṅgulijalaṇē ya sādivvaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="461">
+	<lg n="461">
+	  <l>ōmē saṅgamathērā gaccha visajjanti jaṅghabalahīnā</l>
+	  <l>navabhāgakhettavasahī dattassa ya āgamō tāhē</l>
+	</lg>
+      </div>
+      <div type="section" n="462">
+	<lg n="462">
+	  <l>uvasabāhiṁ ṭhāṇaṁ annāuñchēṇa saṅkilēsō ya</l>
+	  <l>pūyaṇacēḍē mā ruya paḍilābhaṇa viyaḍaṇā sammaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="463">
+	<lg n="463">
+	  <l>saggāma paraggāmē duvihā dūī u hōi nāyavvā</l>
+	  <l>sā vā sō vā bhaṇaī bhaṇai va taṁ channavayaṇēṇaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="464">
+	<lg n="464">
+	  <l>ekkekkāviya duvihā pāgaḍa channā ya channa duvihā u</l>
+	  <l>lōguttari tatthēgā bīyā puṇa ubhayapakkhēsu</l>
+	</lg>
+      </div>
+      <div type="section" n="465">
+	<lg n="465">
+	  <l>bhikkhāiē vaccantē appāhaṇi nēi khantiyāīṇaṁ</l>
+	  <l>sā tē amugaṁ māyā sō va piyā tē imaṁ bhaṇai</l>
+	</lg>
+      </div>
+      <div type="section" n="466">
+	<lg n="466">
+	  <l>dūittaṁ khu garahiyaṁ appāhiuṁ biiyapaccayā bhaṇati</l>
+	  <l>avikōviyā suyā tē jā āha maiṁ bhaṇasu khantiṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="467">
+	<lg n="467">
+	  <l>ubhayē'viya pacchannā khanta! kahijjāhi khantiyāē tumaṁ</l>
+	  <l>taṁ taha sañjāyantiya tahēva aha taṁ karejjāhi</l>
+	</lg>
+      </div>
+      <div type="section" n="468">
+	<lg n="468">
+	  <l>gāmāṇa dōṇha vēraṁ sejjāyari dhūya tattha khantassa</l>
+	  <l>vahapariṇaya khanta'jjhattha ṇaṁ va nāē kaē juddhaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="469">
+	<lg n="469">
+	  <l>jāmāiputtapaimāraṇaṁ ca kēṇa kahiyanti janavāō</l>
+	  <l>jāmāiputtapaimāraēṇa khantēṇa mē siṭṭhaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="470">
+	<lg n="470">
+	  <l>niyamā tikālavisaē'vi nimittē chavvihē bhavē dōsā</l>
+	  <l>sajjaṁ tu vaṭṭamāṇē āubhaē tatthimaṁ nāyaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="471">
+	<lg n="471">
+	  <l>lābhālābhaṁ suhaṁ dukkhaṁ jīviyaṁ maraṇaṁ tahā</l>
+	  <l>chavvihē'vi nimittē u dōsā honti imē suṇa</l>
+	</lg>
+      </div>
+      <div type="section" n="472">
+	<lg n="472">
+	  <l>ākampiyā nimittēṇa bhōiṇī bhōiē ciragayaṁmi</l>
+	  <l>puvvabhaṇiē kahaṁ tē āgau? ruṭṭhō ya vaḍavāē</l>
+	</lg>
+      </div>
+      <div type="section" n="473">
+	<lg n="473">
+	  <l>dūrābhōyaṇa ēgāgi āgaō pariṇayassa paccōṇī</l>
+	  <l>pucchā samaṇē kahaṇaṁ sāiyaṅkāra sumiṇāī</l>
+	</lg>
+      </div>
+      <div type="section" n="474">
+	<lg n="474">
+	  <l>kōvō vaḍavāgabbhaṁ ca pucchiō pañcapuṇḍamāhaṁsu</l>
+	  <l>phālaṇa diṭṭhē jai nēva tō tuhaṁ avitahaṁ kai vā ।।
+
+	  gāhā-475</l>
+	</lg>
+      </div>
+      <div type="section" n="475">
+	<lg n="475">
+	  <l>jāī kula gaṇa kammē sippē ājīvaṇā u pañcavihā</l>
+	  <l>sūyāē asūyāē va appāṇa kahēhi ekkekkē</l>
+	</lg>
+      </div>
+      <div type="section" n="476">
+	<lg n="476">
+	  <l>jāīkulē vibhāsā gaṇō u mallāi kamma kisimāī</l>
+	  <l>tuṇṇāi sippa'ṇāvajjagaṁ ca kammēyarā''vajjaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="477">
+	<lg n="477">
+	  <l>hōmāyavitahakaraṇē najjai jaha sottiyassa puttotti</l>
+	  <l>vasiō vēsa gurukulē āyariyaguṇē va sūēi</l>
+	</lg>
+      </div>
+      <div type="section" n="478">
+	<lg n="478">
+	  <l>sammamasammā kiriyā anēna ūṇā'hiyā va vivarīyā</l>
+	  <l>samihāmantāhuiṭhāṇa jāgakālē ya ghōsāī</l>
+	</lg>
+      </div>
+      <div type="section" n="479">
+	<lg n="479">
+	  <l>uggāikulēsu vi ēvamēva gaṇamaṇḍalappavēsāī</l>
+	  <l>dēuladarisaṇabhāsā uvanayaṇē daṇḍamāiyā</l>
+	</lg>
+      </div>
+      <div type="section" n="480">
+	<lg n="480">
+	  <l>kattari paōaṇāvekkha vatthubahuvittharēsu ēmēva</l>
+	  <l>kammēsu ya sippēsu ya sammamasammēsu sūīyarā</l>
+	</lg>
+      </div>
+      <div type="section" n="481">
+	<lg n="481">
+	  <l>samaṇē mahāṇi kivaṇē atihī sāṇē ya hōi pañcamaē</l>
+	  <l>vaṇi jāyaṇatti vaṇiō pāyappāṇaṁ vaṇēitti</l>
+	</lg>
+      </div>
+      <div type="section" n="482">
+	<lg n="482">
+	  <l>mayamāivacchagampiva vaṇēi āhāramāilōbhēṇaṁ</l>
+	  <l>samaṇēsu mahāṇēsu ya kiviṇā'tihisāṇabhattēsu</l>
+	</lg>
+      </div>
+      <div type="section" n="483">
+	<lg n="483">
+	  <l>niggantha sakka tāvasa gēruya ājīva pañcahā samaṇā</l>
+	  <l>tēsi parivēsaṇāē lōbhēṇa vaṇijja kō appaṁ?</l>
+	</lg>
+      </div>
+      <div type="section" n="484">
+	<lg n="484">
+	  <l>bhuñjanti cittakammaṭṭhiyā va kāruṇiya dāṇaruiṇō ya</l>
+	  <l>avi kāmagaddabhēsuvi na nassaī kiṁ puṇa jaīsu?</l>
+	</lg>
+      </div>
+      <div type="section" n="485">
+	<lg n="485">
+	  <l>micchattathirīkaraṇaṁ uggamadōsā ya tēsu vā gacchē</l>
+	  <l>caḍukāra'dinnadāṇā paccatthiga mā puṇō intu</l>
+	</lg>
+      </div>
+      <div type="section" n="486">
+	<lg n="486">
+	  <l>lōyāṇuggahakārisu bhūmīdēvēsu bahuphalaṁ dānaṁ</l>
+	  <l>avi nāma bambhabandhusu kiṁ puṇa chakkammaniraēsu?</l>
+	</lg>
+      </div>
+      <div type="section" n="487">
+	<lg n="487">
+	  <l>kivaṇēsu dummaṇēsu ya abandhavāyaṅkajuṅgiyaṅgēsuṁ</l>
+	  <l>pūyāhijjē lōē dānapaḍāgaṁ harai dintō</l>
+	</lg>
+      </div>
+      <div type="section" n="488">
+	<lg n="488">
+	  <l>pāēṇa dēi lōgō uvagārisu pariciēsu jhusiēsu</l>
+	  <l>jō puṇa addhākhinnaṁ atihiṁ pūēi taṁ dānaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="489">
+	<lg n="489">
+	  <l>avi nāma hojja sulabhō gōṇāīṇaṁ taṇāi āhārō</l>
+	  <l>chicchikkārahayāṇaṁ na hu sulahō hōi suṇahā ṇaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="490">
+	<lg n="490">
+	  <l>kēlāsabhavaṇā ēē āgayā gujjhagā mahiṁ</l>
+	  <l>caranti jakkharūvēṇaṁ puyā'pūyā hiyā'hiyā</l>
+	</lg>
+      </div>
+      <div type="section" n="491">
+	<lg n="491">
+	  <l>ēēṇa majjha bhāvō diṭṭhō lōē paṇāmahejjaṁmi</l>
+	  <l>ekkekkē puvvuttā bhaddagapantāiṇō dōsā ।।
+
+	  gāhā-492</l>
+	</lg>
+      </div>
+      <div type="section" n="492">
+	<lg n="492">
+	  <l>ēmēva kāgamāī sāṇaggahaṇēṇa sūiyā honti</l>
+	  <l>jō vā jaṁmi pasattō vaṇai tahiṁ puṭṭha'puṭṭhō vā</l>
+	</lg>
+      </div>
+      <div type="section" n="493">
+	<lg n="493">
+	  <l>dānaṁ na hōi aphalaṁ pattamapattēsu sannijujjantaṁ</l>
+	  <l>iya vibhaṇiē'vi dōsā pasaṁsaō kiṁ puṇa apattē</l>
+	</lg>
+      </div>
+      <div type="section" n="494">
+	<lg n="494">
+	  <l>bhaṇai nāhaṁ vejjō ahavā'vi kahēi appaṇō kiriyaṁ</l>
+	  <l>ahavā'vi vijjayāē tiviha tigicchā muṇēyavvā</l>
+	</lg>
+      </div>
+      <div type="section" n="495">
+	<lg n="495">
+	  <l>bhikkhāi gaō rōgī kiṁ vijjō'hanti pucchiō bhaṇai</l>
+	  <l>atthāvattīē kayā abuhāṇaṁ bōhaṇā ēvaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="496">
+	<lg n="496">
+	  <l>ērisayaṁ ciya dukkhaṁ bhēsajjēṇa amugēṇa pauṇaṁ mē</l>
+	  <l>sahasuppannaṁ va ruyaṁ vārēmō aṭṭhamāīhiṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="497">
+	<lg n="497">
+	  <l>saṁsōdhana saṁsamaṇaṁ niyāṇaparivajjaṇaṁ ca jaṁ tattha</l>
+	  <l>āgantu dhāukhōbhē ya āmaē kuṇai kiriyaṁ tu</l>
+	</lg>
+      </div>
+      <div type="section" n="498">
+	<lg n="498">
+	  <l>assañjamajōgāṇaṁ pasandhaṇaṁ kāyaghāya ayagōlō</l>
+	  <l>dubbalavagghā haraṇaṁ accudayē giṇhaṇuḍḍāhē</l>
+	</lg>
+      </div>
+      <div type="section" n="499">
+	<lg n="499">
+	  <l>hatthakappa giriphulliya rāyagihaṁ khalu tahēva campā ya</l>
+	  <l>kaḍaghayapunnē iṭṭaga laḍḍuga taha sīhakēsaraē</l>
+	</lg>
+      </div>
+      <div type="section" n="500">
+	<lg n="500">
+	  <l>vijjātavappabhāvaṁ rāyakulē vā'vi vallabhattaṁ sē</l>
+	  <l>nāuṁ ōrassabalaṁ jō labbhai dēi bhayā kōhapiṇḍō sō</l>
+	</lg>
+      </div>
+      <div type="section" n="501">
+	<lg n="501">
+	  <l>annēsi dijjamāṇē jāyantō vā aladdhiō kuppē</l>
+	  <l>kōhaphalaṁmi'vi diṭṭhē jō labbhai kōhapiṇḍō sō</l>
+	</lg>
+      </div>
+      <div type="section" n="502">
+	<lg n="502">
+	  <l>karaḍuyabhattamaladdhuṁ annahiṁ dāhittha ēva vaccantō</l>
+	  <l>thērā bhōyaṇa taiē āikkhaṇa khāmaṇā dānaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="503">
+	<lg n="503">
+	  <l>ucchāhiō parēṇa va laddhipasaṁsāhiṁ vā samuttaiō</l>
+	  <l>avamāniō parēṇa ya jō ēsai mānapiṇḍō sō</l>
+	</lg>
+      </div>
+      <div type="section" n="504">
+	<lg n="504">
+	  <l>iṭṭagachaṇaṁmi paripiṇḍiyāṇa ullāva kō nu hu pagēva</l>
+	  <l>āṇijja iṭṭagāō? khuḍḍō paccāha āṇēmi</l>
+	</lg>
+      </div>
+      <div type="section" n="505">
+	<lg n="505">
+	  <l>jaiviya tā pajjattā agulaghayāhiṁ na tāhiṁ ṇē kajjaṁ</l>
+	  <l>jārisiyāō icchaha tā āṇēmitti nikkhantō</l>
+	</lg>
+      </div>
+      <div type="section" n="506">
+	<lg n="506">
+	  <l>ōhāsiya paḍisiddhō bhaṇai agāriṁ avassimā majjhaṁ</l>
+	  <l>jai lahasi tō taṁ mē nāsāē kuṇasu mōyanti</l>
+	</lg>
+      </div>
+      <div type="section" n="507">
+	<lg n="507">
+	  <l>kassa ghara pucchiūṇaṁ parisāē amui kairau pucchē</l>
+	  <l>kiṁ tēṇa'mhē jāyasu sō kiviṇō sa dāhii na tujjhaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="508">
+	<lg n="508">
+	  <l>dāhāmi tēṇa bhaṇiē jai na bhavasi chaṇhamēsi purisāṇaṁ</l>
+	  <l>annayarō tō tē'haṁ parisāmajjhaṁmi paṇayā mi ।।
+
+	  gāhā-509</l>
+	</lg>
+      </div>
+      <div type="section" n="509">
+	<lg n="509">
+	  <l>sēyaṅguli baguḍḍāvē kiṅkarē ṇhāyaē tahā</l>
+	  <l>giddhāvaraṅkhi haddannaē ya purisāhamā chā u</l>
+	</lg>
+      </div>
+      <div type="section" n="510">
+	<lg n="510">
+	  <l>jāyasu na ērisō'haṁ iṭṭagā dēhi puvvamaigantuṁ</l>
+	  <l>mālā uttāri gulaṁ bhōēmi dietti ārūḍhā</l>
+	</lg>
+      </div>
+      <div type="section" n="511">
+	<lg n="511">
+	  <l>siiavaṇaṇa paḍilābhaṇa dissiyarī bōlamaṅgulī nāsaṁ</l>
+	  <l>duṇhēgayarapaōsō āyavivattī ya uḍḍāhō</l>
+	</lg>
+      </div>
+      <div type="section" n="512">
+	<lg n="512">
+	  <l>rāyagihē dhammaruī asāḍhabhūī ya khuḍḍaō tassa</l>
+	  <l>rāyanaḍagēhapavisaṇa sambhōiya mōyaē lambhō</l>
+	</lg>
+      </div>
+      <div type="section" n="513">
+	<lg n="513">
+	  <l>āyariya uvajjhāē saṅghāḍaga kāṇakhujja taddōsī</l>
+	  <l>naḍapāsaṇa pajjattaṁ nikāyaṇa dinē dinē dānaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="514">
+	<lg n="514">
+	  <l>dhūyaduē sandēsō dāna siṇēha karaṇaṁ rahē karaṇaṁ</l>
+	  <l>liṅgaṁ muyatti gurusiṭṭha vivāhē uttamā pagaī</l>
+	</lg>
+      </div>
+      <div type="section" n="515">
+	<lg n="515">
+	  <l>rāyagharē ya kayāī nimmahilaṁ nāḍagaṁ naḍāgacchī</l>
+	  <l>tā ya viharaṁmi mattā uvari gihē dōvi pāsuttā</l>
+	</lg>
+      </div>
+      <div type="section" n="516">
+	<lg n="516">
+	  <l>vāghāēṇa niyattō dissa vicēlā virāga sambōhī</l>
+	  <l>iṅgiyanāē pucchā pajīvaṇaṁ raṭṭhapālanti</l>
+	</lg>
+      </div>
+      <div type="section" n="517">
+	<lg n="517">
+	  <l>ikkhāgavaṁsa bharahō āyaṁsagharē ya kēvalālōō</l>
+	  <l>hārāikhivaṇa gahaṇaṁ uvasagga na sō niyattotti</l>
+	</lg>
+      </div>
+      <div type="section" n="518">
+	<lg n="518">
+	  <l>tēna samaṁ pavvaiyā pañca narasayatti nāḍaē ḍahaṇaṁ</l>
+	  <l>gēlannakhamagapāhuṇa thērādiṭṭhā ya bīyaṁ tu</l>
+	</lg>
+      </div>
+      <div type="section" n="519">
+	<lg n="519">
+	  <l>labbhantampi na giṇhai annaṁ amuganti ajja ghecchāmi</l>
+	  <l>bhaddarasanti va kāuṁ giṇhai khaddhaṁ siṇiddhāī</l>
+	</lg>
+      </div>
+      <div type="section" n="520">
+	<lg n="520">
+	  <l>campā chaṇaṁmi ghicchāmi mōyaē tē'vi sīhakēsaraē</l>
+	  <l>paḍisēha dhammalābhaṁ kāūṇaṁ sīhakēsaraē</l>
+	</lg>
+      </div>
+      <div type="section" n="521">
+	<lg n="521">
+	  <l>saḍḍha'ḍḍharattakēsarabhāyaṇabharaṇaṁ ca puccha purimaḍḍhē</l>
+	  <l>uvaōga santa cōyaṇa sāhutti vigiñcaṇē nāṇaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="522">
+	<lg n="522">
+	  <l>duvihō u santhavō khalu sambandhī vayaṇasanthavō cēva</l>
+	  <l>ekkekkōviya duvihō puvviṁ pacchā ya nāyavvō</l>
+	</lg>
+      </div>
+      <div type="section" n="523">
+	<lg n="523">
+	  <l>māyapii puvvasanthava sāsūsasurāiyāṇa pacchā u</l>
+	  <l>gihi santhava sambandhaṁ karēi puvvaṁ ca pacchā vā</l>
+	</lg>
+      </div>
+      <div type="section" n="524">
+	<lg n="524">
+	  <l>āyavayaṁ ca paravayaṁ nāuṁ sambandhaē tayaṇurūvaṁ</l>
+	  <l>mama māyā ērisiyā sasā va dhūyā va nattāī</l>
+	</lg>
+      </div>
+      <div type="section" n="525">
+	<lg n="525">
+	  <l>addhiī diṭṭhipaṇhava pucchā kahaṇaṁ mamērisī jananī</l>
+	  <l>thaṇakhēvō sambandhō vihavā suṇhāidānaṁ ca ।।
+
+	  gāhā-526</l>
+	</lg>
+      </div>
+      <div type="section" n="526">
+	<lg n="526">
+	  <l>pacchāsanthavadōsā sāsū vihavādidhūyadānaṁ ca</l>
+	  <l>bhajjā mamērisicciya sajjō dhāō va bhaṅgō vā</l>
+	</lg>
+      </div>
+      <div type="section" n="527">
+	<lg n="527">
+	  <l>māyāvī caḍuyārī amhaṁ ōhāvaṇaṁ kuṇai ēsō</l>
+	  <l>nicchubhaṇāī pantō karijja bhaddēsu paḍibandhō</l>
+	</lg>
+      </div>
+      <div type="section" n="528">
+	<lg n="528">
+	  <l>guṇasanthavaṇē puvviṁ santāsantēṇa jō thuṇijjāhi</l>
+	  <l>dāyāramadinnaṁmī sō puvviṁ santhavō havai</l>
+	</lg>
+      </div>
+      <div type="section" n="529">
+	<lg n="529">
+	  <l>ēsō sō jassa guṇā viyaranti avāriyā dasadisāsu </l>
+	  <l>iharā kahāsu suṇimō paccakkhaṁ ajja diṭṭhō si</l>
+	</lg>
+      </div>
+      <div type="section" n="530">
+	<lg n="530">
+	  <l>guṇasanthavēṇa pacchā santāsantēṇa jō thuṇijjāhi</l>
+	  <l>dāyāraṁ dinnaṁmī sō pacchā santhavō hōi</l>
+	</lg>
+      </div>
+      <div type="section" n="531">
+	<lg n="531">
+	  <l>vimalīkaya'mha cakkhū jahatthayā viyariyā guṇā tujjhaṁ</l>
+	  <l>āsi purā ṇē saṅkā sampayaṁ nissaṅkiyaṁ jāyaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="532">
+	<lg n="532">
+	  <l>vijjāmantaparūvaṇa vijjāē bhikkhuvāsaō hōi</l>
+	  <l>mantaṁmi sīsavēyaṇa tattha muruṇḍēṇa diṭṭhantō</l>
+	</lg>
+      </div>
+      <div type="section" n="533">
+	<lg n="533">
+	  <l>paripiṇḍaṇamullāvō aipantō bhikkhuvāsaō dāvē</l>
+	  <l>jai icchai anujāṇaha ghayagulavatthāṇi dāvēmi</l>
+	</lg>
+      </div>
+      <div type="section" n="534">
+	<lg n="534">
+	  <l>gantuṁ vijjāmantaṇa kiṁ dēmi ? ghayaṁ gulaṁ ca vatthāī</l>
+	  <l>dinnē paḍisāharaṇaṁ kēṇa hiyaṁ kēṇa muṭṭhō mi ?</l>
+	</lg>
+      </div>
+      <div type="section" n="535">
+	<lg n="535">
+	  <l>paḍivijjathambhaṇāī sō vā annō va sē karijjāhi</l>
+	  <l>pāvājīvīmāī kammaṇagārī ya gahaṇāī</l>
+	</lg>
+      </div>
+      <div type="section" n="536">
+	<lg n="536">
+	  <l>jaha jaha paēsiṇī jāṇugaṁmi pālittaō bhamāḍēi</l>
+	  <l>taha taha sīsē viyaṇā paṇassai maruṇḍarāyassa</l>
+	</lg>
+      </div>
+      <div type="section" n="537">
+	<lg n="537">
+	  <l>paḍimantathambhaṇāī sō vā annō va sē karijjāhi</l>
+	  <l>pāvājīviyamāī kammaṇagārī bhavē bīyaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="538">
+	<lg n="538">
+	  <l>cuṇṇē antaddhāṇē cāṇakkē pāyalēvaṇē samiē</l>
+	  <l>mūla vivāhē dō daṇḍiṇī u āyāṇaparisāḍē</l>
+	</lg>
+      </div>
+      <div type="section" n="539">
+	<lg n="539">
+	  <l>jaṅghāhīnā ōmē kusumapurē sissajōga rahakaraṇaṁ</l>
+	  <l>khuḍḍadugañjaṇasuṇaṇā gamanaṁ dēsantarē saraṇaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="540">
+	<lg n="540">
+	  <l>bhikkhē parihāyantē thērāṇaṁ tēsi ōmē dintāṇaṁ</l>
+	  <l>sahabhujja candaguttē ōmōyariyāē dōballaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="541">
+	<lg n="541">
+	  <l>cāṇakkapuccha iṭṭālacuṇṇadāraṁ pihittu dhūmē ya</l>
+	  <l>daṭṭhuṁ kuccha pasaṁsā thērasamīvē uvālambhō</l>
+	</lg>
+      </div>
+      <div type="section" n="542">
+	<lg n="542">
+	  <l>jē vijjamantadōsā tē cciya vasikaraṇamāicuṇṇēhiṁ</l>
+	  <l>ēgamanēga paōsaṁ kujjā patthāraō vā'vi ।।
+
+	  gāhā-543</l>
+	</lg>
+      </div>
+      <div type="section" n="543">
+	<lg n="543">
+	  <l>sūbhagadubbhaggakarā jōgā āhārimā ya iyarē ya</l>
+	  <l>āghaṁsadhūvavāsā pāyapalēvāiṇō iyarē</l>
+	</lg>
+      </div>
+      <div type="section" n="544">
+	<lg n="544">
+	  <l>naikaṇhabinna dīvē pañcasayā tāvasāṇa nivasanti</l>
+	  <l>pavvadivasēsu kulavaī pālēvuttāra sakkārē</l>
+	</lg>
+      </div>
+      <div type="section" n="545">
+	<lg n="545">
+	  <l>jana sāvagāṇa khiṁsaṇa samiya'kkhaṇa māiṭhāṇa lēvēṇa</l>
+	  <l>sāvaya payattakaraṇaṁ avinaya lōē calaṇadhōē</l>
+	</lg>
+      </div>
+      <div type="section" n="546">
+	<lg n="546">
+	  <l>paḍilābhiya vaccantā nibbuḍa naikūla milaṇa samiyā''ō</l>
+	  <l>vimhiya pañcasayā tāvasāṇa pavvajja sāhā ya</l>
+	</lg>
+      </div>
+      <div type="section" n="547">
+	<lg n="547">
+	  <l>akumāra khayaṁ jōṇī vivarīyaṭṭhā nivēsaṇaṁ vā'vi</l>
+	  <l>gammapaē pāyaṁ vā jō kuvvai mūlakammaṁ taṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="548">
+	<lg n="548">
+	  <l>adhiī pucchā āsanna vivāhē bhinnakannasāhaṇayā</l>
+	  <l>āyamaṇapiyaṇa ōsaha akkhaya jajjīvaahigaraṇaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="549">
+	<lg n="549">
+	  <l>jaṅghā parijiya saḍḍhī addhii āṇijjaē mama khavattī</l>
+	  <l>jōgō jōṇugghāḍaṇa paḍisēha paōsa uḍḍāhō</l>
+	</lg>
+      </div>
+      <div type="section" n="550">
+	<lg n="550">
+	  <l>mā tē phaṁsejja kulaṁ adijjamāṇā suyā vayaṁ pattā</l>
+	  <l>dhammō ya'lōhiyassā jai bindū tattiyā narayā</l>
+	</lg>
+      </div>
+      <div type="section" n="551">
+	<lg n="551">
+	  <l>kiṁ na ṭhavijjai puttō pattō kulagottakittisantāṇō</l>
+	  <l>pacchāviya taṁ kajjaṁ asaṅgagahō mā ya nāsijjā</l>
+	</lg>
+      </div>
+      <div type="section" n="552">
+	<lg n="552">
+	  <l>kiṁ addhi itti pucchā savittiṇī gabbhiṇitti sē dēvī</l>
+	  <l>gabbhāhāṇaṁ tujjhavi karōmi mā addhiiṁ kuṇasu</l>
+	</lg>
+      </div>
+      <div type="section" n="553">
+	<lg n="553">
+	  <l>jaivi suō mē hōhī tahavi kaṇiṭṭhotti iyara juvarāyā</l>
+	  <l>dēi parisāḍaṇaṁ sē nāē ya paōsa patthārō</l>
+	</lg>
+      </div>
+      <div type="section" n="554">
+	<lg n="554">
+	  <l>saṅkhaḍikaraṇē kāyā kāmapavittiṁ ca kuṇai ēgattha</l>
+	  <l>ēgatthuḍḍāhāī jajjiya bhōgantarāyaṁ ca</l>
+	</lg>
+      </div>
+      <div type="section" n="555">
+	<lg n="555">
+	  <l>ēvaṁ tu gaviṭṭhassā uggamauppāyaṇāvisuddhassa</l>
+	  <l>gahaṇavisōhivisuddhassa hōi gahaṇaṁ tu piṇḍassa</l>
+	</lg>
+      </div>
+      <div type="section" n="556">
+	<lg n="556">
+	  <l>uppāyaṇāē dōsē sāhūu samuṭṭhiē yā imē bhaṇiyā</l>
+	  <l>dasaēsaṇāi dōsē āyapara samuṭṭhiē vocchaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="557">
+	<lg n="557">
+	  <l>donni u sāhusamutthā saṅkiya taha bhāvaō'pariṇayaṁ ca</l>
+	  <l>sēsā aṭṭhavi niyamā gihiṇō ya samuṭṭhiē jāṇa</l>
+	</lg>
+      </div>
+      <div type="section" n="558">
+	<lg n="558">
+	  <l>nāmaṁ ṭhavaṇā daviē bhāvē gahaṇēsaṇā muṇēyavvā</l>
+	  <l>davvē vānarajūhaṁ bhāvaṁmi ya dasa payā hunti</l>
+	</lg>
+      </div>
+      <div type="section" n="559">
+	<lg n="559">
+	  <l>parisaḍiyapaṇḍupattaṁ vanasaṇḍaṁ daṭṭhu annahiṁ pēsē </l>
+	  <l>jūhavaī paḍiyaraē jūhēṇa samaṁ tahiṁ gacchē ।।
+
+	  gāhā-560</l>
+	</lg>
+      </div>
+      <div type="section" n="560">
+	<lg n="560">
+	  <l>sayamēvālōēuṁ jūhavaī taṁ vanaṁ samantēṇa</l>
+	  <l>viyarai tēsi payāraṁ cariūṇa ya tō dahaṁ gacchē</l>
+	</lg>
+      </div>
+      <div type="section" n="561">
+	<lg n="561">
+	  <l>ōyarantaṁ payaṁ daṭṭhu nīharantaṁ na dīsaī</l>
+	  <l>nālēṇa piyaha pāṇīyaṁ nēsa nikkāraṇō dahō</l>
+	</lg>
+      </div>
+      <div type="section" n="562">
+	<lg n="562">
+	  <l>saṅkiya makkhiya nikkhitta pihiya sāhariya dāyagummīsē</l>
+	  <l>apariṇaya litta chaḍḍiya ēsaṇadōsā dasa havanti</l>
+	</lg>
+      </div>
+      <div type="section" n="563">
+	<lg n="563">
+	  <l>saṅkāē caubhaṅgō dōsu vi gahaṇē ya bhuñjaṇē laggō</l>
+	  <l>jaṁ saṅkiyamāvannō paṇavīsā carimaē suddhō</l>
+	</lg>
+      </div>
+      <div type="section" n="564">
+	<lg n="564">
+	  <l>uggamadōsā sōlasa āhākammāi ēsaṇādōsā</l>
+	  <l>nava makkhiyāi ēē paṇavīsā carimaē suddhō</l>
+	</lg>
+      </div>
+      <div type="section" n="565">
+	<lg n="565">
+	  <l>chaumatthō suyanāṇī uvauttō ujjuō payattēṇaṁ</l>
+	  <l>āvannō paṇavīsaṁ suyanāṇapamāṇaō suddhō</l>
+	</lg>
+      </div>
+      <div type="section" n="566">
+	<lg n="566">
+	  <l>ōhō suōvauttō suyanāṇī jai vi giṇhai asuddhaṁ</l>
+	  <l>taṁ kēvalī vi bhuñjai appamāṇa suyaṁ bhavē iharā</l>
+	</lg>
+      </div>
+      <div type="section" n="567">
+	<lg n="567">
+	  <l>suttassa appamāṇē caraṇābhāvō taō ya mokkhassa</l>
+	  <l>mokkhassa'viya abhāvē dikkhapavittī niratthā u</l>
+	</lg>
+      </div>
+      <div type="section" n="568">
+	<lg n="568">
+	  <l>kintiha khaddha ! bhikkhā dijjai na ya tarai pucchiuṁ hirimaṁ</l>
+	  <l>iya saṅkāē dhettuṁ taṁ bhuñjai saṅkiō cēva</l>
+	</lg>
+      </div>
+      <div type="section" n="569">
+	<lg n="569">
+	  <l>hiyaēṇa saṅkaēṇaṁ gahiō annēṇaṁ sōhiyā sā ya</l>
+	  <l>pagayaṁ pahēṇagaṁ vā sōuṁ nissaṅkiō bhuñjē</l>
+	</lg>
+      </div>
+      <div type="section" n="570">
+	<lg n="570">
+	  <l>jārisaya cciya laddhā khaddhā bhikkhā maē amuyagēhē</l>
+	  <l>annēhi vi tārisiyā viyaḍanta nisāmaē taiē</l>
+	</lg>
+      </div>
+      <div type="section" n="571">
+	<lg n="571">
+	  <l>jai saṅkā dōsakarī ēvaṁ suddhampi hōi avisuddhaṁ</l>
+	  <l>nissaṅkamēsiyantiya anēsaṇijjampi niddōsaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="572">
+	<lg n="572">
+	  <l>avisuddhō pariṇāmō ēgayarē avaḍiō ya pakkhaṁmi</l>
+	  <l>ēsimpi kuṇai ṇēsiṁ aṇēsimēsiṁ visuddhō u</l>
+	</lg>
+      </div>
+      <div type="section" n="573">
+	<lg n="573">
+	  <l>duvihaṁ ca makkhiyaṁ khalu saccittaṁ cēva hōi accittaṁ</l>
+	  <l>saccittaṁ puṇa tivihaṁ accittaṁ hōi duvihaṁ tu</l>
+	</lg>
+      </div>
+      <div type="section" n="574">
+	<lg n="574">
+	  <l>puḍhavī āu vaṇassai tivihaṁ saccittamakkhiyaṁ hōi</l>
+	  <l>accittaṁ puṇa duvihaṁ garahiyamiyarē ya bhayaṇā u</l>
+	</lg>
+      </div>
+      <div type="section" n="575">
+	<lg n="575">
+	  <l>sukkēṇa sarakkhēṇa makkhiyamallēṇa puḍhavikāēṇaṁ</l>
+	  <l>savvampi makkhiyaṁ taṁ ettō āuṁmi vocchāmi</l>
+	</lg>
+      </div>
+      <div type="section" n="576">
+	<lg n="576">
+	  <l>purapacchakamma sasiṇiddhullē cattāri āubhēyāō</l>
+	  <l>ukkiṭṭharasālittaṁ paritta'nantaṁ mahiruhēsu ।।
+
+	  gāhā-577</l>
+	</lg>
+      </div>
+      <div type="section" n="577">
+	<lg n="577">
+	  <l>sēsēhi u kāēhiṁ tīhi vi tēūsamīraṇatasēhiṁ</l>
+	  <l>saccittaṁ mīsaṁ vā na makkhitaṁ atthi ullaṁ vā</l>
+	</lg>
+      </div>
+      <div type="section" n="578">
+	<lg n="578">
+	  <l>saccittamakkhiyaṁmi u hatthē mattē ya hōi caubhaṅgō</l>
+	  <l>āitiē paḍisēhō carimē bhaṅgē aṇunnā u</l>
+	</lg>
+      </div>
+      <div type="section" n="579">
+	<lg n="579">
+	  <l>accittamakkhiyaṁmi u causu vi bhaṅgēsu hōi bhayaṇā u</l>
+	  <l>agarahiēṇa u gahaṇaṁ paḍisēhō garahiē hōi</l>
+	</lg>
+      </div>
+      <div type="section" n="580">
+	<lg n="580">
+	  <l>saṁsajjimēhiṁ vajjaṁ agarahiēhimpi gōrasadavēhiṁ</l>
+	  <l>mahughayatella gulēhi ya mā macchipivīliyāghāō</l>
+	</lg>
+      </div>
+      <div type="section" n="581">
+	<lg n="581">
+	  <l>maṁsavasasōṇiyāsava lōē vā garahiēhiṁ vivajjejjā</l>
+	  <l>ubhaō'vi garahiēhiṁ muttuccārēhiṁ chittampi</l>
+	</lg>
+      </div>
+      <div type="section" n="582">
+	<lg n="582">
+	  <l>saccittamīsaēsu duvihaṁ kāēsu hōi nikkhittaṁ</l>
+	  <l>ekkekkaṁ taṁ duvihaṁ anantara paramparaṁ cēva</l>
+	</lg>
+      </div>
+      <div type="section" n="583">
+	<lg n="583">
+	  <l>puḍhavī āukkāē tēu vāū vaṇassai tasāṇaṁ</l>
+	  <l>ekkekka duhā'nantara parampara'gaṇiṁmi sattavihā</l>
+	</lg>
+      </div>
+      <div type="section" n="584">
+	<lg n="584">
+	  <l>saccittapuḍhavikāē saccittō cēva puḍhavi nikkhittō</l>
+	  <l>āū tēu vaṇassai samīraṇa tasēsu ēmēva</l>
+	</lg>
+      </div>
+      <div type="section" n="585">
+	<lg n="585">
+	  <l>ēmēva sēsayāṇavi nikkhēvō hōi jīvakāyakāēsuṁ</l>
+	  <l>ekkekkō saṭṭhāṇē paraṭhāṇē pañca pañcēva</l>
+	</lg>
+      </div>
+      <div type="section" n="586">
+	<lg n="586">
+	  <l>ēmēva mīsaēsu vi mīsāṇa sacēyaṇāṇa nikkhēvō</l>
+	  <l>mīsāṇaṁ mīsēsu ya dōṇhampiya hōi accittē</l>
+	</lg>
+      </div>
+      <div type="section" n="587">
+	<lg n="587">
+	  <l>jattha u sacittamīsē caubhaṅgō tattha caūsu vi agijjhaṁ</l>
+	  <l>taṁ tu anantara iyaraṁ paritta'nantaṁ ca vanakāē</l>
+	</lg>
+      </div>
+      <div type="section" n="588">
+	<lg n="588">
+	  <l>ahavaṇa sacittamīsō u ēgaō ēgaō u accittō</l>
+	  <l>etthavi caukkabhaṅgō tatthāitiē kahā natthi</l>
+	</lg>
+      </div>
+      <div type="section" n="589">
+	<lg n="589">
+	  <l>jaṁ puṇa acittadavvaṁ nikkhippai cēyaṇēsu davvēsu</l>
+	  <l>tahiṁ maggaṇā u iṇamō anantaraparamparā hōi</l>
+	</lg>
+      </div>
+      <div type="section" n="590">
+	<lg n="590">
+	  <l>ōgāhimāyanantaraṁ paramparaṁ piḍharagāi puḍhavīē</l>
+	  <l>navanīyāi anantara paramparaṁ nāvāmāīsu</l>
+	</lg>
+      </div>
+      <div type="section" n="591">
+	<lg n="591">
+	  <l>vijjhāyamummuriṅgālamēva appattapattasamajālē</l>
+	  <l>vokkantē sattadugaṁ jantōlittē ya jayaṇāē</l>
+	</lg>
+      </div>
+      <div type="section" n="592">
+	<lg n="592">
+	  <l>vijjhāutti na dīsai aggī dīsēi indhaṇē chūḍhē</l>
+	  <l>āpiṅgala aganikaṇā mummura nijjāla iṅgālē</l>
+	</lg>
+      </div>
+      <div type="section" n="593">
+	<lg n="593">
+	  <l>appattā u cautthē jālā piḍharaṁ tu pañcamē pattā</l>
+	  <l>chaṭṭhē puṇa kaṇṇasamā jālā samaicchiyā carimē ।।
+
+	  gāhā-594</l>
+	</lg>
+      </div>
+      <div type="section" n="594">
+	<lg n="594">
+	  <l>pāsōlittakaḍāhē parisāḍī natthi tampiya visālaṁ</l>
+	  <l>sō'viya aciracchūḍhō ucchurasō nāiusiṇō ya</l>
+	</lg>
+      </div>
+      <div type="section" n="595">
+	<lg n="595">
+	  <l>usiṇōdagampi dheppai guḍarasapariṇāmiyaṁ aṇaccusiṇaṁ</l>
+	  <l>jaṁ ca aghaṭṭiyakannaṁ ghaṭṭiyapaḍaṇaṁmi mā aggī</l>
+	</lg>
+      </div>
+      <div type="section" n="596">
+	<lg n="596">
+	  <l>pāsōlittakaḍāhē'naccusiṇē aparisāḍa'ghaṭṭantē</l>
+	  <l>sōlasa bhaṅgavigappā paḍhamē'ṇunnā na sēsēsu</l>
+	</lg>
+      </div>
+      <div type="section" n="597">
+	<lg n="597">
+	  <l>payasamadugaabbhāsē māṇaṁ bhaṅgāṇa tēsimā rayaṇā</l>
+	  <l>ēgantariyaṁ lahuguru duguṇā duguṇā ya vāmēsu</l>
+	</lg>
+      </div>
+      <div type="section" n="598">
+	<lg n="598">
+	  <l>duvihavirāhaṇa usiṇē chaḍḍaṇa hānī ya bhāṇabhēō ya</l>
+	  <l>vāukkhittānantaraparamparā pappaḍiya vatthī</l>
+	</lg>
+      </div>
+      <div type="section" n="599">
+	<lg n="599">
+	  <l>hariyāi anantariyā paramparaṁ piḍharamāisu vaṇaṁmi</l>
+	  <l>pūpāī piṭṭha'nantara bhariē kuubāisū iyarā</l>
+	</lg>
+      </div>
+      <div type="section" n="600">
+	<lg n="600">
+	  <l>saccittē accittē mīsaga pihiyaṁmi hōi caubhaṅgō</l>
+	  <l>āitigē paḍisēhō carimē bhaṅgaṁmi bhayaṇā u</l>
+	</lg>
+      </div>
+      <div type="section" n="601">
+	<lg n="601">
+	  <l>jaha cēva u nikkhittē sañjōgā cēva honti bhaṅgā ya</l>
+	  <l>ēmēva ya pihiyaṁmi vi nāṇattamiṇaṁ taiyabhaṅgē</l>
+	</lg>
+      </div>
+      <div type="section" n="602">
+	<lg n="602">
+	  <l>aṅgāradhūviyāī anantarō santarō sarāvāī</l>
+	  <l>tatthēva airavāū paramparaṁ batthiṇā pihiē</l>
+	</lg>
+      </div>
+      <div type="section" n="603">
+	<lg n="603">
+	  <l>airaṁ phalāipihitaṁ vaṇaṁmi iyaraṁ tu piccha piḍharāī</l>
+	  <l>kacchavasañcārāī anantarānantarē chaṭṭhē</l>
+	</lg>
+      </div>
+      <div type="section" n="604">
+	<lg n="604">
+	  <l>guru guruṇā guru lahuṇā lahuyaṁ guruēṇa dō'vi lahuyāiṁ</l>
+	  <l>accittēṇavi pihiē caubhaṅgō dōsu aggejjhaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="605">
+	<lg n="605">
+	  <l>saccittē accittē mīsaga sāhāraṇē ya caubhaṅgō</l>
+	  <l>āitiē paḍisēhō carimē bhaṅgaṁmi bhayaṇā u</l>
+	</lg>
+      </div>
+      <div type="section" n="606">
+	<lg n="606">
+	  <l>jaha cēva u nikkhittē sañjōgā cēva honti bhaṅgā ya</l>
+	  <l>tahā cēva u sāharaṇē nāṇattamiṇaṁ taiyabhaṅgē</l>
+	</lg>
+      </div>
+      <div type="section" n="607">
+	<lg n="607">
+	  <l>mattēṇa jēṇa dāhii tattha adijjaṁ tu hojja asanāī</l>
+	  <l>chōḍhu tayannahi tēṇaṁ dēī aha hōi sāharaṇaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="608">
+	<lg n="608">
+	  <l>bhūmāiēsu taṁ puṇa sāharaṇaṁ hōi chasu vi kāēsu</l>
+	  <l>jaṁ taṁ duhā acittaṁ sāharaṇaṁ tattha caubhaṅgō</l>
+	</lg>
+      </div>
+      <div type="section" n="609">
+	<lg n="609">
+	  <l>sukkē sukkaṁ paḍhamō sukkē ullaṁ tu biiyaō bhaṅgō</l>
+	  <l>ullē sukkaṁ taiō ullē ullaṁ cautthō u</l>
+	</lg>
+      </div>
+      <div type="section" n="610">
+	<lg n="610">
+	  <l>ekkekkē caubhaṅgō sukkāīēsu causu bhaṅgēsu</l>
+	  <l>thōvē thōvaṁ thōvē bahuṁ ca vivarīya dō annē ।।
+
+	  gāhā-611</l>
+	</lg>
+      </div>
+      <div type="section" n="611">
+	<lg n="611">
+	  <l>jattha u thōvē thōvaṁ sukkē ullaṁ ca chuhai taṁ gejjhaṁ</l>
+	  <l>jai taṁ tu samukkhēuṁ thōvāhāraṁ dalai annaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="612">
+	<lg n="612">
+	  <l>ukkhēvē nikkhēvē mahallabhāṇaṁmi luddha vaha ḍāhō</l>
+	  <l>aciyattaṁ vocchēō chakkāyavahō ya gurumattē</l>
+	</lg>
+      </div>
+      <div type="section" n="613">
+	<lg n="613">
+	  <l>thōvē thōvaṁ chūḍhaṁ sukkaṁ ullaṁ tu taṁ tu āinnaṁ</l>
+	  <l>bahuyaṁ tu aṇāinnaṁ kaḍadōsō sotti kāūṇaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="614">
+	<lg n="614">
+	  <l>bālē vuḍḍhē mattē ummattē vēviē ya jariē ya</l>
+	  <l>andhillaē pagaliē ārūḍhē pāuyāhiṁ ca</l>
+	</lg>
+      </div>
+      <div type="section" n="615">
+	<lg n="615">
+	  <l>hatthu'duniyalabaddhē vivajjiē cēva hatthapāēhiṁ</l>
+	  <l>tērāsi guvviṇī bālavaccha bhuñjanti ghusulintī</l>
+	</lg>
+      </div>
+      <div type="section" n="616">
+	<lg n="616">
+	  <l>bhajjanti ya dalayantī kaṇḍantī cēva taha ya pīsantī</l>
+	  <l>pījantī ruñcantī kattanti pamaddamāṇī ya</l>
+	</lg>
+      </div>
+      <div type="section" n="617">
+	<lg n="617">
+	  <l>chakkāyavaggahatthā samaṇaṭṭhā nikkhivittu tē cēva</l>
+	  <l>tē cēvōgāhantī saṅghaṭṭantā'rabhantī ya</l>
+	</lg>
+      </div>
+      <div type="section" n="618">
+	<lg n="618">
+	  <l>saṁsattēṇa ya davvēṇa littahatthā ya littamattā ya</l>
+	  <l>uvvattantī sāhāraṇaṁ va dintī ya cōriyayaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="619">
+	<lg n="619">
+	  <l>pāhuḍiyaṁ ca ṭhavantī sapaccavāyā paraṁ ca uddissa</l>
+	  <l>ābhōgamanābhōgē dalantī vajjaṇijjā ē</l>
+	</lg>
+      </div>
+      <div type="section" n="620">
+	<lg n="620">
+	  <l>ēēsi dāyagāṇaṁ gahaṇaṁ kēsiñci hōi bhaiyavvaṁ</l>
+	  <l>kēsiñcī aggahaṇaṁ tavvivarīē bhavē gahaṇaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="621">
+	<lg n="621">
+	  <l>kabbaṭṭhiga appāhaṇa dinnē annanna gahaṇa pajjattaṁ</l>
+	  <l>khantiya maggaṇadinnē uḍḍāha paōsa cārabhaḍā</l>
+	</lg>
+      </div>
+      <div type="section" n="622">
+	<lg n="622">
+	  <l>thērō galantalālō kampaṇahatthō paḍijja vā dentō</l>
+	  <l>apahutti ya aciyattaṁ ēgayarē vā ubhayaō vā</l>
+	</lg>
+      </div>
+      <div type="section" n="623">
+	<lg n="623">
+	  <l>avayāsa bhāṇabhēō vamanaṁ asuitti lōgagarihā ya</l>
+	  <l>pantāvaṇaṁ ca mattē vamaṇavivajjā ya ummattē</l>
+	</lg>
+      </div>
+      <div type="section" n="624">
+	<lg n="624">
+	  <l>vēviya parisāḍaṇayā pāsē va chubhejjā bhāṇabhēō vā</l>
+	  <l>ēmēva ya jariyaṁmivi jarasaṅkamaṇaṁ ca uḍḍāhō</l>
+	</lg>
+      </div>
+      <div type="section" n="625">
+	<lg n="625">
+	  <l>uḍḍāha kāyapaḍaṇaṁ andhē bhēō ya pāsa chuhaṇaṁ ca</l>
+	  <l>taddōsī saṅkamaṇaṁ galanta bhisa bhinnadēhē ya</l>
+	</lg>
+      </div>
+      <div type="section" n="626">
+	<lg n="626">
+	  <l>pāuyadurūḍhapaḍaṇaṁ baddhē pariyāva asui khiṁsā ya</l>
+	  <l>karachinnāsui khiṁsā tē cciya pāyē'vi paḍaṇaṁ ca</l>
+	</lg>
+      </div>
+      <div type="section" n="627">
+	<lg n="627">
+	  <l>āyaparōbhayadōsā abhikkhagahaṇaṁmi khōbhaṇa napuṁsē</l>
+	  <l>lōgaduguñchā saṅkā ērisayā nūnamēē'vi ।।
+
+	  gāhā-628</l>
+	</lg>
+      </div>
+      <div type="section" n="628">
+	<lg n="628">
+	  <l>guvviṇi gabbhē saṅghaṭṭaṇā u uṭṭhantuvēsamāṇīē</l>
+	  <l>bālāī maṁsuḍaga majjārāī virāhejjā</l>
+	</lg>
+      </div>
+      <div type="section" n="629">
+	<lg n="629">
+	  <l>bhuñjantī āyamaṇē udagaṁ choṭṭīya lōgagarihā ya</l>
+	  <l>ghusulantī saṁsattē karaṁmi littē bhavē rasagā</l>
+	</lg>
+      </div>
+      <div type="section" n="630">
+	<lg n="630">
+	  <l>dagabīē saṅghaṭṭaṇa pīsaṇakaṇḍadala bhajjaṇē ḍahaṇaṁ</l>
+	  <l>piñjanta ruñcaṇāī dinnē littē karē udagaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="631">
+	<lg n="631">
+	  <l>lōṇadagaaganivatthīphalāimacchāi sajiya hatthaṁmi</l>
+	  <l>pāēṇōgāhaṇayā saṅghaṭṭaṇa sēsakāēṇaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="632">
+	<lg n="632">
+	  <l>khaṇamāṇī ārabhaē majjai dhōyai va siñcaē kiñci</l>
+	  <l>chēyavisāraṇamāī chindai chaṭṭhē phuruphuruntē</l>
+	</lg>
+      </div>
+      <div type="section" n="633">
+	<lg n="633">
+	  <l>chakkāyavaggahatthā kēī kōlāikannalaiyāī</l>
+	  <l>siddhatthagapupphāṇi ya siraṁmi dinnāiṁ vajjanti</l>
+	</lg>
+      </div>
+      <div type="section" n="634">
+	<lg n="634">
+	  <l>annē bhaṇanti dasasu vi ēsaṇadōsēsu natthi taggahaṇaṁ</l>
+	  <l>tēna na vajjaṁ bhannai nanu gahaṇaṁ dāyagaggahaṇā</l>
+	</lg>
+      </div>
+      <div type="section" n="635">
+	<lg n="635">
+	  <l>saṁsajjimaṁmi dēsē saṁsajjimadavvalittakaramattā</l>
+	  <l>sañcārō ōyattaṇa ukkhippantē'vi tē cēva</l>
+	</lg>
+      </div>
+      <div type="section" n="636">
+	<lg n="636">
+	  <l>sādhāraṇaṁ bahūṇaṁ tattha u dōsā jahēva anisiṭṭhē</l>
+	  <l>cōriyaē gahaṇāī bhayaē suṇhāi vā dantē</l>
+	</lg>
+      </div>
+      <div type="section" n="637">
+	<lg n="637">
+	  <l>pāhuḍiṭhaviyagadōsā tiriuḍḍhamahē tihā avāyāō</l>
+	  <l>dhammiyamāī ṭhaviyaṁ parassa parasantiyaṁ vā'vi</l>
+	</lg>
+      </div>
+      <div type="section" n="638">
+	<lg n="638">
+	  <l>anukampā paḍinīyaṭṭhayā va tē kuṇai jāṇamāṇō'vi</l>
+	  <l>ēsaṇadōsē biiō kuṇai u asaḍhō ayāṇantō</l>
+	</lg>
+      </div>
+      <div type="section" n="639">
+	<lg n="639">
+	  <l>bhikkhāmittē aviyālaṇā u bālēṇa dijjamāṇaṁmi</l>
+	  <l>sandiṭṭhē vā gahaṇaṁ aibahuya viyālaṇē'ṇunnā</l>
+	</lg>
+      </div>
+      <div type="section" n="640">
+	<lg n="640">
+	  <l>thēra pahu tharatharantē dhariē annēṇa daḍhasarīrē vā</l>
+	  <l>avvattamattasaḍḍhē avimbhalē vā asāgariē</l>
+	</lg>
+      </div>
+      <div type="section" n="641">
+	<lg n="641">
+	  <l>suimbhaddagadittāī daḍhaggahē vēviē jaraṁmi sivē</l>
+	  <l>annadhariyaṁ tu saḍḍhō dēyandhō'nnēṇa vā dhariē</l>
+	</lg>
+      </div>
+      <div type="section" n="642">
+	<lg n="642">
+	  <l>maṇḍalapasūtikuṭṭhī'sāgariē pāuyāgaē ayalē</l>
+	  <l>kamabaddhē saviyārē iyarē biṭṭhē asāgariē</l>
+	</lg>
+      </div>
+      <div type="section" n="643">
+	<lg n="643">
+	  <l>paṇḍaga appaḍisēvī vēlā thaṇajīvi iyara savvampi</l>
+	  <l>ukkhittamanāvāē na kiñci laggaṁ ṭhavantīē</l>
+	</lg>
+      </div>
+      <div type="section" n="644">
+	<lg n="644">
+	  <l>pīsantī nippiṭṭhē phāsuṁ vā dhusulaṇē asaṁsattaṁ</l>
+	  <l>kattaṇi asaṅkhacuṇṇaṁ cuṇṇaṁ vā jā acokkhaliṇī ।।
+
+	  gāhā-645</l>
+	</lg>
+      </div>
+      <div type="section" n="645">
+	<lg n="645">
+	  <l>uvvaṭṭaṇi'saṁsattēṇa vā'vi aṭṭīllaē na ghaṭṭēi</l>
+	  <l>piñjaṇapamaddaṇēsu ya pacchākammaṁ jahiṁ natthi</l>
+	</lg>
+      </div>
+      <div type="section" n="646">
+	<lg n="646">
+	  <l>sēsēsu ya paḍivakkhō na sambhavai kāyagahaṇamāīsu</l>
+	  <l>paḍivakkhassa abhāvē niyamā u bhavē tayaggahaṇaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="647">
+	<lg n="647">
+	  <l>saccittē accittē mīsaga ummīsagaṁmi caubhaṅgō</l>
+	  <l>āitiē paḍisēhō carimē bhaṅgaṁmi bhayaṇā u</l>
+	</lg>
+      </div>
+      <div type="section" n="648">
+	<lg n="648">
+	  <l>jaha cēva ya sañjōgā kāyāṇaṁ heṭṭhaō ya sāharaṇē</l>
+	  <l>taha cēva ya ummīsē hōi visēsō imō tattha</l>
+	</lg>
+      </div>
+      <div type="section" n="649">
+	<lg n="649">
+	  <l>dāyavvamadāyavvaṁ ca dō'vi davvāiṁ dēi mīsēuṁ</l>
+	  <l>ōyaṇakusuṇāīṇaṁ sāharaṇa tayaṇṇahiṁ chōḍhuṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="650">
+	<lg n="650">
+	  <l>tampiya sukkē sukkaṁ bhaṅgā cattāri jaha u sāharaṇō</l>
+	  <l>appabahuē'vi caurō tahēva āinna'ṇāinnē</l>
+	</lg>
+      </div>
+      <div type="section" n="651">
+	<lg n="651">
+	  <l>apariṇayampiya duvihaṁ davvē bhāvē ya duvihamekkekkaṁ</l>
+	  <l>davvaṁmi hōi chakkaṁ bhāvaṁmi ya hōi sajjhilagā</l>
+	</lg>
+      </div>
+      <div type="section" n="652">
+	<lg n="652">
+	  <l>jīvattaṁmi avigaē apariṇayaṁ pariṇayaṁ gaē jīvē</l>
+	  <l>diṭṭhantō duddhadahī iya apariṇayaṁ pariṇayaṁ taṁ ca</l>
+	</lg>
+      </div>
+      <div type="section" n="653">
+	<lg n="653">
+	  <l>dugamāī sāmannē jai pariṇamaī u tattha ēgassa</l>
+	  <l>dēmitti na sēsāṇaṁ apariṇayaṁ bhāvaō ēyaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="654">
+	<lg n="654">
+	  <l>ēgēṇa vā'vi ēsiṁ maṇaṁmi pariṇāmiyaṁ na iyarēṇaṁ</l>
+	  <l>tampi hu hōi agijjhaṁ sajjhilagā sāmi sāhū vā</l>
+	</lg>
+      </div>
+      <div type="section" n="655">
+	<lg n="655">
+	  <l>ghettavvamalēvakaḍaṁ lēvakaḍē mā hu pacchakammāī</l>
+	  <l>na ya rasagēhipasaṅgō ia vuttē cōyagō bhaṇai</l>
+	</lg>
+      </div>
+      <div type="section" n="656">
+	<lg n="656">
+	  <l>jai pacchakammadōsā havanti mā cēva bhuñjaū sayayaṁ</l>
+	  <l>tavaniyamasañjamāṇaṁ cōyaga! hānī khamantassa</l>
+	</lg>
+      </div>
+      <div type="section" n="657">
+	<lg n="657">
+	  <l>littanti bhāṇiūṇaṁ chammāsā hāyaē cautthaṁ tu</l>
+	  <l>āyambilassa gahaṇaṁ asantharē appalēvaṁ tu</l>
+	</lg>
+      </div>
+      <div type="section" n="658">
+	<lg n="658">
+	  <l>āyambilapāraṇaē chammāsa nirantaraṁ tu khaviūṇaṁ</l>
+	  <l>jai na tarai chammāsē ēgadinūnaṁ taō kuṇau</l>
+	</lg>
+      </div>
+      <div type="section" n="659">
+	<lg n="659">
+	  <l>ēvaṁ ekkekkadinaṁ āyambilapāraṇaṁ khavēūṇaṁ</l>
+	  <l>divasē divasē giṇhau āyambilamēva nillēvaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="660">
+	<lg n="660">
+	  <l>jai sē na jōgahānī sampai ēsē va hōi tō khamaō</l>
+	  <l>khamaṇantarēṇa āyambilaṁ tu niyamaṁ tavaṁ kuṇai</l>
+	</lg>
+      </div>
+      <div type="section" n="661">
+	<lg n="661">
+	  <l>heṭṭhāvaṇi kōlasagā sōvīragakūrabhōiṇō manuyā</l>
+	  <l>jai tē'vi javenti tahā kiṁ nāma jaī na jāvinti? ।।
+
+	  gāhā-662</l>
+	</lg>
+      </div>
+      <div type="section" n="662">
+	<lg n="662">
+	  <l>tiya sīyaṁ samaṇāṇaṁ tiya uṇha gihīṇa tēṇa'ṇunnāyaṁ</l>
+	  <l>takkāīṇaṁ gahaṇaṁ kaṭṭaramāīsu bhaiyavvaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="663">
+	<lg n="663">
+	  <l>āhārauvahisejjā tinni vi uṇhā gihīṇa sīē'vi</l>
+	  <l>tēṇa u jīrai tēsiṁ duhaō usiṇēṇa āhārō</l>
+	</lg>
+      </div>
+      <div type="section" n="664">
+	<lg n="664">
+	  <l>ēyāiṁ ciya tinni vi jaīṇa sīyāiṁ honti gimhē vi</l>
+	  <l>tēṇuvahammai aggī taō ya dōsā ajīrāī</l>
+	</lg>
+      </div>
+      <div type="section" n="665">
+	<lg n="665">
+	  <l>ōyaṇa maṇḍaga sattuga kummāsārāya māsakalavaṭṭā</l>
+	  <l>tūyarimasūramuggā māsā ya alēvaḍā sukkā</l>
+	</lg>
+      </div>
+      <div type="section" n="666">
+	<lg n="666">
+	  <l>ubbhijjapijjakaṅgū takkollaṇasūvakañji kaḍhiyāī</l>
+	  <l>ēē u appalēvā pacchākammaṁ tahiṁ bhaiyaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="667">
+	<lg n="667">
+	  <l>khīra dahi jāu kaṭṭara tella ghēyaṁ phāṇiyaṁ sapiṇḍarasaṁ</l>
+	  <l>iccāī bahulēvaṁ pacchākammaṁ tahiṁ niyamā</l>
+	</lg>
+      </div>
+      <div type="section" n="668">
+	<lg n="668">
+	  <l>saṁsaṭṭhēyarahatthō mattō'viya davva sāvasēsiyaraṁ</l>
+	  <l>ēēsu aṭṭha bhaṅgā niyamā gahaṇaṁ tu ōēsu</l>
+	</lg>
+      </div>
+      <div type="section" n="669">
+	<lg n="669">
+	  <l>saccittē accittē mīsaga taha chaḍḍaṇē ya caubhaṅgō</l>
+	  <l>caubhaṅgē paḍisēhō gahaṇē āṇāiṇō dōsā</l>
+	</lg>
+      </div>
+      <div type="section" n="670">
+	<lg n="670">
+	  <l>usiṇassa chaḍḍaṇē dentaō va ḍajjhejjha kāyadāhō vā</l>
+	  <l>sīyapaḍaṇaṁmi kāyā paḍiē mahubinduāharaṇaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="671">
+	<lg n="671">
+	  <l>nāmaṁ ṭhavaṇā daviē bhāvē ghāsēsaṇā muṇēyavvā</l>
+	  <l>davvē macchāharaṇaṁ bhāvaṁmi ya hōi pañcavihā</l>
+	</lg>
+      </div>
+      <div type="section" n="672">
+	<lg n="672">
+	  <l>cariyaṁ va kappiyaṁ vā āharaṇaṁ duvihamēva nāyavvaṁ</l>
+	  <l>atthassa sāhaṇaṭṭhā indhaṇamiva ōyaṇaṭṭhāē</l>
+	</lg>
+      </div>
+      <div type="section" n="673">
+	<lg n="673">
+	  <l>aha maṁsaṁmi pahīṇē jhāyantaṁ macchiyaṁ bhaṇai macchō</l>
+	  <l>kiṁ jhāyasiṁ taṁ ēvaṁ? suṇa tāva jahā ahiriō'si</l>
+	</lg>
+      </div>
+      <div type="section" n="674">
+	<lg n="674">
+	  <l>tibalāgamuhummukkō tikkhuttō valayāmuhē</l>
+	  <l>tisattakkhuttō jālēṇaṁ sai chinnōdaē dahē</l>
+	</lg>
+      </div>
+      <div type="section" n="675">
+	<lg n="675">
+	  <l>ēyārisaṁ mamaṁ sattaṁ saḍhaṁ ghaṭṭiyaghaṭṭaṇaṁ</l>
+	  <l>icchasi galēṇa ghettuṁ ahō tē ahirīyayā</l>
+	</lg>
+      </div>
+      <div type="section" n="676">
+	<lg n="676">
+	  <l>bāyālīsēsaṇasaṅkaḍaṁmi gahaṇaṁmi jīva! na hu chaliō</l>
+	  <l>iṇhiṁ jaha na chalijjasi bhuñjantō rāgadōsēhiṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="677">
+	<lg n="677">
+	  <l>ghāsēsaṇā u bhāvē hōi pasatthā tahēva apasatthā</l>
+	  <l>apasatthā pañcavihā tavvivarīyā pasatthāu</l>
+	</lg>
+      </div>
+      <div type="section" n="678">
+	<lg n="678">
+	  <l>davvē bhāvē sañjōaṇā u davvē duhā u bahi antō</l>
+	  <l>bhikkhaṁ ciya hiṇḍantō sañjōyantaṁmi bāhiriyā ।।
+
+	  gāhā-679</l>
+	</lg>
+      </div>
+      <div type="section" n="679">
+	<lg n="679">
+	  <l>khīradahisūvakaṭṭaralambhē guḍasappivaḍagavāluṅkē</l>
+	  <l>antō u tihā pāē lambaṇa vayaṇē vibhāsā u</l>
+	</lg>
+      </div>
+      <div type="section" n="680">
+	<lg n="680">
+	  <l>saṁyōyaṇāē dōsō jō sañjōēi bhattapānaṁ tu</l>
+	  <l>davvāī rasahēuṁ vāghāō tassimō hōi</l>
+	</lg>
+      </div>
+      <div type="section" n="681">
+	<lg n="681">
+	  <l>sañjōyaṇā u bhāvē sañjōēūṇa tāni davvāiṁ</l>
+	  <l>sañjōyai kammēṇaṁ kammēṇa bhavaṁ taō dukkhaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="682">
+	<lg n="682">
+	  <l>pattē ya pauralambhē bhuttuvvariē ya sēsagamaṇaṭṭhā</l>
+	  <l>diṭṭhō sañjōgō khalu ahakkamō tassimō hōi</l>
+	</lg>
+      </div>
+      <div type="section" n="683">
+	<lg n="683">
+	  <l>rasahēuṁ paḍisiddhō saṁyōgō kappaē gilāṇaṭṭhā</l>
+	  <l>jassa va abhattachandō suhōciō'bhāviō jō ya</l>
+	</lg>
+      </div>
+      <div type="section" n="684">
+	<lg n="684">
+	  <l>battīsaṁ kira kavalā āhārō kucchipūraō bhaṇiō</l>
+	  <l>purisassa mahiliyāē aṭṭhāvīsaṁ bhavē kavalā</l>
+	</lg>
+      </div>
+      <div type="section" n="685">
+	<lg n="685">
+	  <l>ettō kiṇāi hīnaṁ addhaṁ addha'ddhagaṁ ca āhāraṁ</l>
+	  <l>sāhussa binti dhīrā jāyāmāyaṁ ca ōmaṁ ca</l>
+	</lg>
+      </div>
+      <div type="section" n="686">
+	<lg n="686">
+	  <l>pagāmaṁ ca nigāmaṁ ca jō paṇīyaṁ bhattapānamāhārē</l>
+	  <l>aibahuyaṁ aibahusō pamāṇadōsō muṇēyavvō</l>
+	</lg>
+      </div>
+      <div type="section" n="687">
+	<lg n="687">
+	  <l>battīsāi parēṇaṁ pagāma niccaṁ tamēva u nikāmaṁ</l>
+	  <l>jaṁ puṇa galantanēhaṁ paṇīyamiti taṁ buhā benti</l>
+	</lg>
+      </div>
+      <div type="section" n="688">
+	<lg n="688">
+	  <l>aibahuyaṁ aibahusō aippamāṇēṇa bhōyaṇaṁ bhottuṁ</l>
+	  <l>hāejja va vāmijja va mārijja va taṁ ajīrantaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="689">
+	<lg n="689">
+	  <l>bahuyātīyamaibahuṁ aibahusō tinni tinni va parēṇaṁ</l>
+	  <l>taṁ ciya aippamāṇaṁ bhuñjai jaṁ vā atippantō</l>
+	</lg>
+      </div>
+      <div type="section" n="690">
+	<lg n="690">
+	  <l>hiyāhārā miyāhārā appāhārā ya jē narā</l>
+	  <l>na tē vijjā tigicchanti appāṇaṁ tē tigicchagā</l>
+	</lg>
+      </div>
+      <div type="section" n="691">
+	<lg n="691">
+	  <l>telladahisamāōgā ahiō kharīdahikañjiyāṇaṁ ca</l>
+	  <l>patthaṁ puṇa rōgaharaṁ na ya hēū hōi rōgassa</l>
+	</lg>
+      </div>
+      <div type="section" n="692">
+	<lg n="692">
+	  <l>addhamasaṇassa savvañjanassa kujjā davassa dō bhāgē</l>
+	  <l>vāūpaviyāraṇaṭṭhā chabbhāyaṁ ūṇayaṁ kujjā</l>
+	</lg>
+      </div>
+      <div type="section" n="693">
+	<lg n="693">
+	  <l>sīō usiṇō sāhāraṇō ya kālō tihā muṇēyavvō</l>
+	  <l>sāhāraṇaṁmi kālē tatthāhārē imā mattā</l>
+	</lg>
+      </div>
+      <div type="section" n="694">
+	<lg n="694">
+	  <l>sīē davassa ēgō bhattē cattāri ahava dō pāṇē</l>
+	  <l>usiṇē davassa donni u tinni va sēsā u bhattassa</l>
+	</lg>
+      </div>
+      <div type="section" n="695">
+	<lg n="695">
+	  <l>ēgō davassa bhāgō uvaṭṭhitō bhōyaṇassa dō bhāgā</l>
+	  <l>vaḍḍhanti va hāyanti va dō dō bhāgā u ekkekkē ।।
+
+	  gāhā-696</l>
+	</lg>
+      </div>
+      <div type="section" n="696">
+	<lg n="696">
+	  <l>tattha u taiyacautthā donni ya aṇavaṭṭhiyā bhavē bhāgā</l>
+	  <l>pañcamachaṭṭhō paḍhamō biiō vi avaṭṭhiyā bhāgā</l>
+	</lg>
+      </div>
+      <div type="section" n="697">
+	<lg n="697">
+	  <l>taṁ hōi saiṅgālaṁ jaṁ āhārēi mucchiō santō</l>
+	  <l>taṁ puṇa hōi sadhūmaṁ jaṁ āhārēi nindantō</l>
+	</lg>
+      </div>
+      <div type="section" n="698">
+	<lg n="698">
+	  <l>aṅgārattamapattaṁ jalamāṇaṁ indhaṇaṁ sadhūmaṁ tu</l>
+	  <l>aṅgāratti pavuccai taṁ ciya daḍḍhaṁ gaē dhūmē</l>
+	</lg>
+      </div>
+      <div type="section" n="699">
+	<lg n="699">
+	  <l>rāgaggisampalittō bhuñjantō phāsuyampi āhāraṁ</l>
+	  <l>niddaḍḍhaṅgālanibhaṁ karēi caraṇindhaṇaṁ khippaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="700">
+	<lg n="700">
+	  <l>dōsaggīvi jalantō appattiyadhūmadhūmiyaṁ caraṇaṁ</l>
+	  <l>aṅgāramittasarisaṁ jā na havai niddahī tāva</l>
+	</lg>
+      </div>
+      <div type="section" n="701">
+	<lg n="701">
+	  <l>rāgēṇa saiṅgālaṁ dōsēṇa sadhūmagaṁ muṇēyavvaṁ</l>
+	  <l>chāyālīsaṁ dōsā boddhavvā bhōyaṇavihīē</l>
+	</lg>
+      </div>
+      <div type="section" n="702">
+	<lg n="702">
+	  <l>āhāranti tavassī vigaiṅgālaṁ ca vigayadhūmaṁ ca</l>
+	  <l>jhāṇajjhayaṇanimittaṁ ēsuvaēsō pavayaṇassa</l>
+	</lg>
+      </div>
+      <div type="section" n="703">
+	<lg n="703">
+	  <l>chahiṁ kāraṇēhiṁ sādhū āhārintō vi āyarai dhammaṁ</l>
+	  <l>chahiṁ cēva kāraṇēhiṁ nijjūhintō vi āyarai</l>
+	</lg>
+      </div>
+      <div type="section" n="704">
+	<lg n="704">
+	  <l>vēyaṇa vēyāvaccē iriyaṭṭhāē ya sañjamaṭṭhāē</l>
+	  <l>taha pāṇavattiyāē chaṭṭhaṁ puṇa dhammacintāē</l>
+	</lg>
+      </div>
+      <div type="section" n="705">
+	<lg n="705">
+	  <l>natthi chuhāē sarisā viyaṇā bhuñjejja tappasamaṇaṭṭhā</l>
+	  <l>chāō vēyāvaccaṁ na tarai kāuṁ aō bhuñjē</l>
+	</lg>
+      </div>
+      <div type="section" n="706">
+	<lg n="706">
+	  <l>iriaṁ navi sōhēī pēhāīaṁ ca sañjamaṁ kāuṁ</l>
+	  <l>chāō vā parihāyai guṇaṇuppēhāsu a asattō</l>
+	</lg>
+      </div>
+      <div type="section" n="707">
+	<lg n="707">
+	  <l>ahava ṇa kujjāhāraṁ chahiṁ ṭhāṇēhiṁ sañjaē</l>
+	  <l>pacchā pacchimakālaṁmi kāuṁ appakkhamaṁ khamaṁ</l>
+	</lg>
+      </div>
+      <div type="section" n="708">
+	<lg n="708">
+	  <l>āyaṅkē uvasaggē titikkhayā bambhacēraguttīsu</l>
+	  <l>pāṇidayā tavahēuṁ sarīravocchēyaṇaṭṭhāē</l>
+	</lg>
+      </div>
+      <div type="section" n="709">
+	<lg n="709">
+	  <l>āyaṅkō jaramāī rāyāsannāyagāi uvasaggō</l>
+	  <l>bambhavayapālaṇaṭṭhā pāṇidayā vāsamahiyāī</l>
+	</lg>
+      </div>
+      <div type="section" n="710">
+	<lg n="710">
+	  <l>tavahēu cautthāī jāva u chammāsiō tavō hōi</l>
+	  <l>chaṭṭhaṁ sarīravocchēyaṇaṭṭhayā hō aṇāhārō</l>
+	</lg>
+      </div>
+      <div type="section" n="711">
+	<lg n="711">
+	  <l>sōlasa uggamadōsā sōlasa uppāyaṇāē dōsā u</l>
+	  <l>dasa ēsaṇāē dōsā sañjōyaṇamāi pañcēva</l>
+	</lg>
+      </div>
+      <div type="section" n="712">
+	<lg n="712">
+	  <l>ēsō āhāravihī jaha bhaṇiō savvabhāvadaṁsīhiṁ</l>
+	  <l>dhammāvassagajōgā jēṇa na hāyanti taṁ kujjā</l>
+	</lg>
+      </div>
+      <div type="section" n="713">
+	<lg n="713">
+	  <l>jā jayamāṇassa bhavē virāhaṇā suttavihisamaggassa</l>
+	  <l>sā hōi nijjaraphalā ajjhatthavisōhijuttassa</l>
+	</lg>
+      </div>
+    </body>
+  </text>
+</TEI>

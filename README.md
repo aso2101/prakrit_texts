@@ -68,6 +68,7 @@ The abbreviations mostly follow those of the *Comprehensive and Critical Diction
     - (35) **Br̥hKapp**: *Br̥hatkalpa*: numbering based on format
         - **Br̥hKapp.x**: *section* (`//div[@type='section'][@n='x']`)
         - **Br̥hKapp.x.y**: *chapter*.*section* (`//div[@type='uddēsō'][@n='x']/div[@type='section'][@n='y']`)
+	- (41) **PiṇḍNi**: *Piṇḍaniryukti*: *verse* (`//div[@type='section'][@n='x']`)
     - (42) **Dasave**: *Daśavaikālikasūtram*:
     	- **Dasave.x**: *section* (`//div[@type='section'][@n='x']`)
         - **Dasave.x.y**: *lesson*.*section* (`//div[@type='ajjhayaṇaṁ'][@n='x']/div[@type='section'][@n='y']`)
