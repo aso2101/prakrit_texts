@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI n="Setu" xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+<TEI n="Sētu" xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
   <teiHeader xml:lang="eng">
     <fileDesc>
       <titleStmt>
@@ -3252,7 +3252,6 @@
         <lg type="stanza" n="5">
           <l>tāva a āsaṇṇa-ṭṭhia<caesura/>-kaï-bala-ṇigghōsa-kalusiassa bhaaaraṁ</l>
           <l>dahavaaṇassa samōsaria-pariaṇaṁ muaï diṭṭhi-vāaṁ diasō</l>
-
         </lg>
         <lg type="stanza" n="6">
           <l>sura-gaa-ṇihassa raïṇō<caesura/> kaḍḍhantassa ṇaliṇiṁ va diasa-cchāaṁ</l>

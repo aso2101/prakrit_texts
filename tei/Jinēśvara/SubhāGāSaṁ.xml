@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0" n="SubhāGāSaṁ">
+  <teiHeader xml:lang="eng">
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:lang="pra-Latn">Subhāsiyagāhāsaṅgahō</title>
+	<principal>
+	  <persName ref="http://viaf.org/viaf/372149294434280521495">
+	    <forename>Andrew</forename>
+	    <surname>Ollett</surname>
+	  </persName>
+	</principal>
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>Prakrit Digital Texts Project</authority>
+        <availability status="restricted">
+          <p>Distributed under a <ref target="https://creativecommons.org/licenses/by-sa/4.0/" type="url">Creative Commons Attribution-ShareAlike 4.0</ref> license.</p>
+	  <!-- further information here? !-->
+        </availability>
+        <date>2020</date>
+      </publicationStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Jineśvarasūri’s Gāhārayaṇakosa</title>
+	  <editor>
+	    <persName ref="http://viaf.org/viaf/6295584">
+	      <forename>Amritlal Mohanlal</forename>
+	      <surname>Bhojak</surname>
+	    </persName>
+	  </editor>
+	  <editor>
+	    <persName ref="http://viaf.org/viaf/111621348">
+	      <forename>Nagin P.</forename>
+	      <surname>Shah</surname>
+	    </persName>
+	  </editor>
+          <publisher>L.D. Institute of Indology</publisher>
+          <pubPlace>Ahmedabad</pubPlace>
+          <date>1975</date>
+          <note>Digital copy available via <ref target="https://archive.org/details/in.ernet.dli.2015.325844">Internet Archive</ref>.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+	<language ident="eng">English</language>
+	<language ident="pra-Latn">Prakrit in Roman transliteration (ISO-15919)</language>
+	<language ident="san-Latn">Sanskrit in Roman transliteration (ISO-15919)</language>
+      </langUsage>
+      <textClass>
+	<keywords>
+	  <term><!--each keyword in a <term/> element --></term>
+	</keywords>
+      </textClass>
+    </profileDesc>
+
+
+    <encodingDesc>
+      <editorialDecl>
+        <p><!-- romanization !-->
+          <!-- orthography !-->
+        <!-- encoding !--></p>
+      </editorialDecl>
+    </encodingDesc>
+
+    <revisionDesc>
+      <change when="2020-08-09" who="Andrew Ollett">
+	<list>
+	  <item>Initial version.</item>
+	</list>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+
+  <text xml:lang="pra-Latn">
+    <body>
+      <pb n="67"/>
+      <head>subhāsiyagāhāsaṅgahō</head>
+      <head>॥ namaḥ sarasvatyai ॥</head>
+      <div type="section">
+	<lg n="1">
+	  <l>laṅkā layā palāsā vasantamāsammi laddhamāhappā</l>
+	  <l>nivvāhiūṇa sīyaṁ pacchā kaliyārayā jāyā</l>
+	</lg>
+	<lg n="2">
+	  <l>kaliyāmisēṇa ubbhēvi aṅgulī mālaīē mahamahiyaṁ</l>
+	  <l>vārēu jā samatthā maha intaṁ mahuyarajuvāṇaṁ</l>
+	</lg>
+	<lg n="3">
+	  <l>pavaṇuddhuyapallavakarayalēhi vārēi māhavī bhasalaṁ</l>
+	  <l>pupphavaïmalliyāsaṅgadūsiō mā mamaṁ chivasu</l>
+	</lg>
+	<lg n="4">
+	  <l>mālaïkaliyā mayarandamandirā mandamandaviyasantī</l>
+	  <l>kusalēṇa chappaēṇa va taha ramiyā jaha na uttasaï</l>
+	</lg>
+	<lg n="5">
+	  <l>garuyattaṇassa kō māmi! maruyaō ettiyaṁ puṇa bhaṇāmi</l>
+	  <l>pāē dhuvanti nissēsataruyarā parimalakahāē</l>
+	</lg>
+	<lg n="6">
+	  <l>lacchīkarakamalaviyāsarēṇupūrijjamāṇanayaṇēhiṁ</l>
+	  <l>pāsaṭṭhiyā vi dīsanti nēya rōrā dhaṇaḍḍhēhiṁ</l>
+	</lg>
+	<lg n="7">
+	  <l>sūrāyavapapphuṭṭantakaṇayakandoṭṭarēṇupiṅgaṅgā</l>
+	  <l>daṁsaṇamittēṇaṁ ciya māṇasahaṁsā kalijjanti</l>
+	</lg>
+	<lg n="8">
+	  <l>nūṇaṁ-rakhalakālakūḍavisasaṅgakalusiyā lacchī</l>
+	  <l>maülanti jēṇa nayaṇāiṁ takkhaṇaṁ tīē jē diṭṭhā</l>
+	</lg>
+	<lg n="9">
+	  <l>sui-diṭṭhivāyaharaṇē narāṇa lacchīē kō visaṁvāō?</l>
+	  <l>jaṁ na kuṇaï garalasahōyarā vi maraṇaṁ tamacchariyaṁ</l>
+	</lg>
+	<lg n="10">
+	  <l>pecchantā vi na pecchanti, jāṇamāṇā vi nēya jāṇanti</l>
+	  <l>nisuṇantā vi hu nisuṇanti nēya rajjaṁ samāsajja</l>
+	</lg>
+	<lg n="11">
+	  <l>aṇahuntā vi hu huntīē hunti, huntā vi janti jantīē</l>
+	  <l>ō! jīē samaṁ nīsēsaguṇagaṇā jayaü sā lacchī</l>
+	</lg>
+	<lg n="12">
+	  <l>avaṇijjaï hārō kāmiṇīhiṁ thaṇamaṇḍalāō raïsamaē</l>
+	  <l>avasararahiyā guṇavantayā vi dūrē ṭhavijjanti</l>
+	</lg>
+	<lg n="13">
+	  <l>dūra cciya pammukkā tu<app><lem type="conj" resp="#BS" cert="low">jjha</lem><rdg wit="#K">mha</rdg></app> phalāsā palāsa! saüṇēhiṁ</l>
+	  <l>kusumoggamammi taïyā jaṁ kira kasaṇīkayaṁ vayaṇaṁ</l>
+	</lg>
+	<pb n="68"/>
+	<lg n="14">
+	  <l>andhāriūṇa vayaṇaṁ virasaṁ rasiūṇa māmi! khatthēhi</l>
+	  <l>taha jalaharēhiṁ dinnaṁ paüraṁ pi jalaṁ alaṁ tēhiṁ</l>
+	</lg>
+	<lg n="15">
+	  <l>mahiuṁ mahōahiṁ mahumahō vi jaṁ suyaï tassa ucchaṅgē</l>
+	  <l>taṁ ciya nīivirūddhaṁ, ahavā chajjaï samatthāṇa</l>
+	</lg>
+	<lg n="16">
+	  <l>tā nigguṇa cciya varaṁ payaṇuyalambhēṇa jāṇa pariōsō</l>
+	  <l>guṇiṇō guṇāṇurūvaṁ phalamalahantā kilammanti</l>
+	</lg>
+	<lg n="17">
+	  <l>abbhatthiō vi sayavattavaṇasirī haraï jaṁ nisānāhō</l>
+	  <l>taṁ tassa nēya juttaṁ, ahavā kā lajja sakalaṅkē?</l>
+	</lg>
+	<lg n="18">
+	  <l>hōhī balī surindō tuṭṭhēṇa murāriṇā na sandēhō</l>
+	  <l>baddhō pāyālagaō ēsō saddō na phiṭṭēhī</l>
+	</lg>
+	<lg n="19">
+	  <l>nivvaḍiyapurisayārē asaccasambhāvaṇā vi sambhavaï</l>
+	  <l>ekkāṇaṇē vi sīhē jāyā pañcāṇaṇapasiddhī</l>
+	</lg>
+	<lg n="20">
+	  <l>taṁ saddaṁ taṁ dhavalattaṇaṁ ca taṁ cēva mahuyahījammaṁ</l>
+	  <l>saṅkhassa hiyayakuḍilattaṇēṇa sayalaṁ samupphusiyaṁ</l>
+	</lg>
+	<lg n="21">
+	  <l>hārō urassa, savaṇāṇa kuṇḍalē, mēhalā niyambassa</l>
+	  <l>nayaṇāṇa puṇō garuē vi ūsavē kajjalasalāyā</l>
+	</lg>
+	<lg n="22">
+	  <l>jō jattiyassa atthassa bhāyaṇaṁ sō u tettiyaṁ lahaï</l>
+	  <l>vuṭṭhē vi dōṇamēhē na ḍuṅgarē pāṇiyaṁ ṭhāi</l>
+	</lg>
+	<lg n="23">
+	  <l>uvabhuñjiuṁ na sakkaï riddhiṁ pattō vi punnaparihīṇō</l>
+	  <l>paüraṁ pi jalaṁ tisiō vi maṇḍalō lihaï jīhāē</l>
+	</lg>
+	<lg n="24">
+	  <l>accāsannē parigalaï gāravaṁ suhaya! tujjha kō dōsō?</l>
+	  <l>niyaacchī vi na pecchaï paḍilaggā kajjalasalāyā</l>
+	</lg>
+	<lg n="25">
+	  <l>ṭhāṇēsu guṇā payaḍā, ṭhāṇāṇi guṇēhiṁ pāyaḍijjati</l>
+	  <l>sōhaï nayaṇēhiṁ masī, masīē sōhanti nayaṇāiṁ</l>
+	</lg>
+	<lg n="26">
+	  <l>varataruṇinayaṇaparisaṇṭhiyassa jaṁ kajjalassa māhappaṁ</l>
+	  <l>dīvayasihā<add resp="#BS">ē</add>ṇa tahā, ṭhāṇēsu guṇā visaṭṭati</l>
+	</lg>
+	<lg n="27">
+	  <l>varataruṇisihiṇaparisaṇṭhiyassa hārassa hōi jā sōhā</l>
+	  <l>sippīpuḍammi na tahā, ṭhāṇēsu guṇā visaṭṭanti</l>
+	</lg>
+
+	<pb n="69"/>
+	<lg n="28">
+	  <l>vaṁsacchēē vi kaē na muyaï māyaṅgasaṅgahaṁ viñjhō</l>
+	  <l>niyakittilañchaṇāō garuyā pālēnti paḍivannaṁ</l>
+	</lg>
+	<lg n="29">
+	  <l>chijjaü sīsaṁ, aha hōu vandhaṇaṁ, cayaü savvahā lacchī</l>
+	  <l>paḍivannapālaṇē supurisāṇa jaṁ hōi taṁ hōu</l>
+	</lg>
+	<lg n="30">
+	  <l>ujjhanti dhaṇaṁ, chaḍḍanti maṇḍalaṁ, pariharanti niyajīyaṁ</l>
+	  <l>kuvvanti nēya kahavi hu païṇṇahāṇī mahāpurisā</l>
+	</lg>
+	<lg n="31">
+	  <l>acchaü tāva'nnajaṇō aṅge cciya jāiṁ pañca bhūyāiṁ</l>
+	  <l>tāṇaṁ ciya lajjijjaï pāraddhaṁ pariharantēhi</l>
+	</lg>
+	<lg n="32">
+	  <l>daḍhalōhasaṅkalāṇa ya annāṇa ya vivihapāsabandhāṇaṁ</l>
+	  <l>tāṇaṁ ciya ahiyayarō vāyābandhō kulīṇāṇaṁ</l>
+	</lg>
+	<lg n="33">
+	  <l>kīranti jāiṁ jovvaṇavasēṇa aviyāriūṇa kajjāi</l>
+	  <l>vayapariṇāmē bhariyāiṁ tāiṁ hiyaē khuḍukkanti</l>
+	</lg>
+	<lg n="34">
+	  <l>pariṇamiyakajjaparibhāvaṇāē buddhīō jā visaṭṭanti</l>
+	  <l>tā jaï paḍhamārambhē havanti tā kiṁ na pajjattaṁ?</l>
+	</lg>
+	<lg n="35">
+	  <l>paḍhamaṁ ciya rōsavasē jā icchā hōi sā na kāyavvā</l>
+	  <l>aha kahava kīraï cciya na sundarō tīya pariṇāmō</l>
+	</lg>
+	<lg n="36">
+	  <l>aparikkhiyakayakajjaṁ siddhaṁ pi na sajjaṇā pasaṁsanti</l>
+	  <l>suparikkhiya puṇō vihaḍiyaṁ pi na jaṇēi vayaṇijjaṁ</l>
+	</lg>
+	<lg n="37">
+	  <l>vayaṇijjaṁ ciya maraṇaṁ hōi kulīṇāṇa sayaṇamajjhammi</l>
+	  <l>jaṁ puṇa maraṇaṁ sā kālapariṇaī lōyasāmannā</l>
+	</lg>
+	<lg n="38">
+	  <l>kettiyamittaṁ ca dharā maha baliṇō tujjha maggamāṇassa</l>
+	  <l>appā na kēvalaṁ ciya ahaṁ pi lahuīkaō kaṇha!</l>
+	</lg>
+	<lg n="39">
+	  <l>taïyapayaṁ alahantō sāmarisō kīsa kaṇha! maha uvariṁ</l>
+	  <l>ettha tuha cciya dōsō maḍahā puhaī kayā jēṇa</l>
+	</lg>
+	<lg n="40">
+	  <l>parapatthaṇāpavannaṁ mā jaṇaṇi! jaṇēsi ērisaṁ puttaṁ</l>
+	  <l>uyarē vi taṁ ma dharihasi patthaṇabhaṅgō kaō jēṇa</l>
+	</lg>
+	<lg n="41">
+	  <l>jāō si kīsa duggaya!? kiṁ na vilīṇō <add resp="#BS">si</add> gabbhavāsē vi?</l>
+	  <l>mahilāṇa maṇḍaṇaṁ aviha<app><lem type="conj" resp="#BS" cert="low">va</lem><rdg wit="#K">la</rdg></app>ttaṇaṁ na uṇa purisāṇa</l>
+	</lg>
+
+	<pb n="70"/>
+	<lg n="42">
+	  <l>attāṇaṁ ciya duharaṁ jāṇa jaē tēhiṁ kiṁ va jāēhiṁ?</l>
+	  <l>susamatthā jē na parōvayāriṇō tēhi vi na kiñci<note xml:lang="san-Latn"><p><s>ētadanantaram imā gāthā ṭippaṇīrūpēṇa lēkhakalikhitāsti —</s><quote xml:lang="pra-Latn"><lg><l>tēhi vi na kiñci bhaṇiē vikkamarāēṇa dēva tuṭṭhēṇa</l><l>diṇṇa māyagasaya kīḍhī hēmassa jaccassa</l></lg></quote></p></note></l>
+	</lg>
+	<lg n="43">
+	  <l>uvayārō kīraï khalayaṇassa jō phusaï takkhaṇa ccēva</l>
+	  <l>suaṇō uvayāramahabbharēṇa dukkhaṁ samuvvahaï</l>
+	</lg>
+	<lg n="44">
+	  <l>dō purisā dharaü dharā, ahavā dōhiṁ pi dhāriyā dharaṇī</l>
+	  <l>uvayārē jassa maī, uvayariyaṁ jō na pamhusaī</l>
+	</lg>
+	<lg n="45">
+	  <l>jaï maṇḍalēṇa bhasiyaṁ hatthiṁ daṭṭhūṇa haṭṭamajjhammi</l>
+	  <l>tā kiṁ gayassa jujjaï suṇahēṇa samaṁ kaliṁ kāuṁ?</l>
+	</lg>
+	<lg n="46">
+	  <l>paḍivayaṇasamatthēṇa vi sahiyavvaṁ dujjaṇassa suyaṇēṇa</l>
+	  <l>na ya piṭṭhammi nilīṇō vasahassa siriṁ haraï kāō</l>
+	</lg>
+	<lg n="47">
+	  <l>ukkhaṇaï ṇaïniyaïṁ<add resp="#BS">?</add> pavaṇō nāūṇa tucchamūlāiṁ</l>
+	  <l>mūlēi mahallatarū garuyā garuyaṁ virōhanti</l>
+	</lg>
+	<lg n="48">
+	  <l>garuyāṇaṁ garuya cciya uvayāraṁ jaï karanti na hu annō</l>
+	  <l>kō ulhavēi viñjhaṁ mēhēṇa viṇā palippantaṁ?</l>
+	</lg>
+	<lg n="49">
+	  <l>rūsanti dūhavā sūhavāṇa, dhaṇaïttayāṇa dāliddā</l>
+	  <l>paṇḍiyajaṇāṇa mukkhā, asaīō saīṇa rūsanti</l>
+	</lg>
+	<lg n="50">
+	  <l>dīsantō amayamaō lōaṇa-maṇanandaṇō imō ekkō</l>
+	  <l>visadalanimmiyadēhō ēsō puṇa dūhavō annō</l>
+	</lg>
+	<lg n="51">
+	  <l>muharāo cciya bhannaï jō jassa piō kimattha bhaṇiēṇa?</l>
+	  <l>paṅgaṇayaṁ ciya sāhaï gharassa abbhintaraṁ lacchiṁ</l>
+	</lg>
+	<lg n="52">
+	  <l>jāīsarāiṁ mannē imāiṁ nayaṇāiṁ honti lōyassa</l>
+	  <l>viyasanti piē diṭṭhē, avvō! maülanti vēsammi</l>
+	</lg>
+	<lg n="53">
+	  <l>aṇurāyanibbharaṁ pi hu pemmaṁ māṇēṇa jāi sayakhaṇḍaṁ</l>
+	  <l>vi<app><lem type="conj" resp="#BS" cert="low">cci</lem><rdg wit="#K">ppi</rdg></app>yajalaṇāliddhaṁ taḍayaḍasaddēṇa lōṇaṁ va</l>
+	</lg>
+	<lg n="54">
+	  <l>addaṁsaṇēṇa piyayama! suṭṭhu vi nēhāṇurāyarasiyāiṁ</l>
+	  <l>hatthaüḍapāṇiyāiṁ va kālēṇa galanti pemmāiṁ</l>
+	</lg>
+	<lg n="55">
+	  <l>hiyaē cittuttinnē viyaliyanēhē paṇaṭṭhasabbhāvē</l>
+	  <l>abbhatthaṇāē pemmaṁ kīrantaṁ kērisaṁ hōi?</l>
+	</lg>
+	<pb n="71"/>
+	<lg n="56">
+	  <l>pasayacchi! parasarīrē jōiyapaïyaṁ<add resp="#BS">?</add>ti niggaē jīē</l>
+	  <l>tuhuṁ puṇa jīvantāṇa vi aviṇaṭṭhataṇuṁ samāruhasi</l>
+	</lg>
+	<lg n="57">
+	  <l>parapurapavēsavinnāṇalāhavaṁ suhaya! sikkhiō kattha?</l>
+	  <l>jēṇa païṭṭhō hiyaē paḍhamē ciya saṅgamē <app><lem type="conj" resp="#BS" cert="low">majjha</lem><rdg wit="#K">… …</rdg></app></l>
+	</lg>
+	<lg n="58">
+	  <l>jaï sā lāyannanihī diṭṭhā nayaṇēhiṁ te cciya rulantu</l>
+	  <l>aṅgāiṁ apāviyasaṅgamāiṁ tā kīsa jhijjanti?</l>
+	</lg>
+	<lg n="59">
+	  <l>daṭṭhūṇa taruṇisura … … loṭṭantavaddhakaraṇēhiṁ</l>
+	  <l>dīvō vi taggayamaṇō gayaṁ pi tellaṁ na yāṇēi</l>
+	</lg>
+	<lg n="60">
+	  <l>ēsō vōlēi sahī jō sō hiyayaṁ… …mahilāṇa</l>
+	  <l>diṭṭhēṇa tēṇa kīraï niuṇāvēḍhō niyambassa</l>
+	</lg>
+	<lg n="61">
+	  <l>sikkāra-kaṇirakurarava-pārāvayasadda-kōilāraviyaṁ</l>
+	  <l>kāṁi vi karinti! hala sahi!, piyasuraē vēyaṇā kattō?</l>
+	</lg>
+	<lg n="62">
+	  <l>rēhaï ciya lambirakēsahatthakuṇḍalalalantahāralayā</l>
+	  <l>aḍḍhoppaïyā vijjāhari vva purisā''rayē vālā</l>
+	</lg>
+	<lg n="63">
+	  <l>purisannu bāla <add resp="#BS">?</add> khellantayassa jaṁ paḍaï vāri ramaṇīyaṁ</l>
+	  <l>guruvirahajalaṇasantāvatāviyaṁ taṁ piyassa ōlhāvaē aṅgaṁ <add resp="#BS">?</add></l>
+	</lg>
+	<lg n="64">
+	  <l>jattha sarē majjijjaï sēvaya<add resp="#BS">?</add><app><lem type="conj" resp="#BS" cert="low">taru</lem><rdg wit="#K">ṇari</rdg></app>ṇīhiṁ tāviyaṅgīhiṁ</l>
+	  <l>sālūrā <app><lem type="conj" resp="#BS" cert="low">tava</lem><rdg wit="#K">naya</rdg></app>ṇamayā tattha va dīsanti gayajīvā</l>
+	</lg>
+	<lg n="65">
+	  <l>avvō! na jāmi khettē, sālī khajjantu kīranivahēhiṁ</l>
+	  <l>jāṇantā vi hayāsā pahiyā pucchanti mē maggaṁ</l>
+	</lg>
+	<lg n="66">
+	  <l>kaha rakkhēu varāī kalavī kīrāṇa mandagaïgamaṇā</l>
+	  <l>pīṇunnayagaruyapayōharēhiṁ tālā na saṅghaḍaï</l>
+	</lg>
+	<lg n="67">
+	  <l>pattē piyapāhuṇaē kiṁ kāhī duggaō turantō vi?</l>
+	  <l>andhō maliēhiṁ vi lōyaṇēhiṁ andho cciya varāō</l>
+	</lg>
+	<lg n="68">
+	  <l>guṇiṇō vihavārūḍhāṇa, vihaviṇō guruguṇāṇa na hu kipi</l>
+	  <l>annōnnayalahuyayarā girīṇa jē mūla-siharēhiṁ</l>
+	</lg>
+	<lg n="69">
+	  <l>kaṅkellipallavuvvellamaṇaharē jaï vi nandaṇē caraï</l>
+	  <l>karahassa taha vi maruvilasiyāiṁ hiyaē khuḍukkanti</l>
+	</lg>
+
+	<pb n="72"/>
+	<lg n="70">
+	  <l>kasiṇojjalō virāyaï vēṇīdaṇḍō niyaṁvabiṁvammi</l>
+	  <l>tuha sundari! surayamahānihāṇarakkhābhuaṅgō vva</l>
+	</lg>
+	<lg n="71">
+	  <l>kaha tammi nivvavijjaï dukkhaṁ dukkhuddhuēṇa hiyaēṇa</l>
+	  <l>addāē paḍiviṁvaṁ va ja<app><lem type="conj" resp="#BS">mmi</lem><rdg wit="#K">mma</rdg></app> dukkhaṁ na saṅkamaï</l>
+	</lg>
+	<lg n="72">
+	  <l>atthavaṇaṁ paharaparavvasāṇa jaï hōi, hōu, kō dōsō?</l>
+	  <l>jaṁ puṇa muccaï tēō sūrāṇa na ērisaṁ juttaṁ</l>
+	</lg>
+	<lg n="73">
+	  <l>pacchābhimuhō vaccaï paharahaō aṁvaraṁ vimottūṇa</l>
+	  <l>taha vi hu bhannaï sūrō peccha pasiddhīē māhappaṁ</l>
+	</lg>
+	<lg n="74">
+	  <l>khaṇḍijjantō vi sasī avamāṇaṁ sahaï punnimā jāva</l>
+	  <l>sūrō payāvaharaṇē atthamaï, na khaṇḍaṇaṁ sahaï</l>
+	</lg>
+	<lg n="75">
+	  <l>gayaṇaṅgaṇaparisakkaṇakhaṇḍaṇadukkhāiṁ sahasu aṇudiyaha</l>
+	  <l>na suhēṇa hariṇalañchaṇa! kīraï jayapāyaḍō appā</l>
+	</lg>
+	<lg n="76">
+	  <l>anna cciya sā jāī jīē phalaṁ hōi surahigandhaḍḍhaṁ</l>
+	  <l>ēsā kusume cciya navari sundarō vihaḍaï phalammi</l>
+	</lg>
+	<lg n="77">
+	  <l>ekkēṇa vi tīrataḍaṭṭhiēṇa haṁsēṇa hōi jā sōhā</l>
+	  <l>sā saravaraṁ na pāvaï vahuēhiṁ vi ḍhikkasatthēhiṁ</l>
+	</lg>
+	<lg n="78">
+	  <l>jaha haṁsō māṇasasaraviyambhiyaṁ dēi laliyapayamaggaṁ</l>
+	  <l>taha kiṁ baō varāō jāṇaï calaṇaṁ pi ukkhaṇiuṁ?</l>
+	</lg>
+	<lg n="79">
+	  <l>jaha barahiṇassa chajjaï vihuyakalāvassa mahurakēyaravō</l>
+	  <l>taha vāyasassa kattō diyahaṁ pi vaṇē sarantassa?</l>
+	</lg>
+	<lg n="80">
+	  <l>uppayaï gayaṇamaggē, bhañjaï kasiṇattaṇaṁ, payāsēi</l>
+	  <l>taha vi hu gobbaraīḍō na pāvaē bhamaracariyāiṁ</l>
+	</lg>
+	<lg n="81">
+	  <l>avirayarayakēlipasaṅgasokkhasabbhāvaīsikuṇṭhaïyaṁ</l>
+	  <l>māṇanisāṇayanisiyaṁ hōi puṇō ahiṇavaṁ pemmaṁ</l>
+	</lg>
+	<lg n="82">
+	  <l>nivvattasuraya! jaṁ paramuhattaṇaṁ suhaya! sikkhiō kattha?</l>
+	  <l>aha suṇayāṇa pasaṅgē, aha suṇayā tuha pasaṅgāō</l>
+	</lg>
+	<lg n="83">
+	  <l>pecchaha pavaravahūṇa suraē calaṇāṇa jērisō maggō</l>
+	  <l>najjaï vambhaṇḍapaḍantayassa okkhambhaṇā dinnā</l>
+	</lg>
+	<pb n="73"/>
+	<lg n="84">
+	  <l>taṁ kimpi kayaṁ raïsaṅgamammi mihuṇēhiṁ cāḍuparikammaṁ</l>
+	  <l>jaṁ sariūṇa virāmē annōnnaṁ lajjiyā hunti</l>
+	</lg>
+	<lg n="85">
+	  <l>taha tēhiṁ ekkamekkaṁ avagūḍhaṁ virahadubbalaṅgēhiṁ</l>
+	  <l>jaha tattamayaṇadhīuliya vva ekkaṁ va jāyāiṁ</l>
+	</lg>
+	<lg n="86">
+	  <l>aṇavarayasalilanivaḍantadhārapaharāhayā visūranti</l>
+	  <l>daḍḍhagaïndā, tuṅgattaṇēṇa nilayaṁ na pāvēnti</l>
+	</lg>
+	<lg n="87">
+	  <l>jaha māyaṅgā saṅgahasi viñjha! taha ya jaï mayavaī ekkō</l>
+	  <l>jīvantassa na kīraï vasacchēō pulindēhiṁ</l>
+	</lg>
+	<lg n="88">
+	  <l>sasahara hariṇaṭṭhāṇi jaï sīhasilibu dharantu</l>
+	  <l>tā dukkaru tuha rāhu! jaï māṇummalaṇa karantu</l>
+	</lg>
+	<lg n="89">
+	  <l>pālittaya! kahasu phuḍaṁ sayalaṁ mahimaṇḍalaṁ bhamantēṇa</l>
+	  <l>diṭṭhō suya vva kattha va candaṇarasasīyalō aggī?</l>
+	</lg>
+	<lg n="90">
+	  <l>ayasābhiyōgasantāviyassa purisassa suddhasīlassa</l>
+	  <l>hōi vasaṁ tassa phuḍa candaṇarasasīyalō aggī</l>
+	</lg>
+	<lg n="91">
+	  <l>suyaṇō suddhasahāvō maïlijjantō vi dujjaṇajaṇēṇa</l>
+	  <l>chārēṇa dappaṇō iva ahiyayaraṁ nimmalō hōi</l>
+	</lg>
+	<lg n="92">
+	  <l>jaṁ uppalassa pattēṇa chijjaē kiṁ tha satthamaggēṇa?</l>
+	  <l>mahurammi bhāṇiyavvē ki tē kaḍuēṇa bhaṇiēṇa?</l>
+	</lg>
+	<lg n="93">
+	  <l>aṇuyattaha, bhaṇaha piyaṁ, jaṁ kajjaṁ taṁ muṇēha hiyaēṇa</l>
+	  <l>mahuraṁ lavaï mayūrō savisaṁ ca bhuyaṅgamaṁ khāi</l>
+	</lg>
+	<lg n="94">
+	  <l>jampa<app><lem type="conj" resp="#BS" cert="low">su</lem><rdg wit="#K">si</rdg></app> muṇālasarisaṁ, jaṁ kajjaṁ taṁ muṇēhi hiyaēṇa</l>
+	  <l>mahuraṁ lavaï mayūrō savisaṁ ca bhuyaṅgamaṁ khāi</l>
+	</lg>
+	<lg n="95">
+	  <l>kajjammi samāvaḍiē aṇuyattaï dujjaṇaṁ pi dussīlaṁ</l>
+	  <l>kīsa na pijjaï nimbō sarīrasaṁrakkhaṇaṭṭhāē?</l>
+	</lg>
+	<lg n="96">
+	  <l>jēṇa viṇā na dalijjaï aṇuṇijjaï sō kayāvarāhō vi</l>
+	  <l>pattē vi nayaradāhē bhaṇa kassa na vallahō aggī?</l>
+	</lg>
+	<lg n="97">
+	  <l>sarisē vi maṇuyajammē ḍahaï khalō, sajjaṇō suhāvēi</l>
+	  <l>lōhaṁ ciya sannāhō rakkhaï jīyaṁ, asī haraï</l>
+	</lg>
+	<lg n="98">
+	  <l>sarisē vi jalaṇadāhē gaṇḍaṁ cuṁvanti kaṇayapattāiṁ</l>
+	  <l>ōruyaï nēuraṁ sāmalīē calaṇōvari vilaggaṁ</l>
+	</lg>
+
+	<pb n="74"/>
+	<lg n="99">
+	  <l>garuyāiṁ ciya sāhaï purisō kajjāiṁ, natthi sandēhō</l>
+	  <l>rōsō suraṅgadhūli vva jassa na hu pāyaḍō hōi</l>
+	</lg>
+	<lg n="100">
+	  <l>sajjaṇasalāhaṇijjē payammi appā na ṭhāviō jēhiṁ</l>
+	  <l>tē puvvapurisamāhappagavviyā kaha na lajjanti?</l>
+	</lg>
+	<lg n="101">
+	  <l>aṇamisanayaṇāē maē jaṁ pīyaṁ piyayamassa lāyannaṁ</l>
+	  <l>aṅgāiṁ tēṇa piyasahi! ajja ajinnēṇa majjanti</l>
+	</lg>
+	<lg n="102">
+	  <l>pasayacchi! sō kayatthō jassa kaē mannugaggarijjantā</l>
+	  <l>pañcamasarapasaruggāragabbhiṇā inti nīsāsā</l>
+	</lg>
+	<lg n="103">
+	  <l>tē dhannā annabhuagamēhi pāraddhasurayakālammi</l>
+	  <l>jē puṇa tuṅga<add resp="#BS" cert="low">ya</add>supaōharīṇa hiyaē khuḍukkanti</l>
+	</lg>
+	<lg n="104">
+	  <l>jampantō avihattaviggahō<add resp="#BS">?</add> taṁ suhaya! ajja saccaviyaṁ</l>
+	  <l>danta-nahakkhaya sundara! tuha hiyaē maha khuḍukkanti</l>
+	</lg>
+	<lg n="105">
+	  <l>uṇhāiṁ nīsasantō avagūhasi kīsa maṁ parāhuttaṁ?</l>
+	  <l>hiyayaṁ palīviuṁ ciya iṇhiṁ piṭṭhiṁ palīvēsi</l>
+	</lg>
+	<lg n="106">
+	  <l>nijjantō kammaparavvasāhiṁ annannadaṅgataruṇīhiṁ</l>
+	  <l>ēsa hi ōsahiviḍavō aṅgē challī na palhavaï</l>
+	</lg>
+	<lg n="107">
+	  <l>jō visamammi vi kajjē kajjārambhaṁ na muccaē dhīrō</l>
+	  <l>ahisāriya vva lacchī nivaḍaï vacchatthalē tassa</l>
+	</lg>
+	<lg n="108">
+	  <l>racchāṇumaggacaḍiō nā''lattō jaṁ jaṇāṇa bhīyāē</l>
+	  <l>sō cēva virahaḍāhō ajja vi hiyaē chamacchamaï</l>
+	</lg>
+	<lg n="109">
+	  <l>viddhō jiyaï suhēṇaṁ, maraï aviddhō tuha'cchibāṇēhiṁ</l>
+	  <l>kēṇēyaṁ sikkhaviyā aüvvamēyaṁ dhaṇuvvēyaṁ?</l>
+	</lg>
+	<lg n="110">
+	  <l>daṭṭhō vi dahaï aṅgaṁ nijjīvō saṅkhacuṇṇō vva</l>
+	  <l>tā kiṁ karēmi māē! nijjiyaraṅgassa kāmaēvassa?</l>
+	</lg>
+	<lg n="111">
+	  <l>sabbhāvavāhirēhi vi taha kahavi piyakkharēhiṁ jampanti</l>
+	  <l>jaha bandhava tti kaliuṁ lōē sīsēṇa vubbhanti</l>
+	</lg>
+	<lg n="112">
+	  <l>jalahivisaghaḍiēṇa vi nivasijjaï harasirammi candēṇa</l>
+	  <l>jattha gayā tattha gayā guṇiṇō sīsēṇa vubbhanti</l>
+	</lg>
+	<lg n="113">
+	  <l>ṭhāṇaṁ guṇēhiṁ labbhaï tā guṇagahaṇaṁ avassa kāyavvaṁ</l>
+	  <l>hārō vi guṇavimukkō na pāvaē taruṇithaṇavaṭṭhaṁ</l>
+	</lg>
+	<pb n="75"/>
+	<lg n="114">
+	  <l>varisanti na mēhā gajjiūṇa, pahuṇō na dinti hasiūṇa</l>
+	  <l>na phalanti tarū jē phulliūṇa tē kaha na lajjanti?</l>
+	</lg>
+	<lg n="115">
+	  <l>sāhīṇāmaya-rayaṇō amaramarōraṁ ca bhuaṇamakuṇantō</l>
+	  <l>ullasirīhiṁ na lajjasi laharīhiṁ taraṅgiṇīnāha!</l>
+	</lg>
+	<lg n="116">
+	  <l>paraēsagayāṇummāhiyāṇa jantūṇa sōyataviyāṇaṁ</l>
+	  <l>niyadēsāgayadiṭṭhaṁ suṇayaṁ pi suhāvahaṁ hōi</l>
+	</lg>
+	<lg n="117">
+	  <l>savvaṅganivvuiyarō sō annō sattamō rasō kōi</l>
+	  <l>āsāijjaï jō paḍhamapemmapiyasaṅgamāhintō</l>
+	</lg>
+	<lg n="118">
+	  <l>jaṁ satthēsu na suvvaï, agōyaraṁ jaṁ mahākaīṇaṁ pi</l>
+	  <l>taṁ kimpi suhaṁ navasaṅgamammi daïō jaṇō dēi</l>
+	</lg>
+	<lg n="119">
+	  <l>jō ruccaï sō lōṇi<app><lem type="conj" resp="#BS" cert="low">yō</lem><rdg wit="#K">yā</rdg></app>, vambha! kiṁ nēhi vidhēya?</l>
+	  <l>chaḍḍivi sakkaraguliyarasa, maṭṭī khanti aṇēya</l>
+	</lg>
+	<lg n="120" met="dōhā">
+	  <l>jāhã na atthī gujjhirasu, rūvu mahaddahi jāu</l>
+	  <l>khantaü mahui dāruṇahaṁ, kanta! lahēsahi sāu</l>
+	</lg>
+	<lg n="121">
+	  <l>virasāiṁ jāi pamuhē, amayarasāyanti jāiṁ pariṇāmē</l>
+	  <l>kajjāiṁ tāiṁ suvicāriyāiṁ na jaṇē hasijjanti</l>
+	</lg>
+	<lg n="122">
+	  <l>jampasi muṇālasarisaṁ, hiyaē sāraṅgasiṅgakuḍilō si</l>
+	  <l>āpa<app><lem type="conj" resp="#BS" cert="low">ṇṇa</lem><rdg wit="#K">ṇa</rdg></app>suhayasaralattaṇēṇa paravandaṇijjō si</l>
+	</lg>
+	<lg n="123">
+	  <l>jammi tumaṁ aïnēhā sō vi tumaṁ mandanēhaō putti!</l>
+	  <l>na hu tālā vajjaï dīhara'cchi! ekkēṇa hatthēṇa</l>
+	</lg>
+	<lg n="124">
+	  <l>jatthagaō tatthagaō sāmali! sīhō na ju<app><lem type="conj" resp="#BS" cert="low">jja</lem><rdg wit="#K">ya</rdg></app>i dalammi</l>
+	  <l>sappurisō vi taha cciya, phusi nayaṇā, kiṁ tha runnēṇa?</l>
+	</lg>
+	<lg n="125">
+	  <l>nāūṇa vi vinnāṇaṁ kāūṇa vi samarasāhasaṁ kammaṁ</l>
+	  <l>laṅghēūṇa vi mēruṁ puṇṇēhi viṇā suhaṁ kattō?</l>
+	</lg>
+	<lg n="126">
+	  <l><app><lem type="conj" resp="#BS">tha</lem><rdg wit="#K">a</rdg></app>kkē bhaṇiyaṁ sōhaï, thakkē bhaṇiyaṁ suhāvahaṁ hōi</l>
+	  <l>atthakkē puṇa bhaṇiyaṁ kaya pi kajjaṁ viṇāsēi</l>
+	</lg>
+	<lg n="127">
+	  <l>jaha mūsayassa ekkēṇa vīhiṇā dō vi vāvaḍā hatthā</l>
+	  <l>taha amuṇiyakallāṇā thēvēṇa vi uttuṇā hunti</l>
+	</lg>
+	<lg n="128">
+	  <l>guṇajāṇae cciya jaṇē huti guṇā pāyaḍā mahagghā ya</l>
+	  <l>maṇirayaṇāi vi gō<note xml:lang="san-Latn"><p><s>itō ’grētanāni patrāṇi vinaṣṭāni, atō ’pūrṇō ’yaṁ gāthāsaṅgraha</s></p></note> … … …</l>
+	</lg>
+      </div>
+    </body>
+  </text>
+</TEI>

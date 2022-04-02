@@ -184,7 +184,10 @@
         <l>taṁ jaha miaṅkakēsarikarapaharaṇadaliatimirakarikumbhē</l>
         <l>vikkhittarikkhamuttāhalujjalē saraaraaṇīē</l>
       </lg>
-      <p>paōsasamaē dhavalabhavaṇuttamaṅgasaaṇasuhāsīṇāē bhaṇiaṁ. piaama pēccha pēccha.</p>
+      <p>
+	<s>paōsasamaē dhavalabhavaṇuttamaṅgasaaṇasuhāsīṇāē bhaṇiaṁ</s>
+	<s>piaama pēccha pēccha</s>
+      </p>
       <lg n="24">
         <l>jōṇhāūriakōsakantidhavalē savvaṅgagandhukkaḍē<caesura/>ṇivvigghaṁ gharadīhiāē surasaṁ vēvantaō māsalaṁ</l>
         <l>āsāēi sumañjuguñjiaravō tiṅgicchipāṇāsavaṁ<caesura/>ummillantadalāvalīpariaō candujjuē chappaō</l>
@@ -217,7 +220,9 @@
         <l>candujjuāvaaṁsaṁ paviambhiasurahikuvalaāmōaṁ</l>
         <l>ṇimmalatārālōaṁ piaï va rayaṇīmuhaṁ candō</l>
       </lg>
-      <p>tā kiṁ bahuṇā paampiēṇa.</p>
+      <p>
+	<s>tā kiṁ bahuṇā paampiēṇa</s>
+      </p>
       <lg n="32">
         <l>aïramaṇīā raaṇī saraō vimalō tumaṁ ca sāhīṇō</l>
         <l>aṇukūlapariaṇāē maṇṇē taṁ ṇatthi jaṁ ṇatthi</l>
@@ -262,7 +267,9 @@
         <l>taṁ taha sōūṇa puṇō bhaṇiaṁ ubbimbabālahariṇacchi</l>
         <l>jaï ēvaṁ tā suvvaü susandhibandhaṁ kahāvatthuṁ</l>
       </lg>
-      <p>atthi</p>
+      <p>
+	<s>atthi</s>
+      </p>
       <lg n="43">
         <l>caüjalahivalaarasaṇāṇibaddhaviaḍōvarōhasōhāē</l>
         <l>sēsaṅkasuppariṭṭhiasavvaṅguvvūḍhabhuvaṇāē</l>
@@ -287,14 +294,40 @@
         <l>sāsaṇamiva puṇṇāṇaṁ jammuppatti vva suhasamūhāṇaṁ</l>
         <l>āarisō āārāṇa saï suchēttaṁ piva guṇāṇaṁ</l>
       </lg>
-      <p>avi a.</p>
+      <p>
+	<s>avi a</s>
+      </p>
       <lg n="49">
         <l>susaṇiddhaghāsasantuṭṭhagōhaṇālōamuiagōālō</l>
         <l>gēāravabhariadisō varavallaïvēṇuṇivahēsu</l>
       </lg>
-      <p>suhāvagāhaṇimmalajalāsaō । taruṇatarujjāṇariddhiramaṇīō । kamalasarasaṇḍamaṇḍiāsāmuhō । sussāaphalabharōṇamiavacchaalāvāsiapahiajaṇasamāulō.  savvōvasaggabhaarahiō. cāuvaṇṇasamāuttō । ṇiccūsavavaḍḍhiāṇandō. vivihakāṇaṇōvasōhiabhūmibhāō. vivihakusumāmōavāsiadiantarālō. aṇavaïṇṇakalikālō. aïṭṭhapāvō । aparicattadhammō. aṇuvalakkhiapaāvō apaṇaṭṭhasōhō. aṇuvajāacōrarāabhaō. aparimiaguṇagaṇaṇivāsō tti.</p>
-      <p>jahiṁ ca. kāmavarisī bhaavaṁ pajjaṇṇō । kāmaduhāō surahīō. saïphalāō vaṇapphaīō. avañjhāō juaīō tti.</p>
-      <p>jahiṁ ca.</p>
+      <p>
+	<s>suhāvagāhaṇimmalajalāsaō</s>
+	<s>taruṇatarujjāṇariddhiramaṇīō</s>
+	<s>kamalasarasaṇḍamaṇḍiāsāmuhō</s>
+	<s>sussāaphalabharōṇamiavacchaalāvāsiapahiajaṇasamāulō</s>
+	<s>savvōvasaggabhaarahiō</s>
+	<s>cāuvaṇṇasamāuttō</s>
+	<s>ṇiccūsavavaḍḍhiāṇandō</s>
+	<s>vivihakāṇaṇōvasōhiabhūmibhāō</s> 
+	<s>vivihakusumāmōavāsiadiantarālō</s>
+	<s>aṇavaïṇṇakalikālō</s>
+	<s>aïṭṭhapāvō</s>
+	<s>aparicattadhammō</s>
+	<s>aṇuvalakkhiapaāvō apaṇaṭṭhasōhō</s>
+	<s>aṇuvajāacōrarāabhaō</s>
+	<s>aparimiaguṇagaṇaṇivāsō tti</s>
+      </p>
+      <p>
+	<s>jahiṁ ca</s>
+	<s>kāmavarisī bhaavaṁ</s>
+	<s>pajjaṇṇō kāmaduhāō surahīō</s>
+	<s>saïphalāō vaṇapphaīō</s>
+	<s>avañjhāō juaīō tti</s>
+      </p>
+      <p>
+	<s>jahiṁ ca</s>
+      </p>
       <lg n="50">
         <l>dūruṇṇaagaruapaōharāō kōmalamuṇālavāhīō</l>
         <l>saï mahuravāṇiāō juaīō ṇiṇṇaāu vva</l>
@@ -591,7 +624,9 @@
         <l>tō sō sēvāvāēṇa viṇaḍiō kaha vi kēhĩ vi varāō</l>
         <l>ukkhittō paṅkagaō va jaragaō rāapurisēhiṁ</l>
       </lg>
-      <p>ētthantarammi.</p>
+      <p>
+	<s>ētthantarammi</s>
+      </p>
       <lg n="120">
         <l>aṇṇōṇṇamaüḍasaṅghaṭṭakhuḍiamāṇikkapaarapakkhaliō</l>
         <l>suharēṇa saraï ēkkēkkamaṅgaṇatthambhiō lōō</l>
@@ -668,7 +703,9 @@
         <l>bhaṇiaṁ bhaṭṭakumārēṇa dēva visamā jaammi kajjagaī</l>
         <l>maṇṇē tahāvi ēsō kēṇa vi kajjēṇa sampattō</l>
       </lg>
-      <p>kiṁ jahā.</p>
+      <p>
+	<s>kiṁ jahā</s>
+      </p>
       <lg n="138">
         <l>parivaḍḍhiapahusambhāvaṇāṇa ēvaṁvihē mahākajjē</l>
         <l>asamattapēsaṇāṇaṁ maraṇaṁ cia sahaï purisāṇa</l>
@@ -786,7 +823,7 @@
         <l>riddhiṁ va mahāpalaasya jammabhūmiṁ va bhuvaṇāṇa</l>
       </lg>
       <lg n="167">
-        <l>daṭṭuṁ tamamburāsiṁ ṇaravaï paricintaaṁ hi hiaēṇa</l>
+        <l>daṭṭhuṁ tam amburāsiṁ ṇaravaï paricintaamhi hiaēṇa</l>
         <l>dukkhuttārō ēsō jaha bhaṇiō pōṭṭisēṇa mha</l>
       </lg>
       <lg n="168">
@@ -1077,7 +1114,9 @@
         <l>kalahōaviṇimmiavasahamaṇḍavāsaṇṇaṇandimahaālaṁ</l>
         <l>diṭṭhaṁ aïṭṭhaüvvaṁ bhavāṇibhavabhavaṇamaïrammaṁ</l>
       </lg>
-      <p>jaṁ taṁ</p>
+      <p>
+	<s>jaṁ taṁ</s>
+      </p>
       <lg n="240">
         <l>uppaaï va pavaṇuddhuadhaavaḍapēhuṇaaparisarantēṇa</l>
         <l>uhaōvāsaviṇiggaatavaṅgapakkhāviāṇēṇaṁ</l>
@@ -1514,7 +1553,9 @@
         <l>sēvijjanti viambhiaṇiaḍāavabhaabhuaṅgamāmukkā</l>
         <l>āsaṇṇadiṇaharōhaṁsapāavā siddhamihuṇēhiṁ</l>
       </lg>
-      <p>avi a.</p>
+      <p>
+	<s>avi a</s>
+      </p>
       <lg n="348">
         <l>suravahukaḍḍhiahiakusumamukkapalahūsasantakappalaaṁ</l>
         <l>candaṇaviḍavandōlaṇasuhasīalapasariasamīraṁ</l>
@@ -3091,7 +3132,9 @@
         <l>ētthēkkadivasabhāē ṇisuō gōlāṇaīē paratīrē</l>
         <l>paḍirāvapūriāsō ṇarāṇa garuō halabbōlō</l>
       </lg>
-      <p>jahā</p>
+      <p>
+	<s>jahā</s>
+      </p>
       <lg n="732">
         <l>ētthuttarapuvvapalōṭṭabhūmibhāē khivēha pattōlī</l>
         <l>vicchiṇṇaṁ kīraü rāulassa rāaṅgaṇuddēsaṁ</l>
@@ -3238,7 +3281,7 @@
       </lg>
       <lg n="768">
         <l>ṇivviccuttuṅgāhōakakkasaṁ pikkasirihalasaricchaṁ</l>
-        <l>hōntapariṇāhagaruaṁ agdhaï ṇavathaṇaharucchaṅgaṁ</l>
+        <l>hōntapariṇāhagaruaṁ agghaï ṇavathaṇaharucchaṅgaṁ</l>
       </lg>
       <lg n="769">
         <l>kaṅkēlipallavāambakaraalālaṅkiaṁ samuvvahaï</l>
@@ -4492,7 +4535,9 @@
         <l>aṇṇēkkaraasaaṇhā ṇēcchantī ṇāaraṁ piā kā vi</l>
         <l>addhaṭṭhiaṁ pi daïaṁ dharaï balāliṅgaṇamisēṇa</l>
       </lg>
-      <p>avi a.</p>
+      <p>
+	<s>avi a</s>
+      </p>
       <lg n="1081">
         <l>takkālasamuiālāvavaïarābaddhavammaharasāiṁ</l>
         <l>ēkkēkkamaṅgaparimāsasōkkhapasarantapulaāiṁ</l>
@@ -4849,12 +4894,16 @@
         <l>aha sō tēṇa kisōari bahusō paḍivajjiūṇa varamuṇiṇā</l>
         <l>sampēsiō diṇantē ṇiaāvāsaṁ gaō rāā</l>
       </lg>
-      <p>tāva a</p>
+      <p>
+	<s>tāva a</s>
+      </p>
       <lg n="1170">
         <l>vimukkakarabandhaṇaṁ gaaṇapāavāhiṁ taō<caesura/>sarēsu rahavāhiṇīvirahakāarālōiaṁ</l>
         <l>paḍēi lavaṇōahē ghusiṇabindumāambaaṁ<caesura/>phalaṁ va paripakkaaṁ ghaṇatamāriṇō bimbaaṁ</l>
       </lg>
-      <p>taō</p>
+      <p>
+	<s>taō</s>
+      </p>
       <lg n="1171">
         <l>jaï atthamiamiaṅkē tamaṇiarōruddhadasadisāakkē</l>
         <l>suhasuttē jaṇaṇivahē allīṇē addharattammi</l>
@@ -5387,7 +5436,9 @@
         <l>tāvaa vijjāharabandiṇēṇa sahasa tti viasiamuhēṇa</l>
         <l>sālaṅkāraṁ sumaṇōharaṁ ca gāhāulaṁ paḍhiaṁ</l>
       </lg>
-      <p>dēva ṇiacchasu</p>
+      <p>
+	<s>dēva ṇiacchasu</s>
+      </p>
       <lg n="1304">
         <l>aṇṇōṇṇasamīvaṇivēsaṇiccalaṁ samiasaddasaṁlāvaṁ</l>
         <l>ṇēurakalahaṁsajuaṁ suaï va paapaṅkaaṇisaṇṇaṁ</l>
