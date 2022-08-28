@@ -89,7 +89,7 @@
   <text xml:lang="san-Latn">
     <body>
       <pb n="19"/>
-      <head>śrīgaṇēśāya namaḥ</head>
+      <head type="mangala">śrīgaṇēśāya namaḥ</head>
       <lg met="āryā" n="1">
 	<l>jayati madamuditamadhukaramadhurarutākalanakūṇitāpāṅgaḥ</l>
 	<l>karavihitagaṇḍakaṇḍūvinōdasukhitō gaṇādhipatiḥ</l>
@@ -100,7 +100,7 @@
       </lg>
       <div type="paricchēdaḥ" n="1">
 	<div type="sūtra" n="1.1">
-	  <quote type="basetext"><ab type="sūtra" n="1">ādērataḥ</ab></quote>
+	  <quote type="base-text"><ab type="sūtra" n="1">ādērataḥ</ab></quote>
 	  <p>
 	    <s>adhikārō ’yam</s>
             <s>yadita ūrdhvamanukramiṣyāma ādērataḥ sthānē tadbhavatītyēvaṁ vēditavyam</s>
@@ -111,26 +111,22 @@
 	</div>
 	<pb n="20"/>	
         <div type="sūtra" n="1.2">
-          <quote type="basetext"><ab type="sūtra" n="2">ā samr̥ddhayādiṣu vā</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="2">ā samr̥ddhayādiṣu vā</ab></quote>
           <p>
             <s>samr̥ddhi ityēvamādiṣu śabdēṣvādērakārasya ākārō bhavati vā</s>
 	    <list type="forms" xml:lang="pra-Latn">
-	      <item>samiddhī</item>
-	      <item>sāmiddhī</item>
-	      <item>paaḍaṁ</item>
-	      <item>pāaḍaṁ</item>
-              <item>ahijāī</item>
-	      <item>āhijāī</item>
+	      <item>samiddhī sāmiddhī</item>
+	      <item>paaḍaṁ pāaḍaṁ</item>
+              <item>ahijāī āhijāī</item>
               <item>maṇaṁsiṇī māṇaṁsiṇī</item>
-              <item>paḍivaā</item>
-	      <item>pāḍivaā</item>
+              <item>paḍivaā pāḍivaā</item>
 	      <item>saricchaṁ sāricchaṁ</item>
               <item>paḍisiddhī pāḍisiddhī</item>
 	      <item>pasuttaṁ pāsuttaṁ</item>
               <item>pasiddhī pāsiddhī</item>
               <item>assō āsō</item>
 	    </list>
-	    <list type="equivalents" xml:lang="san-Latn">
+	    <list type="equivalences" xml:lang="san-Latn">
 	      <item>samr̥ddhi</item>
 	      <item>prakaṭa</item>
 	      <item>abhijāti</item>
@@ -146,7 +142,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="1.3">
-          <quote type="basetext"><ab type="sūtra" n="3">idīṣatpakasvamavētasavyajanamr̥daṅgāṅgārēṣu</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="3">idīṣatpakasvamavētasavyajanamr̥daṅgāṅgārēṣu</ab></quote>
           <p>
             <s>īṣadādiṣu śavdēṣu ādērataḥ sthānē ikārādēśō bhavati</s>
             <s>vēti nivr̥ttam</s>
@@ -162,7 +158,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="1.4">
-          <quote type="basetext"><ab type="sūtra" n="4">lōpō ’raṇyē</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="4">lōpō ’raṇyē</ab></quote>
           <p>
             <s>araṇyaśabdē ādēratō lōpō bhavati</s>
 	    <list type="forms" xml:lang="pra-Latn">
@@ -171,7 +167,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="1.5">
-          <quote type="basetext"><ab type="sūtra" n="5">ē śayyādiṣu</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="5">ē śayyādiṣu</ab></quote>
           <p>
             <s>śayyā ityēvamādiṣu śabdēṣu ādērata ēkārādēśō bhavati</s>
 	    <list type="forms" xml:lang="pra-Latn">
@@ -183,7 +179,7 @@
               <item>parantaṁ</item>
               <item>vēllī</item>
 	    </list>
-	    <list type="equivalents">
+	    <list type="equivalences">
 	      <item>śayyā</item>
               <item>saundarya</item>
 	      <item>utkara</item>
@@ -196,7 +192,7 @@
 	</div><!-- sūtra !-->
 	<pb n="21"/>
         <div type="sūtra" n="1.6">
-          <quote type="basetext"><ab type="sūtra" n="6">ō badarē dēna</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="6">ō badarē dēna</ab></quote>
           <p>
             <s>badaraśabdē dakārēṇa sahādērata ōtvaṁ bhavati</s>
 	    <list type="forms" xml:lang="pra-Latn">
@@ -205,7 +201,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="1.7">
-          <quote type="basetext"><ab type="sūtra" n="7">lavaṇanavamallikayōrvēna</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="7">lavaṇanavamallikayōrvēna</ab></quote>
           <p>
             <s>lavaṇanavamallikayōrādēratō vakārēṇa saha ōkāraḥ syāt</s>
 	    <list type="forms" xml:lang="pra-Latn">
@@ -215,7 +211,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="1.8">
-          <quote type="basetext"><ab type="sūtra" n="8">mayūramayūkhayōrkhā vā</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="8">mayūramayūkhayōrkhā vā</ab></quote>
           <p>
             <s>mayūra mayūkha ityētayō।śabdēna sahādērata ōtvaṁ vā bhavati</s>
 	    <list type="forms" xml:lang="pra-Latn">
@@ -225,7 +221,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="1.9">
-          <quote type="basetext"><ab type="sūtra" n="9">caturthīcaturdaśyōstunā</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="9">caturthīcaturdaśyōstunā</ab></quote>
           <p>
             <s>ētayōstunā sahādērata ōtvaṁ bhavati vā</s>
 	    <list type="forms" xml:lang="pra-Latn">
@@ -235,7 +231,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="1.10">
-          <quote type="basetext"><ab type="sūtra" n="10">adātō yathādiṣu vā</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="10">adātō yathādiṣu vā</ab></quote>
           <p>
             <s>ata iti nivr̥ttaṁ sthānyantaranirdēśān</s>
             <s>yathā ityēvamādiṣvātaḥ sthānē akārāṁdēśō bhavati vā</s>
@@ -254,7 +250,7 @@
 	      <item>saṁṭhaviaṁ saṁṭhāvi</item>
 	      <item>haliō hāliō</item>
 	    </list>
-	    <list type="equivalents">
+	    <list type="equivalences">
 	      <item>yathā</item>
               <item>tathā</item>
 	      <item>prastāra</item>
@@ -273,7 +269,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="1.11">
-          <quote type="basetext"><ab type="sūtra" n="11">it sadādiṣu</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="11">it sadādiṣu</ab></quote>
           <p>
             <s>sadā ityēvamādiṣu āta ikārō bhavati vā</s>
 	    <list type="forms" xml:lang="pra-Latn">
@@ -281,7 +277,7 @@
 	      <item>tai taā</item>
 	      <item>jai jaā</item>
 	    </list>
-	    <list type="equivalents">
+	    <list type="equivalences">
 	      <item>sadā</item>
               <item>tadā</item>
               <item>yadā</item>
@@ -289,7 +285,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="12">
-          <quote type="basetext"><ab type="sūtra" n="12">ita ētpiṇḍasamēṣu</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="12">ita ētpiṇḍasamēṣu</ab></quote>
           <p>
             <s>piṇḍa ityēvaṁsamēyu ikārasya ēkārādēśō bhavati vā</s>
             <list type="forms" xml:lang="pra-Latn">
@@ -314,7 +310,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="13">
-          <quote type="basetext"><ab type="sūtra" n="13">atpathiharidrāpr̥thivīṣu</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="13">atpathiharidrāpr̥thivīṣu</ab></quote>
           <p>
             <s>pathyādipu śabdōvikārasya ākārōbhavati</s>
             <list type="forms" xml:lang="pra-Latn">
@@ -325,7 +321,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="14">
-          <quote type="basetext"><ab type="sūtra" n="14">itastaḥ padādēḥ</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="14">itastaḥ padādēḥ</ab></quote>
           <p>
             <s>padādēr iti śabdasya yas takāras tasmāt parasya ikārasya akārō bhavati</s>
 	    <list type="forms" xml:lang="pra-Latn">
@@ -347,7 +343,7 @@
 	  <pb n="23"/>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="15">
-          <quote type="basetext"><ab type="sūtra" n="15">udikṣuvr̥ścikayōḥ</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="15">udikṣuvr̥ścikayōḥ</ab></quote>
           <p>
             <s>ikṣu-vr̥ścikayōr ita utvaṁ bhavati</s>
 	    <list type="forms" xml:lang="pra-Latn">
@@ -357,7 +353,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="16">
-          <quote type="basetext"><ab type="sūtra" n="16">ō ca dvidhākr̥taḥ</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="16">ō ca dvidhākr̥taḥ</ab></quote>
           <p>
             <s>kr̥ñ-dhātu-prayōgē dvidhā-śabdasyaukārō bhavati</s>
             <s>cakārādutva ca</s>
@@ -375,7 +371,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="17">
-          <quote type="basetext"><ab type="sūtra" n="17">itsiṁhajihvayōśca</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="17">itsiṁhajihvayōśca</ab></quote>
           <p>
             <s>ētayōr ādēr ikārasya īkārō bhavati</s>
             <list type="forms" xml:lang="pra-Latn">
@@ -387,7 +383,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="18">
-          <quote type="basetext"><ab type="sūtra" n="18">idītaḥ pānīyādiṣu</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="18">idītaḥ pānīyādiṣu</ab></quote>
           <p>
             <s>pānīya ityēvamādiṣvādērīkārasya ikārō bhavati</s>
             <list type="forms" xml:lang="pra-Latn">
@@ -414,7 +410,7 @@
 	  <pb n="24"/>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="19">
-          <quote type="basetext"><ab type="sūtra" n="19">ēnīḍāpīḍakīhagīdr̥śēṣu</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="19">ēnīḍāpīḍakīhagīdr̥śēṣu</ab></quote>
           <p>
             <s>nīḍādiṣu īkārasya ēkārō bhavati</s>
             <list type="forms" xml:lang="pra-Latn">
@@ -426,7 +422,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="20">
-          <quote type="basetext"><ab type="sūtra" n="20">uta ōttuṇḍarūpēṣu</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="20">uta ōttuṇḍarūpēṣu</ab></quote>
           <p>
             <s>tuṇḍa ity ēvaṁrūpēṣu ādēr ukārasya ōkārō bhavati</s>
             <list type="forms" xml:lang="pra-Latn">
@@ -449,7 +445,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="21">
-          <quote type="basetext"><ab type="sūtra" n="21">ulūkhalē lvā vā</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="21">ulūkhalē lvā vā</ab></quote>
           <p>
             <s>ulūkhalaśabdē lūśabdēna saha ukārasya ōkārō bhavati vā</s>
 	    <s>ōkkhalaṁ</s>
@@ -459,7 +455,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="22">
-          <quote type="basetext"><ab type="sūtra" n="22">anmukuṭādiṣu</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="22">anmukuṭādiṣu</ab></quote>
           <p>
             <s>mukuṭa ity ēvam ādiṣv ādēr ukārasya sthānē akārō bhavati</s>
             <list type="forms" xml:lang="pra-Latn">
@@ -483,7 +479,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="23">
-          <quote type="basetext"><ab type="sūtra" n="23">itpuruṣē rōḥ</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="23">itpuruṣē rōḥ</ab></quote>
           <p>
             <s>puruṣaśabdē yō rēphastasya ukārasya ikārō bhavati</s>
             <list type="forms" xml:lang="pra-Latn">
@@ -493,7 +489,7 @@
 	  <pb n="25"/>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="24">
-          <quote type="basetext"><ab type="sūtra" n="24">udūtō madhūkē</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="24">udūtō madhūkē</ab></quote>
           <p>
             <s>madhūkaśabdē ūkārasya ukārō bhavati</s>
             <list type="forms" xml:lang="pra-Latn">
@@ -502,7 +498,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="25">
-          <quote type="basetext"><ab type="sūtra" n="25">addukūlē vā lasya dvitvam</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="25">addukūlē vā lasya dvitvam</ab></quote>
           <p>
             <s>dukūlaśabdē ūkārasya akārō bhavati vā</s>
             <s>tatsaṁyōgēna lakārasya dvitvam</s>
@@ -512,7 +508,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="26">
-          <quote type="basetext"><ab type="sūtra" n="26">ēnnūpurē</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="26">ēnnūpurē</ab></quote>
           <p>
             <s>nūpuraśabdē ūkārasya ēkārō bhavati</s>
 	    <list type="forms" xml:lang="pra-Latn">
@@ -521,7 +517,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="27">
-          <quote type="basetext"><ab type="sūtra" n="27">r̥tō ’t</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="27">r̥tō ’t</ab></quote>
           <p>
             <s>ādēkārasya akārō bhavati</s>
             <list type="forms" xml:lang="pra-Latn">
@@ -543,7 +539,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="28">
-          <quote type="basetext"><ab type="sūtra" n="28">idr̥ṣyādiṣu</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="28">idr̥ṣyādiṣu</ab></quote>
           <p>
             <s>r̥ṣyādiṣu śabdēṣu ādēr r̥kārasya ikārō bhavati</s>
             <list type="forms" xml:lang="pra-Latn">
@@ -592,7 +588,7 @@
 	  <pb n="26"/>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="29">
-          <quote type="basetext"><ab type="sūtra" n="29">udr̥tvādiṣu</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="29">udr̥tvādiṣu</ab></quote>
           <p>
             <s>r̥tu ityēvamādiṣu ādērr̥ta ukārō bhavati</s>
             <list type="forms" xml:lang="pra-Latn">
@@ -629,7 +625,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="30">
-          <quote type="basetext"><ab type="sūtra" n="30">ayuktasya riḥ</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="30">ayuktasya riḥ</ab></quote>
           <p>
             <s>varṇāntarēṇāyuktasyādēkārasya rikārō bhavati</s>
             <list type="forms" xml:lang="pra-Latn">
@@ -640,7 +636,7 @@
 	  </p>
 	</div><!-- sūtra !-->
 	<div type="sūtra" n="31">
-          <quote type="basetext"><ab type="sūtra" n="31">kacidyuktasyāpi</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="31">kacidyuktasyāpi</ab></quote>
           <p>
             <s>varṇāntarēṇa yuktasyāpi kacihakārasya rikārō bhavati</s>
             <list type="forms" xml:lang="pra-Latn">
@@ -651,7 +647,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="32">
-          <quote type="basetext"><ab type="sūtra" n="32">vr̥kṣē vēna rurvā</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="32">vr̥kṣē vēna rurvā</ab></quote>
           <p>
             <s>vr̥kṣaśabdē vaśabdēna saha r̥kārasya rukārō bhavati vā</s>
             <list type="forms" xml:lang="pra-Latn">
@@ -663,7 +659,7 @@
 	  <pb n="27"/>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="33">
-          <quote type="basetext"><ab type="sūtra" n="33">lataḥ klupta iliḥ</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="33">lataḥ klupta iliḥ</ab></quote>
           <p>
             <s>klapaśabdē r̥kārasya ilītyayamādēśō bhavati</s>
             <list type="forms" xml:lang="pra-Latn">
@@ -673,7 +669,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="34">
-          <quote type="basetext"><ab type="sūtra" n="34">ēta ivēdanādēvarayōḥ</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="34">ēta ivēdanādēvarayōḥ</ab></quote>
           <p>
             <s>vēdanādēvarayōrēkārasya ikārō bhavati</s>
             <list type="forms" xml:lang="pra-Latn">
@@ -688,7 +684,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="35">
-          <quote type="basetext"><ab type="sūtra" n="35">aita ēt</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="35">aita ēt</ab></quote>
           <p>
             <s>ādarēkārasya ēkārā bhavati</s>
             <list type="forms" xml:lang="pra-Latn">
@@ -708,7 +704,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="36">
-          <quote type="basetext"><ab type="sūtra" n="36">daityādiṣvai</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="36">daityādiṣvai</ab></quote>
           <p>
             <s>daityādiṣu śabdēyu aikārasya aï ityayamādēśō bhavati</s>
             <list type="forms" xml:lang="pra-Latn">
@@ -741,7 +737,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="37">
-          <quote type="basetext"><ab type="sūtra" n="37">dēvē vā</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="37">dēvē vā</ab></quote>
           <p>
             <s>dēvaśabdē aikārasya aï ityayamādaśō bhavati vā</s>
             <list type="forms" xml:lang="pra-Latn">
@@ -753,7 +749,7 @@
           <pb n="28"/>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="38">
-          <quote type="basetext"><ab type="sūtra" n="38">it saindhavē</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="38">it saindhavē</ab></quote>
           <p>
             <s>saindhavaśabdē aikārasya ikārō bhavati</s>
             <list type="forms" xml:lang="pra-Latn">
@@ -762,7 +758,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="39">
-          <quote type="basetext"><ab type="sūtra" n="39">īddhairyē</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="39">īddhairyē</ab></quote>
           <p>
             <s>dhairyaśabdē aikārasya īkārō bhavati</s>
             <list type="forms" xml:lang="pra-Latn">
@@ -771,7 +767,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="40">
-          <quote type="basetext"><ab type="sūtra" n="40">ōtō ’dvā prakōṣṭha kasya vaḥ</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="40">ōtō ’dvā prakōṣṭha kasya vaḥ</ab></quote>
           <p>
             <s>prakōṣṭhaśabdē ōkārasya akārō bhavati vā</s>
             <s>tatsaṁyōgēna ca kakārasya vatvam</s>
@@ -782,7 +778,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="41">
-          <quote type="basetext"><ab type="sūtra" n="41">auta ōt</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="41">auta ōt</ab></quote>
           <p>
             <s>aukārasya ādērōkārō bhavati</s>
             <list type="forms" xml:lang="pra-Latn">
@@ -800,7 +796,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="42">
-          <quote type="basetext"><ab type="sūtra" n="42">paurādiṣvau</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="42">paurādiṣvau</ab></quote>
           <p>
             <s>paura ityēvamādiṣu śabdēṣu aukārasya aü ityayamādēśō bhavati</s>
             <list type="forms" xml:lang="pra-Latn">
@@ -826,7 +822,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="43">
-          <quote type="basetext"><ab type="sūtra" n="43">āñca gauravē</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="43">āñca gauravē</ab></quote>
           <p>
             <s>gauravaśabdē aukārasya ākārō bhavati</s>
 	    <s>cakārādautvaṁ ca</s>
@@ -839,7 +835,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="44">
-          <quote type="basetext"><ab type="sūtra" n="44">utsaundaryādiṣu</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="44">utsaundaryādiṣu</ab></quote>
           <p>
             <s>saundarya ityēvamādiṣu aukārasya ukārō bhavati</s>
             <list type="forms" xml:lang="pra-Latn">
@@ -864,7 +860,7 @@
       <div type="paricchēdaḥ" n="2">
 	<head>atha dvitīyaḥ paricchēdaḥ</head>
         <div type="sūtra" n="1">
-          <quote type="basetext"><ab type="sūtra" n="1">ayuktasyānādau</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="1">ayuktasyānādau</ab></quote>
           <p>
             <s>adhikārō ’yam</s>
             <s>ita uttaraṁ yadvakṣyāmamtayuktasya vyaṁjanasyānādau vartamānasya kāryaṁ bhavatītyēvaṁ vēditavyam</s>
@@ -887,7 +883,7 @@
 	  <pb n="30"/>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="2">
-          <quote type="basetext"><ab type="sūtra" n="2">kagacajatadapayavāṁ prāyō lōpaḥ</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="2">kagacajatadapayavāṁ prāyō lōpaḥ</ab></quote>
           <p>
             <s>kādīnāṁ navānāṁ varṇānāmayuktānāmanādau vartamānānāṁ prāyō bāhulyēna lōpō bhavati</s>
 	    <s>kasya tāvat</s>
@@ -1003,7 +999,7 @@
 	  <pb n="31"/>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="3">
-          <quote type="basetext"><ab type="sūtra" n="3">yamunāyāṁ masya</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="3">yamunāyāṁ masya</ab></quote>
           <p>
             <s>yamunāśabdē makārasya lōpō bhavati</s>
             <list type="forms" xml:lang="pra-Latn">
@@ -1012,7 +1008,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="4">
-          <quote type="basetext"><ab type="sūtra" n="4">sphaṭikanikapacikurēchu kasya haḥ</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="4">sphaṭikanikapacikurēchu kasya haḥ</ab></quote>
           <p>
             <s>anādāviti vartatē</s>
             <s>ēṣu kasya hakārō bhavati</s>
@@ -1025,7 +1021,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="5">
-          <quote type="basetext"><ab type="sūtra" n="5">śīkarē bhaḥ</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="5">śīkarē bhaḥ</ab></quote>
           <p>
             <s>śīkaraśabdē kakārasya bhakārō bhavati</s>
             <list type="forms" xml:lang="pra-Latn">
@@ -1034,7 +1030,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="6">
-          <quote type="basetext"><ab type="sūtra" n="6">candrikāyāṁ maḥ</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="6">candrikāyāṁ maḥ</ab></quote>
           <p>
             <s>candrikāśabdē kakārasya makārō bhavati</s>
             <list type="forms" xml:lang="pra-Latn">
@@ -1043,7 +1039,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="7">
-          <quote type="basetext"><ab type="sūtra" n="7">r̥tvādiṣu tō daḥ</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="7">r̥tvādiṣu tō daḥ</ab></quote>
           <p>
             <s>r̥tu ityēvamādiṣu takārasya dakārō bhavati</s>
             <list type="forms" xml:lang="pra-Latn">
@@ -1082,7 +1078,7 @@
 	</div><!-- sūtra !-->
         <pb n="32"/>
         <div type="sūtra" n="8">
-          <quote type="basetext"><ab type="sūtra" n="8">pratisaravētasapatākāsu ḍaḥ</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="8">pratisaravētasapatākāsu ḍaḥ</ab></quote>
           <p>
             <s>ēṣu śabdēṣu takārasya ḍakārō bhavati</s>
             <s>lōpāpavādaḥ</s>
@@ -1094,7 +1090,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="9">
-          <quote type="basetext"><ab type="sūtra" n="9">vasatibharatayōhaḥ</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="9">vasatibharatayōhaḥ</ab></quote>
           <p>
             <s>vasatibharataśabdayōstakārasya hakārō bhavati</s>
             <list type="forms" xml:lang="pra-Latn">
@@ -1104,7 +1100,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="10">
-          <quote type="basetext"><ab type="sūtra" n="10">garbhitē ṇaḥ</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="10">garbhitē ṇaḥ</ab></quote>
           <p>
             <s>garbhitaśabdē takārasya ṇakārō bhavati</s>
             <list type="forms" xml:lang="pra-Latn">
@@ -1113,7 +1109,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="11">
-          <quote type="basetext"><ab type="sūtra" n="11">airāvatē ca</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="11">airāvatē ca</ab></quote>
           <p>
             <s>airāvataśabdē takārasya ṇakārō bhavati</s>
             <list type="forms" xml:lang="pra-Latn">
@@ -1122,7 +1118,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="12">
-          <quote type="basetext"><ab type="sūtra" n="12">pradīptakadambadōhadēṣu dō laḥ</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="12">pradīptakadambadōhadēṣu dō laḥ</ab></quote>
           <p>
             <s>ēṣu śabdēṣu dakārasya lakārō bhavati</s>
             <list type="forms" xml:lang="pra-Latn">
@@ -1133,7 +1129,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="13">
-          <quote type="basetext"><ab type="sūtra" n="13">॥ gaddē raḥ</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="13">॥ gaddē raḥ</ab></quote>
           <p>
             <s>gadgadaśabdē dakārasya rēphādēśō bhavati</s>
             <list type="forms" xml:lang="pra-Latn">
@@ -1142,7 +1138,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="14">
-          <quote type="basetext"><ab type="sūtra" n="14">saṁkhyāyāṁ ca</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="14">saṁkhyāyāṁ ca</ab></quote>
           <p>
             <s>saṁkhyāvācini śabdē yō dakārastasya rēphādēśō bhavati</s>
             <list type="forms" xml:lang="pra-Latn">
@@ -1163,7 +1159,7 @@
 	  <pb n="33"/>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="15">
-          <quote type="basetext"><ab type="sūtra" n="15">pō vaḥ</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="15">pō vaḥ</ab></quote>
           <p>
             <s>pakārasyāyuktasyānādivartinō vakārādēśō bhavati</s>
             <list type="forms" xml:lang="pra-Latn">
@@ -1182,7 +1178,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="16">
-          <quote type="basetext"><ab type="sūtra" n="16">āpīḍē maḥ</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="16">āpīḍē maḥ</ab></quote>
           <p>
             <s>āpīḍaśabdē pakārasya makārō bhavati</s>
             <list type="forms" xml:lang="pra-Latn">
@@ -1191,7 +1187,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="17">
-          <quote type="basetext"><ab type="sūtra" n="17">uttarīyānīyayōjjā vā</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="17">uttarīyānīyayōjjā vā</ab></quote>
           <p>
             <s>uttarīyaśabdē anīyapratyayāntē ca yasya jō bhavati vā</s>
 	    <list type="forms" xml:lang="pra-Latn">
@@ -1205,7 +1201,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="18">
-          <quote type="basetext"><ab type="sūtra" n="18">chāyāyāṁ daḥ</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="18">chāyāyāṁ daḥ</ab></quote>
           <p>
             <s>chāyāśabdē yakārasya hakārō bhavati</s>
             <list type="forms" xml:lang="pra-Latn">
@@ -1214,7 +1210,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="19">
-          <quote type="basetext"><ab type="sūtra" n="19">kabandhē bō maḥ</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="19">kabandhē bō maḥ</ab></quote>
           <p>
             <s>kabandhaśabdē bakārasya makārō bhavati</s>
             <list type="forms" xml:lang="pra-Latn">
@@ -1224,7 +1220,7 @@
 	  <pb n="35"/>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="27">
-          <quote type="basetext"><ab type="sūtra" n="27">khapathavabhāṁhaḥ</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="27">khapathavabhāṁhaḥ</ab></quote>
           <p>
             <s>khādīnāṁ pañcānāma yuktānāmanādivartināṁ hakārō bhavati</s>
 	    <s>khasya tāvat</s>
@@ -1282,7 +1278,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="28">
-          <quote type="basetext"><ab type="sūtra" n="28">prathamaśithilaniṣadhēṣu ḍhaḥ</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="28">prathamaśithilaniṣadhēṣu ḍhaḥ</ab></quote>
           <p>
             <s>ētēṣu thadhayōrḍakārō bhavati</s>
             <list type="forms" xml:lang="pra-Latn">
@@ -1293,7 +1289,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="29">
-          <quote type="basetext"><ab type="sūtra" n="29">kaiṭabhē vaḥ</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="29">kaiṭabhē vaḥ</ab></quote>
           <p>
             <s>kaiṭabhaśabdē bhakārasya vakārō bhavati</s>
             <list type="forms" xml:lang="pra-Latn">
@@ -1302,7 +1298,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="30">
-          <quote type="basetext"><ab type="sūtra" n="30">haridrādīnāṁ rō laḥ</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="30">haridrādīnāṁ rō laḥ</ab></quote>
           <p>
             <s>haridrā ityēvamādīnāṁ rēphasya lakārō bhavati</s>
             <list type="forms" xml:lang="pra-Latn">
@@ -1336,7 +1332,7 @@
 	  <pb n="36"/>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="31">
-          <quote type="basetext"><ab type="sūtra" n="31">ādēyōṁ naḥ</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="31">ādēyōṁ naḥ</ab></quote>
           <p>
             <s>anādēriti nivr̥ttam</s>
 	    <s>ādibhūtasya yakārasya jakārō bhavati</s>
@@ -1345,7 +1341,7 @@
 	      <item>jasō</item>
 	      <item>jakkhō</item>
 	    </list>
-	    <list type="equivalents">
+	    <list type="equivalences">
 	      <item>yaṣṭi</item>
 	      <item>yaśas</item>
 	      <item>yakṣa</item>
@@ -1353,7 +1349,7 @@
 	  </p>
         </div><!-- sūtra !-->
         <div type="sūtra" n="32">
-          <quote type="basetext"><ab type="sūtra" n="32">yaṣṭayāṁ laḥ</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="32">yaṣṭayāṁ laḥ</ab></quote>
           <p>
             <s>yaṣṭiśabdē yakārasya lakārō bhavati</s>
             <list type="forms" xml:lang="pra-Latn">
@@ -1362,7 +1358,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="33">
-          <quote type="basetext"><ab type="sūtra" n="33">kirātē caḥ</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="33">kirātē caḥ</ab></quote>
           <p>
             <s>kirātaśabdē ādērvarṇasya cakārō bhavati</s>
             <list type="forms" xml:lang="pra-Latn">
@@ -1371,7 +1367,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="34">
-          <quote type="basetext"><ab type="sūtra" n="34">kubjē khaḥ</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="34">kubjē khaḥ</ab></quote>
           <p>
             <s>kubjaśabdē ādēvarṇasya khakārō bhavati</s>
             <list type="forms" xml:lang="pra-Latn">
@@ -1380,7 +1376,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="35">
-          <quote type="basetext"><ab type="sūtra" n="35">dōlādaṇḍadaśanēṣu ḍaḥ</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="35">dōlādaṇḍadaśanēṣu ḍaḥ</ab></quote>
           <p>
             <s>ēṣu ādērvarṇasya ḍakārō bhavati</s>
             <list type="forms" xml:lang="pra-Latn">
@@ -1391,7 +1387,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="36">
-          <quote type="basetext"><ab type="sūtra" n="36">paruṣaparibaparisvāsu phaḥ</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="36">paruṣaparibaparisvāsu phaḥ</ab></quote>
           <p>
             <s>ētēṣvādēvarṇasya phakārō bhavati</s>
             <list type="forms" xml:lang="pra-Latn">
@@ -1402,7 +1398,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="37">
-          <quote type="basetext"><ab type="sūtra" n="37">panasē ’pi </ab>௧</quote>
+          <quote type="base-text"><ab type="sūtra" n="37">panasē ’pi </ab>௧</quote>
           <p>
             <s>panasaśabdē ’pi pakārasya phakārō bhavati</s>
             <list type="forms" xml:lang="pra-Latn">
@@ -1412,7 +1408,7 @@
 	  <pb n="37"/>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="38">
-          <quote type="basetext"><ab type="sūtra" n="38">visinyāṁ bhaḥ</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="38">visinyāṁ bhaḥ</ab></quote>
           <p>
             <s>visinīśabdē ādēvarṇasya bhakārō bhavati</s>
             <list type="forms" xml:lang="pra-Latn">
@@ -1425,7 +1421,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="39">
-          <quote type="basetext"><ab type="sūtra" n="39">manmathē kaḥ</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="39">manmathē kaḥ</ab></quote>
           <p>
             <s>manmathaśabdē ādērvarṇasya vakārō bhavati</s>
             <list type="forms" xml:lang="pra-Latn">
@@ -1434,7 +1430,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="40">
-          <quote type="basetext"><ab type="sūtra" n="40">lāhalē ṇaḥ</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="40">lāhalē ṇaḥ</ab></quote>
           <p>
             <s>lāhalaśabdē ādērvarṇasya ṇakārō bhavati</s>
             <list type="forms" xml:lang="pra-Latn">
@@ -1443,7 +1439,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="41">
-          <quote type="basetext"><ab type="sūtra" n="41">ṣaṭmāvakasaptaparṇānāṁ chaḥ</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="41">ṣaṭmāvakasaptaparṇānāṁ chaḥ</ab></quote>
           <p>
             <s>ētēṣāmādēvarṇasya chakārō bhavati</s>
             <list type="forms" xml:lang="pra-Latn">
@@ -1461,7 +1457,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="42">
-          <quote type="basetext"><ab type="sūtra" n="42">nō ṇaḥ sarvatra</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="42">nō ṇaḥ sarvatra</ab></quote>
           <p>
             <s>ādēriti nivr̥ttam</s>
             <s>sarvatra nakārasya ṇakārō bhavati</s>
@@ -1475,7 +1471,7 @@
 	  <pb n="38"/>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="43">
-          <quote type="basetext"><ab type="sūtra" n="43">śapōḥ saḥ</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="43">śapōḥ saḥ</ab></quote>
           <p>
             <s>sarvatra śaṁkāraṣakārayōḥ sakārō bhavati</s>
 	    <s>śasya</s>
@@ -1493,7 +1489,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="44">
-          <quote type="basetext"><ab type="sūtra" n="44">daśādiṣu haḥ</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="44">daśādiṣu haḥ</ab></quote>
           <p>
             <s>daśa ityēvamādipu śakārasya hakārō bhavati</s>
             <list type="forms" xml:lang="pra-Latn">
@@ -1505,7 +1501,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="45">
-          <quote type="basetext"><ab type="sūtra" n="45">saṁjñāyāṁ vā</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="45">saṁjñāyāṁ vā</ab></quote>
           <p>
             <s>saṁjñāyāṁ gamyamānāyāṁ daśaśabdē śasya hatvaṁ vā bhavati</s>
             <list type="forms" xml:lang="pra-Latn">
@@ -1516,7 +1512,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="46">
-          <quote type="basetext"><ab type="sūtra" n="46">divasa sasya</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="46">divasa sasya</ab></quote>
           <p>
             <s>divasaśabdē sakārasya hakārō bhavati</s>
             <list type="forms" xml:lang="pra-Latn">
@@ -1525,7 +1521,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="47">
-          <quote type="basetext"><ab type="sūtra" n="47">snuṣāyāṁ ṇḍaḥ</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="47">snuṣāyāṁ ṇḍaḥ</ab></quote>
           <p>
             <s>snuṣāśabdē ṣakārasya ṇhakārō bhavati</s>
             <list type="forms" xml:lang="pra-Latn">
@@ -1539,7 +1535,7 @@
       <div type="paricchēdaḥ" n="3">
 	<head>atha tr̥tīyaḥ paricchēdaḥ</head>
         <div type="sūtra" n="1">
-          <quote type="basetext"><ab type="sūtra" n="1">upari lōpaḥ kagaḍatadapaṣasām</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="1">upari lōpaḥ kagaḍatadapaṣasām</ab></quote>
           <p>
             <s>kādīnāmaṣṭānāṁ yuktasyōpariṣṭhatānāṁ lōpō bhavati</s>
 	    <s>kasya tāvat</s>
@@ -1602,7 +1598,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="2">
-          <quote type="basetext"><ab type="sūtra" n="2">adhō manayām</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="2">adhō manayām</ab></quote>
           <p>
             <s>makāranakārayakārāṇāṁ yuktasyādhaḥsthitānāṁ lōpō bhavati</s>
             <s>masya</s>
@@ -1624,7 +1620,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="3">
-          <quote type="basetext"><ab type="sūtra" n="3">marvatra lavarām</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="3">marvatra lavarām</ab></quote>
           <p>
             <s>lakāravakārarēphāṇāṁ yuktasyōparyadhaḥsthitānāṁ lōpō bhavati</s>
 	    <s>lasya</s>
@@ -1655,7 +1651,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="4">
-          <quote type="basetext"><ab type="sūtra" n="4">2 rō vā</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="4">2 rō vā</ab></quote>
           <p>
             <s>draśabdē rēphasya vā lōpō bhavati</s>
             <list type="forms" xml:lang="pra-Latn">
@@ -1670,7 +1666,7 @@
 	  <pb n="40"/>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="5">
-          <quote type="basetext"><ab type="sūtra" n="5">sarvajñatulyēṣu naḥ</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="5">sarvajñatulyēṣu naḥ</ab></quote>
           <p>
             <s>sarvajñatulyēṣu kārasya lōpō bhavati</s>
             <list type="forms" xml:lang="pra-Latn">
@@ -1681,7 +1677,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="6">
-          <quote type="basetext"><ab type="sūtra" n="6">śmaśruśmaśānayōrādēḥ</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="6">śmaśruśmaśānayōrādēḥ</ab></quote>
           <p>
             <s>śmaśruśmaśānayōrādēvarṇasya lōpō bhavati</s>
             <list type="forms" xml:lang="pra-Latn">
@@ -1691,7 +1687,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="7">
-          <quote type="basetext"><ab type="sūtra" n="7">madhyāhanē hasya</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="7">madhyāhanē hasya</ab></quote>
           <p>
             <s>madhyāhnaśabdē hakārasya lōpō bhavati</s>
             <list type="forms" xml:lang="pra-Latn">
@@ -1700,7 +1696,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="8">
-          <quote type="basetext"><ab type="sūtra" n="8">nahalahmēṣu nalamā sthitirūvam</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="8">nahalahmēṣu nalamā sthitirūvam</ab></quote>
           <p>
             <s>ha ha hma ityētēṣvadhaḥsthitānāṁ nakāralakāramakārāṇāṁ sthitirūrdhvamupariṣṭādbhavati</s>
 	    <s>hrasya</s>
@@ -1720,7 +1716,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="9">
-          <quote type="basetext"><ab type="sūtra" n="9">yuktasya</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="9">yuktasya</ab></quote>
           <p>
             <s>adhikārō ’yam</s>
             <s>ā paricchēdasamāptēḥ</s>
@@ -1732,7 +1728,7 @@
 	  <pb n="41"/>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="10">
-          <quote type="basetext"><ab type="sūtra" n="10">ṣṭasya ṭhaḥ</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="10">ṣṭasya ṭhaḥ</ab></quote>
           <p>
             <s>ṣṭa ityētasya yuktasya ṭhakārō bhavati</s>
             <list type="forms" xml:lang="pra-Latn">
@@ -1742,7 +1738,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="11">
-          <quote type="basetext"><ab type="sūtra" n="11">asthini</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="11">asthini</ab></quote>
           <p>
             <s>asthiśabdē yuktasya ṭhakārō bhavati</s>
             <list type="forms" xml:lang="pra-Latn">
@@ -1751,7 +1747,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="12">
-          <quote type="basetext"><ab type="sūtra" n="12">stasya thaḥ</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="12">stasya thaḥ</ab></quote>
           <p>
             <s>staśabdasya thakārō bhavati</s>
             <s>uparilōpāpavādaḥ</s>
@@ -1772,7 +1768,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="13">
-          <quote type="basetext"><ab type="sūtra" n="13">na stam</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="13">na stam</ab></quote>
           <p>
             <s>mtambaśabdē stakārasya thakārō na bhavati</s>
             <list type="forms" xml:lang="pra-Latn">
@@ -1781,7 +1777,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="14">
-          <quote type="basetext"><ab type="sūtra" n="14">stambhē khaḥ</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="14">stambhē khaḥ</ab></quote>
           <p>
             <s>stambhaśabdē stakārasya svakārō bhavati</s>
             <list type="forms" xml:lang="pra-Latn">
@@ -1790,7 +1786,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="15">
-          <quote type="basetext"><ab type="sūtra" n="15">sthāṇāvaharē</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="15">sthāṇāvaharē</ab></quote>
           <p>
             <s>sthāṇuśabdē yuktasya svakārō bhavati</s>
             <s>aharē harāmidhēyē nabhavati</s>
@@ -1806,7 +1802,7 @@
 	  <pb n="42"/>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="16">
-          <quote type="basetext"><ab type="sūtra" n="16">sphōṭakē</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="16">sphōṭakē</ab></quote>
           <p>
             <s>sphōṭakaśabdē yuktasya khakārō bhavati</s>
             <list type="forms" xml:lang="pra-Latn">
@@ -1815,7 +1811,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="17">
-          <quote type="basetext"><ab type="sūtra" n="17">ryaśayyābhimanyuṣu naḥ</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="17">ryaśayyābhimanyuṣu naḥ</ab></quote>
           <p>
             <s>ya ityasya śayyābhimanyuśabdayōśca yuktasya jjakārō bhavati</s>
             <list type="forms" xml:lang="pra-Latn">
@@ -1826,7 +1822,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="18">
-          <quote type="basetext"><ab type="sūtra" n="18">tūryadhairyasaundaryāścaryaparyantēṣu raḥ</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="18">tūryadhairyasaundaryāścaryaparyantēṣu raḥ</ab></quote>
           <p>
             <s>ētēṣu śabdēṣu yasya rēphō bhavati</s>
             <list type="forms" xml:lang="pra-Latn">
@@ -1839,7 +1835,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="19">
-          <quote type="basetext"><ab type="sūtra" n="19">sūryē vā</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="19">sūryē vā</ab></quote>
           <p>
             <s>sūryaśabdē ryakārasya rēphādēśō bhavati vā</s>
             <list type="forms" xml:lang="pra-Latn">
@@ -1849,7 +1845,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="20">
-          <quote type="basetext"><ab type="sūtra" n="20">cauryasamēṣu riaṁ</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="20">cauryasamēṣu riaṁ</ab></quote>
           <p>
             <s>cauryasamēṣu śabdēṣu yasya riaṁ ityādēśō bhavati</s>
             <list type="forms" xml:lang="pra-Latn">
@@ -1866,7 +1862,7 @@
 	  </p>
 	</div><!-- sūtra !-->
         <div type="sūtra" n="21">
-          <quote type="basetext"><ab type="sūtra" n="21">paryastaparyāṇasāṁkumāryēṣu laḥ</ab></quote>
+          <quote type="base-text"><ab type="sūtra" n="21">paryastaparyāṇasāṁkumāryēṣu laḥ</ab></quote>
           <p>
             <s>ēṣu śabdēṣu yasya lakārō bhavati</s>
             <list type="forms" xml:lang="pra-Latn">
@@ -1877,7 +1873,7 @@
             </p><pb n="43"/>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="22">
-            <quote type="basetext"><ab type="sūtra" n="22">tasya ṭaḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="22">tasya ṭaḥ</ab></quote>
             <p>
               <s>ta ityētasya ṭakārō bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -1888,7 +1884,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="23">
-            <quote type="basetext"><ab type="sūtra" n="23">pattana</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="23">pattana</ab></quote>
             <p>
               <s>pattanaśabdē yuktasya ṭakārō bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -1897,7 +1893,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="24">
-            <quote type="basetext"><ab type="sūtra" n="24">na dhādiṣu</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="24">na dhādiṣu</ab></quote>
             <p>
               <s>dhūrta ityēvamādiṣu ta ityētasya ṭakārō na bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -1929,7 +1925,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="25">
-            <quote type="basetext"><ab type="sūtra" n="25">garnē ḍaḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="25">garnē ḍaḥ</ab></quote>
             <p>
               <s>gataśabdē tasya ḍakārō bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -1938,7 +1934,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="26">
-            <quote type="basetext"><ab type="sūtra" n="26">gardabhasaṁmardavitardivicchardipu rdasya</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="26">gardabhasaṁmardavitardivicchardipu rdasya</ab></quote>
             <p>
               <s>ētēṣu rdasya ḍō bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -1950,7 +1946,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="27">
-            <quote type="basetext"><ab type="sūtra" n="27">tyathyadyāṁ cachajāḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="27">tyathyadyāṁ cachajāḥ</ab></quote>
             <p>
               <s>tya thya dya ityētēṣāṁ ca cha ja ityatē yathāsaṁkhyaṁ bhavanti</s>
 	      <s>tyasya</s>
@@ -1982,7 +1978,7 @@
 	    <pb n="44"/>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="28">
-            <quote type="basetext"><ab type="sūtra" n="28">dhyayōjhaḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="28">dhyayōjhaḥ</ab></quote>
             <p>
               <s>dhya hya ityētayōjhakārō bhavati</s>
 	      <s>dhyasya</s>
@@ -2004,7 +2000,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="29">
-            <quote type="basetext"><ab type="sūtra" n="29">kaskakṣāṁ khaḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="29">kaskakṣāṁ khaḥ</ab></quote>
             <p>
               <s>kaskakṣā khakārō bhavati</s>
 	      <s>kasya</s>
@@ -2025,7 +2021,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="30">
-            <quote type="basetext"><ab type="sūtra" n="30">akṣyādiṣu chaḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="30">akṣyādiṣu chaḥ</ab></quote>
             <p>
               <s>akṣi ityēvamādiṣu kṣakārasya chakārō bhavatiḥ</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -2072,7 +2068,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="31">
-            <quote type="basetext"><ab type="sūtra" n="31">amāvr̥kṣakṣaṇēṣu vā</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="31">amāvr̥kṣakṣaṇēṣu vā</ab></quote>
             <p>
               <s>ētēṣu kṣakārasya chakārō bhavati vā</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -2087,7 +2083,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="32">
-            <quote type="basetext"><ab type="sūtra" n="32">mapakṣmavismayēṣu mhaḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="32">mapakṣmavismayēṣu mhaḥ</ab></quote>
             <p>
               <s>dhama ityētasya pakṣmavismayaśabdayōśca yuktasya mhakārō bhavati</s>
 	      <s>dhmasya</s>
@@ -2106,7 +2102,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
 	  <div type="sūtra" n="33">
-            <quote type="basetext"><ab type="sūtra" n="33">hanasnaṣpakṣṇaśnāṁ pahaḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="33">hanasnaṣpakṣṇaśnāṁ pahaḥ</ab></quote>
             <p>
               <s>hrādīnāṁ chaha ityayamādēśō bhavati</s>
 	      <s>hrasya</s>
@@ -2149,7 +2145,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
 	  <div type="sūtra" n="34">
-            <quote type="basetext"><ab type="sūtra" n="34">cihanē nyaḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="34">cihanē nyaḥ</ab></quote>
             <p>
               <s>cihnaśabdē yuktasya ndha ityayamādaśō bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -2158,7 +2154,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="35">
-            <quote type="basetext"><ab type="sūtra" n="35">ṣpasya phaḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="35">ṣpasya phaḥ</ab></quote>
             <p>
               <s>ṣpa ityētasya pha ityayamādēśō bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -2174,7 +2170,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="36">
-            <quote type="basetext"><ab type="sūtra" n="36">spasya sarvatra sthitasya</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="36">spasya sarvatra sthitasya</ab></quote>
             <p>
               <s>sa ityētasya sarvatra sthitasya pha ityayamādēśō bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -2189,7 +2185,7 @@
 	    <pb n="46"/>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="37">
-            <quote type="basetext"><ab type="sūtra" n="37">si ca</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="37">si ca</ab></quote>
             <p>
               <s>spasya kvacit si ityayamādēśō bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -2201,7 +2197,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="38">
-            <quote type="basetext"><ab type="sūtra" n="38">vāṣpē ’śruṇi haḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="38">vāṣpē ’śruṇi haḥ</ab></quote>
             <p>
               <s>bāṣpaśabdē ṣya ityētasya hakārō bhavati aśruṇi vācyē</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -2217,7 +2213,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="39">
-            <quote type="basetext"><ab type="sūtra" n="39">kārṣāpaṇē</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="39">kārṣāpaṇē</ab></quote>
             <p>
               <s>kārṣāpaṇaśabdē yuktasya hakārō bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -2226,7 +2222,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="40">
-            <quote type="basetext"><ab type="sūtra" n="40">ścatsapsāṁ chaḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="40">ścatsapsāṁ chaḥ</ab></quote>
             <p>
               <s>ētēṣāṁ chakārō bhavati</s>
 	      <s>ścasya</s>
@@ -2255,7 +2251,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="41">
-            <quote type="basetext"><ab type="sūtra" n="41">॥ vr̥ścikē ñchaḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="41">॥ vr̥ścikē ñchaḥ</ab></quote>
             <p>
               <s>vr̥ścikaśabdē śvakārasya ñcha ityayamādēśō bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -2264,7 +2260,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="42">
-            <quote type="basetext"><ab type="sūtra" n="42">nōtsukōtsavayōḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="42">nōtsukōtsavayōḥ</ab></quote>
             <p>
               <s>utsuka utsava ityētayōḥ tsa ityētasya chakārō na bhavati</s>
               <s>śvatsapsāṁ cha iti prāptē pratiṣidhyatē</s>
@@ -2276,7 +2272,7 @@
 	    <pb n="47"/>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="43">
-            <quote type="basetext"><ab type="sūtra" n="43">nmō maḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="43">nmō maḥ</ab></quote>
             <p>
               <s>nma ityētasya ma ityayamādēśō bhavati</s>
               <s>adhōlōpē prāptē</s>
@@ -2291,7 +2287,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="44">
-            <quote type="basetext"><ab type="sūtra" n="44">mnajñapañcāśatpañcadaśēṣu ṇaḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="44">mnajñapañcāśatpañcadaśēṣu ṇaḥ</ab></quote>
             <p>
               <s>mna jña ityētayōḥ pañcāśat pañcadaśa śabdayōśca yuktasya ṇakārō bhavati</s>
 	      <s>mnasya</s>
@@ -2315,7 +2311,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="45">
-            <quote type="basetext"><ab type="sūtra" n="45">tālavr̥ntē ṇṭhaḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="45">tālavr̥ntē ṇṭhaḥ</ab></quote>
             <p>
               <s>tālavr̥ntē yuktasya ṇṭa ityayamādēśō bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -2324,7 +2320,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="46">
-            <quote type="basetext"><ab type="sūtra" n="46">mindipālē ṇḍaḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="46">mindipālē ṇḍaḥ</ab></quote>
             <p>
               <s>bhindipālaśabda yuktasya ṇḍa ityayamādēśō bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -2333,7 +2329,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="47">
-            <quote type="basetext"><ab type="sūtra" n="47">vihavalē bhahō vā</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="47">vihavalē bhahō vā</ab></quote>
             <p>
               <s>vihvalaśabdē yuktasya bhakārahakārau bhavatō vā</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -2343,7 +2339,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="48">
-            <quote type="basetext"><ab type="sūtra" n="48">ātmani paḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="48">ātmani paḥ</ab></quote>
             <p>
               <s>ātmaśabdē yuktasya pakārō bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -2353,7 +2349,7 @@
 	    <pb n="48"/>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="49">
-            <quote type="basetext"><ab type="sūtra" n="49">kmasya</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="49">kmasya</ab></quote>
             <p>
               <s>kma ityētasya pakārō bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -2364,7 +2360,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="50">
-            <quote type="basetext"><ab type="sūtra" n="50">śēṣādēśayōditvamanādō</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="50">śēṣādēśayōditvamanādō</ab></quote>
             <p>
               <s>yuktasya yau śēṣādēśabhūtō tayōranādau vartamānayōtviṁ bhavati</s>
 	      <s>śēṣasya tāvat</s>
@@ -2397,7 +2393,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="51">
-            <quote type="basetext"><ab type="sūtra" n="51">vargēṣu yujaḥ pūrvaḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="51">vargēṣu yujaḥ pūrvaḥ</ab></quote>
             <p>
               <s>yuktasya yau śēṣādēśāvanādibhūtau tayōvitvē ’pi vihitē adha ūrbēna yō vargēṣu varṇō dvitīyaścaturthō vā vihitastasya pūrvaḥ prathamastr̥tīyō vā bhavati</s>
 	      <s>vargēṣu yugmasya dvitīyasya prathamaścaturthasya tr̥tīyō dvitvēna vidhīyatē</s>
@@ -2445,7 +2441,7 @@
 	    </p>
           </div><!-- sūtra !-->
           <div type="sūtra" n="52">
-            <quote type="basetext"><ab type="sūtra" n="52">nīḍādiṣu</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="52">nīḍādiṣu</ab></quote>
             <p>
               <s>nīḍa ityēvamādiṣu anādau vartamānasya dvitvaṁ bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -2472,7 +2468,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="53">
-            <quote type="basetext"><ab type="sūtra" n="53">āmratāmrayōrvaḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="53">āmratāmrayōrvaḥ</ab></quote>
             <p>
               <s>āmra tāmra ityētayōīitvēna bakārō bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -2482,7 +2478,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="54">
-            <quote type="basetext"><ab type="sūtra" n="54">na rahōḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="54">na rahōḥ</ab></quote>
             <p>
               <s>rēphēhakārayōtviṁ na bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -2501,7 +2497,7 @@
 	    <pb n="50"/>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="55">
-            <quote type="basetext"><ab type="sūtra" n="55">āṅō jñasya</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="55">āṅō jñasya</ab></quote>
             <p>
               <s>āṅa uttarasya jña ityētasyādēśasya dvitvaṁ na bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -2522,7 +2518,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="56">
-            <quote type="basetext"><ab type="sūtra" n="56">na vidupara</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="56">na vidupara</ab></quote>
             <p>
               <s>anusvāraparē dvitvaṁ na bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -2536,7 +2532,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="57">
-            <quote type="basetext"><ab type="sūtra" n="57">samāsē vā</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="57">samāsē vā</ab></quote>
             <p>
               <s>samāsē śēṣādaśayōrvā dvitvaṁ bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -2558,7 +2554,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="58">
-            <quote type="basetext"><ab type="sūtra" n="58">sēvādiṣu ca</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="58">sēvādiṣu ca</ab></quote>
             <p>
               <s>sēvā ityēvamādiṣu cānādau vā dvitvaṁ bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -2607,7 +2603,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="59">
-            <quote type="basetext"><ab type="sūtra" n="59">viprakarṣaḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="59">viprakarṣaḥ</ab></quote>
             <p>
               <s>adhikārō ’yam</s>
               <s>ā paricchēdasamānaḥ</s>
@@ -2615,7 +2611,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="60">
-            <quote type="basetext"><ab type="sūtra" n="60">kliṣṭaśliṣṭaratnakriyāśāṅgēṣu tatsvaravanpūrvasya</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="60">kliṣṭaśliṣṭaratnakriyāśāṅgēṣu tatsvaravanpūrvasya</ab></quote>
             <p>
               <s>kliṣṭādiṣu yuktasya viprakarṣō bhavati</s>
               <s>viprakr̥ṣṭasya ca yaḥ pūrvō varṇō nirarthastasya tatsvaratā bhavati</s>
@@ -2631,7 +2627,7 @@
 	    <pb n="52"/>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="61">
-            <quote type="basetext"><ab type="sūtra" n="61">kr̥ṣṇē vā</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="61">kr̥ṣṇē vā</ab></quote>
             <p>
               <s>kr̥ṣṇaśabdē yuktasya vā viprakarṣō bhavati</s>
               <s>pūrvasya ca tatsvaratā</s>
@@ -2645,7 +2641,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="62">
-            <quote type="basetext"><ab type="sūtra" n="62">śrīhīkrītaklāntakēśamlānasvamasparśaharṣāīgaṣu</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="62">śrīhīkrītaklāntakēśamlānasvamasparśaharṣāīgaṣu</ab></quote>
             <p>
               <s>ēṣu yuktasya viprakarṣō bhavati</s>
               <s>pūrvasya ikāraḥ</s>
@@ -2679,7 +2675,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="63">
-            <quote type="basetext"><ab type="sūtra" n="63">amāślāghayōḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="63">amāślāghayōḥ</ab></quote>
             <p>
               <s>kṣmā ślāghā ityētayōryuktasya viprakarṣō bhavati</s>
               <s>pūrvasya akārastasvaratā ca bhavati</s>
@@ -2690,7 +2686,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="64">
-            <quote type="basetext"><ab type="sūtra" n="64">lēhē vā</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="64">lēhē vā</ab></quote>
             <p>
               <s>snēhaśabdē yuktasya viprakarṣō vā bhavati</s>
               <s>pūrvasya ca akārastasvaratā ca bhavati</s>
@@ -2702,7 +2698,7 @@
 	    <pb n="53"/>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="65">
-            <quote type="basetext"><ab type="sūtra" n="65">uḥ padmatanvīsamēṣu</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="65">uḥ padmatanvīsamēṣu</ab></quote>
             <p>
               <s>padmaśabdē tanvī ityēvaṁsamēṣu ca yuktasya viprakarṣō bhavati</s>
               <s>pūrvasya ca ukārastatsvaratā ca bhavati</s>
@@ -2714,7 +2710,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="66">
-            <quote type="basetext"><ab type="sūtra" n="66">jyāyāmīt</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="66">jyāyāmīt</ab></quote>
             <p>
               <s>jyāśabdē yuktasya viprakarṣō bhavati</s>
               <s>pūrvasya ca īkārastatsvaratā ca</s>
@@ -2730,7 +2726,7 @@
 	<div type="paricchēdaḥ" n="4">
 	  <head>atha caturthaḥ paricchēdaḥ</head>
           <div type="sūtra" n="4.1">
-            <quote type="basetext"><ab type="sūtra" n="1">maṁdhāvacāmalōpaviśēṣā bahulam</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="1">maṁdhāvacāmalōpaviśēṣā bahulam</ab></quote>
             <p>
               <s>acāmiti pratyāhāragrahaṇam</s>
               <s>ajiti ca</s>
@@ -2769,7 +2765,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="4.2">
-            <quote type="basetext"><ab type="sūtra" n="2">udambarē dōlāpaḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="2">udambarē dōlāpaḥ</ab></quote>
             <p>
               <s>udumbaraśabda du ityētasya lōpō bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -2778,7 +2774,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="4.3">
-            <quote type="basetext"><ab type="sūtra" n="3">kālāyasē yasya vā</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="3">kālāyasē yasya vā</ab></quote>
             <p>
               <s>kālāyasaśabda yasya vā lōpō bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -2787,7 +2783,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
 	  <div type="sūtra" n="4.4">
-            <quote type="basetext"><ab type="sūtra" n="4">bhājanē jasya</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="4">bhājanē jasya</ab></quote>
             <p>
               <s>bhājanaśabdē jakārasya lōpō vā bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -2796,7 +2792,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="5">
-            <quote type="basetext"><ab type="sūtra" n="5">yāvadādiṣu vasya</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="5">yāvadādiṣu vasya</ab></quote>
             <p>
               <s>yāvadityēvamādiṣu vakārasya vā lōpō bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -2824,7 +2820,7 @@
 	    <pb n="55"/>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="6">
-            <quote type="basetext"><ab type="sūtra" n="6">antyasya halaḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="6">antyasya halaḥ</ab></quote>
             <p>
               <s>vati nivr̥ttam</s>
               <s>śabdānāṁ yō ’ntyō hal tasya lōpō bhavati</s>
@@ -2847,7 +2843,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="7">
-            <quote type="basetext"><ab type="sūtra" n="7">striyāmāt</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="7">striyāmāt</ab></quote>
             <p>
               <s>striyāṁ vartamānasyāntyahala ākārō bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -2863,7 +2859,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="8">
-            <quote type="basetext"><ab type="sūtra" n="8">garā</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="8">garā</ab></quote>
             <p>
               <s>striyāmantyasya halō rēphasya rā ityayamādēśō bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -2873,7 +2869,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="9">
-            <quote type="basetext"><ab type="sūtra" n="9">na vidyuti</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="9">na vidyuti</ab></quote>
             <p>
               <s>vidyucchabdē ākārō na bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -2882,7 +2878,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="10">
-            <quote type="basetext"><ab type="sūtra" n="10">śaradō daḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="10">śaradō daḥ</ab></quote>
             <p>
               <s>śaracchabdasyāntyahalō dō bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -2892,7 +2888,7 @@
 	    <pb n="56"/>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="11">
-            <quote type="basetext"><ab type="sūtra" n="11">dikprāvr̥pōḥ saḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="11">dikprāvr̥pōḥ saḥ</ab></quote>
             <p>
               <s>dikśabdasyāntyahalaḥ prāvr̥ṭaśabdasyāpi sakārō bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -2902,7 +2898,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="12">
-            <quote type="basetext"><ab type="sūtra" n="12">mō binduḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="12">mō binduḥ</ab></quote>
             <p>
               <s>antyasya halō makārasya bindurbhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -2917,7 +2913,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="13">
-            <quote type="basetext"><ab type="sūtra" n="13">aci maśca</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="13">aci maśca</ab></quote>
             <p>
               <s>aci paratō mō bhavati vā</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -2927,7 +2923,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="14">
-            <quote type="basetext"><ab type="sūtra" n="14">najaōīli</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="14">najaōīli</ab></quote>
             <p>
               <s>nakārajakārayōrhali paratō bindurbhavati makāraś ca</s>
 	      <s>nasya</s>
@@ -2943,7 +2939,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="15">
-            <quote type="basetext"><ab type="sūtra" n="15">vakrādipu</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="15">vakrādipu</ab></quote>
             <p>
               <s>vakrādiṣu śabdēṣu bindur āgamō bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -2983,7 +2979,7 @@
 	    <pb n="57"/>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="16">
-            <quote type="basetext"><ab type="sūtra" n="16">māṁsādiṣu vā</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="16">māṁsādiṣu vā</ab></quote>
             <p>
               <s>māṁsādiṣu śabdēṣu vā vinduḥ prayōktavyaḥ</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -2998,7 +2994,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="17">
-            <quote type="basetext"><ab type="sūtra" n="17">yayi tadvargāntaḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="17">yayi tadvargāntaḥ</ab></quote>
             <p>
               <s>yayi paratō bindustadvargāntō vā bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -3025,7 +3021,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="18">
-            <quote type="basetext"><ab type="sūtra" n="18">nasāntaprāvr̥daśaradaḥ puṁsi</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="18">nasāntaprāvr̥daśaradaḥ puṁsi</ab></quote>
             <p>
               <s>nakārāntāḥ sakārāntāśca prāvr̥ṭaśaradau ca puṁsi prayōktavyāḥ</s>
 	      <s>nāntāḥ</s>
@@ -3046,7 +3042,7 @@
 	    <pb n="58"/>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="19">
-            <quote type="basetext"><ab type="sūtra" n="19">na śirōnabhasī</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="19">na śirōnabhasī</ab></quote>
             <p>
               <s>śiras nabhasa ityētō na puṁsi prayōktavyau</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -3056,7 +3052,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="20">
-            <quote type="basetext"><ab type="sūtra" n="20">pr̥ṣṭhābhipraśnāḥ striyāṁ vā </ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="20">pr̥ṣṭhābhipraśnāḥ striyāṁ vā </ab></quote>
             <p>
               <s>ētē striyāṁ vā prayōktavyāḥ</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -3072,7 +3068,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="21">
-            <quote type="basetext"><ab type="sūtra" n="21">ōḍhavāpayōḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="21">ōḍhavāpayōḥ</ab></quote>
             <p>
               <s>ava apa ityētayōrupasargayārvā ōtvaṁ bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -3086,7 +3082,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="22">
-            <quote type="basetext"><ab type="sūtra" n="22">talatvayōdāttaṇau</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="22">talatvayōdāttaṇau</ab></quote>
             <p>
               <s>tal tva ityētayōḥ pratyayayōryathāsaṁkhyaṁ dā ttaṇa ityētāvādēśī staḥ</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -3098,7 +3094,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="23">
-            <quote type="basetext"><ab type="sūtra" n="23">॥ ktva ūṇaḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="23">॥ ktva ūṇaḥ</ab></quote>
             <p>
               <s>ktvāpratyayasya ūṇa ityayamādēśō bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -3117,7 +3113,7 @@
 	    <pb n="59"/>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="24">
-            <quote type="basetext"><ab type="sūtra" n="24">tr̥ṇa iraḥ śīla</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="24">tr̥ṇa iraḥ śīla</ab></quote>
             <p>
               <s>śīlē yastr̥npratyayō vihitamtasya ira ityayamādēśō bhavati</s>
               <s>bhramaṇaśīlō bhamirō</s>
@@ -3125,7 +3121,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="25">
-            <quote type="basetext"><ab type="sūtra" n="25">ālvillōllālavantēntā matupaḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="25">ālvillōllālavantēntā matupaḥ</ab></quote>
             <p>
               <s>ālu illa ulla āla vanta inta ityēta ādēśā manupaḥ sthānē bhavanti</s>
 	      <s>ālus tāvat</s>
@@ -3158,7 +3154,7 @@
 		<item>pāṇāintō</item>
 	      </list>
 	      <s>yathādarśanam ētē prayōktavyāḥ na sarvē sarvatra</s>
-	      <list type="equivalents">
+	      <list type="equivalences">
 		<item>īpāvat</item>
 		<item>nidrāvat</item>
 		<item>vikāravat</item>
@@ -3204,7 +3200,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="26">
-            <quote type="basetext"><ab type="sūtra" n="26">vidyutpītābhyāṁ laḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="26">vidyutpītābhyāṁ laḥ</ab></quote>
             <p>
               <s>vidyut-pīta-śabdābhyāṁ parataḥ svārthē lapratyayō bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -3216,7 +3212,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="27">
-            <quote type="basetext"><ab type="sūtra" n="27">[vr̥ndē vō raḥ]</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="27">[vr̥ndē vō raḥ]</ab></quote>
             <p>
               <s>vr̥ndaśabdē vakārātparaḥ svārthē rēphō vā prayōktavyaḥ</s>
 	      <list type="forms" xml:lang="pra-Latn">
@@ -3226,7 +3222,7 @@
 	    </p>
           </div><!-- sūtra !-->
           <div type="sūtra" n="28">
-            <quote type="basetext"><ab type="sūtra" n="28">karēṇyāṁ raṇōḥ sthitiparivr̥ttiḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="28">karēṇyāṁ raṇōḥ sthitiparivr̥ttiḥ</ab></quote>
             <p>
               <s>karēṇuśabdē rēphaṇakārayōḥ sthitiparivr̥ttirbhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -3240,7 +3236,7 @@
 	    <pb n="61"/>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="29">
-            <quote type="basetext"><ab type="sūtra" n="29">ālānē lanōḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="29">ālānē lanōḥ</ab></quote>
             <p>
               <s>ālānaśabdē lakāranakārayōhalmātrayōḥ sthitiparivr̥ttirbhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -3249,7 +3245,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="30">
-            <quote type="basetext"><ab type="sūtra" n="30">br̥haspatau bahōrbhaau</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="30">br̥haspatau bahōrbhaau</ab></quote>
             <p>
               <s>br̥haspatiśabdē bakārahakārayōryathāsaṁkhyaṁ bhakāraakārī bhavataḥ</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -3258,7 +3254,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="31">
-            <quote type="basetext"><ab type="sūtra" n="31">malinē linōrilō vā</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="31">malinē linōrilō vā</ab></quote>
             <p>
               <s>malinaśabdē likāranakārayōryathāsaṁkhyāmakāralakārau vā bhavataḥ</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -3268,7 +3264,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="32">
-            <quote type="basetext"><ab type="sūtra" n="32">gr̥hē gharō ’patau</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="32">gr̥hē gharō ’patau</ab></quote>
             <p>
               <s>gr̥haśabdē ghara ityayamādēśō bhavati</s>
               <s>patiśabdē paratō na bhavati</s>
@@ -3282,7 +3278,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="33">
-            <quote type="basetext"><ab type="sūtra" n="33">dāḍāiyō bahulam</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="33">dāḍāiyō bahulam</ab></quote>
             <p>
               <s>dāḍhā ityēvamādayaḥ śabdā bahulaṁ nipātyantē daṁṣṭrādiṣu</s>
 	      <list>
@@ -3311,7 +3307,7 @@
 	<div type="paricchēdaḥ" n="5">
 	  <head>atha pañcamaḥ paricchēdaḥ</head>
 	  <div type="sūtra" n="1">
-            <quote type="basetext"><ab type="sūtra" n="1">ata ōtsōḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="1">ata ōtsōḥ</ab></quote>
             <p>
               <s>akārāntācchabdātparasya sōḥ sthānē ōtvaṁ bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -3327,7 +3323,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="2">
-            <quote type="basetext"><ab type="sūtra" n="2">jaśśasōrlōpaḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="2">jaśśasōrlōpaḥ</ab></quote>
             <p>
               <s>ata ityanuvartatē</s>
               <s>akārāntasthānantaraṁ yau jaśśasau tayōr lōpō bhavati</s>
@@ -3349,7 +3345,7 @@
 	    <pb n="63"/>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="3">
-            <quote type="basetext"><ab type="sūtra" n="3">atō maḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="3">atō maḥ</ab></quote>
             <p>
               <s>akārāntasyānantaraṁ yō ’m dvitīyaikavacanaṁ tadakārasya lōpō bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -3359,7 +3355,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="4">
-            <quote type="basetext"><ab type="sūtra" n="4">ṭāmōrṇaḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="4">ṭāmōrṇaḥ</ab></quote>
             <p>
               <s>atō ’nantaraṁ ṭāmōmtr̥tīyaikavacanapaṣṭhībahuvacanayōrṇakārō bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -3371,7 +3367,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
 	  <div type="sūtra" n="5">
-            <quote type="basetext"><ab type="sūtra" n="5">bhisō hiṁ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="5">bhisō hiṁ</ab></quote>
             <p>
               <s>atō ’nantarasya bhisō hiṁ bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -3381,7 +3377,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="6">
-            <quote type="basetext"><ab type="sūtra" n="6">usērādōhayaḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="6">usērādōhayaḥ</ab></quote>
             <p>
               <s>atō ’nantarasya ḍasēḥ pañcamyēkavacanasya mdhānē ādō duhi ityēta ādēśā bhavanti</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -3394,7 +3390,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="7">
-            <quote type="basetext"><ab type="sūtra" n="7">bhyasō hitō suṁtō</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="7">bhyasō hitō suṁtō</ab></quote>
             <p>
               <s>atō ’nantarasya bhyasō hiṁtō muṁtō ityētāvādēśau bhavataḥ</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -3406,7 +3402,7 @@
 	    <pb n="64"/>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="8">
-            <quote type="basetext"><ab type="sūtra" n="8">ssā ḍansaḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="8">ssā ḍansaḥ</ab></quote>
             <p>
               <s>atō ’nantarasya ḍasaḥ ssa ityādēśō bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -3415,7 +3411,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="9">
-            <quote type="basetext"><ab type="sūtra" n="9">ḍaraṁmmī</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="9">ḍaraṁmmī</ab></quote>
             <p>
               <s>atō ’nantarasya ḍēḥ ē mmi ityādēśō bhavataḥ</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -3428,7 +3424,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="10">
-            <quote type="basetext"><ab type="sūtra" n="10">supaḥ suḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="10">supaḥ suḥ</ab></quote>
             <p>
               <s>atō ’nantarasya, supaḥ su ityādēśō bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -3438,7 +3434,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="11">
-            <quote type="basetext"><ab type="sūtra" n="11">jaśśasḍasyāmsu dīrghaḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="11">jaśśasḍasyāmsu dīrghaḥ</ab></quote>
             <p>
               <s>jasādiṣu paratō ’tō dīrghō bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -3459,7 +3455,7 @@
 	    <pb n="63"/>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="12">
-            <quote type="basetext"><ab type="sūtra" n="12">ē ca supyansiōḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="12">ē ca supyansiōḥ</ab></quote>
             <p>
               <s>ata akārasyatvaṁ bhavati supi paratō ḍisī varjayitvā</s>
               <s>cakārā dīrghaś ca</s>
@@ -3489,7 +3485,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="13">
-            <quote type="basetext"><ab type="sūtra" n="13">kvacid siyōlōpaḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="13">kvacid siyōlōpaḥ</ab></quote>
             <p>
               <s>atō ḍasi ḍi ityētayōḥ parataḥ kvacil lōpō bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -3503,7 +3499,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="14">
-            <quote type="basetext"><ab type="sūtra" n="14">idutōḥ śasō ṇō</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="14">idutōḥ śasō ṇō</ab></quote>
             <p>
               <s>idudantayōḥ śasō ṇō bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -3513,7 +3509,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="15">
-            <quote type="basetext"><ab type="sūtra" n="15">usō vā</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="15">usō vā</ab></quote>
             <p>
               <s>idudantayōrḍasō vā ṇō bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -3528,7 +3524,7 @@
 	    <pb n="66"/>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="16">
-            <quote type="basetext"><ab type="sūtra" n="16">jasaśca ō yatvaṁ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="16">jasaśca ō yatvaṁ</ab></quote>
             <p>
               <s>idudantayōrjasa ōkārādēśō bhavati</s>
               <s>idutōśca īūtvaṁ vā</s>
@@ -3542,7 +3538,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="17">
-            <quote type="basetext"><ab type="sūtra" n="17">ṭāṇā</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="17">ṭāṇā</ab></quote>
             <p>
               <s>idudantayōṣṭāvibhaktēḥ ṇā ityayamādēśō bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -3552,7 +3548,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="18">
-            <quote type="basetext"><ab type="sūtra" n="18">su-bhis-supsu dīvaḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="18">su-bhis-supsu dīvaḥ</ab></quote>
             <p>
               <s>id-ud-antayōḥ su bhis sup ityētēṣu dī? bhavati</s>
 	      <s>su</s>  
@@ -3573,7 +3569,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="19">
-            <quote type="basetext"><ab type="sūtra" n="19">striyāṁ śasa udōtō</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="19">striyāṁ śasa udōtō</ab></quote>
             <p>
               <s>striyāṁ vartamānasya śasa ut ōt ityatāvādēśau bhavataḥ</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -3584,7 +3580,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="20">
-            <quote type="basetext"><ab type="sūtra" n="20">jasō vā</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="20">jasō vā</ab></quote>
             <p>
               <s>jasaḥ striyāṁ utōt ityētāvādēśauvābhavataḥ</s>
 	      <s>pakṣē adantavat</s>
@@ -3596,7 +3592,7 @@
 	    <pb n="67"/>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="21">
-            <quote type="basetext"><ab type="sūtra" n="21">ami svaḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="21">ami svaḥ</ab></quote>
             <p>
               <s>ami parataḥ striyāṁ isvō bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -3607,7 +3603,7 @@
             </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="22">
-            <quote type="basetext"><ab type="sūtra" n="22">ṭāḍasīnāmidēvadātaḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="22">ṭāḍasīnāmidēvadātaḥ</ab></quote>
             <p>
               <s>ṭā ḍam ḍi ityētēṣāṁ striyāṁ itu ēt an āt ityēta ādēśā bhavanti</s>
 	      <list type="forms" xml:lang="pra-Latn">
@@ -3622,7 +3618,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="23">
-            <quote type="basetext"><ab type="sūtra" n="23">nānāḍātō</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="23">nānāḍātō</ab></quote>
             <p>
               <s>āta ākārāntasya strīliṁgasyānantaraṁ ṭāimḍīnāṁ an āt ityētāvādēśau na bhavataḥ</s>
               <s>pūrvēṇa prāptē niṣidhyatē</s>
@@ -3632,7 +3628,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="24">
-            <quote type="basetext"><ab type="sūtra" n="24">ādītō bahulam</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="24">ādītō bahulam</ab></quote>
             <p>
               <s>striyām ākārāntādātaḥ sthānē āt īn ityētō bahulaṁ prayōktavyō</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -3645,7 +3641,7 @@
 	    <pb n="68"/>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="25">
-            <quote type="basetext"><ab type="sūtra" n="25">na napuṁsakē</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="25">na napuṁsakē</ab></quote>
             <p>
               <s>prathamaikavacana napuṁsakē dīrghatvaṁ na bhavati</s>
               <s>sō dīrghaḥ pūrvasyētyanēna idudantayōḥ prāmaṁ pūrvasya dīrghatvaṁ na napuṁsakē ity anēna bādhyatē</s>
@@ -3662,7 +3658,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="26">
-            <quote type="basetext"><ab type="sūtra" n="26">ijarāsāṭhīca</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="26">ijarāsāṭhīca</ab></quote>
             <p>
               <s>napuṁsakē vartamānayōrjāsōḥ sthāna idādēśō bhavati pūrvasya ca dīrghaḥ</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -3673,7 +3669,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="27">
-            <quote type="basetext"><ab type="sūtra" n="27">nāmantraṇa māvānvadīvindavaḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="27">nāmantraṇa māvānvadīvindavaḥ</ab></quote>
             <p>
               <s>āmantraṇa gamyamāna sau parata ōtvadīrghavindavō na bhavanti</s>
               <s>ata ātsōrityātvaṁ prāprama</s>
@@ -3690,7 +3686,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="28">
-            <quote type="basetext"><ab type="sūtra" n="28">striyāmāta ēt</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="28">striyāmāta ēt</ab></quote>
             <p>
               <s>striyāmāmantraṇē ātaḥ sthānē ētvaṁ bhavati sō parataḥ</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -3702,7 +3698,7 @@
 	    <pb n="69"/>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="29">
-            <quote type="basetext"><ab type="sūtra" n="29">īdr̥tāīsvaḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="29">īdr̥tāīsvaḥ</ab></quote>
             <p>
               <s>āmantraṇa īdr̥tō svō bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -3712,7 +3708,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="30">
-            <quote type="basetext"><ab type="sūtra" n="30">sāvindunapuṁsaka</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="30">sāvindunapuṁsaka</ab></quote>
             <p>
               <s>napuṁsakē vartamānasya mōr bindubhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -3723,7 +3719,7 @@
 	    </p>
           </div><!-- sūtra !-->
           <div type="sūtra" n="31">
-            <quote type="basetext"><ab type="sūtra" n="31">r̥na āraḥ mupi</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="31">r̥na āraḥ mupi</ab></quote>
             <p>
               <s>r̥kārantasya supi parata āra ityādēśābhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -3734,7 +3730,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="32">
-            <quote type="basetext"><ab type="sūtra" n="32">mā gan</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="32">mā gan</ab></quote>
             <p>
               <s>mātr̥saṁbandhina r̥kārasyākārī bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -3746,7 +3742,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="33">
-            <quote type="basetext"><ab type="sūtra" n="33">ugasṭā ’smupmu vā</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="33">ugasṭā ’smupmu vā</ab></quote>
             <p>
               <s>adaśamṭāḍassupmu parata r̥kārasya sthānē ukārādaśā bhavati vā</s>
 	      <s>jas</s>
@@ -3774,7 +3770,7 @@
 	    <pb n="70"/>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="34">
-            <quote type="basetext"><ab type="sūtra" n="34">pitr̥bhrātr̥jāmātaṇāmaraḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="34">pitr̥bhrātr̥jāmātaṇāmaraḥ</ab></quote>
             <p>
               <s>pitrādīnāṁ supi parata r̥tō ’rō bhavati</s>
               <s>āgapavādaḥ</s>
@@ -3786,7 +3782,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="35">
-            <quote type="basetext"><ab type="sūtra" n="35">ā ca sau</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="35">ā ca sau</ab></quote>
             <p>
               <s>pitrādīnāmākārō bhavati sau parataḥ</s>
 	      <s>cakārādaraś ca</s>
@@ -3798,7 +3794,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="36">
-            <quote type="basetext"><ab type="sūtra" n="36">॥ rākṣaśca </ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="36">॥ rākṣaśca </ab></quote>
             <p>
               <s>rājanaśabdasya ā ityayamādēśō bhavati sau parataḥ</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -3807,7 +3803,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="37">
-            <quote type="basetext"><ab type="sūtra" n="37">āmantraṇē vā binduḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="37">āmantraṇē vā binduḥ</ab></quote>
             <p>
               <s>rājanaśabdasya āmantraṇē vā binduḥsyāt</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -3817,7 +3813,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="38">
-            <quote type="basetext"><ab type="sūtra" n="38">jaśśasaḍsāṁ ṇō</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="38">jaśśasaḍsāṁ ṇō</ab></quote>
             <p>
               <s>rājña uttarēṣāṁ jas śas ḍas ityētēṣāṁ ṇō ityayamādēśō bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -3829,7 +3825,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="39">
-            <quote type="basetext"><ab type="sūtra" n="39">śasa ēt</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="39">śasa ēt</ab></quote>
             <p>
               <s>rājñaḥ parasya śasa ē ityayamādēśō bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -3840,7 +3836,7 @@
 	    <pb n="71"/>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="40">
-            <quote type="basetext"><ab type="sūtra" n="40">āmōṇaṁ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="40">āmōṇaṁ</ab></quote>
             <p>
               <s>rājña uttarasyāmaḥ ṣaṣṭhībahuvacanasya ṇaṁ ityayamādēśō bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -3849,7 +3845,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="41">
-            <quote type="basetext"><ab type="sūtra" n="41">ṭā ṇā</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="41">ṭā ṇā</ab></quote>
             <p>
               <s>rājña uttarasyāḥ ṭāvibhaktēḥṇā ityayamādēśaḥ syāt</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -3858,7 +3854,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="42">
-            <quote type="basetext"><ab type="sūtra" n="42">usaśca dvitvaṁ vāntyalōpaśca</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="42">usaśca dvitvaṁ vāntyalōpaśca</ab></quote>
             <p>
               <s>rājña uttarasya ḍasādēśasya ṭādēśasya ca vā vikalpēna dvitvaṁ bhavati</s>
               <s>antyasya ca lōpaḥ</s>
@@ -3869,7 +3865,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="43">
-            <quote type="basetext"><ab type="sūtra" n="43">idadvitvē</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="43">idadvitvē</ab></quote>
             <p>
               <s>vēti nivr̥ttam</s>
               <s>ḍasādēśasya ṭādēśasya ca akr̥tē dvitvē rājña itvaṁ bhavati</s>
@@ -3883,7 +3879,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="44">
-            <quote type="basetext"><ab type="sūtra" n="44">[ā ṇōṇamōraṅasi]</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="44">[ā ṇōṇamōraṅasi]</ab></quote>
             <p>
               <s>ṇōṇamōḥ parayōḥ rājñō jakārasya ākārādēśaḥ syāt</s>
               <s>aṅasi ṣaṣṭhyēkavacanē na bhavati</s>
@@ -3916,7 +3912,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="45">
-            <quote type="basetext"><ab type="sūtra" n="45">ātmanō ’ppāṇō vā</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="45">ātmanō ’ppāṇō vā</ab></quote>
             <p>
               <s>ātmanō ’ppāṇa ityādēśō bhavati vā</s>
 	      <list type="forms" xml:lang="pra-Latn">
@@ -3926,7 +3922,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="46">
-            <quote type="basetext"><ab type="sūtra" n="46">[itvahitvava rāvadhalādēśē]</ab></quote> <!---->
+            <quote type="base-text"><ab type="sūtra" n="46">[itvahitvava rāvadhalādēśē]</ab></quote> <!---->
             <p>
               <s>ātmanō ’nādēśa rājavat kāryaṁ syāditvadvitvaṁ varjayitvā</s>
 	      <list type="forms" xml:lang="pra-Latn">
@@ -3944,7 +3940,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="47">
-            <quote type="basetext"><ab type="sūtra" n="47">brahmāyā ātmavat</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="47">brahmāyā ātmavat</ab></quote>
             <p>
               <s>brahmādyāḥ śabdā lakṣyāṇusārēṇātmavat sādhavō bhavanti</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -3966,7 +3962,7 @@
 	  <pb n="73"/>
 	  <head>atha ṣaṣṭhaḥ paricchēdaḥ</head>
           <div type="sūtra" n="1">
-            <quote type="basetext"><ab type="sūtra" n="1">sarvādērjasa ētvam</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="1">sarvādērjasa ētvam</ab></quote>
             <p>
               <s>sarvādēruttarasya jasa ētvaṁ bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -3986,7 +3982,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="2">
-            <quote type="basetext"><ab type="sūtra" n="2">: ssimminthāḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="2">: ssimminthāḥ</ab></quote>
             <p>
               <s>ḍēḥ saptamyēkavacanasya sarvādiparasthitasya sthāna miṁ mi ttha ity ēta ādēśā bhavanti</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -4004,7 +4000,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="3">
-            <quote type="basetext"><ab type="sūtra" n="3">idamētatkiyattadyaṣṭā daṇā vā</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="3">idamētatkiyattadyaṣṭā daṇā vā</ab></quote>
             <p>
               <s>idaṁ ētat kiṁ yat tat ityētēbhyaḥ ṭā ityāca iṇādaśō bhavati vā</s>
 	      <list type="forms" xml:lang="pra-Latn">
@@ -4032,7 +4028,7 @@
 	    </p>
           </div><!-- sūtra !-->
           <div type="sūtra" n="4">
-            <quote type="basetext"><ab type="sūtra" n="4">āma ēsi</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="4">āma ēsi</ab></quote>
             <p>
               <s>idamādibhya uttarasya āma ēsiṁ ityayamādēśō vā bhavati</s>
 	      <list type="forms" xml:lang="pra-Latn">
@@ -4045,7 +4041,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="5">
-            <quote type="basetext"><ab type="sūtra" n="5">kiṁyanadbhayā usa āmaḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="5">kiṁyanadbhayā usa āmaḥ</ab></quote>
             <p>
               <s>kiṁ yat tat ēbhya uttarasya isa āsa ityayamādaśā bhavati vā</s>
 	      <list type="forms" xml:lang="pra-Latn">
@@ -4057,7 +4053,7 @@
 	    <pb n="74"/>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="6">
-            <quote type="basetext"><ab type="sūtra" n="6">idbhayaḥ ssā sē</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="6">idbhayaḥ ssā sē</ab></quote>
             <p>
               <s>ikārāntēbhyaḥ kimādibhya uttarasya usaḥ ssā sē ityētāvādaśau bhavataḥ</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -4083,7 +4079,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="7">
-            <quote type="basetext"><ab type="sūtra" n="7">ḍēhi</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="7">ḍēhi</ab></quote>
             <p>
               <s>kimādibhya uttarasya ḍēḥ hiṁ ityayamādēśō bhavati vā</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -4103,7 +4099,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="8">
-            <quote type="basetext"><ab type="sūtra" n="8">āhē iā kālē</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="8">āhē iā kālē</ab></quote>
             <p>
               <s>kiṁyattadbhayō kālē āhē iā ityādēśau vā bhavataḥ</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -4123,7 +4119,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="9">
-            <quote type="basetext"><ab type="sūtra" n="9">tō dō ḍasēḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="9">tō dō ḍasēḥ</ab></quote>
             <p>
               <s>kiṁyattadbhayō ṅasēḥ ttō dō ityētāvādēśau bhavataḥ</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -4138,7 +4134,7 @@
 	    <pb n="75"/>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="10">
-            <quote type="basetext"><ab type="sūtra" n="10">tada ōśca</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="10">tada ōśca</ab></quote>
             <p>
               <s>naṁda uttarasya ḍasērōkārādēśō bhavati vā</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -4149,7 +4145,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="11">
-            <quote type="basetext"><ab type="sūtra" n="11">isā sē</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="11">isā sē</ab></quote>
             <p>
               <s>vati vartatē</s>
               <s>tadō ḍasā saha sē ityayamādēśō bhavati</s>
@@ -4162,7 +4158,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="12">
-            <quote type="basetext"><ab type="sūtra" n="12">āmā siṁ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="12">āmā siṁ</ab></quote>
             <p>
               <s>tada āmā saha siṁ ityayamādēśō vā bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -4176,7 +4172,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="13">
-            <quote type="basetext"><ab type="sūtra" n="13">kimaḥ kaḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="13">kimaḥ kaḥ</ab></quote>
             <p>
               <s>kiṁśabdasya supi parataḥ ka ityayamādēśō bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -4188,7 +4184,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="14">
-            <quote type="basetext"><ab type="sūtra" n="14">idama imaḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="14">idama imaḥ</ab></quote>
             <p>
               <s>supi parata idama ima ityayamādēśō bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -4202,7 +4198,7 @@
 	    <pb n="76"/>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="15">
-            <quote type="basetext"><ab type="sūtra" n="15">ssassiyōradvā</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="15">ssassiyōradvā</ab></quote>
             <p>
               <s>msassimōḥ parata idamō ’dādēśō vā bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -4214,7 +4210,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="16">
-            <quote type="basetext"><ab type="sūtra" n="16">urdana haḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="16">urdana haḥ</ab></quote>
             <p>
               <s>idamō dakārēṇa saha 3: sthānē hakārādēśō vā bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -4229,7 +4225,7 @@
 	    </p>
           </div><!-- sūtra !-->
           <div type="sūtra" n="17">
-            <quote type="basetext"><ab type="sūtra" n="17">na tyaḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="17">na tyaḥ</ab></quote>
             <p>
               <s>idamaḥ parasya : ttha ityayamādaśā na bhavati</s>
 	      <s>ḍaḥ simmitthā iti prāptē pratiṣidhyatē</s>
@@ -4242,7 +4238,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="18">
-            <quote type="basetext"><ab type="sūtra" n="18">napuṁsakē svamōridamiṇamiṇamō</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="18">napuṁsakē svamōridamiṇamiṇamō</ab></quote>
             <p>
               <s>napuṁsakaligē idamaḥ svamōḥ parataḥ savibhaktikasya idaṁ iṇaṁ iṇamō ityētē traya ādēśā bhavanti</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -4253,7 +4249,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="19">
-            <quote type="basetext"><ab type="sūtra" n="19">ētadaḥ sāvōtvaṁ vā</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="19">ētadaḥ sāvōtvaṁ vā</ab></quote>
             <p>
               <s>ētacchabdasya sau parata ōtvaṁ vā bhavati</s>
 	      <s>niyē prāptē vikalpyatē</s>
@@ -4268,7 +4264,7 @@
 	    <pb n="77"/>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="20">
-            <quote type="basetext"><ab type="sūtra" n="20">ttā maḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="20">ttā maḥ</ab></quote>
             <p>
               <s>ētadaḥ parasya isēḥ nō ityayamādēśō bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -4283,7 +4279,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="21">
-            <quote type="basetext"><ab type="sūtra" n="21">ttōtthayāstalōpaḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="21">ttōtthayāstalōpaḥ</ab></quote>
             <p>
               <s>ētadastakārasya ttōtthayōḥ paratō lōpō bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -4293,7 +4289,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="22">
-            <quote type="basetext"><ab type="sūtra" n="22">tadētahāḥ saḥ māvana ’makē</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="22">tadētahāḥ saḥ māvana ’makē</ab></quote>
             <p>
               <s>nacchandasya ētacchandasya yantakāraḥ tasya sakārādēśō bhavati anapuṁsakē sau parataḥ</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -4317,7 +4313,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="23">
-            <quote type="basetext"><ab type="sūtra" n="23">asā dō muḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="23">asā dō muḥ</ab></quote>
             <p>
               <s>adasō dakārasya mupi paratō mu ityayamādēśō bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -4332,7 +4328,7 @@
 	    <pb n="78"/>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="24">
-            <quote type="basetext"><ab type="sūtra" n="24">haśca sau</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="24">haśca sau</ab></quote>
             <p>
               <s>adasō dakārasya sau paratō hakārādēśō bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -4344,7 +4340,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="25">
-            <quote type="basetext"><ab type="sūtra" n="25">padasya</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="25">padasya</ab></quote>
             <p>
               <s>adhikārō ’yam</s>
               <s>āśabdavidhānāt</s>
@@ -4353,7 +4349,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="26">
-            <quote type="basetext"><ab type="sūtra" n="26">yuṣmadastaṁ tumaṁ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="26">yuṣmadastaṁ tumaṁ</ab></quote>
             <p>
               <s>sāvityēva</s>
               <s>yuṣmadaḥ padasya sau parataḥ taṁ tuma ityētāvādēśī bhavataḥ</s>
@@ -4364,7 +4360,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="27">
-            <quote type="basetext"><ab type="sūtra" n="27">tuṁ cāmi</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="27">tuṁ cāmi</ab></quote>
             <p>
               <s>yuṣmadaḥ padasya ami parataḥ tuṁ ityādēśō vā bhavati</s>
               <s>tumaṁ ca</s>
@@ -4375,7 +4371,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="28">
-            <quote type="basetext"><ab type="sūtra" n="28">tujjhē tumhēṁ jasi</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="28">tujjhē tumhēṁ jasi</ab></quote>
             <p>
               <s>yuṣmadaḥ padasya jasi parataḥ tujjhē tumhē ityētāvādēśī bhavataḥ</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -4385,7 +4381,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="29">
-            <quote type="basetext"><ab type="sūtra" n="29">vō ca śasi</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="29">vō ca śasi</ab></quote>
             <p>
               <s>śasi yuṣmadaḥ padasya vō ityādēśō bhavati</s>
               <s>cakārāt tujjhē tumhē ca</s>
@@ -4396,7 +4392,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="30">
-            <quote type="basetext"><ab type="sūtra" n="30">ṭāiyōstai taē tumaē tumē</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="30">ṭāiyōstai taē tumaē tumē</ab></quote>
             <p>
               <s>yuṣmaduttarayōḥ ṭā ḍi ityētayōḥ tai taē tumaē tumē ityēta ādēśā bhavanti</s>
 	      <s>ṭā</s>
@@ -4410,7 +4406,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="31">
-            <quote type="basetext"><ab type="sūtra" n="31">ṅasi tumōtahatujjhatumhatammāḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="31">ṅasi tumōtahatujjhatumhatammāḥ</ab></quote>
             <p>
               <s>yuṣmadaḥ padasya ṅasi tumō tuha tujha tumha tumma ityēta ādēśā bhavanti</s>
 	      <list type="forms" xml:lang="pra-Latn">
@@ -4420,7 +4416,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="32">
-            <quote type="basetext"><ab type="sūtra" n="32">āṅi ca tē dē</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="32">āṅi ca tē dē</ab></quote>
             <p>
               <s>āṅi tr̥tīyakavacanē cakārād ṅasi ca paratō yuṣmadaḥ padasya tē dē ityētāvādēśau bhavataḥ</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -4435,7 +4431,7 @@
 	    <pb n="80"/>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="33">
-            <quote type="basetext"><ab type="sūtra" n="33">tumāi ca </ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="33">tumāi ca </ab></quote>
             <p>
               <s>āṅi yuṣmadaḥ padatya tumāi ityayamādēśō bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -4444,7 +4440,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="34">
-            <quote type="basetext"><ab type="sūtra" n="34">tujhēhiṁ tumhahiṁ tummahi bhiāmē</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="34">tujhēhiṁ tumhahiṁ tummahi bhiāmē</ab></quote>
             <p>
               <s>bhisi paratō yuṣmadaḥ padasya tujhēhiṁ tumhēhiṁ tummahiṁ ityēta ādēśā bhavanti</s>
 	      <list type="forms" xml:lang="pra-Latn">
@@ -4453,7 +4449,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="35">
-            <quote type="basetext"><ab type="sūtra" n="35">usau latā dattā namāḍhā nunāda tamāhi</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="35">usau latā dattā namāḍhā nunāda tamāhi</ab></quote>
             <p>
               <s>isī paranō yuṣmadraḥ padanya natō naḍatō tumādō tumādu tumāhi ityēta ādaśā bhavanti</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -4466,7 +4462,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="36">
-            <quote type="basetext"><ab type="sūtra" n="36">tumhāhatō tumhāmuṁtī bhyasi</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="36">tumhāhatō tumhāmuṁtī bhyasi</ab></quote>
             <p>
               <s>yuṣmadaḥ padanya pañcamībahuvacanē bhyasi tumhāhitō tumhāsuṁtō ityētāvādēśau bhavataḥ</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -4475,7 +4471,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="37">
-            <quote type="basetext"><ab type="sūtra" n="37">vō bhē tujhāṇaṁ tumhāgamāmi</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="37">vō bhē tujhāṇaṁ tumhāgamāmi</ab></quote>
             <p>
               <s>āmi paratō yuṣmadaḥ padasya vō bhē tujjhāṇaṁ tumhāṇaṁ ityēta ādēśā bhavanti</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -4487,7 +4483,7 @@
 	    <pb n="81"/>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="38">
-            <quote type="basetext"><ab type="sūtra" n="38">au tumammi</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="38">au tumammi</ab></quote>
             <p>
               <s>yuṣmadaḥ padasya ḍau parataḥ tumammi ityādēśō bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -4497,7 +4493,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="39">
-            <quote type="basetext"><ab type="sūtra" n="39">tujhēsu tumhēmu supi</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="39">tujhēsu tumhēmu supi</ab></quote>
             <p>
               <s>yuṣmadaḥ padasya saptamībahuvacanē tujjhēmu tumhēsu ityētāvādēśī bhavataḥ </s>
               <list type="forms" xml:lang="pra-Latn">
@@ -4507,7 +4503,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="40">
-            <quote type="basetext"><ab type="sūtra" n="40">ammadō hamahamahaaṁ sau</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="40">ammadō hamahamahaaṁ sau</ab></quote>
             <p>
               <s>asmadaḥ padasya sau paratō haṁ ahaṁ ahaaṁ ityēta ādēśā bhavanti</s>
 	      <list type="forms" xml:lang="pra-Latn">
@@ -4516,7 +4512,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="41">
-            <quote type="basetext"><ab type="sūtra" n="41">ahammirāmi ca</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="41">ahammirāmi ca</ab></quote>
             <p>
               <s>ami paratō  ’smadaḥ padasya ahammi ityayamādēśā bhavati</s>
               <s>sau ca</s>
@@ -4531,7 +4527,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
 	  <div type="sūtra" n="42">
-            <quote type="basetext"><ab type="sūtra" n="42">maṁ mamaṁ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="42">maṁ mamaṁ</ab></quote>
             <p>
               <s>amīti vartatē</s>
               <s>asmadaḥ padasya ami paratō maṁ mamaṁ ityētāvādēśau bhavataḥ</s>
@@ -4542,7 +4538,7 @@
 	    <pb n="82"/>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="43">
-            <quote type="basetext"><ab type="sūtra" n="43">amhē jamnasōḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="43">amhē jamnasōḥ</ab></quote>
             <p>
               <s>asmadaḥ padasya jaśśasōḥ parataḥ amhē ityayamādēśō bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -4552,7 +4548,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="44">
-            <quote type="basetext"><ab type="sūtra" n="44">ṇō gasi</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="44">ṇō gasi</ab></quote>
             <p>
               <s>asmadaḥ padasya śasi paratō ṇō ityayamādēśā bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -4564,7 +4560,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="45">
-            <quote type="basetext"><ab type="sūtra" n="45">āphi mē mamāi</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="45">āphi mē mamāi</ab></quote>
             <p>
               <s>asmadaḥ padasya āḍi paratō mē mamāi ityētāvādagī bhavataḥ</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -4574,7 +4570,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="46">
-            <quote type="basetext"><ab type="sūtra" n="46">na ca mai mara</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="46">na ca mai mara</ab></quote>
             <p>
               <s>asmadaḥ padasya ḍau paratō mai maē ityētāvādēśī bhavanaḥ</s>
               <s>cakārāttr̥tīyaikavacanē ca</s>
@@ -4585,7 +4581,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="47">
-            <quote type="basetext"><ab type="sūtra" n="47">amhahiṁ bhisi</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="47">amhahiṁ bhisi</ab></quote>
             <p>
               <s>asmadaḥ padasya bhisi amhēhiṁ ityayamādēśō bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -4595,7 +4591,7 @@
 	    <pb n="83"/>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="48">
-            <quote type="basetext"><ab type="sūtra" n="48">mattō maittā mamādā mamāda mamāhi isau </ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="48">mattō maittā mamādā mamāda mamāhi isau </ab></quote>
             <p>
               <s>asmadaḥ padasya isau parata ēta ādaśō bhavanti</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -4606,7 +4602,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="49">
-            <quote type="basetext"><ab type="sūtra" n="49">amhāhitī amhāsaṁtō bhyāma</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="49">amhāhitī amhāsaṁtō bhyāma</ab></quote>
             <p>
               <s>ammadaḥ padasya bhyami parata amhāhitī amhāmuṁtā inyatāvādēśau bhavataḥ</s>
 	      <list type="forms" xml:lang="pra-Latn">
@@ -4615,7 +4611,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="50">
-            <quote type="basetext"><ab type="sūtra" n="50">mē mama maha manjha asi</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="50">mē mama maha manjha asi</ab></quote>
 	    <p>
 	      <s>asmadaḥ padasya isi parata ēta ādēśābhavanti</s>
 	      <list type="forms" xml:lang="pra-Latn">
@@ -4625,7 +4621,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="51">
-            <quote type="basetext"><ab type="sūtra" n="51">majjha ṇō amha amhāṇamamhē āmi</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="51">majjha ṇō amha amhāṇamamhē āmi</ab></quote>
 	    <p>
 	      <s>asmadaḥ padasya āmi parata ēta ādaśā bhavanni</s>
 	      <list type="forms" xml:lang="pra-Latn">
@@ -4637,7 +4633,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="52">
-            <quote type="basetext"><ab type="sūtra" n="52">mamammi</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="52">mamammi</ab></quote>
             <p>
               <s>asmadaḥ padasya ṅa, paratō mamammi ityādayō bhavati</s>
 	      <list type="forms" xml:lang="pra-Latn">
@@ -4648,7 +4644,7 @@
 	    <pb n="84"/>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="53">
-            <quote type="basetext"><ab type="sūtra" n="53">amhēsu mupi</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="53">amhēsu mupi</ab></quote>
             <p>
               <s>ammadaḥ padasya saptamībahuvacanē supi parataḥ amhēsu ityayamā, dēśō bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -4657,7 +4653,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="54">
-            <quote type="basetext"><ab type="sūtra" n="54">dahā </ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="54">dahā </ab></quote>
             <p>
               <s>padasyēti nivr̥ttam</s>
               <s>supīti vartatē</s>
@@ -4673,7 +4669,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="55">
-            <quote type="basetext"><ab type="sūtra" n="55">agniḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="55">agniḥ</ab></quote>
             <p>
               <s>triśabdasya mupi paranaḥ ni ityādaśō bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -4687,7 +4683,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="56">
-            <quote type="basetext"><ab type="sūtra" n="56">tiṣṇi jaggamabhyām</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="56">tiṣṇi jaggamabhyām</ab></quote>
             <p>
               <s>triśabdasya jaśśambhyāṁ saha tigi ityādēśō bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -4701,7 +4697,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="57">
-            <quote type="basetext"><ab type="sūtra" n="57">duīvē ḍōṇi vā</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="57">duīvē ḍōṇi vā</ab></quote>
             <p>
               <s>dviśabdasya jagśambhyāṁ saha duvē dōṇi ityētāvādēśō bhavataḥ</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -4732,7 +4728,7 @@
 	    <pb n="85"/>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="58">
-            <quote type="basetext"><ab type="sūtra" n="58">caturaścattāgē catvāri</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="58">caturaścattāgē catvāri</ab></quote>
             <p>
               <s>catuśabdasya jaśśambhyāṁ maha cattārō canāri inyatāvādaśī bhavataḥ</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -4742,7 +4738,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="50">
-            <quote type="basetext"><ab type="sūtra" n="50">ēpāmāmō ṇhaṁ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="50">ēpāmāmō ṇhaṁ</ab></quote>
             <p>
               <s>ēpāṁ dvitricatuḥśabdānāmāmaḥ sthāna ṇhaṁ i-yayamādēśaḥ navati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -4753,7 +4749,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="60">
-            <quote type="basetext"><ab type="sūtra" n="60">śēṣō ’ndatavat</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="60">śēṣō ’ndatavat</ab></quote>
             <p>
               <s>gēpaḥ sudhvidhigdantavadbhavati akārāntāda bhimā hiṁ inyayamādēśa ukta ikārākāgantādapi bhavati</s>
 	      <list type="forms" xml:lang="pra-Latn">
@@ -4765,7 +4761,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
 	  <div type="sūtra" n="61">
-            <quote type="basetext"><ab type="sūtra" n="61">na ḍibsyōrēṁdātau</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="61">na ḍibsyōrēṁdātau</ab></quote>
             <p>
               <s>ikārōkārāntānāṁ ṅiṅasyāgdantavad ēkāgakārī na bhavataḥ</s>
 	      <list type="forms" xml:lang="pra-Latn">
@@ -4778,7 +4774,7 @@
 	    <pb n="86"/>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="62">
-            <quote type="basetext"><ab type="sūtra" n="62">ē bhyāsi</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="62">ē bhyāsi</ab></quote>
             <p>
               <s>nētyanuvartatē</s>
               <s>bhyāsa parata ikārīkārāntayōradantavadētvaṁ na bhavati</s>
@@ -4789,7 +4785,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="63">
-            <quote type="basetext"><ab type="sūtra" n="63">dvivacanasya bahuvacanam</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="63">dvivacanasya bahuvacanam</ab></quote>
             <p>
               <s>sarvāmāṁ vibhaktīnāṁ supāṁ tiṅāṁ ca dvivacanasya bahuvacanaṁ prayōktavyam</s>
 	      <s>vr̥kṣau</s>
@@ -4814,7 +4810,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="64">
-            <quote type="basetext"><ab type="sūtra" n="64">caturthyāḥ ṣaṣṭhī</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="64">caturthyāḥ ṣaṣṭhī</ab></quote>
             <p>
               <s>caturthīvibhaktēḥ sthānē ṣaṣṭhīvibhaktir bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -4832,7 +4828,7 @@
 	<div type="paricchēdaḥ" n="7">
 	  <head>atha saptamaḥ paricchēdaḥ</head>
 	  <div type="sūtra" n="1">
-            <quote type="basetext"><ab type="sūtra" n="1">tatiyāgditī</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="1">tatiyāgditī</ab></quote>
             <p>
               <list type="forms" xml:lang="pra-Latn">
 		<item>paḍhaï paḍhāē</item>
@@ -4846,7 +4842,7 @@
 	    <pb n="87"/>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="2">
-            <quote type="basetext"><ab type="sūtra" n="2">thāssipōḥ si sē</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="2">thāssipōḥ si sē</ab></quote>
             <p>
               <s>thās mipa ityētayōrēkaikasya sthāna mi mēṁ inyatāvādēśī bhavataḥ</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -4856,7 +4852,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="3">
-            <quote type="basetext"><ab type="sūtra" n="3">imipōrmiḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="3">imipōrmiḥ</ab></quote>
             <p>
               <s>id mipa ityētayōḥ sthānē mirbhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -4867,7 +4863,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="4">
-            <quote type="basetext"><ab type="sūtra" n="4">ntihatthāmāmumā bahupu</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="4">ntihatthāmāmumā bahupu</ab></quote>
             <p>
               <s>bahuṣu vartamānānāṁ tiṅāṁ sthāna nti, ha itthā, mō mu ma ityēta ādēśā bhavanti</s>
 	      <s>prathamapuruṣasya</s>
@@ -4892,7 +4888,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="5">
-            <quote type="basetext"><ab type="sūtra" n="5">ata ē sa</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="5">ata ē sa</ab></quote>
             <p>
               <s>nityārthaṁ vacanaṁ yatō viśēṣaṇam</s>
               <s>tatipōḥ sipthāsōḥ ē sē ityādēśāvata ēva parau bhavataḥ</s>
@@ -4916,7 +4912,7 @@
 	    <pb n="88"/>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="6">
-            <quote type="basetext"><ab type="sūtra" n="6">astēr lōpaḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="6">astēr lōpaḥ</ab></quote>
             <p>
               <s>astērdhātōḥ thāssipōrādēśayōḥ paratō lōpō bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -4930,7 +4926,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="7">
-            <quote type="basetext"><ab type="sūtra" n="7">mimōmumānāmayō haśca</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="7">mimōmumānāmayō haśca</ab></quote>
             <p>
               <s>mimōsumānāmastēḥ parēṣāmadhōhakāraḥ prayōktavyaḥ</s>
               <s>astaśca lōpaḥ</s>
@@ -4947,7 +4943,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="8">
-            <quote type="basetext"><ab type="sūtra" n="8">yaka īaijjō</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="8">yaka īaijjō</ab></quote>
             <p>
               <s>yakaḥ sthānē īa ijja ityādaśau bhavataḥ</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -4961,7 +4957,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="9">
-            <quote type="basetext"><ab type="sūtra" n="9">nāntyadvitvē</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="9">nāntyadvitvē</ab></quote>
             <p>
               <s>dhātōrantyadvitvaṁ sati yaka īa ija ityādēśō na bhavataḥ</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -4982,7 +4978,7 @@
 	    <pb n="99"/>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="10">
-            <quote type="basetext"><ab type="sūtra" n="10">namāṇō matamānacāḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="10">namāṇō matamānacāḥ</ab></quote>
             <p>
               <s>gata śānac ityētayōrēkaikasya nta māṇa ityētāvādaśī bhavataḥ</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -4994,7 +4990,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="11">
-            <quote type="basetext"><ab type="sūtra" n="11">ī ca striyām</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="11">ī ca striyām</ab></quote>
             <p>
               <s>striyāṁ vartamānayōḥ śatr̥śānacōgakārādēśō bhavati nnamāṇau ca</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -5008,7 +5004,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="12">
-            <quote type="basetext"><ab type="sūtra" n="12">dhātābhaviṣyati hiḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="12">dhātābhaviṣyati hiḥ</ab></quote>
             <p>
               <s>bhaviṣyati kālē dhātōḥ parō hiśabdaḥ prayāktavyaḥ</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -5026,7 +5022,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="13">
-            <quote type="basetext"><ab type="sūtra" n="13">uttamē ssā hā ca</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="13">uttamē ssā hā ca</ab></quote>
             <p>
               <s>bhaviṣyatyuttamē spā hā ityētau prayōktavyō</s>
               <s>cakārāta hiśca</s>
@@ -5045,7 +5041,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="14">
-            <quote type="basetext"><ab type="sūtra" n="14">minā ssaṁ vā</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="14">minā ssaṁ vā</ab></quote>
             <p>
               <s>bhaviṣyatyuttamē minā maha dhātōḥ paraḥ saṁśabdaḥ prayōktavyō vā</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -5061,7 +5057,7 @@
 	    <pb n="90"/>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="15">
-            <quote type="basetext"><ab type="sūtra" n="15">mōmumahimsāhitthā</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="15">mōmumahimsāhitthā</ab></quote>
             <p>
               <s>bhaviṣyati kāla uttamē bahuvacanādēśasya mā mu ma ityētaiḥ saha hissā hinthā ityētāvādēśī vā bhavataḥ</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -5087,7 +5083,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="16">
-            <quote type="basetext"><ab type="sūtra" n="16">vōccha gacchaṁ gacchaṁ dacchaṁ vēcchē</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="16">vōccha gacchaṁ gacchaṁ dacchaṁ vēcchē</ab></quote>
             <p>
               <s>bhaviṣyati kāla uttamaikavacanē kr̥ñādīnāṁ sthānē yathāsaṁkhyaṁ kāhaṁ prabhr̥taya ādēśā bhavanti</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -5142,7 +5138,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="17">
-            <quote type="basetext"><ab type="sūtra" n="17">śravādīnāṁ viṣvapyanusvāravaja hilāpaśca vā</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="17">śravādīnāṁ viṣvapyanusvāravaja hilāpaśca vā</ab></quote>
             <p>
               <s>śu ityēvamādīnāṁ prathamamadhyamōttamēṣu viṣvapi puruṣēṣu paratō bhaviṣyati kālē sōcchaṁ ityādaya ādēśā bhavanti</s>
               <s>anusvāraṁ vihāya</s>
@@ -5190,7 +5186,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="18">
-            <quote type="basetext"><ab type="sūtra" n="18">usumu vidhyādipvakasmin</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="18">usumu vidhyādipvakasmin</ab></quote>
             <p>
               <s>vidhyādiṣvēkasminnutpannasya pratyayasya yathāsaṁkhyaṁ u mu mu ityēta ādēśā bhavanti</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -5206,7 +5202,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="19">
-            <quote type="basetext"><ab type="sūtra" n="19">ntuhamā vahuṣu</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="19">ntuhamā vahuṣu</ab></quote>
             <p>
               <s>vidhyādiṣu bahupūtpannasya pratyayasya yathāsaṁkhya ntu ha mō ityēta ādēśā bhavanti</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -5217,7 +5213,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="20">
-            <quote type="basetext"><ab type="sūtra" n="20">vartamānabhaviṣyadanadyatanayōrjajā vā</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="20">vartamānabhaviṣyadanadyatanayōrjajā vā</ab></quote>
             <p>
               <s>vartamānē bhaviṣyadanadyatanē vidhyādipu cōtpannasya pratyayasya jja jā ityētāvādēśau vā bhavataḥ</s>
               <s>pakṣē yathāprāptam</s>
@@ -5244,7 +5240,7 @@
 	    <pb n="92"/>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="21">
-            <quote type="basetext"><ab type="sūtra" n="21">madhyē ca</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="21">madhyē ca</ab></quote>
             <p>
               <s>vartamānabhaviṣyadanadyatanayōvidhyādiṣu ca dhātupratyayayōrmadhyē ’ja jā ityētāvādēśau vā bhavataḥ</s>
 	      <s>vartamānē</s>
@@ -5260,7 +5256,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
 	  <div type="sūtra" n="22">
-            <quote type="basetext"><ab type="sūtra" n="22">nānēkācaḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="22">nānēkācaḥ</ab></quote>
             <p>
               <s>vartamānabhaviṣyadanadyatanayōvidhyādipu cānakācō dhātō. pratyayē para madhyē na jā ityai tāvādēśau na bhavataḥ kiṁ tvanta ēva bhavataḥ</s>
 	      <list type="forms" xml:lang="pra-Latn">
@@ -5274,7 +5270,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
 	  <div type="sūtra" n="23">
-            <quote type="basetext"><ab type="sūtra" n="23">īa bhūtē</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="23">īa bhūtē</ab></quote>
             <p>
               <s>bhūtē kālē dhātōḥ pratyayasya īa ityayamādēśō bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -5287,7 +5283,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="24">
-            <quote type="basetext"><ab type="sūtra" n="24">ēkācō hīa</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="24">ēkācō hīa</ab></quote>
             <p>
               <s>bhūtē kāla ēkācō dhātōḥ pratyayasya hīa ityayamādēśō bhavati</s>
 	      <list type="forms" xml:lang="pra-Latn">
@@ -5300,7 +5296,7 @@
 	    <pb n="93"/>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="25">
-            <quote type="basetext"><ab type="sūtra" n="25">astarāsiḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="25">astarāsiḥ</ab></quote>
             <p>
               <s>asvabhūtē kāla ēkasminnarthē āsi iti nipātyatē</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -5314,7 +5310,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="26">
-            <quote type="basetext"><ab type="sūtra" n="26">ṇica ēdādarata āt</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="26">ṇica ēdādarata āt</ab></quote>
             <p>
               <s>ṇicapratyayasya ēkārādaśō bhavati</s>
               <s>dhātōrādērakārasya ca ātvaṁ bhavati</s>
@@ -5331,7 +5327,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="27">
-            <quote type="basetext"><ab type="sūtra" n="27">āva ca</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="27">āva ca</ab></quote>
             <p>
               <s>ṇica āvē ityayamādēśō bhavati</s>
               <s>cakārāt pūrvōktaṁ ca</s>
@@ -5345,7 +5341,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="28">
-            <quote type="basetext"><ab type="sūtra" n="28">āviḥ ktakarmabhāvēṣu vā</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="28">āviḥ ktakarmabhāvēṣu vā</ab></quote>
             <p>
               <s>ṇica āvirādēśō bhavati vā ktapratyayē paratō bhāvakarmaṇōś ca</s>
 	      <list type="forms" xml:lang="pra-Latn">
@@ -5376,7 +5372,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="29">
-            <quote type="basetext"><ab type="sūtra" n="29">naidāvē</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="29">naidāvē</ab></quote>
             <p>
               <s>ktabhāvakarmasu ṇicpratyayasya ētu āvē ityētāvādēśau na bhavataḥ</s>
 	      <list type="forms" xml:lang="pra-Latn">
@@ -5389,7 +5385,7 @@
 	    <pb n="94"/>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="30">
-            <quote type="basetext"><ab type="sūtra" n="30">ata ā mipi vā</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="30">ata ā mipi vā</ab></quote>
             <p>
               <s>akārāntād dhātōr ā mipi parata ākāradēśō bhavati vā</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -5399,7 +5395,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="31">
-            <quote type="basetext"><ab type="sūtra" n="31">ica bahuṣu</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="31">ica bahuṣu</ab></quote>
             <p>
               <s>mipō vahupu paratō ’ta ikārādēśō bhavati</s>
               <s>cakārādākāraś ca</s>
@@ -5412,7 +5408,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="32">
-            <quote type="basetext"><ab type="sūtra" n="32">ktē</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="32">ktē</ab></quote>
             <p>
               <s>ktapratyayē paratō ’ta irbhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -5422,7 +5418,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="32">
-            <quote type="basetext"><ab type="sūtra" n="32">ē ca ktvātumuntavyabhaviṣyatsu</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="32">ē ca ktvātumuntavyabhaviṣyatsu</ab></quote>
             <p>
               <s>ktvā tumuna tavya ityētēṣu bhaviṣyati kālē ca ata ētvaṁ bhavati</s>
               <s>cakārādiś ca</s>
@@ -5435,7 +5431,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="34">
-            <quote type="basetext"><ab type="sūtra" n="34">lādēśē vā</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="34">lādēśē vā</ab></quote>
             <p>
               <s>lakārādēśē paratō ’ta ētvaṁ bhavati vā</s>
 	      <list type="forms" xml:lang="pra-Latn">
@@ -5452,7 +5448,7 @@
 	  <pb n="95"/>
 	  <head>athāṣṭamaḥ paricchaḍaḥ</head>
           <div type="sūtra" n="1">
-            <quote type="basetext"><ab type="sūtra" n="1">bhuvā lōhuvā</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="1">bhuvā lōhuvā</ab></quote>
 	    <p>
 	      <s>bhū sattāyām</s>
 	      <s>ityasya dhātōr hīṁ huva inyatābādaśī bhavataḥ</s>
@@ -5463,7 +5459,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="2">
-            <quote type="basetext"><ab type="sūtra" n="2">ktē huḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="2">ktē huḥ</ab></quote>
             <p>
               <s>bhuvaḥ ktapratyayē paratā hu ityādēśō bhavati</s>
 	      <list type="forms" xml:lang="pra-Latn">
@@ -5472,7 +5468,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="3">
-            <quote type="basetext"><ab type="sūtra" n="3">prārbhavaḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="3">prārbhavaḥ</ab></quote>
             <p>
               <s>prādaruttarasya bhuvō bhava ityayamādēśō bhavati</s>
               <s>bhavaḥ</s>
@@ -5484,7 +5480,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="4">
-            <quote type="basetext"><ab type="sūtra" n="4">tvarastuvaraḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="4">tvarastuvaraḥ</ab></quote>
             <p>
               <s>tritvarā saṁbhramē</s>
               <s>asya dhātōratuvara ityayamādēśō bhavati</s>
@@ -5494,7 +5490,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="5">
-            <quote type="basetext"><ab type="sūtra" n="5">ktē turaḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="5">ktē turaḥ</ab></quote>
             <p>
               <s>ktapratyayē tura ityayamādēśō bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -5503,7 +5499,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="6">
-            <quote type="basetext"><ab type="sūtra" n="6">ghuṇō ghōlaḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="6">ghuṇō ghōlaḥ</ab></quote>
             <p>
               <s>ghuṇa dhūrṇa bhramaṇē</s>
               <s>asya dhātōr ghōla ityayamādēśā bhavati</s>
@@ -5514,7 +5510,7 @@
 	    <pb n="96"/>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="7">
-            <quote type="basetext"><ab type="sūtra" n="7">gudō gōllaḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="7">gudō gōllaḥ</ab></quote>
             <p>
               <s>guda prēraṇē</s>
               <s>asya dhātōr ṇōlla ityayamādēśō bhavati</s>
@@ -5525,7 +5521,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="8">
-            <quote type="basetext"><ab type="sūtra" n="8">dūṅō dūmaḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="8">dūṅō dūmaḥ</ab></quote>
             <p>
               <s>dūṅ paritāpē</s>
               <s>asya dhātōrdūmādēśō bhavati</s>
@@ -5535,7 +5531,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="9">
-            <quote type="basetext"><ab type="sūtra" n="9">ghaṭē phalaḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="9">ghaṭē phalaḥ</ab></quote>
             <p>
               <s>ghaṭa caṭa gatō</s>
               <s>anya dhātōḥ phala ityayamādēśō bhavati</s>
@@ -5545,7 +5541,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="10">
-            <quote type="basetext"><ab type="sūtra" n="10">paḍhēḥ pālaḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="10">paḍhēḥ pālaḥ</ab></quote>
             <p>
               <s>pada gatau</s>
               <s>asya dhātōḥ pāla ityayamādaśō bhavati</s>
@@ -5555,7 +5551,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="10">
-            <quote type="basetext"><ab type="sūtra" n="10">vr̥ṣakr̥ṣabhūṣahaṣāmr̥tō riḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="10">vr̥ṣakr̥ṣabhūṣahaṣāmr̥tō riḥ</ab></quote>
             <p>
               <s>br̥pādīnāmr̥taḥ sthāna ari ityādēśō bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -5567,7 +5563,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="12">
-            <quote type="basetext"><ab type="sūtra" n="12">r̥tō ḍaraḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="12">r̥tō ḍaraḥ</ab></quote>
             <p>
               <s>r̥kārāntasya dhātōrr̥taḥ sthāna ara ityādēśō bhavati</s>
 	      <s>mr̥</s>
@@ -5585,7 +5581,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="13">
-            <quote type="basetext"><ab type="sūtra" n="13">kr̥trā kuṇō vā</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="13">kr̥trā kuṇō vā</ab></quote>
             <p>
               <s>ḍukr̥ñ karaṇē</s>
               <s>asya dhātōḥ prayōgē kuṇō vā bhavati</s>
@@ -5596,7 +5592,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="14">
-            <quote type="basetext"><ab type="sūtra" n="14">bhō jaṁbhāḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="14">bhō jaṁbhāḥ</ab></quote>
             <p>
               <s>jabha bhī gātravināmē</s>
               <s>asya dhātōr jaṁbhāa itvayamādēśō bhavati</s>
@@ -5606,7 +5602,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="15">
-            <quote type="basetext"><ab type="sūtra" n="15">hērgēṇhaḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="15">hērgēṇhaḥ</ab></quote>
             <p>
               <s>graha upādānē</s>
               <s>asya dhātōr gēṇhō bhavati</s>
@@ -5616,7 +5612,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="16">
-            <quote type="basetext"><ab type="sūtra" n="16">vēt ktvātumuntavyēṣu</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="16">vēt ktvātumuntavyēṣu</ab></quote>
             <p>
               <s>ahērdhēt ityayamādēśō bhavati ktvātumuntavyēṣu parataḥ</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -5627,7 +5623,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="17">
-            <quote type="basetext"><ab type="sūtra" n="17">kr̥traḥ kā bhūtabhaviṣyatōśca</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="17">kr̥traḥ kā bhūtabhaviṣyatōśca</ab></quote>
             <p>
               <s>bhūtabhaviṣyatōḥ kālayōḥ kr̥taḥ kā ityayamādēśō bhavati</s>
               <s>cakārāt ktvātumuntavyēṣu parataḥ</s>
@@ -5641,7 +5637,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="18">
-            <quote type="basetext"><ab type="sūtra" n="18">smarattērbharasumarau</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="18">smarattērbharasumarau</ab></quote>
             <p>
               <s>smr̥ cintāyām</s>
               <s>asya dhātōr bhara-sumarau bhavataḥ</s>
@@ -5653,7 +5649,7 @@
 	  </div><!-- sūtra !-->
 	  <pb n="98"/>
           <div type="sūtra" n="19">
-            <quote type="basetext"><ab type="sūtra" n="19">bhiyō bhābīhī</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="19">bhiyō bhābīhī</ab></quote>
             <p>
               <s>nibhī bhayē</s>
               <s>asya dhātōrbhābīhau bhavataḥ</s>
@@ -5664,7 +5660,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="20">
-            <quote type="basetext"><ab type="sūtra" n="20">jighratēḥ pāpāau</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="20">jighratēḥ pāpāau</ab></quote>
             <p>
               <s>ghrā gandhagrahaṇē</s>
               <s>asya dhātōḥ pā pāa ityādēśau bhavataḥ</s>
@@ -5675,7 +5671,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
 	  <div type="sūtra" n="21">
-            <quote type="basetext"><ab type="sūtra" n="21">mlē vāvāau</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="21">mlē vāvāau</ab></quote>
             <p>
               <s>mlē gātravināmē</s>
               <s>asya dhātōrvāvāau bhavataḥ</s>
@@ -5686,7 +5682,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
 	  <div type="sūtra" n="22">
-            <quote type="basetext"><ab type="sūtra" n="22">tr̥pasthipaḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="22">tr̥pasthipaḥ</ab></quote>
             <p>
               <s>tr̥pta tūṁpa tr̥ptau</s>
               <s>asya dhātōsthipō bhavati</s>
@@ -5696,7 +5692,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
 	  <div type="sūtra" n="23">
-            <quote type="basetext"><ab type="sūtra" n="23">jñō jāṇamuṇau</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="23">jñō jāṇamuṇau</ab></quote>
             <p>
               <s>jñā avabōdhanē</s>
               <s>asya dhātōrjāṇamuṇau bhavataḥ</s>
@@ -5707,7 +5703,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="24">
-            <quote type="basetext"><ab type="sūtra" n="24">jalpēlōṁ maḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="24">jalpēlōṁ maḥ</ab></quote>
             <p>
               <s>jalpa vyaktāyāṁ vāci</s>
               <s>asya dhātōrlakārasya makārō bhavati</s>
@@ -5717,7 +5713,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="25">
-            <quote type="basetext"><ab type="sūtra" n="25">ṣṭhādhyāgānāṁ ṭhāajhāagāāḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="25">ṣṭhādhyāgānāṁ ṭhāajhāagāāḥ</ab></quote>
             <p>
               <s>ṣṭhā gatinivr̥ttau</s>
               <s>dhyai cintāyām</s>
@@ -5732,7 +5728,7 @@
 	    <pb n="99"/>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="26">
-            <quote type="basetext"><ab type="sūtra" n="26">ṭhājhāgāśca vartamānabhaviṣyadvidhyāyēkavacanēṣu</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="26">ṭhājhāgāśca vartamānabhaviṣyadvidhyāyēkavacanēṣu</ab></quote>
             <p>
               <s>ṣṭhādhyāgānāṁ ṭhā jhā gā ityādēśā bhavanti cakārāt pūrvōktāś ca vartamānabhaviṣyadvidhyāyēkavacanēṣu parataḥ</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -5749,7 +5745,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="27">
-            <quote type="basetext"><ab type="sūtra" n="27">khādidhāvyōḥ khādhau</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="27">khādidhāvyōḥ khādhau</ab></quote>
             <p>
               <s>khāha bhakṣaṇē</s>
               <s>dhāvu javē</s>
@@ -5766,7 +5762,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="28">
-            <quote type="basetext"><ab type="sūtra" n="28">grasarvisaḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="28">grasarvisaḥ</ab></quote>
             <p>
               <s>grasu glasu adanē</s>
               <s>asya dhātōrvisō bhavati</s>
@@ -5776,7 +5772,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="29">
-            <quote type="basetext"><ab type="sūtra" n="29">cinaściṇaḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="29">cinaściṇaḥ</ab></quote>
             <p>
               <s>ciñ cayanē</s>
               <s>asya dhātōściṇō bhavati</s>
@@ -5787,7 +5783,7 @@
 	    <pb n="100"/>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="30">
-            <quote type="basetext"><ab type="sūtra" n="30">krīka kiṇaḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="30">krīka kiṇaḥ</ab></quote>
             <p>
               <s>ḍukrīn dravyavinimayē</s>
               <s>asya dhātōḥ kiṇō bhavati</s>
@@ -5797,7 +5793,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="31">
-            <quote type="basetext"><ab type="sūtra" n="31">nē kē ca</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="31">nē kē ca</ab></quote>
             <p>
               <s>vēruttarasya krīnaḥ kē ādēśaḥ kiṇādēśaśca bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -5807,7 +5803,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="32">
-            <quote type="basetext"><ab type="sūtra" n="32">uma udumā</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="32">uma udumā</ab></quote>
             <p>
               <s>dhmā śabdāgnisaṁyōgayōḥ</s>
               <s>asya dhātōrutpūrvasya uddhumā bhavati</s>
@@ -5817,7 +5813,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="33">
-            <quote type="basetext"><ab type="sūtra" n="33">śradō dhō dahaḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="33">śradō dhō dahaḥ</ab></quote>
             <p>
               <s>śracchabdāduttarasya ḍudhāñ dhāraṇapōṣaṇayōḥ asya dhātōrdahādēśō bhavati</s>
               <list type="forms" xml:lang="pra-Latn">
@@ -5827,7 +5823,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="34">
-            <quote type="basetext"><ab type="sūtra" n="34">avābāhērvāhaḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="34">avābāhērvāhaḥ</ab></quote>
             <p>
               <s>gāhū vilōḍanē</s>
               <s>asya dhātōravāduttarasya vāhādēśō bhavati</s>
@@ -5839,7 +5835,7 @@
 	    <pb n="101"/>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="35">
-            <quote type="basetext"><ab type="sūtra" n="35">kāsērvāsaḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="35">kāsērvāsaḥ</ab></quote>
             <p>
               <s>avādityanuvartatē</s>
               <s>kā sr̥ śavdakutsāyāṁ</s>
@@ -5851,7 +5847,7 @@
 	    </p>
 	  </div><!-- sūtra !-->
           <div type="sūtra" n="36">
-            <quote type="basetext"><ab type="sūtra" n="36">nirō māṅō māṇaḥ</ab></quote>
+            <quote type="base-text"><ab type="sūtra" n="36">nirō māṅō māṇaḥ</ab></quote>
             <p>
               <s>māṅ mānē</s>
               <s>asya dhātōniruttarasya māṇādēśō bhavati</s>
@@ -5860,7 +5856,7 @@
               </list>
 	    </p></div><!-- sūtra !-->
             <div type="sūtra" n="37">
-              <quote type="basetext"><ab type="sūtra" n="37">kṣiyō jhijaḥ</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="37">kṣiyō jhijaḥ</ab></quote>
               <p>
 		<s>kṣi kṣayē</s>
 		<s>asya dhātōhijō bhavati</s>
@@ -5870,7 +5866,7 @@
 	      </p>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="38">
-              <quote type="basetext"><ab type="sūtra" n="38">bhidichidōrantvasya ndaḥ</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="38">bhidichidōrantvasya ndaḥ</ab></quote>
               <p>
 		<s>bhidira chidir</s>
 		<s>ētayōrantyasya ndō bhavati</s>
@@ -5881,7 +5877,7 @@
 	      </p>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="39">
-              <quote type="basetext"><ab type="sūtra" n="39">kathahaḥ</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="39">kathahaḥ</ab></quote>
               <p>
 		<s>katha niṣpākē</s>
 		<s>asya dhātōrantyasya ḍhō bhavati</s>
@@ -5891,7 +5887,7 @@
 	      </p>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="40">
-              <quote type="basetext"><ab type="sūtra" n="40">vēṣṭēś ca</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="40">vēṣṭēś ca</ab></quote>
               <p>
 		<s>vēṣṭa vēṣṭanē</s>
 		<s>asya dhātōrantyasya ḍhō bhavati</s>
@@ -5903,7 +5899,7 @@
 	      <pb n="102"/>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="41">
-              <quote type="basetext"><ab type="sūtra" n="41">utsamōlaḥ</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="41">utsamōlaḥ</ab></quote>
               <p>
 		<s>utsaṁbhyām uttarasya vēṣṭērantyasya lō bhavati</s>
 		<list type="forms" xml:lang="pra-Latn">
@@ -5913,7 +5909,7 @@
 	      </p>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="42">
-              <quote type="basetext"><ab type="sūtra" n="42">rudēr vaḥ</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="42">rudēr vaḥ</ab></quote>
               <p>
 		<s>rudir</s>
 		<s>asya dhātōrantyasya vō bhavati</s>
@@ -5923,7 +5919,7 @@
 	      </p>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="43">
-              <quote type="basetext"><ab type="sūtra" n="43">udō vijaḥ</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="43">udō vijaḥ</ab></quote>
               <p>
 		<s>utpūrvasya vijērantyasya vakārō bhavati</s>
 		<list type="forms" xml:lang="pra-Latn">
@@ -5932,7 +5928,7 @@
 	      </p>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="44">
-              <quote type="basetext"><ab type="sūtra" n="44">vr̥dhērḍaḥ</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="44">vr̥dhērḍaḥ</ab></quote>
               <p>
 		<s>vr̥dhu vardhanē</s>
 		<s>asya dhātōrantyasya ḍhō bhavati</s>
@@ -5942,7 +5938,7 @@
 	      </p>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="45">
-              <quote type="basetext"><ab type="sūtra" n="45">intērmaḥ</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="45">intērmaḥ</ab></quote>
               <p>
 		<s>hantērantyasya mmō bhavati</s>
 		<list type="forms" xml:lang="pra-Latn">
@@ -5951,7 +5947,7 @@
 	      </p>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="46">
-              <quote type="basetext"><ab type="sūtra" n="46">ruṣādīnāṁ dīrghatā</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="46">ruṣādīnāṁ dīrghatā</ab></quote>
               <p>
 		<s>ruṣādīnāṁ dīrghatā bhavati</s>
 		<list type="forms" xml:lang="pra-Latn">
@@ -5967,7 +5963,7 @@
 	      </p>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="47">
-              <quote type="basetext"><ab type="sūtra" n="47">cō vajanr̥tyōḥ</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="47">cō vajanr̥tyōḥ</ab></quote>
               <p>
 		<s>vraja nr̥tī</s>
 		<s>anayōrantyasya cō bhavati</s>
@@ -5979,7 +5975,7 @@
 	      <pb n="103"/>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="48">
-              <quote type="basetext"><ab type="sūtra" n="48">yudhibudhyōjhaḥ</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="48">yudhibudhyōjhaḥ</ab></quote>
               <p>
 		<s>yudha saṁprahārē</s>
 		<s>budha avagamanē</s>
@@ -5991,7 +5987,7 @@
 	      </p>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="49">
-              <quote type="basetext"><ab type="sūtra" n="49">rudhēnrdhambhau</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="49">rudhēnrdhambhau</ab></quote>
               <p>
 		<s>rudhir</s>
 		<s>antyasya dhambhau bhavataḥ</s>
@@ -6002,7 +5998,7 @@
 	      </p>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="50">
-              <quote type="basetext"><ab type="sūtra" n="50">mr̥dō laḥ</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="50">mr̥dō laḥ</ab></quote>
               <p>
 		<s>mr̥da jhālanē</s>
 		<s>asya dhātōrantyasya lō bhavati</s>
@@ -6012,7 +6008,7 @@
 	      </p>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="51">
-              <quote type="basetext"><ab type="sūtra" n="51">śapatyōrḍaḥ</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="51">śapatyōrḍaḥ</ab></quote>
               <p>
 		<s>śātanē patu patanē</s>
 		<s>anayōrantyasya ḍō bhavati</s>
@@ -6023,7 +6019,7 @@
 	      </p>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="52">
-              <quote type="basetext"><ab type="sūtra" n="52">śakādīnāṁ dvitvam</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="52">śakādīnāṁ dvitvam</ab></quote>
               <p>
 		<s>śakla śaktau</s>
 		<s>ityēvamādīnāṁ dvitvaṁ bhavati</s>
@@ -6038,7 +6034,7 @@
 	      </p>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="53">
-              <quote type="basetext"><ab type="sūtra" n="53">sphuṭicalyōrvā</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="53">sphuṭicalyōrvā</ab></quote>
               <p>
 		<s>sphuṭa vikasanē</s>
 		<s>cala kampanē</s>
@@ -6051,7 +6047,7 @@
 	      <pb n="104"/>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="54">
-              <quote type="basetext"><ab type="sūtra" n="54">prādēmīlaḥ</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="54">prādēmīlaḥ</ab></quote>
               <p>
 		<s>dēruttaraska mīlō ’ntyasya dvitvaṁ bhavati kā</s>
 		<list type="forms" xml:lang="pra-Latn">
@@ -6062,7 +6058,7 @@
 	      </p>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="55">
-              <quote type="basetext"><ab type="sūtra" n="55">bhujādīnāṁ ktvātumuntavyēṣu lōpaḥ</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="55">bhujādīnāṁ ktvātumuntavyēṣu lōpaḥ</ab></quote>
               <p>
 		<s>bhuja ityēvamādīnāṁ ktvātumuntavyēṣu paratō ’ntyasya lōpō bhavati</s>
 		<list type="forms" xml:lang="pra-Latn">
@@ -6088,7 +6084,7 @@
 	      </p>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="56">
-              <quote type="basetext"><ab type="sūtra" n="56">śruhujiladhuvāṁ ṇō ’ntyē hrasvaḥ</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="56">śruhujiladhuvāṁ ṇō ’ntyē hrasvaḥ</ab></quote>
               <p>
 		<s>śru śravaṇē</s>
 		<s>hu dānādānē</s>
@@ -6107,7 +6103,7 @@
 	      </p>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="57">
-              <quote type="basetext"><ab type="sūtra" n="57">bhāvakarmaṇōrvaśca</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="57">bhāvakarmaṇōrvaśca</ab></quote>
               <p>
 		<s>ēṣāṁ bhāvakarmaṇōrantyē vvaśabdaḥ prayōktavyaḥ</s>
 		<s>cakārād ṇaś ca</s>
@@ -6121,7 +6117,7 @@
 	      </p>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="58">
-              <quote type="basetext"><ab type="sūtra" n="58">gamādīnāṁ dvitvaṁ vā</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="58">gamādīnāṁ dvitvaṁ vā</ab></quote>
               <p>
 		<s>gamādīnāṁ dhātūnāṁ dvitvaṁ vā bhavati bhāvakarmaṇōḥ</s>
 		<list type="forms" xml:lang="pra-Latn">
@@ -6138,7 +6134,7 @@
 	      <pb n="105"/>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="59">
-              <quote type="basetext"><ab type="sūtra" n="59">liharlijjhaḥ</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="59">liharlijjhaḥ</ab></quote>
               <p>
 		<s>liha āsvādanē</s>
 		<s>asya dhātōlijjhō bhavati bhāvakarmaṇōḥ</s>
@@ -6148,7 +6144,7 @@
 	      </p>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="60">
-              <quote type="basetext"><ab type="sūtra" n="60">hakrōhīrakīrau</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="60">hakrōhīrakīrau</ab></quote>
               <p>
 		<s>hr̥ñ haraṇē</s>
 		<s>ḍukr̥ñ karaṇē</s>
@@ -6160,7 +6156,7 @@
 	      </p>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="61">
-              <quote type="basetext"><ab type="sūtra" n="61">grahēr dīrghō vā</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="61">grahēr dīrghō vā</ab></quote>
               <p>
 		<s>grahēr dhātōr dīrghō vā bhavati bhāvakarmaṇōr arthayōḥ</s>
 		<list type="forms" xml:lang="pra-Latn">
@@ -6170,7 +6166,7 @@
 	      </p>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="62">
-              <quote type="basetext"><ab type="sūtra" n="62">ktēna diṇṇādayaḥ </ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="62">ktēna diṇṇādayaḥ </ab></quote>
               <p>
 		<s>diṇṇa ityēvamādayaḥ ktapratyayēna saha nipātyantē</s>
 		<s>ḍudāñ dānē</s>
@@ -6196,7 +6192,7 @@
 	      </p>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="63">
-              <quote type="basetext"><ab type="sūtra" n="63">khidērvisūraḥ</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="63">khidērvisūraḥ</ab></quote>
               <p>
 		<s>khida dainyē</s>
 		<s>asya visūrō bhavati</s>
@@ -6207,7 +6203,7 @@
 	      <pb n="106"/>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="64">
-              <quote type="basetext"><ab type="sūtra" n="64">krudhērjūraḥ</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="64">krudhērjūraḥ</ab></quote>
               <p>
 		<s>krudha kōpē</s>
 		<s>asya jūrō bhavati</s>
@@ -6217,7 +6213,7 @@
 	      </p>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="65">
-              <quote type="basetext"><ab type="sūtra" n="65">carcēścaṁpaḥ</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="65">carcēścaṁpaḥ</ab></quote>
               <p>
 		<s>carca adhyayanē</s>
 		<s>asya dhātōścaṁpō bhavati</s>
@@ -6227,7 +6223,7 @@
 	      </p>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="66">
-              <quote type="basetext"><ab type="sūtra" n="66">trasērvajaḥ</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="66">trasērvajaḥ</ab></quote>
               <p>
 		<s>vasī udvēgē</s>
 		<s>asya dhātōrvajō bhavati</s>
@@ -6237,7 +6233,7 @@
 	      </p>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="67">
-              <quote type="basetext"><ab type="sūtra" n="67">mr̥jēlabhasupau</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="67">mr̥jēlabhasupau</ab></quote>
               <p>
 		<s>mr̥jū śuddhau</s>
 		<s>asya dhātōr lubbha suppa ityādēśau bhavataḥ</s>
@@ -6248,7 +6244,7 @@
 	      </p>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="68">
-              <quote type="basetext"><ab type="sūtra" n="68">vuṭṭakhuppō masjēḥ</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="68">vuṭṭakhuppō masjēḥ</ab></quote>
               <p>
 		<s>ṭumasjī śuddhau</s>
 		<s>asya dhātōra vuṭṭakhuppō bhavataḥ</s>
@@ -6259,7 +6255,7 @@
 	      </p>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="69">
-              <quote type="basetext"><ab type="sūtra" n="69">dr̥śēḥ pulaaṇiakaavakkhāḥ</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="69">dr̥śēḥ pulaaṇiakaavakkhāḥ</ab></quote>
               <p>
 		<s>dr̥śir prēkṣaṇē</s>
 		<s>asya pulaaṇiakaavakkhā bhavanti</s>
@@ -6271,7 +6267,7 @@
 	      </p>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="70">
-              <quote type="basetext"><ab type="sūtra" n="70">śakēs tara-vaa-tīrāḥ</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="70">śakēs tara-vaa-tīrāḥ</ab></quote>
               <p>
 		<s>śakla śaktau</s>
 		<s>asya dhātōḥ tara vaa tīra ityēta ādaśā mavanti</s>
@@ -6284,7 +6280,7 @@
 	      <pb n="107"/>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="71">
-              <quote type="basetext"><ab type="sūtra" n="71">śēṣāṇāmaḍhantatā</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="71">śēṣāṇāmaḍhantatā</ab></quote>
               <p>
 		<s>śēṣāṇāṁ luptānubandhānāmadantatā bhavati</s>
 		<list type="forms" xml:lang="pra-Latn">
@@ -6298,7 +6294,7 @@
 	  <div type="paricchēdaḥ" n="9">
 	    <head>atha navamaḥ paricchēdaḥ</head>
             <div type="sūtra" n="1">
-              <quote type="basetext"><ab type="sūtra" n="1">nipātāḥ</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="1">nipātāḥ</ab></quote>
               <p>
 		<s>adhikārō ’yam</s>
 		<s>vakṣyamāṇā nipātasaṁjñakā vēditavyāḥ</s>
@@ -6306,9 +6302,9 @@
 	      </p>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="2">
-              <quote type="basetext"><ab type="sūtra" n="2">hum̐ dānapr̥cchānirdhāraṇēṣu</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="2">hum̐ dānapr̥cchānirdhāraṇēṣu</ab></quote>
               <p>
-		<s>huṁ ityayaṁ śabdō dānapr̥cchānirdhāraṇēṣvarthēṣu nipātasaṁjñō bhavati</s>
+		<s>huṁ ityayaṁ śabdō dāna-pr̥cchā-nirdhāraṇēṣv arthēṣu nipāta-saṁjñō bhavati</s>
 		<s>dānē yathā</s>
 		<list type="forms" xml:lang="pra-Latn">
 		  <item>huṁ gēṇha appaṇō jī</item>
@@ -6329,7 +6325,7 @@
 	      </p>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="3">
-              <quote type="basetext"><ab type="sūtra" n="3">vija vēa avadhāraṇē</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="3">vija vēa avadhāraṇē</ab></quote>
               <p>
 		<s>via vēa ityētāvavadhāraṇē nipātasaṁjñau bhavataḥ</s>
 		<list type="forms" xml:lang="pra-Latn">
@@ -6343,7 +6339,7 @@
 	      <pb n="108"/>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="4">
-              <quote type="basetext"><ab type="sūtra" n="4">ō sūcanāpaścāttāpavikalpēṣu</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="4">ō sūcanāpaścāttāpavikalpēṣu</ab></quote>
               <p>
 		<s>ō ity ayaṁ śabdaḥ sūcanāpaścātāpavikalpēṣu nipātasaṁjñō bhavati</s>
 		<list type="forms" xml:lang="pra-Latn">
@@ -6353,9 +6349,9 @@
 	      </p>
             </div><!-- sūtra !-->
             <div type="sūtra" n="5">
-              <quote type="basetext"><ab type="sūtra" n="5">irakirakilā aniścitākhyānē</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="5">irakirakilā aniścitākhyānē</ab></quote>
               <p>
-		<s>ira kira kila ityētē śabdā aniścitākhyānē nipātasaṁjñakā bhavanti</s>
+		<s>ira kira kila ity ētē śabdā aniścitākhyānē nipāta-saṁjñakā bhavanti</s>
 		<list type="forms" xml:lang="pra-Latn">
 		  <item>pēkkha ira tēṇa hadō</item>
 		  <item>ajja kira tēṇa vavasiō</item>
@@ -6369,7 +6365,7 @@
 	      </p>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="6">
-              <quote type="basetext"><ab type="sūtra" n="6">hum̐ kkhu niścaya-vitarka-saṁbhāvanēṣu</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="6">hum̐ kkhu niścaya-vitarka-saṁbhāvanēṣu</ab></quote>
               <p>
 		<s>hum̐ kkhu ityētau niścayavitarkasaṁbhāvanēṣu nipātasaṁjñakō bhavataḥ</s>
 		<list type="forms" xml:lang="pra-Latn">
@@ -6383,25 +6379,25 @@
 	      </p>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="7">
-              <quote type="basetext"><ab type="sūtra" n="7">ṇavaraḥ kēvalē</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="7">ṇavaraḥ kēvalē</ab></quote>
               <p>
-		<s>ṇavara ityayaṁ śabdaḥ kēvalē ’rthē nipātasaṁjñō bhavati</s>
+		<s>ṇavara ity ayaṁ śabdaḥ kēvalē ’rthē nipāta-saṁjñō bhavati</s>
 		<list type="forms" xml:lang="pra-Latn">
 		  <item>ṇavara aṇṇaṁ</item>
 		</list>
 	      </p>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="8">
-              <quote type="basetext"><ab type="sūtra" n="8">ānantaryē ṇavari</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="8">ānantaryē ṇavari</ab></quote>
               <p>
-		<s>ṇavarītyayaṁ śabda ānantaryē nipātasaṁjñō bhavati</s>
+		<s>ṇavarīty ayaṁ śabda ānantaryē nipāta-saṁjñō bhavati</s>
 		<list type="forms" xml:lang="pra-Latn">
 		  <item>ṇavari</item>
 		</list>
 	      </p>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="9">
-              <quote type="basetext"><ab type="sūtra" n="9">kiṇō praśśē</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="9">kiṇō praśśē</ab></quote>
               <p>
 		<s>kiṇō ityayaṁ śabdaḥ praśnē nipātasaṁjñō bhavati</s>
 		<list type="forms" xml:lang="pra-Latn">
@@ -6417,7 +6413,7 @@
 	    
 	    <pb n="109"/>
             <div type="sūtra" n="10">
-              <quote type="basetext"><ab type="sūtra" n="10">avvō duḥkhasūcanāsaṁbhāvanēṣu</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="10">avvō duḥkhasūcanāsaṁbhāvanēṣu</ab></quote>
               <p>
 		<s>avvō ityayaṁ śabdō duḥkhasūcanāsaṁbhāvanēṣu ninasaṁjñō bhavati</s>
 		<s>duḥkhē</s>
@@ -6440,7 +6436,7 @@
 	      </p>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="11">
-              <quote type="basetext"><ab type="sūtra" n="11">alāhi nivāraṇē</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="11">alāhi nivāraṇē</ab></quote>
               <p>
 		<s>alāhi ityayaṁ śabdō nivāraṇē nipātasaṁjñō bhavati</s>
 		<list type="forms" xml:lang="pra-Latn">
@@ -6454,7 +6450,7 @@
 	      </p>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="12">
-              <quote type="basetext"><ab type="sūtra" n="12">aï valē saṁbhāṣaṇē</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="12">aï valē saṁbhāṣaṇē</ab></quote>
               <p>
 		<s>aï valē ity ētau śabdau saṁbhāṣaṇē nipātasaṁjñau bhavataḥ</s>
 		<list type="forms" xml:lang="pra-Latn">
@@ -6468,7 +6464,7 @@
 	      </p>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="13">
-              <quote type="basetext"><ab type="sūtra" n="13">ṇavi vaiṣarītyē</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="13">ṇavi vaiṣarītyē</ab></quote>
               <p>
 		<s>ṇavi ity ayaṁ śabdō vaiparītyē nipātasaṁjñō bhavati</s>
 		<list type="forms" xml:lang="pra-Latn">
@@ -6480,7 +6476,7 @@
 	      </p>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="14">
-              <quote type="basetext"><ab type="sūtra" n="14">sū kutsāyāṁ</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="14">sū kutsāyāṁ</ab></quote>
               <p>
 		<s>sū ity ayaṁ śabdaḥ kutsāyāṁ nipātasaṁjñō bhavati</s>
 		<list type="forms" xml:lang="pra-Latn">
@@ -6493,9 +6489,9 @@
 	    </div><!-- sūtra !-->
 	    <pb n="110"/>
             <div type="sūtra" n="15">
-              <quote type="basetext"><ab type="sūtra" n="15">rē arē hirē saṁbhāṣaṇaratikalahākṣēpēṣu</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="15">rē arē hirē saṁbhāṣaṇaratikalahākṣēpēṣu</ab></quote>
               <p>
-		<s>rē arē hirē ityētē śabdāḥ saṁbhāṣaṇaratikalahākṣēpēṣu nipātasaṁjñā bhavanti</s>
+		<s>rē arē hirē ityētē śabdāḥ saṁbhāṣaṇa-ratikalahākṣēpēṣu nipāta-saṁjñā bhavanti</s>
 		<s>yathāsaṁkhyam</s>
 		<list type="forms" xml:lang="pra-Latn">
 		  <item>rē mā karēhi</item>
@@ -6510,9 +6506,9 @@
 	      </p>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="16">
-              <quote type="basetext"><ab type="sūtra" n="16">mmivamivaviā ivārthē</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="16">mmivamivaviā ivārthē</ab></quote>
               <p>
-		<s>mmiva miva via ityētē śabdā ivārthē nipātasaṁjñakā bhavanti</s>
+		<s>mmiva miva via ity ētē śabdā ivārthē nipāta-saṁjñakā bhavanti</s>
 		<list type="forms" xml:lang="pra-Latn">
 		  <item>gaaṇaṁ mbhiva</item>
 		  <item>gaaṇaṁ miva</item>
@@ -6524,7 +6520,7 @@
 	      </p>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="17">
-              <quote type="basetext"><ab type="sūtra" n="17">ajja āmantraṇē</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="17">ajja āmantraṇē</ab></quote>
               <p>
 		<s>ajja ity ayaṁ śabda āmantraṇē nipātyatē</s>
 		<list type="forms" xml:lang="pra-Latn">
@@ -6536,7 +6532,7 @@
               </p>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="18">
-              <quote type="basetext"><ab type="sūtra" n="18">śēṣaḥ saṁskr̥tāt</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="18">śēṣaḥ saṁskr̥tāt</ab></quote>
               <p>
 		<s>uktād anyaḥ śēṣaḥ</s>
 		<s>pratyaya-samāsa-taddhita-liṅga-varṇakādi-vidhiḥ śēṣaḥ saṁskr̥tād avagantavyaḥ</s>
@@ -6549,21 +6545,21 @@
 	    <pb n="111"/>
 	    <head>atha daśamaḥ paricchēdaḥ</head>
             <div type="sūtra" n="1">
-              <quote type="basetext"><ab type="sūtra" n="1">n paiśācī</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="1">n paiśācī</ab></quote>
               <p>
 		<s>piśācānāṁ bhāṣā paiśācī</s>
 		<s>sā ca lakṣyalakṣaṇābhyāṁ sphuṭīkriyatē</s>
 	      </p>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="2">
-              <quote type="basetext"><ab type="sūtra" n="2">prakr̥tiḥ śaurasēnī</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="2">prakr̥tiḥ śaurasēnī</ab></quote>
               <p>
 		<s>asyāḥ paiśācyāḥ prakr̥tiḥ śaurasēnī</s>
 		<s>sthitāyāṁ śaurasēṁnyāṁ paiśācīlakṣaṇaṁ pravartayitavyam</s>
 	      </p>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="3">
-              <quote type="basetext"><ab type="sūtra" n="3">vargāṇāṁ tr̥tīyacaturthayōrayujōranādhōrādyau</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="3">vargāṇāṁ tr̥tīyacaturthayōrayujōranādhōrādyau</ab></quote>
               <p>
 		<s>vargāṇāṁ tr̥tīyacaturthayōrvarṇayōrayuktayōranādau vartamānayōḥ sthānē ādyau prathamadvitīyau bhavataḥ</s>
 		<list type="forms" xml:lang="pra-Latn">
@@ -6610,7 +6606,7 @@
 	      <pb n="112"/>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="4">
-              <quote type="basetext"><ab type="sūtra" n="4">ivasya pivaḥ</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="4">ivasya pivaḥ</ab></quote>
               <p>
 		<s>ivaśabdasya sthānē piva ityayamādēśō bhavati</s>
 		<list type="forms" xml:lang="pra-Latn">
@@ -6619,7 +6615,7 @@
 	      </p>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="5">
-              <quote type="basetext"><ab type="sūtra" n="5">ṇō naḥ</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="5">ṇō naḥ</ab></quote>
               <p>
 		<s>ṇakārasya sthānē nakāra ityayamādēśō bhavati</s>
 		<list type="forms" xml:lang="pra-Latn">
@@ -6631,7 +6627,7 @@
 	      </p>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="6">
-              <quote type="basetext"><ab type="sūtra" n="6">ṣṭasya saṭaḥ</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="6">ṣṭasya saṭaḥ</ab></quote>
               <p>
 		<s>ṭa ityasya sthānē saṭa ityayamādēśō bhavati</s>
 		<list type="forms" xml:lang="pra-Latn">
@@ -6643,7 +6639,7 @@
 	      </p>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="7">
-              <quote type="basetext"><ab type="sūtra" n="7">snasya sanaḥ</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="7">snasya sanaḥ</ab></quote>
               <p>
 		<s>sna ityasya sthānē sana ityayamādēśō bhavati</s>
 		<list type="forms" xml:lang="pra-Latn">
@@ -6653,7 +6649,7 @@
 	      </p>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="8">
-              <quote type="basetext"><ab type="sūtra" n="8">yasya rijaḥ</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="8">yasya rijaḥ</ab></quote>
               <p>
 		<s>rya ityasya sthānē ria ityayamādēśō bhavati</s>
 		<list type="forms" xml:lang="pra-Latn">
@@ -6665,7 +6661,7 @@
 	      </p>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="9">
-              <quote type="basetext"><ab type="sūtra" n="9">jñasya ñjaḥ</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="9">jñasya ñjaḥ</ab></quote>
               <p>
 		<s>jña ityasya sthānē ñja ityayamādēśō bhavati</s>
 		<list type="forms" xml:lang="pra-Latn">
@@ -6679,7 +6675,7 @@
 	      </p>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="10">
-              <quote type="basetext"><ab type="sūtra" n="10">kanyāyāṁ nyasya</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="10">kanyāyāṁ nyasya</ab></quote>
               <p>
 		<s>kanyāśabdē nyasya sthānē ñja ityayamādēśō bhavati</s>
 		<list type="forms" xml:lang="pra-Latn">
@@ -6689,7 +6685,7 @@
 	      <pb n="113"/>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="11">
-              <quote type="basetext"><ab type="sūtra" n="11">ja ca</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="11">ja ca</ab></quote>
               <p>
 		<s>jaśabdasya śaurasēnīsādhitasya ca ityamādēśō bhavati</s>
 		<list type="forms" xml:lang="pra-Latn">
@@ -6701,7 +6697,7 @@
 	      </p>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="12">
-              <quote type="basetext"><ab type="sūtra" n="12">rājñō rāci ṭāṅasiṅasḍidhu vā</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="12">rājñō rāci ṭāṅasiṅasḍidhu vā</ab></quote>
               <p>
 		<s>rājanśabdasya ṭā ṅasi ḍas ki ityētēṣu paratō rāci ityayamādēśō vā bhavati</s>
 		<list type="forms" xml:lang="pra-Latn">
@@ -6718,7 +6714,7 @@
 	      </p>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="13">
-              <quote type="basetext"><ab type="sūtra" n="13">ktvastūnaṁ</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="13">ktvastūnaṁ</ab></quote>
               <p>
 		<s>ktvāpratyayasya sthānē nūnaṁ ityayamādaśō bhavati</s>
 		<list type="forms" xml:lang="pra-Latn">
@@ -6729,7 +6725,7 @@
 	      </p>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="14">
-              <quote type="basetext"><ab type="sūtra" n="14">hr̥dayasya hitaakaṁ</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="14">hr̥dayasya hitaakaṁ</ab></quote>
               <p>
 		<s>hr̥dayaśabdasya hitaakaṁ nipātyatē</s>
 		<list type="forms" xml:lang="pra-Latn">
@@ -6742,7 +6738,7 @@
 	  <div type="paricchēdaḥ" n="11">
 	    <head>atha ēkādaśaḥ paricchēdaḥ</head>
             <div type="sūtra" n="1">
-              <quote type="basetext"><ab type="sūtra" n="1">māgadhī</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="1">māgadhī</ab></quote>
               <p>
 		<s>māgadhānāṁ bhāṣā māgadhī</s>
 		<s>lakṣyalakṣaṇābhyāṁ sphuṭīkriyatē</s>
@@ -6750,13 +6746,13 @@
 	      <pb n="114"/>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="2">
-              <quote type="basetext"><ab type="sūtra" n="2">prakr̥tiḥ śaurasēnī</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="2">prakr̥tiḥ śaurasēnī</ab></quote>
               <p>
 		<s>asyā māgadhyāḥ prakr̥tiḥ śaurasēnīti vēditavyam</s>
               </p>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="3">
-              <quote type="basetext"><ab type="sūtra" n="3">ṣasōḥ śaḥ</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="3">ṣasōḥ śaḥ</ab></quote>
               <p>
 		<s>ṣakārasakārayōḥ sthānē śō bhavati</s>
 		<list type="forms" xml:lang="pra-Latn">
@@ -6770,7 +6766,7 @@
 	      </p>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="4">
-              <quote type="basetext"><ab type="sūtra" n="4">jō yaḥ</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="4">jō yaḥ</ab></quote>
               <p>
 		<s>jakārasya yakārō bhavati</s> 
 		<list type="forms" xml:lang="pra-Latn">
@@ -6782,7 +6778,7 @@
 	      </p>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="5">
-              <quote type="basetext"><ab type="sūtra" n="5">cavargasyāspr̥ṣṭatā tathōccāraṇaḥ</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="5">cavargasyāspr̥ṣṭatā tathōccāraṇaḥ</ab></quote>
               <p>
 		<s>cavargō yathāspr̥ṣṭastathōccāraṇō bhavati</s>
 		<list type="forms" xml:lang="pra-Latn">
@@ -6800,7 +6796,7 @@
 	      </p>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="6">
-              <quote type="basetext"><ab type="sūtra" n="6">hr̥dayasya haḍakkaḥ</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="6">hr̥dayasya haḍakkaḥ</ab></quote>
               <p>
 		<s>hr̥dayasya sthānē haḍakō bhavati</s>
 		<list type="forms" xml:lang="pra-Latn">
@@ -6812,7 +6808,7 @@
 	      </p>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="7">
-              <quote type="basetext"><ab type="sūtra" n="7">ryayōryaḥ</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="7">ryayōryaḥ</ab></quote>
               <p>
 		<s>ryakārarjakārayōḥ sthānē yyō bhavati</s>
 		<list type="forms" xml:lang="pra-Latn">
@@ -6827,7 +6823,7 @@
 	      <pb n="115"/>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="8">
-              <quote type="basetext"><ab type="sūtra" n="8">kṣasya skaḥ</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="8">kṣasya skaḥ</ab></quote>
               <p>
 		<s>kṣasya sthānē skakārō bhavati</s>
 		<list type="forms" xml:lang="pra-Latn">
@@ -6840,7 +6836,7 @@
 	      </p>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="9">
-              <quote type="basetext"><ab type="sūtra" n="9">asmadaḥ sau hakē hagē ahakē</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="9">asmadaḥ sau hakē hagē ahakē</ab></quote>
               <p>
 		<s>asmadaḥ sthānē sau paratō hakē hagē ahakē ityēta ādēśā bhavanti</s>
 		<list type="forms" xml:lang="pra-Latn">
@@ -6855,7 +6851,7 @@
 	      </p>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="10">
-              <quote type="basetext"><ab type="sūtra" n="10">ata idētō luk ca</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="10">ata idētō luk ca</ab></quote>
               <p>
 		<s>sāvityanuvartatē</s>
 		<s>akārāntācchabdātsau parata ikōrakārī bhavataḥ</s>
@@ -6872,7 +6868,7 @@
 	      </p>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="11">
-              <quote type="basetext"><ab type="sūtra" n="11">tāntāduśca</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="11">tāntāduśca</ab></quote>
               <p>
 		<s>ktapratyayāntācchadātsau parata ukāraśca bhavati</s>
 		<s>cakārād idētau luk ca</s>
@@ -6888,7 +6884,7 @@
 	      </p>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="12">
-              <quote type="basetext"><ab type="sūtra" n="12">usō hō vā dīrghatvaṁ ca</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="12">usō hō vā dīrghatvaṁ ca</ab></quote>
               <p>
 		<s>ṅasaḥ ṣaṣṭhayēkavacanasya sthānē hakārādēśō vā bhavati</s>
 		<s>tatsaṁyōgē ca dīrghatvam</s>
@@ -6901,7 +6897,7 @@
               <pb n="116"/>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="13">
-              <quote type="basetext"><ab type="sūtra" n="13">adīrghaḥ saṁbuddhau</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="13">adīrghaḥ saṁbuddhau</ab></quote>
               <p>
 		<s>adantādityēva</s>
 		<s>adantācchabdādakārō dīrghō bhavati saṁbuddhau</s>
@@ -6919,7 +6915,7 @@
 	      </p>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="14">
-              <quote type="basetext"><ab type="sūtra" n="14">ciṭṭhasya ciṣṭhaḥ</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="14">ciṭṭhasya ciṣṭhaḥ</ab></quote>
               <p>
 		<s>ciṭṭhasya sthānē ciṣṭha ityayamādēśō bhavati</s>
 		<list type="forms" xml:lang="pra-Latn">
@@ -6931,7 +6927,7 @@
 	      </p>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="15">
-              <quote type="basetext"><ab type="sūtra" n="15">kr̥mr̥gamāṁ ktasya ḍaḥ</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="15">kr̥mr̥gamāṁ ktasya ḍaḥ</ab></quote>
               <p>
 		<s>ḍukr̥ñ karaṇē</s>
 		<s>mr̥ṅ prāṇatyāgē</s>
@@ -6950,7 +6946,7 @@
 	      </p>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="16">
-              <quote type="basetext"><ab type="sūtra" n="16">ktvō dāṇiḥ</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="16">ktvō dāṇiḥ</ab></quote>
               <p>
 		<s>ktvāpratyayasya sthānē dāṇi ityayamādēśō bhavati</s>
 		<list type="forms" xml:lang="pra-Latn">
@@ -6964,7 +6960,7 @@
 	      </p>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="17">
-              <quote type="basetext"><ab type="sūtra" n="17">śr̥gālasya śiālāśiālēśiālakāḥ</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="17">śr̥gālasya śiālāśiālēśiālakāḥ</ab></quote>
               <p>
 		<s>śr̥gālaśabdasya sthānē śiālādaya ādēśā bhavanti</s>
 		<list type="forms" xml:lang="pra-Latn">
@@ -6983,103 +6979,103 @@
 	    <pb n="117"/>
 	    <head>atha dvādaśaḥ paricchēdaḥ</head>
 	    <div type="sūtra" n="12.1">
-              <quote type="basetext"><ab type="sūtra" n="1">śaurasēnī</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="1">śaurasēnī</ab></quote>
             </div><!-- sūtra !-->
             <div type="sūtra" n="12.2">
-              <quote type="basetext"><ab type="sūtra" n="2">prakr̥tiḥ saṁskr̥tam</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="2">prakr̥tiḥ saṁskr̥tam</ab></quote>
             </div><!-- sūtra !-->
             <div type="sūtra" n="12.3">
-              <quote type="basetext"><ab type="sūtra" n="3">anādāvayujōstathayōrdadhau</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="3">anādāvayujōstathayōrdadhau</ab></quote>
             </div><!-- sūtra !-->
             <div type="sūtra" n="12.4">
-              <quote type="basetext"><ab type="sūtra" n="4">vyāpatē ḍaḥ</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="4">vyāpatē ḍaḥ</ab></quote>
             </div><!-- sūtra !-->
             <div type="sūtra" n="12.5">
-              <quote type="basetext"><ab type="sūtra" n="5">putrē ’pi kacit</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="5">putrē ’pi kacit</ab></quote>
             </div><!-- sūtra !-->
             <div type="sūtra" n="12.6">
-              <quote type="basetext"><ab type="sūtra" n="6">i gr̥dhrasamēṣu</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="6">i gr̥dhrasamēṣu</ab></quote>
             </div><!-- sūtra !-->
             <div type="sūtra" n="12.7">
-              <quote type="basetext"><ab type="sūtra" n="7">brahmaṇyavijñayajñakanyakānāṁ ṇyajñanyānāṁ jō vā</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="7">brahmaṇyavijñayajñakanyakānāṁ ṇyajñanyānāṁ jō vā</ab></quote>
             </div><!-- sūtra !-->
             <div type="sūtra" n="12.8">
-              <quote type="basetext"><ab type="sūtra" n="8">sarvajñaṅgitajñayōrṇaḥ</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="8">sarvajñaṅgitajñayōrṇaḥ</ab></quote>
             </div><!-- sūtra !-->
             <div type="sūtra" n="12.9">
-              <quote type="basetext"><ab type="sūtra" n="9">ktva iaḥ</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="9">ktva iaḥ</ab></quote>
             </div><!-- sūtra !-->
             <div type="sūtra" n="12.10">
-              <quote type="basetext"><ab type="sūtra" n="10">kr̥gamōrduaḥ</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="10">kr̥gamōrduaḥ</ab></quote>
               <pb n="118"/>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="12.11">
-              <quote type="basetext"><ab type="sūtra" n="11">ṇijaśśasārvā klībē svaradīrghaśca</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="11">ṇijaśśasārvā klībē svaradīrghaśca</ab></quote>
             </div><!-- sūtra !-->
             <div type="sūtra" n="12.12">
-              <quote type="basetext"><ab type="sūtra" n="12">bhō bhuvāstiṅi</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="12">bhō bhuvāstiṅi</ab></quote>
             </div><!-- sūtra !-->
             <div type="sūtra" n="12.13">
-              <quote type="basetext"><ab type="sūtra" n="13">na luṭi</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="13">na luṭi</ab></quote>
             </div><!-- sūtra !-->
             <div type="sūtra" n="12.14">
-              <quote type="basetext"><ab type="sūtra" n="14">dadāta।iissa luṭi</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="14">dadāta।iissa luṭi</ab></quote>
             </div><!-- sūtra !-->
             <div type="sūtra" n="12.15">
-              <quote type="basetext"><ab type="sūtra" n="15">ḍukr̥traḥ karaḥ</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="15">ḍukr̥traḥ karaḥ</ab></quote>
             </div><!-- sūtra !-->
             <div type="sūtra" n="12.16">
-              <quote type="basetext"><ab type="sūtra" n="16">sthaściṭṭaḥ</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="16">sthaściṭṭaḥ</ab></quote>
             </div><!-- sūtra !-->
             <div type="sūtra" n="12.17">
-              <quote type="basetext"><ab type="sūtra" n="17">smaratēḥ sumaraḥ</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="17">smaratēḥ sumaraḥ</ab></quote>
             </div><!-- sūtra !-->
             <div type="sūtra" n="12.18">
-              <quote type="basetext"><ab type="sūtra" n="18">dr̥śaḥ pēkkhaḥ</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="18">dr̥śaḥ pēkkhaḥ</ab></quote>
             </div><!-- sūtra !-->
             <div type="sūtra" n="12.19">
-              <quote type="basetext"><ab type="sūtra" n="19">astēracchaḥ</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="19">astēracchaḥ</ab></quote>
             </div><!-- sūtra !-->
             <div type="sūtra" n="12.20">
-              <quote type="basetext"><ab type="sūtra" n="20">tipātthi</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="20">tipātthi</ab></quote>
               <pb n="119"/>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="12.21">
-              <quote type="basetext"><ab type="sūtra" n="21">bhaviṣyati mipā ssaṁ vā svaradīrghatvaṁ ca</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="21">bhaviṣyati mipā ssaṁ vā svaradīrghatvaṁ ca</ab></quote>
             </div><!-- sūtra !-->
             <div type="sūtra" n="12.22">
-              <quote type="basetext"><ab type="sūtra" n="22">striyāmitthī</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="22">striyāmitthī</ab></quote>
             </div><!-- sūtra !-->
             <div type="sūtra" n="12.23">
-              <quote type="basetext"><ab type="sūtra" n="23">ēvasya jēvva</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="23">ēvasya jēvva</ab></quote>
             </div><!-- sūtra !-->
             <div type="sūtra" n="12.24">
-              <quote type="basetext"><ab type="sūtra" n="24">ivasya via</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="24">ivasya via</ab></quote>
             </div><!-- sūtra !-->
             <div type="sūtra" n="12.25">
-              <quote type="basetext"><ab type="sūtra" n="25">asmadō jasā vaaṁca</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="25">asmadō jasā vaaṁca</ab></quote>
             </div><!-- sūtra !-->
             <div type="sūtra" n="12.26">
-              <quote type="basetext"><ab type="sūtra" n="26">sarvanāmnāṁ : bisa vā</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="26">sarvanāmnāṁ : bisa vā</ab></quote>
             </div><!-- sūtra !-->
             <div type="sūtra" n="12.27">
-              <quote type="basetext"><ab type="sūtra" n="27">dhātōrbhāvakartr̥karmasu parasmaipadam</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="27">dhātōrbhāvakartr̥karmasu parasmaipadam</ab></quote>
             </div><!-- sūtra !-->
             <div type="sūtra" n="12.28">
-              <quote type="basetext"><ab type="sūtra" n="28">ata ēcca </ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="28">ata ēcca </ab></quote>
             </div><!-- sūtra !-->
             <div type="sūtra" n="12.29">
-              <quote type="basetext"><ab type="sūtra" n="29">mipō lōṭi ca</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="29">mipō lōṭi ca</ab></quote>
               <pb n="120"/>
 	    </div><!-- sūtra !-->
             <div type="sūtra" n="12.30">
-              <quote type="basetext"><ab type="sūtra" n="30">āścaryasyācchariaṁ</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="30">āścaryasyācchariaṁ</ab></quote>
             </div><!-- sūtra !-->
             <div type="sūtra" n="12.31">
-              <quote type="basetext"><ab type="sūtra" n="31">prakr̥tyā dōlādaṇḍadaśanēṣu</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="31">prakr̥tyā dōlādaṇḍadaśanēṣu</ab></quote>
             </div><!-- sūtra !-->
             <div type="sūtra" n="12.32">
-              <quote type="basetext"><ab type="sūtra" n="32">śēṣaṁ māhārāṣṭrīvat</ab></quote>
+              <quote type="base-text"><ab type="sūtra" n="32">śēṣaṁ māhārāṣṭrīvat</ab></quote>
 	    </div>
             <trailer>iti vararucikr̥tē prākr̥taprakāśē śaurasēnīlakṣaṇaṁ nāma dvādaśaḥ paricchēdaḥ samāmaḥ</trailer>
 	  </div><!-- paricchēdaḥ !-->

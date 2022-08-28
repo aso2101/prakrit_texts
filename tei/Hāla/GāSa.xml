@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0" n="GāSa">
   <teiHeader xml:lang="eng">
     <fileDesc>
@@ -81,9 +81,14 @@
     </encodingDesc>
 
     <revisionDesc>
+      <change when="2022-08-22" who="Andrew Ollett">
+	<list>
+	  <item>Fixed typos in verses 710, 711, 734, 803, 816, 836, 865, 879, 918, 958 and 963 as pointed out by Paolo Milizia.</item>
+	</list>
+      </change>
       <change when="2020-08-09" who="Andrew Ollett">
 	<list>
-	  <item>Initial version.</item>
+	  <item>Initial version, based on conversion of the GRETIL text that I (AO) typed in (http://gretil.sub.uni-goettingen.de/gretil/2_prakrt/halsatsu.htm).</item>
 	</list>
       </change>
     </revisionDesc>
@@ -988,7 +993,7 @@
       </lg>
       <lg n="225">
 	<l>addhacchipecchiaṁ mā karēhi sāhāviaṁ palōēhi</l>
-	<l>sō vi sudiṭṭhō hōhii tumaṁ pi muddhā kalijjhihisi</l>
+	<l>sō vi sudiṭṭhō hōhii tumaṁ pi muddhā kalijjihisi</l>
       </lg>
       <lg n="226">
 	<l>diahaṁ khuḍukkiāē tīē kāūṇa gēhavāvāraṁ</l>
@@ -2927,11 +2932,11 @@
 	<l>sattasaaō samattō sālāhaṇaviraïō kōsō</l>
       </lg>
       <lg n="710">
-	<l>suaṇō ṇi dīsaï ccia khalabahula ḍaḍḍhajīalōammi</l>
+	<l>suaṇō ṇi dīsaï ccia khalabahulē ḍaḍḍhajīalōammi</l>
 	<l>jaha kāasaṅkulā taha ṇa haṁsaparivāriā puhavī</l>
       </lg>
       <lg n="711">
-	<l>jaṁ mucchiāi ṇa suō kalaṁvagandhēṇa taṁ guṇa paḍiaṁ</l>
+	<l>jaṁ mucchiāi ṇa suō kalaṁvagandhēṇa taṁ guṇē paḍiaṁ</l>
 	<l>iarā gajjiasaddō jīēṇa viṇā ṇa vōlantō</l>
       </lg>
       <lg n="712">
@@ -3019,7 +3024,7 @@
 	<l>kaṇṇālaṁviapallavalacchiṁ sandhēi tē jālā</l>
       </lg>
       <lg n="734">
-	<l>kaha dē dhūmandhārē abbhuttaṇaṁ aggiṇō samappihaï</l>
+	<l>kaha dē dhūmandhārē abbhuttaṇam aggiṇō samappihaï</l>
 	<l>muhakamalacuṁvaṇālēhaḍammi pāsaṭṭhiē diarē</l>
       </lg>
       <lg n="735">
@@ -3296,7 +3301,7 @@
       </lg>
       <lg n="803">
 	<l>vilāsaṇiguruṇiaṁvō tīraü calaṇēhi dōhi uvvahiuṁ</l>
-	<l>ēāī uṇa majjhō thaṇabhāraṁ kaï ṇu uvvahi</l>
+	<l>ēāī uṇa majjhō thaṇabhāraṁ kaï ṇu uvvahaï</l>
       </lg>
       <lg n="804">
 	<l>vārijjantī ṇavakōmui tti mā putti aṅgaṇē suvasu</l>
@@ -3348,7 +3353,7 @@
       </lg>
       <lg n="816">
 	<l>vivarīaraammi sirī bamhaṁ daṭṭhūṇa ṇāhikamalatthaṁ</l>
-	<l>hariṇō dāhiṇaaṇaṁ rasāulā jhatti ḍhakkēi</l>
+	<l>hariṇō dāhiṇaṇaaṇaṁ rasāulā jhatti ḍhakkēi</l>
       </lg>
       <lg n="817">
 	<l>laḍahavilaāṇa lōaṇakaḍakkhavikkhēvajaṇiasandāvā</l>
@@ -3427,7 +3432,7 @@
 	<l>parirambhaṇē suhāiṁ pāvaü mā ṇaṁ pabōhēha</l>
       </lg>
       <lg n="836">
-	<l>vijjhāvēi païvaṁ abbhuṭṭhantīe pahiajāāē</l>
+	<l>vijjhāvēi paīvaṁ abbhuṭṭhantīe pahiajāāē</l>
 	<l>piaamaviōadīharaṇīsahaṇīsāsariñchōlī</l>
       </lg>
       <lg n="837">
@@ -3544,7 +3549,7 @@
       </lg>
       <lg n="865">
 	<l>ēmēa akaapuṇṇā appattamaṇōrahā vivajjissaṁ</l>
-	<l>jaṇavāō vi ṇa jāō tēṇa samaṁ haliuttēṇa</l>
+	<l>jaṇavāō vi ṇa jāō tēṇa samaṁ haliaüttēṇa</l>
       </lg>
       <lg n="866">
 	<l>lajjāpajjattapasāhaṇāi paratattiṇippivāsāiṁ</l>
@@ -3600,7 +3605,7 @@
       </lg>
       <lg n="879">
 	<l>panthaa ṇa ettha santharam atthi maṇaṁ pattharatthalē gāmē</l>
-	<l>uṇṇaapaaharē pekkhiūṇa jaï vasasi tā vasasu</l>
+	<l>uṇṇaapaōharē pekkhiūṇa jaï vasasi tā vasasu</l>
       </lg>
       <lg n="880">
 	<l>vihalakkhaṇaṁ tumaṁ sahi daṭṭhūṇa kuḍēṇa taralataradiṭṭhiṁ</l>
@@ -3755,7 +3760,7 @@
 	<l>abhaṇantīe vi māṇaṁsiṇīe kahio ccia virōhō</l>
       </lg>
       <lg n="918">
-	<l>vaccihii sa gharaṁ sē lahihii ōāsam ēhii saāsaṁ</l>
+	<l>vaccihii sō gharaṁ sē lahihii ōāsam ēhii saāsaṁ</l>
 	<l>bhaṇihii jaṁ bhaṇiavvaṁ paccuttaṁ kiṁṇu pāvihii</l>
       </lg>
       <lg n="919">
@@ -3860,7 +3865,7 @@
       </lg>
       <lg n="944">
 	<l>vacca maha ccia ekkāe hontu ṇīsāsarōiavvāi</l>
-	<l>mā tujjha vi tīe viṇā dakkhiṇṇahaassa jāṇīantu</l>
+	<l>mā tujjha vi tīe viṇā dakkhiṇṇahaassa ṇajjantu</l>
       </lg>
       <lg n="945">
 	<l>aṇuvattantō amhārisaṁ jaṇaṁ āhijāīē</l>
@@ -3915,7 +3920,7 @@
 	<l>gharavaïdhūā dullaṁ ghavāurā ṭhāi haagāmē</l>
       </lg>
       <lg n="958">
-	<l>āsāiaṁ aṇṇāēṇa jettiaṁ tā tui ṇa bahuā dhiī</l>
+	<l>āsāiam aṇṇāēṇa jettiaṁ tā tui ṇa bahuā dhiī</l>
 	<l>uvaramasu vusaha ēṇhiṁ rakkhijjaï gēhavaïkhettaṁ</l>
       </lg>
       <lg n="959">
@@ -3935,7 +3940,7 @@
 	<l>ēmēa kiṁ pi ciṭṭhasi tā sahi sajjēsu karaṇijjaṁ</l>
       </lg>
       <lg n="963">
-	<l>khaṇapāhuṇiā dēarajāyā ē suhaya kiṁ tē dē haṇidā</l>
+	<l>khaṇapāhuṇiā dēarajāyā ē suhaya kiṁ ti dē haṇidā</l>
 	<l>ruaï gharōpantaphaliṇigharammi aṇuṇijjaü varāī</l>
       </lg>
       <lg n="964">
