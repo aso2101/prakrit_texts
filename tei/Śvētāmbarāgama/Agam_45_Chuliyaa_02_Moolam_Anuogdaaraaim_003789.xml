@@ -4,7 +4,7 @@
     <fileDesc>
       <titleStmt>
         <title type="main" xml:lang="san-Latn">Anuyōgadvārasūtram</title>
-	<title xml:lang="pra-Latn">Aṇuōgaddārasuttaṁ</title>
+	<title xml:lang="pka-Latn">Aṇuōgaddārasuttaṁ</title>
         <author xml:lang="san-Latn">Āryarakṣitaḥ</author>
 	<principal>
 	  <persName ref="http://viaf.org/viaf/372149294434280521495">
@@ -31,7 +31,7 @@
     <profileDesc>
       <langUsage>
 	<language ident="eng">English</language>
-	<language ident="pra-Latn">Prakrit in Roman transliteration (ISO-15919)</language>
+	<language ident="pka-Latn">Ardhamāgadhī in Roman transliteration (ISO-15919)</language>
 	<language ident="san-Latn">Sanskrit in Roman transliteration (ISO-15919)</language>
       </langUsage>
       <textClass>
@@ -65,7 +65,7 @@
     </revisionDesc>
   </teiHeader>
 
-  <text xml:lang="pra-Latn">
+  <text xml:lang="pka-Latn">
     <body>
       <div type="section" n="1">
 	<p>

@@ -3,7 +3,7 @@
   <teiHeader xml:lang="eng">
     <fileDesc>
       <titleStmt>
-	<title xml:lang="pra-Latn">Baḍḍakappō</title>
+	<title xml:lang="pka-Latn">Baḍḍakappō</title>
 	<title xml:lang="san-Latn">Br̥hatkalpaḥ</title>
       	<principal><persName ref="http://viaf.org/viaf/372149294434280521495">Andrew Ollett</persName></principal>
       	<respStmt>
@@ -54,7 +54,7 @@
       <change when="2020-06-07" who="AO">Conversion of text to TEI</change>
     </revisionDesc>
   </teiHeader>
-  <text>
+  <text xml:lang="pka-Latn">
     <body>
       <div type="uddēsō" n="1">
 	<div type="section" n="1">
